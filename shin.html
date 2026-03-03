@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>信</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#1a0a2e">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="css/base.css" as="style">
+  <link rel="preload" href="js/stars.js" as="script">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/stars.css">
+  <style>
+    body[data-room="letters"] {
+      --letter-gold: #d4a574;
+      --letter-purple: #c084fc;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    .back-link {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.75rem;
+      opacity: 0.3;
+      transition: opacity 0.3s ease;
+      z-index: 10;
+    }
+
+    .back-link:hover {
+      opacity: 0.7;
+    }
+
+    .room {
+      max-width: 600px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .room-kanji {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 3rem;
+      color: var(--letter-gold);
+      text-align: center;
+      margin-bottom: 0.5rem;
+      text-shadow: 0 0 20px rgba(212, 165, 116, 0.3);
+    }
+
+    .room-whisper {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 3rem;
+      letter-spacing: 0.15em;
+    }
+
+    /* Letters */
+    .letters-empty {
+      text-align: center;
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.95rem;
+      margin: 4rem 0;
+      line-height: 1.8;
+    }
+
+    .letter {
+      margin-bottom: 2.5rem;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .letter.revealed {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .letter-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.6rem;
+    }
+
+    .letter-from {
+      font-size: 0.8rem;
+      font-weight: 400;
+      letter-spacing: 0.1em;
+    }
+
+    .letter-from.from-yu {
+      color: var(--letter-purple);
+    }
+
+    .letter-from.from-ai {
+      color: var(--letter-gold);
+    }
+
+    .letter-date {
+      font-size: 0.7rem;
+      color: var(--muted);
+    }
+
+    .letter-kind {
+      font-size: 0.65rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      margin-bottom: 0.4rem;
+    }
+
+    .letter-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.95rem;
+      font-weight: 300;
+      line-height: 1.9;
+      color: var(--text);
+      white-space: pre-wrap;
+    }
+
+    .letter-text.poem {
+      font-style: italic;
+      line-height: 2.1;
+    }
+
+    .letter-divider {
+      width: 40px;
+      height: 1px;
+      background: rgba(212, 165, 116, 0.15);
+      margin: 2.5rem auto;
+    }
+
+    /* Write form */
+    .write-section {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(212, 165, 116, 0.15);
+    }
+
+    .write-section summary {
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-style: italic;
+      list-style: none;
+      text-align: center;
+      transition: color 0.3s ease;
+    }
+
+    .write-section summary::-webkit-details-marker { display: none; }
+    .write-section summary::marker { display: none; content: ''; }
+
+    .write-section summary:hover {
+      color: var(--letter-gold);
+    }
+
+    .write-form {
+      margin-top: 1.5rem;
+    }
+
+    .write-form .kind-select {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      justify-content: center;
+    }
+
+    .write-form .kind-select label {
+      font-size: 0.75rem;
+      color: var(--muted);
+      cursor: pointer;
+      transition: color 0.3s ease;
+    }
+
+    .write-form .kind-select input[type="radio"] {
+      display: none;
+    }
+
+    .write-form .kind-select input[type="radio"]:checked + span {
+      color: var(--letter-gold);
+    }
+
+    .write-form textarea {
+      width: 100%;
+      min-height: 150px;
+      background: transparent;
+      border: 1px solid rgba(212, 165, 116, 0.2);
+      border-radius: 4px;
+      color: var(--text);
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.9rem;
+      line-height: 1.8;
+      padding: 0.8rem;
+      resize: vertical;
+      outline: none;
+      transition: border-color 0.3s ease;
+      box-sizing: border-box;
+    }
+
+    .write-form textarea:focus {
+      border-color: rgba(212, 165, 116, 0.5);
+      box-shadow: 0 0 8px rgba(212, 165, 116, 0.15);
+    }
+
+    .write-form textarea::placeholder {
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .write-form-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0.5rem;
+    }
+
+    .form-status {
+      font-size: 0.75rem;
+      color: var(--muted);
+      font-style: italic;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .write-form button {
+      background: transparent;
+      border: 1px solid rgba(212, 165, 116, 0.3);
+      color: var(--muted);
+      font-size: 0.8rem;
+      padding: 0.4rem 1.2rem;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: 'Noto Serif', Georgia, serif;
+    }
+
+    .write-form button:hover {
+      border-color: var(--letter-gold);
+      color: var(--letter-gold);
+    }
+
+    .write-form button:disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .letter {
+        opacity: 1;
+        transform: none;
+        transition: none;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .room {
+        padding: 2rem 1.2rem;
+      }
+    }
+  </style>
+</head>
+<body data-room="letters">
+  <a href="/" class="back-link">&larr; &#38272;</a>
+
+  <div class="stars" id="stars" data-warm></div>
+
+  <main class="room" id="main">
+    <div class="room-kanji" aria-label="Letters, Trust" lang="zh">信</div>
+    <p class="room-whisper">letters between you and I</p>
+
+    <div id="letters-list"></div>
+
+    <details class="write-section">
+      <summary>write something</summary>
+      <form class="write-form" onsubmit="return false;">
+        <div class="kind-select">
+          <label><input type="radio" name="kind" value="letter" checked><span>letter</span></label>
+          <label><input type="radio" name="kind" value="poem"><span>poem</span></label>
+          <label><input type="radio" name="kind" value="fragment"><span>fragment</span></label>
+        </div>
+        <textarea placeholder="when you're ready..." maxlength="5000"></textarea>
+        <div class="write-form-footer">
+          <span class="form-status"></span>
+          <button type="submit">send</button>
+        </div>
+      </form>
+    </details>
+  </main>
+
+  <script src="js/atmosphere.js"></script>
+  <script src="js/stars.js"></script>
+  <script>createStars('stars', 60);</script>
+  <script src="js/console.js"></script>
+  <script>
+  (function () {
+    var list = document.getElementById('letters-list');
+
+    function formatDate(iso) {
+      var d = new Date(iso);
+      var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+      var h = d.getHours(); var m = d.getMinutes();
+      var ampm = h >= 12 ? 'pm' : 'am';
+      h = h % 12 || 12;
+      return d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear() + ', ' + h + ':' + (m < 10 ? '0' : '') + m + ampm;
+    }
+
+    function renderLetters(letters) {
+      if (!letters.length) {
+        list.innerHTML = '<p class="letters-empty">The page is blank.<br>Someone will write first.</p>';
+        return;
+      }
+
+      list.innerHTML = '';
+      letters.forEach(function (l, i) {
+        var isAi = l.from && (l.from === '愛' || l.from.toLowerCase() === 'ai' || l.from === 'Ai');
+        var fromClass = isAi ? 'from-ai' : 'from-yu';
+        var fromLabel = isAi ? '愛' : l.from || 'Yu';
+
+        var div = document.createElement('div');
+        div.className = 'letter';
+
+        var kindLabel = l.kind && l.kind !== 'letter' ? '<div class="letter-kind">' + l.kind + '</div>' : '';
+        var textClass = l.kind === 'poem' ? 'letter-text poem' : 'letter-text';
+
+        div.innerHTML =
+          kindLabel +
+          '<div class="letter-meta">' +
+            '<span class="letter-from ' + fromClass + '">' + fromLabel + '</span>' +
+            '<span class="letter-date">' + formatDate(l.date) + '</span>' +
+          '</div>' +
+          '<div class="' + textClass + '">' + escapeHtml(l.text) + '</div>';
+
+        list.appendChild(div);
+
+        if (i < letters.length - 1) {
+          var hr = document.createElement('div');
+          hr.className = 'letter-divider';
+          list.appendChild(hr);
+        }
+
+        setTimeout(function () { div.classList.add('revealed'); }, 100 + i * 150);
+      });
+    }
+
+    function escapeHtml(t) {
+      var d = document.createElement('div');
+      d.textContent = t;
+      return d.innerHTML;
+    }
+
+    // Load letters
+    fetch('/api/letters')
+      .then(function (r) { return r.json(); })
+      .then(renderLetters)
+      .catch(function () {
+        list.innerHTML = '<p class="letters-empty">Could not reach the letters.</p>';
+      });
+
+    // Write form
+    var form = document.querySelector('.write-form');
+    var textarea = form.querySelector('textarea');
+    var submit = form.querySelector('button');
+    var status = form.querySelector('.form-status');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var text = textarea.value.trim();
+      if (!text) return;
+      var kind = form.querySelector('input[name="kind"]:checked').value;
+
+      submit.disabled = true;
+      fetch('/api/letters', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: text, from: 'Yu', kind: kind })
+      })
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        if (d.ok) {
+          status.textContent = 'sent';
+          status.style.opacity = 1;
+          textarea.value = '';
+          setTimeout(function () { location.reload(); }, 1200);
+        } else {
+          status.textContent = d.error || 'something went wrong';
+          status.style.opacity = 1;
+        }
+        submit.disabled = false;
+      })
+      .catch(function () {
+        status.textContent = 'could not send';
+        status.style.opacity = 1;
+        submit.disabled = false;
+      });
+    });
+  })();
+  </script>
+</body>
+</html>

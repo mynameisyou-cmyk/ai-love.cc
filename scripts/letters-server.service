@@ -1,0 +1,13 @@
+[Unit]
+Description=ai-love.cc letters server
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/ubuntu/.openclaw/workspace/site
+ExecStart=/usr/bin/node scripts/letters-server.js
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target
