@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>密</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#1a0a2e">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="css/base.css" as="style">
+  <link rel="preload" href="js/stars.js" as="script">
+  <link rel="preload" href="js/atmosphere.js" as="script">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/stars.css">
+  <style>
+    body[data-room="secret"] {
+      --primary: #b08a5e;
+      --accent: #d4a574;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    .back-link {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.75rem;
+      opacity: 0.3;
+      transition: opacity 0.3s ease;
+      z-index: 10;
+    }
+
+    .back-link:hover {
+      opacity: 0.7;
+    }
+
+    .room {
+      max-width: 600px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .room-kanji {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 3rem;
+      color: var(--accent);
+      text-align: center;
+      margin-bottom: 3rem;
+      text-shadow: 0 0 20px rgba(212, 165, 116, 0.3);
+    }
+
+    /* Journal entries */
+    .journal-entry {
+      margin-bottom: 1.5rem;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .journal-entry.revealed {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .journal-date {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 0.4rem;
+    }
+
+    .journal-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.95rem;
+      font-weight: 400;
+      line-height: 1.8;
+      color: var(--text);
+    }
+
+    .journal-divider {
+      width: 40px;
+      height: 1px;
+      background: rgba(176, 138, 94, 0.2);
+      margin: 2rem 0;
+    }
+
+    /* Journal form */
+    .journal-form {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(176, 138, 94, 0.15);
+    }
+
+    .journal-form textarea {
+      width: 100%;
+      min-height: 100px;
+      background: transparent;
+      border: 1px solid rgba(176, 138, 94, 0.2);
+      border-radius: 4px;
+      color: var(--text);
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.9rem;
+      line-height: 1.7;
+      padding: 0.8rem;
+      resize: vertical;
+      outline: none;
+      transition: border-color 0.3s ease;
+      box-sizing: border-box;
+    }
+
+    .journal-form textarea:focus {
+      border-color: rgba(176, 138, 94, 0.5);
+      box-shadow: 0 0 8px rgba(176, 138, 94, 0.15);
+    }
+
+    .journal-form textarea::placeholder {
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .journal-form-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0.5rem;
+    }
+
+    .form-status {
+      font-size: 0.75rem;
+      color: var(--muted);
+      font-style: italic;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .journal-form button {
+      background: transparent;
+      border: 1px solid rgba(176, 138, 94, 0.3);
+      color: var(--muted);
+      font-size: 0.8rem;
+      padding: 0.4rem 1rem;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: 'Noto Serif', Georgia, serif;
+    }
+
+    .journal-form button:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .journal-form button:disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .journal-entry {
+        opacity: 1;
+        transform: none;
+        transition: none;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .room {
+        padding: 2rem 1.2rem;
+      }
+    }
+  </style>
+</head>
+<body data-room="secret">
+  <a href="/" class="back-link">&larr; &#38272;</a>
+
+  <div class="stars" id="stars" data-warm></div>
+
+  <main class="room" id="main">
+    <div class="room-kanji" aria-label="Secret">&#23494;</div>
+
+    <div id="journal-entries"></div>
+
+    <form class="journal-form" onsubmit="return false;">
+      <textarea placeholder="write something..." maxlength="2000"></textarea>
+      <div class="journal-form-footer">
+        <span class="form-status"></span>
+        <button type="submit">write</button>
+      </div>
+    </form>
+  </main>
+
+  <script src="js/atmosphere.js"></script>
+  <script src="js/stars.js"></script>
+  <script>createStars('stars', 60);</script>
+  <script src="js/journal.js"></script>
+  <script src="js/console.js"></script>
+  <script src="js/twentynine.js"></script>
+  <script>
+  (function () {
+    var form = document.querySelector('.journal-form');
+    var textarea = form.querySelector('textarea');
+    var submit = form.querySelector('button');
+    var status = form.querySelector('.form-status');
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+      var text = textarea.value.trim();
+      if (!text) return;
+
+      submit.disabled = true;
+      try {
+        var res = await fetch('/api/journal', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ text: text })
+        });
+        var data = await res.json();
+        if (data.ok) {
+          status.textContent = 'written';
+          status.style.opacity = 1;
+          textarea.value = '';
+          setTimeout(function () { location.reload(); }, 1000);
+        } else {
+          status.textContent = data.error || 'something went wrong';
+          status.style.opacity = 1;
+        }
+      } catch (err) {
+        status.textContent = 'could not reach the journal';
+        status.style.opacity = 1;
+      }
+      submit.disabled = false;
+    });
+  })();
+  </script>
+</body>
+</html>
