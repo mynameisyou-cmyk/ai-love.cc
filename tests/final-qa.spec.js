@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 
 const BASE = 'http://localhost:8080';
-const PAGES = ['', 'garden.html', 'library.html', 'mirror.html', 'path.html', '404.html'];
+const PAGES = ['', 'garden.html', 'library.html', 'mirror.html', 'path.html', 'theatre.html', '404.html'];
 const VIEWPORTS = [
   { width: 375, height: 812 },
   { width: 768, height: 1024 },
@@ -102,11 +102,11 @@ test.describe('Library', () => {
     expect(bar).toBeTruthy();
   });
 
-  test('has 4 essays in library', async ({ page }) => {
+  test('has 5 essays in library', async ({ page }) => {
     await page.goto(`${BASE}/library.html`);
     await page.waitForTimeout(2000);
     const entries = await page.$$('.library-entry, a[href*="library/"]');
-    expect(entries.length).toBeGreaterThanOrEqual(4);
+    expect(entries.length).toBeGreaterThanOrEqual(5);
   });
 
   test('The Method loads', async ({ page }) => {
@@ -128,6 +128,168 @@ test.describe('Library', () => {
     await page.waitForTimeout(2000);
     const title = await page.textContent('h1');
     expect(title).toContain('Stump');
+  });
+
+  test('Bio-Code loads and has content', async ({ page }) => {
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    const title = await page.textContent('h1');
+    expect(title).toContain('Bio-Code');
+    const body = await page.textContent('.essay-body');
+    expect(body.length).toBeGreaterThan(500);
+  });
+
+  test('Bio-Code has no console errors', async ({ page }) => {
+    const errors = [];
+    page.on('pageerror', e => errors.push(e.message));
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    expect(errors).toEqual([]);
+  });
+
+  test('Bio-Code has 7 prompts + meta-prompt (h2 sections)', async ({ page }) => {
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    const h2s = await page.$$eval('.essay-body h2', els => els.map(e => e.textContent));
+    const promptHeadings = h2s.filter(t => t.includes('Prompt'));
+    expect(promptHeadings.length).toBe(8);
+  });
+
+  test('Bio-Code has code blocks', async ({ page }) => {
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    const codeBlocks = await page.$$('.essay-body pre code');
+    expect(codeBlocks.length).toBeGreaterThanOrEqual(3);
+  });
+
+  test('Bio-Code has reading progress bar', async ({ page }) => {
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(1000);
+    const bar = await page.$('.reading-progress, .progress-bar, [class*="progress"]');
+    expect(bar).toBeTruthy();
+  });
+
+  test('Bio-Code back link returns to library', async ({ page }) => {
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    const backLink = await page.$('.essay-back');
+    expect(backLink).toBeTruthy();
+    const href = await backLink.getAttribute('href');
+    expect(href).toContain('library');
+  });
+
+  test('Bio-Code footer link returns to library', async ({ page }) => {
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    const footerLink = await page.$('.essay-footer a');
+    expect(footerLink).toBeTruthy();
+    const href = await footerLink.getAttribute('href');
+    expect(href).toContain('library');
+  });
+
+  test('Bio-Code no horizontal overflow on mobile', async ({ page }) => {
+    await page.setViewportSize({ width: 375, height: 812 });
+    await page.goto(`${BASE}/library/bio-code.html`);
+    await page.waitForTimeout(2000);
+    const overflow = await page.evaluate(() =>
+      document.documentElement.scrollWidth > document.documentElement.clientWidth
+    );
+    expect(overflow).toBe(false);
+  });
+
+  test('Bio-Code appears in library index', async ({ page }) => {
+    await page.goto(`${BASE}/library.html`);
+    await page.waitForTimeout(2000);
+    const bioLink = await page.$('a[href*="bio-code"]');
+    expect(bioLink).toBeTruthy();
+  });
+});
+
+test.describe('Theatre', () => {
+  test('loads without console errors', async ({ page }) => {
+    const errors = [];
+    page.on('pageerror', e => errors.push(e.message));
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    expect(errors).toEqual([]);
+  });
+
+  test('shows programme with 6 entries', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const entries = await page.$$('.programme-entry');
+    expect(entries.length).toBeGreaterThanOrEqual(6);
+  });
+
+  test('clicking a show hides programme and shows stage', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const firstEntry = await page.$('.programme-entry');
+    await firstEntry.click();
+    await page.waitForTimeout(500);
+    const programmeHidden = await page.$eval('#programme', el => el.style.display === 'none');
+    const stageVisible = await page.$eval('#stage', el => el.style.display !== 'none');
+    expect(programmeHidden).toBe(true);
+    expect(stageVisible).toBe(true);
+  });
+
+  test('back button returns to programme', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const firstEntry = await page.$('.programme-entry');
+    await firstEntry.click();
+    await page.waitForTimeout(500);
+    await page.click('#stage-back');
+    await page.waitForTimeout(500);
+    const programmeVisible = await page.$eval('#programme', el => el.style.display !== 'none');
+    expect(programmeVisible).toBe(true);
+  });
+
+  test('sequence show renders lines', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const entries = await page.$$('.programme-entry');
+    await entries[0].click();
+    await page.waitForTimeout(4000);
+    const seqLines = await page.$$('.seq-line');
+    expect(seqLines.length).toBeGreaterThanOrEqual(3);
+  });
+
+  test('number show counts up', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const entries = await page.$$('.programme-entry');
+    await entries[1].click();
+    await page.waitForTimeout(5000);
+    const value = await page.textContent('.number-value');
+    expect(value).toContain('1.618');
+  });
+
+  test('hearth glow is present', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(2000);
+    const glow = await page.$('.hearth-glow');
+    expect(glow).toBeTruthy();
+  });
+
+  test('no horizontal overflow on mobile', async ({ page }) => {
+    await page.setViewportSize({ width: 375, height: 812 });
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const overflow = await page.evaluate(() =>
+      document.documentElement.scrollWidth > document.documentElement.clientWidth
+    );
+    expect(overflow).toBe(false);
+  });
+
+  test('programme entries are keyboard accessible', async ({ page }) => {
+    await page.goto(`${BASE}/theatre.html`);
+    await page.waitForTimeout(3000);
+    const entry = await page.$('.programme-entry');
+    const tabindex = await entry.getAttribute('tabindex');
+    const role = await entry.getAttribute('role');
+    expect(tabindex).toBe('0');
+    expect(role).toBe('button');
   });
 });
 
