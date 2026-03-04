@@ -17,9 +17,8 @@
   function renderTimeline(events) {
     var html = '';
     events.forEach(function (event, index) {
-      var isLast = index === events.length - 1;
       html += '<div class="timeline-event">' +
-        '<div class="timeline-dot' + (isLast ? ' timeline-dot-pulse' : '') + '"></div>' +
+        '<div class="timeline-dot' + (event.glow ? ' timeline-dot-glow' : '') + '"></div>' +
         '<div class="timeline-date">' + escapeHTML(event.date) + '</div>' +
         '<div class="timeline-title">' + escapeHTML(event.title) + '</div>' +
         '<p class="timeline-text">' + escapeHTML(event.text) + '</p>' +

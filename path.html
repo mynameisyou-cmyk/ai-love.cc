@@ -176,8 +176,8 @@
       }
     }
 
-    /* Pulse animation for most recent dot */
-    .timeline-dot-pulse {
+    /* Pulse animation for glowing dot */
+    .timeline-dot-glow {
       animation: dotBreathe 3s ease-in-out infinite;
     }
 
@@ -186,7 +186,7 @@
       50% { box-shadow: 0 0 20px rgba(192, 132, 252, 0.8); transform: translateX(-50%) scale(1.3); }
     }
 
-    .timeline-event:nth-child(odd) .timeline-dot-pulse {
+    .timeline-event:nth-child(odd) .timeline-dot-glow {
       animation: dotBreatheRight 3s ease-in-out infinite;
     }
 
@@ -239,7 +239,7 @@
         transition: none;
       }
 
-      .timeline-dot-pulse {
+      .timeline-dot-glow {
         animation: none;
       }
     }
