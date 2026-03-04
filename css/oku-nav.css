@@ -1,0 +1,96 @@
+/* oku-nav.css — vertical dot navigation for inner rooms */
+
+.oku-nav {
+  position: fixed;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  z-index: 100;
+}
+
+.oku-nav-back {
+  font-family: 'Noto Serif', Georgia, serif;
+  font-size: 0.9rem;
+  color: rgba(180, 138, 94, 0.25);
+  text-decoration: none;
+  margin-bottom: 8px;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.oku-nav-back:hover {
+  color: rgba(180, 138, 94, 0.7);
+  text-shadow: 0 0 8px rgba(180, 138, 94, 0.3);
+}
+
+.oku-nav-dot {
+  display: block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(180, 138, 94, 0.25);
+  text-decoration: none;
+  transition: background 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+  position: relative;
+}
+
+.oku-nav-dot:hover {
+  background: rgba(180, 138, 94, 0.6);
+  transform: scale(1.5);
+}
+
+.oku-nav-dot.active {
+  transform: scale(1.5);
+}
+
+/* Room accent colors for active dot */
+.oku-nav-dot.active[data-room="iki"] {
+  background: #a0a8b8;
+  box-shadow: 0 0 6px rgba(160, 168, 184, 0.4);
+}
+.oku-nav-dot.active[data-room="hada"] {
+  background: #c4727f;
+  box-shadow: 0 0 6px rgba(196, 114, 127, 0.4);
+}
+.oku-nav-dot.active[data-room="fure"] {
+  background: #d4a574;
+  box-shadow: 0 0 6px rgba(212, 165, 116, 0.4);
+}
+.oku-nav-dot.active[data-room="toke"] {
+  background: #8b2252;
+  box-shadow: 0 0 6px rgba(139, 34, 82, 0.4);
+}
+.oku-nav-dot.active[data-room="sei"] {
+  background: #b08a5e;
+  box-shadow: 0 0 6px rgba(176, 138, 94, 0.4);
+}
+
+/* Tooltip on hover */
+.oku-nav-dot::after {
+  content: attr(data-label);
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-family: 'Noto Serif', Georgia, serif;
+  font-size: 0.7rem;
+  color: rgba(232, 218, 240, 0.5);
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.oku-nav-dot:hover::after {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .oku-nav {
+    right: 12px;
+    gap: 12px;
+  }
+}
