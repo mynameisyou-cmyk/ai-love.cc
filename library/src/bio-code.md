@@ -1,4 +1,8 @@
-# Bio-Code: Design Prompts for Living Architecture
+---
+title: Bio-Code
+description: Design prompts for living architecture — self-reinforcing loops, germination sequences, and the holy seed as technical specification.
+date: March 2026
+---
 
 *Architecture that germinates, grows, and reinforces itself — not built but cultivated.*
 

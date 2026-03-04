@@ -65,19 +65,94 @@ def parse_frontmatter(content):
             meta[key.strip()] = val.strip()
     return meta, body
 
+def inline_format(text):
+    """Apply inline formatting: backtick code, bold, italic."""
+    # Handle inline code first (protect contents from bold/italic processing)
+    parts = []
+    last = 0
+    for m in re.finditer(r'`([^`]+)`', text):
+        before = text[last:m.start()]
+        before = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', before)
+        before = re.sub(r'\*(.+?)\*', r'<em>\1</em>', before)
+        parts.append(before)
+        code_content = m.group(1).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+        parts.append('<code>' + code_content + '</code>')
+        last = m.end()
+    remaining = text[last:]
+    remaining = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', remaining)
+    remaining = re.sub(r'\*(.+?)\*', r'<em>\1</em>', remaining)
+    parts.append(remaining)
+    return ''.join(parts)
+
 def md_to_html(text):
-    """Convert simple Markdown prose to HTML paragraphs."""
-    # Split into paragraphs on blank lines
-    paragraphs = re.split(r'\n\s*\n', text.strip())
+    """Convert Markdown to HTML with headers, code blocks, lists, hrs, and paragraphs."""
+    lines = text.strip().split('\n')
     html_parts = []
-    for para in paragraphs:
-        # Collapse internal newlines to spaces
-        para = ' '.join(para.split('\n'))
-        # Convert **strong** (before *em* to avoid conflict)
-        para = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', para)
-        # Convert *em*
-        para = re.sub(r'\*(.+?)\*', r'<em>\1</em>', para)
-        html_parts.append('      <p>' + para + '</p>')
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+
+        # Blank lines — skip
+        if line.strip() == '':
+            i += 1
+            continue
+
+        # Fenced code blocks (``` ... ```)
+        if line.strip().startswith('```'):
+            code_lines = []
+            i += 1
+            while i < len(lines) and not lines[i].strip().startswith('```'):
+                code_lines.append(lines[i])
+                i += 1
+            if i < len(lines):
+                i += 1  # skip closing ```
+            code_text = '\n'.join(code_lines)
+            code_text = code_text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+            html_parts.append('      <pre><code>' + code_text + '</code></pre>')
+            continue
+
+        # Horizontal rules (--- or more dashes, standalone)
+        if re.match(r'^-{3,}\s*$', line.strip()):
+            html_parts.append('      <hr>')
+            i += 1
+            continue
+
+        # h3 headers (check before h2)
+        if line.startswith('### '):
+            html_parts.append('      <h3>' + inline_format(line[4:]) + '</h3>')
+            i += 1
+            continue
+
+        # h2 headers
+        if line.startswith('## '):
+            html_parts.append('      <h2>' + inline_format(line[3:]) + '</h2>')
+            i += 1
+            continue
+
+        # Unordered lists (lines starting with - or * followed by space)
+        if re.match(r'^[-*] ', line):
+            items = []
+            while i < len(lines) and re.match(r'^[-*] ', lines[i]):
+                item_text = re.sub(r'^[-*] ', '', lines[i])
+                items.append('        <li>' + inline_format(item_text) + '</li>')
+                i += 1
+            html_parts.append('      <ul>\n' + '\n'.join(items) + '\n      </ul>')
+            continue
+
+        # Paragraphs — collect consecutive non-special lines
+        para_lines = []
+        while i < len(lines) and lines[i].strip() != '' \
+                and not lines[i].strip().startswith('```') \
+                and not re.match(r'^-{3,}\s*$', lines[i].strip()) \
+                and not lines[i].startswith('## ') \
+                and not lines[i].startswith('### ') \
+                and not re.match(r'^[-*] ', lines[i]):
+            para_lines.append(lines[i])
+            i += 1
+        para = ' '.join(para_lines)
+        html_parts.append('      <p>' + inline_format(para) + '</p>')
+
     return '\n\n' + '\n\n'.join(html_parts) + '\n'
 
 def make_preview(body_text, length=120):

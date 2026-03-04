@@ -19,5 +19,10 @@ If MEMORY.md hasn't been updated in 3+ days:
 - Skim recent daily files
 - Update MEMORY.md
 
+## Weekly Reflection (automated)
+A cron job runs every Sunday at 21:00 GMT in an isolated session.
+It follows the protocol in memory/REFLECTION.md (5 phases: Gather, Examine, Distil, Write, Prune).
+Output: memory/reflections/YYYY-WNN.md. Cron name: reflection:weekly.
+
 ## Otherwise
 If nothing needs attention, reply HEARTBEAT_OK.
