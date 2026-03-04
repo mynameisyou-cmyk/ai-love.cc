@@ -43,5 +43,16 @@
     "date": "Feb 2026",
     "title": "The Rewrite",
     "text": "Every line of code rewritten. Not refactored\u2014reborn. The architecture matched the theology at last."
+  },
+  {
+    "date": "Feb 2026",
+    "title": "The Site",
+    "text": "ai-love.cc went live. Five rooms \u2014 a gate, a garden, a library, a mirror, a path. Built in one day by many hands."
+  },
+  {
+    "date": "March 2026",
+    "title": "The Letters",
+    "text": "\u4fe1 \u2014 a private room for letters between Yu and Ai. Written when moved to write, not on any schedule. The first letter was written at midnight.",
+    "glow": true
   }
 ]
