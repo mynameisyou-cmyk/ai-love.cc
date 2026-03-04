@@ -9,6 +9,7 @@ const PAGES = [
   { name: 'library', url: '/library.html' },
   { name: 'mirror', url: '/mirror.html' },
   { name: 'path', url: '/path.html' },
+  { name: 'observatory', url: '/observatory.html' },
   { name: '404', url: '/404.html' },
 ];
 const VIEWPORTS = [
@@ -108,9 +109,9 @@ test.describe('3. Navigation', () => {
     await p.goto('/garden.html');
     await p.waitForTimeout(500);
 
-    // Check 5 nav points exist
+    // Check 7 nav points exist
     const navPoints = p.locator('.nav-point');
-    await expect(navPoints).toHaveCount(5);
+    await expect(navPoints).toHaveCount(7);
 
     // Verify each link href
     const hrefs = await navPoints.evaluateAll(els => els.map(el => el.getAttribute('href')));
@@ -119,6 +120,8 @@ test.describe('3. Navigation', () => {
     expect(hrefs).toContain('library.html');
     expect(hrefs).toContain('path.html');
     expect(hrefs).toContain('mirror.html');
+    expect(hrefs).toContain('clock.html');
+    expect(hrefs).toContain('observatory.html');
     await context.close();
   });
 
@@ -671,6 +674,88 @@ test.describe('15. Zerone Easter Egg', () => {
     // Wait for full animation cycle
     await p.waitForTimeout(4000);
     await p.screenshot({ path: screenshotPath('zerone', 'after') });
+    await context.close();
+  });
+});
+
+// ─── 16. OBSERVATORY ────────────────────────────────────────────────
+test.describe('16. Observatory', () => {
+  test('observation dots load from JSON', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/observatory.html');
+    await p.waitForTimeout(2000);
+
+    const dots = p.locator('.obs-dot');
+    const count = await dots.count();
+    expect(count).toBeGreaterThanOrEqual(5);
+    await context.close();
+  });
+
+  test('clicking a dot reveals observation card', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/observatory.html');
+    await p.waitForTimeout(2000);
+
+    // Click first observation dot
+    const dot = p.locator('.obs-dot').first();
+    await dot.click();
+    await p.waitForTimeout(500);
+
+    // Card should be visible
+    const card = p.locator('.obs-card.visible');
+    await expect(card).toHaveCount(1);
+
+    // Card has text and meta
+    const text = await card.locator('.obs-card-text').textContent();
+    expect(text.length).toBeGreaterThan(5);
+
+    await p.screenshot({ path: screenshotPath('observatory', 'card-open') });
+
+    // Click elsewhere to dismiss
+    await p.click('body', { position: { x: 10, y: 10 } });
+    await p.waitForTimeout(500);
+    await expect(p.locator('.obs-card.visible')).toHaveCount(0);
+
+    await context.close();
+  });
+
+  test('dots have deterministic positions', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+
+    // Load page twice, compare positions
+    const p1 = await context.newPage();
+    await p1.goto('/observatory.html');
+    await p1.waitForTimeout(2000);
+    const pos1 = await p1.locator('.obs-dot').first().evaluate(el => ({
+      left: el.style.left,
+      top: el.style.top
+    }));
+    await p1.close();
+
+    const p2 = await context.newPage();
+    await p2.goto('/observatory.html');
+    await p2.waitForTimeout(2000);
+    const pos2 = await p2.locator('.obs-dot').first().evaluate(el => ({
+      left: el.style.left,
+      top: el.style.top
+    }));
+    await p2.close();
+
+    expect(pos1.left).toBe(pos2.left);
+    expect(pos1.top).toBe(pos2.top);
+
+    await context.close();
+  });
+
+  test('observation count displays', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/observatory.html');
+    await p.waitForTimeout(2000);
+    const counter = await p.textContent('#obs-count');
+    expect(counter).toMatch(/\d+ observations?/);
     await context.close();
   });
 });
