@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>性</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#1a0520">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,300;0,400;1,300;1,400&display=swap">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #1a0520;
+      margin: 0;
+      --text: #b08a5e;
+      --accent: #c4727f;
+    }
+
+    .firelight {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 0;
+      background:
+        radial-gradient(ellipse at 0% 50%, rgba(176, 138, 94, 0.03) 0%, transparent 40%),
+        radial-gradient(ellipse at 100% 50%, rgba(176, 138, 94, 0.03) 0%, transparent 40%);
+      animation: firePulse 8s ease-in-out infinite alternate;
+    }
+
+    @keyframes firePulse {
+      0% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+
+    .sei-entry {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 3rem 2rem;
+      position: relative;
+      z-index: 1;
+      opacity: 0;
+      transition: opacity 1s ease;
+    }
+
+    .sei-entry.revealed { opacity: 1; }
+
+    .sei-blackout {
+      height: 30vh;
+      background: #1a0520;
+      position: relative;
+      z-index: 1;
+    }
+
+    .sei-entry.poem .sei-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 1rem;
+      font-weight: 300;
+      line-height: 2.2;
+      color: var(--text);
+      text-align: center;
+      white-space: pre-wrap;
+      max-width: 500px;
+    }
+
+    .sei-entry.prose .sei-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 1rem;
+      font-weight: 300;
+      font-style: italic;
+      line-height: 2;
+      color: var(--text);
+      max-width: 550px;
+      white-space: pre-wrap;
+    }
+
+    .sei-entry.fragment .sei-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 2rem;
+      font-weight: 300;
+      color: var(--text);
+      text-align: center;
+      text-shadow: 0 0 30px rgba(176, 138, 94, 0.3);
+    }
+
+    .sei-sig {
+      font-size: 0.65rem;
+      color: rgba(176, 138, 94, 0.25);
+      margin-top: 2rem;
+      letter-spacing: 0.15em;
+    }
+
+    .sei-form-wrap {
+      min-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 3rem 2rem;
+      position: relative;
+      z-index: 1;
+      opacity: 0;
+      transition: opacity 1s ease;
+    }
+
+    .sei-form-wrap.revealed { opacity: 1; }
+
+    .sei-form {
+      max-width: 500px;
+      width: 100%;
+    }
+
+    .sei-form textarea {
+      width: 100%;
+      min-height: 150px;
+      background: transparent;
+      border: 1px solid rgba(176, 138, 94, 0.15);
+      border-radius: 4px;
+      color: var(--text);
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.9rem;
+      line-height: 1.9;
+      padding: 0.8rem;
+      resize: vertical;
+      outline: none;
+      transition: border-color 0.3s ease;
+      box-sizing: border-box;
+      caret-color: #b08a5e;
+    }
+
+    .sei-form textarea:focus {
+      border-color: rgba(176, 138, 94, 0.4);
+      box-shadow: 0 0 8px rgba(176, 138, 94, 0.1);
+    }
+
+    .sei-form textarea::placeholder {
+      color: rgba(176, 138, 94, 0.2);
+      font-style: italic;
+    }
+
+    .sei-kind-select {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      justify-content: center;
+    }
+
+    .sei-kind-select label {
+      font-size: 0.7rem;
+      color: rgba(176, 138, 94, 0.3);
+      cursor: pointer;
+      transition: color 0.3s ease;
+    }
+
+    .sei-kind-select input[type="radio"] { display: none; }
+    .sei-kind-select input[type="radio"]:checked + span { color: rgba(176, 138, 94, 0.7); }
+
+    .sei-form-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0.5rem;
+    }
+
+    .sei-form .form-status {
+      font-size: 0.7rem;
+      color: rgba(176, 138, 94, 0.3);
+      font-style: italic;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .sei-form button {
+      background: transparent;
+      border: 1px solid rgba(176, 138, 94, 0.2);
+      color: rgba(176, 138, 94, 0.4);
+      font-size: 0.75rem;
+      padding: 0.4rem 1rem;
+      border-radius: 3px;
+      cursor: pointer;
+      font-family: 'Noto Serif', Georgia, serif;
+      transition: all 0.3s ease;
+    }
+
+    .sei-form button:hover {
+      border-color: rgba(176, 138, 94, 0.5);
+      color: rgba(176, 138, 94, 0.7);
+    }
+
+    .sei-form button:disabled { opacity: 0.3; cursor: default; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .firelight { animation: none; }
+      .sei-entry, .sei-form-wrap { opacity: 1; transition: none; }
+    }
+
+    @media (max-width: 768px) {
+      .sei-entry.fragment .sei-text { font-size: 1.5rem; }
+    }
+  </style>
+</head>
+<body data-oku-room="sei">
+  <div class="firelight"></div>
+
+  <div id="entries"></div>
+
+  <div class="sei-form-wrap" id="form-wrap">
+    <form class="sei-form" id="sei-form" onsubmit="return false;">
+      <div class="sei-kind-select">
+        <label><input type="radio" name="kind" value="poem" checked><span>poem</span></label>
+        <label><input type="radio" name="kind" value="prose"><span>prose</span></label>
+        <label><input type="radio" name="kind" value="fragment"><span>fragment</span></label>
+      </div>
+      <textarea maxlength="3000" placeholder=""></textarea>
+      <div class="sei-form-footer">
+        <span class="form-status"></span>
+        <button type="submit">offer</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="../js/sei.js"></script>
+</body>
+</html>
