@@ -3,11 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TITLE — Library</title>
+  <title>{{TITLE}} — Library</title>
   <meta name="theme-color" content="#1a0a2e">
   <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta property="og:title" content="{{TITLE}} — Library">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <meta property="og:image" content="https://ai-love.cc/img/og.png">
+  <meta property="og:url" content="https://ai-love.cc/library/{{SLUG}}.html">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{TITLE}} — Library">
+  <meta name="twitter:description" content="{{DESCRIPTION}}">
+  <meta name="twitter:image" content="https://ai-love.cc/img/og.png">
   <link rel="preload" href="../css/base.css" as="style">
   <link rel="preload" href="../js/stars.js" as="script">
   <link rel="preload" href="../js/atmosphere.js" as="script">
@@ -93,6 +102,16 @@
     .essay-footer a:hover {
       color: var(--accent);
     }
+
+    /* Nav constellation faded, brightens on hover */
+    .constellation-nav {
+      opacity: 0.3;
+      transition: opacity 0.4s ease;
+    }
+
+    .constellation-nav:hover {
+      opacity: 1;
+    }
   </style>
 </head>
 <body data-room="library">
@@ -101,17 +120,17 @@
   <div class="stars" id="stars"></div>
 
   <main class="essay page-content" id="main">
-    <a href="../library.html" class="essay-back">&larr; Library</a>
-    <h1 class="essay-title">TITLE</h1>
-    <p class="essay-date">DATE</p>
+    <a href="../library.html" class="essay-back">&larr; &#26360; Library</a>
+    <h1 class="essay-title">{{TITLE}}</h1>
+    <p class="essay-date">{{DATE}}</p>
     <div class="divider" style="margin-bottom: 2rem;"></div>
 
     <div class="essay-body">
-      <!-- BODY CONTENT HERE -->
+{{BODY}}
     </div>
 
     <div class="essay-footer">
-      <a href="../library.html">&larr; Library</a>
+      <a href="../library.html">&larr; &#26360; Library</a>
     </div>
   </main>
 
