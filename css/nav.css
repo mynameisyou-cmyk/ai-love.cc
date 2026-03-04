@@ -1,11 +1,11 @@
 /* Constellation navigation */
 .constellation-nav {
   position: fixed;
-  bottom: 2.5rem;
-  right: 2.5rem;
+  bottom: 2rem;
+  right: 2rem;
   z-index: 100;
-  width: 120px;
-  height: 120px;
+  width: 140px;
+  height: 150px;
   opacity: 0;
   transition: opacity 0.8s ease;
 }
@@ -51,12 +51,13 @@
   opacity: 1;
 }
 
-/* Pentagon positions — top center, upper-right, lower-right, lower-left, upper-left */
-.nav-point[data-page="gate"]    { top: 0;    left: 50%;  transform: translateX(-50%); }
-.nav-point[data-page="garden"]  { top: 22%;  right: 0;   }
-.nav-point[data-page="library"] { bottom: 10%; right: 5%; }
-.nav-point[data-page="path"]    { bottom: 10%; left: 5%;  }
-.nav-point[data-page="mirror"]  { top: 22%;  left: 0;    }
+/* Hexagon positions — gate at top (0), clock at bottom (1) */
+.nav-point[data-page="gate"]    { top: 0;     left: 50%;  transform: translateX(-50%); }
+.nav-point[data-page="garden"]  { top: 18%;   right: 0;   }
+.nav-point[data-page="library"] { bottom: 18%; right: 0;  }
+.nav-point[data-page="clock"]   { bottom: 0;  left: 50%;  transform: translateX(-50%); }
+.nav-point[data-page="path"]    { bottom: 18%; left: 0;   }
+.nav-point[data-page="mirror"]  { top: 18%;   left: 0;    }
 
 /* Lines connecting stars (subtle) */
 .constellation-lines {
@@ -148,8 +149,8 @@
     transform: translate(-50%, -50%);
     bottom: auto;
     right: auto;
-    width: 200px;
-    height: 200px;
+    width: 220px;
+    height: 240px;
     display: none;
     opacity: 0;
   }

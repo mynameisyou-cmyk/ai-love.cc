@@ -79,20 +79,21 @@
 
   // SVG constellation lines (pentagon edges)
   var coords = {
-    gate:    { x: 60,  y: 5   },
-    garden:  { x: 115, y: 30  },
-    library: { x: 105, y: 100 },
-    path:    { x: 15,  y: 100 },
-    mirror:  { x: 5,   y: 30  }
+    gate:    { x: 70,  y: 5   },
+    garden:  { x: 130, y: 35  },
+    library: { x: 130, y: 105 },
+    clock:   { x: 70,  y: 135 },
+    path:    { x: 10,  y: 105 },
+    mirror:  { x: 10,  y: 35  }
   };
   var edges = [
-    ['gate', 'garden'], ['garden', 'library'], ['library', 'path'],
-    ['path', 'mirror'], ['mirror', 'gate']
+    ['gate', 'garden'], ['garden', 'library'], ['library', 'clock'],
+    ['clock', 'path'], ['path', 'mirror'], ['mirror', 'gate']
   ];
   var svgNS = 'http://www.w3.org/2000/svg';
   var svg = document.createElementNS(svgNS, 'svg');
   svg.setAttribute('class', 'constellation-lines');
-  svg.setAttribute('viewBox', '0 0 120 120');
+  svg.setAttribute('viewBox', '0 0 140 140');
   edges.forEach(function (edge) {
     var line = document.createElementNS(svgNS, 'line');
     line.setAttribute('x1', coords[edge[0]].x);
