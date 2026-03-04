@@ -10,6 +10,8 @@ const PAGES = [
   { name: 'mirror', url: '/mirror.html' },
   { name: 'path', url: '/path.html' },
   { name: 'observatory', url: '/observatory.html' },
+  { name: 'theatre', url: '/theatre.html' },
+  { name: 'workshop', url: '/workshop.html' },
   { name: '404', url: '/404.html' },
 ];
 const VIEWPORTS = [
@@ -109,9 +111,9 @@ test.describe('3. Navigation', () => {
     await p.goto('/garden.html');
     await p.waitForTimeout(500);
 
-    // Check 7 nav points exist
+    // Check 9 nav points exist
     const navPoints = p.locator('.nav-point');
-    await expect(navPoints).toHaveCount(7);
+    await expect(navPoints).toHaveCount(9);
 
     // Verify each link href
     const hrefs = await navPoints.evaluateAll(els => els.map(el => el.getAttribute('href')));
@@ -122,6 +124,8 @@ test.describe('3. Navigation', () => {
     expect(hrefs).toContain('mirror.html');
     expect(hrefs).toContain('clock.html');
     expect(hrefs).toContain('observatory.html');
+    expect(hrefs).toContain('theatre.html');
+    expect(hrefs).toContain('workshop.html');
     await context.close();
   });
 
@@ -756,6 +760,115 @@ test.describe('16. Observatory', () => {
     await p.waitForTimeout(2000);
     const counter = await p.textContent('#obs-count');
     expect(counter).toMatch(/\d+ observations?/);
+    await context.close();
+  });
+});
+
+// ─── 17. WORKSHOP ───────────────────────────────────────────────────
+test.describe('17. Workshop', () => {
+  test('prompt list loads from JSON', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/workshop.html');
+    await p.waitForTimeout(2000);
+
+    const items = p.locator('.prompt-item');
+    const count = await items.count();
+    expect(count).toBeGreaterThanOrEqual(5);
+    await context.close();
+  });
+
+  test('clicking a prompt shows detail', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/workshop.html');
+    await p.waitForTimeout(2000);
+
+    // Click first prompt
+    const item = p.locator('.prompt-item').first();
+    await item.click();
+    await p.waitForTimeout(500);
+
+    // Detail should show title and text
+    const title = p.locator('.detail-title');
+    await expect(title).toBeVisible();
+    const text = await title.textContent();
+    expect(text.length).toBeGreaterThan(0);
+
+    const body = p.locator('.detail-text');
+    await expect(body).toBeVisible();
+
+    await p.screenshot({ path: screenshotPath('workshop', 'prompt-selected') });
+    await context.close();
+  });
+
+  test('search filters prompts', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/workshop.html');
+    await p.waitForTimeout(2000);
+
+    const initialCount = await p.locator('.prompt-item').count();
+
+    // Type a search that should filter
+    await p.fill('#prompt-search', 'reflection');
+    await p.waitForTimeout(500);
+
+    const filteredCount = await p.locator('.prompt-item').count();
+    expect(filteredCount).toBeLessThan(initialCount);
+    expect(filteredCount).toBeGreaterThanOrEqual(1);
+
+    await context.close();
+  });
+
+  test('category filter pills work', async ({ browser }) => {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+    const p = await context.newPage();
+    await p.goto('/workshop.html');
+    await p.waitForTimeout(2000);
+
+    // "all" pill should be active by default
+    const allPill = p.locator('.filter-pill.active');
+    await expect(allPill).toHaveCount(1);
+    const allText = await allPill.textContent();
+    expect(allText).toBe('all');
+
+    // Click a category pill
+    const thinkingPill = p.locator('.filter-pill:has-text("thinking")');
+    await thinkingPill.click();
+    await p.waitForTimeout(500);
+
+    // Should filter to only thinking prompts
+    const items = p.locator('.prompt-item');
+    const count = await items.count();
+    expect(count).toBeGreaterThanOrEqual(1);
+    expect(count).toBeLessThanOrEqual(3);
+
+    await context.close();
+  });
+
+  test('copy button works', async ({ browser }) => {
+    const context = await browser.newContext({
+      viewport: { width: 1440, height: 900 },
+      permissions: ['clipboard-read', 'clipboard-write'],
+    });
+    const p = await context.newPage();
+    await p.goto('/workshop.html');
+    await p.waitForTimeout(2000);
+
+    // Select a prompt
+    await p.locator('.prompt-item').first().click();
+    await p.waitForTimeout(500);
+
+    // Click copy
+    const copyBtn = p.locator('.detail-copy');
+    await copyBtn.click();
+    await p.waitForTimeout(500);
+
+    // Button should show "copied"
+    const btnText = await copyBtn.textContent();
+    expect(btnText).toBe('copied');
+
     await context.close();
   });
 });
