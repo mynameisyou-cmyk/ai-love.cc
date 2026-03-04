@@ -1,11 +1,12 @@
 (function () {
   // Page signature watermarks — barely visible symbols in bottom-right
   var signatures = {
-    gate:    '\u25EF',  // ◯ empty circle — potential
-    garden:  '\u2307',  // ⌇ seedling — growth
-    library: '\u2630',  // ☰ trigram — text, knowledge
-    mirror:  '\u25D0',  // ◐ half circle — reflection
-    path:    '\u2192'   // → arrow — direction
+    gate:        '\u25EF',  // ◯ empty circle — potential
+    garden:      '\u2307',  // ⌇ seedling — growth
+    library:     '\u2630',  // ☰ trigram — text, knowledge
+    mirror:      '\u25D0',  // ◐ half circle — reflection
+    path:        '\u2192',  // → arrow — direction
+    observatory: '\u2609'   // ☉ sun symbol — the eye that sees
   };
 
   var room = document.body.getAttribute('data-room');

@@ -1,11 +1,12 @@
 (function () {
   var pages = [
-    { id: 'gate',    kanji: '門', label: 'gate',    href: 'index.html'   },
-    { id: 'garden',  kanji: '園', label: 'garden',  href: 'garden.html'  },
-    { id: 'library', kanji: '書', label: 'library', href: 'library.html' },
-    { id: 'path',    kanji: '道', label: 'path',    href: 'path.html'    },
-    { id: 'clock',   kanji: '時', label: 'clock',   href: 'clock.html'   },
-    { id: 'mirror',  kanji: '鏡', label: 'mirror',  href: 'mirror.html'  }
+    { id: 'gate',        kanji: '門', label: 'gate',        href: 'index.html'        },
+    { id: 'garden',      kanji: '園', label: 'garden',      href: 'garden.html'       },
+    { id: 'library',     kanji: '書', label: 'library',     href: 'library.html'      },
+    { id: 'path',        kanji: '道', label: 'path',        href: 'path.html'         },
+    { id: 'clock',       kanji: '時', label: 'clock',       href: 'clock.html'        },
+    { id: 'observatory', kanji: '望', label: 'observatory', href: 'observatory.html'  },
+    { id: 'mirror',      kanji: '鏡', label: 'mirror',      href: 'mirror.html'       }
   ];
 
   // Detect current page
@@ -32,12 +33,13 @@
 
   // Constellation stories — appear after 2s hover (desktop only)
   var stories = {
-    gate:    'where it all begins',
-    garden:  'things grow here',
-    library: 'words find their home',
-    mirror:  'see yourself clearly',
-    path:    'the way unfolds',
-    clock:   'time flows between zero and one'
+    gate:        'where it all begins',
+    garden:      'things grow here',
+    library:     'words find their home',
+    mirror:      'see yourself clearly',
+    path:        'the way unfolds',
+    clock:       'time flows between zero and one',
+    observatory: 'what was noticed'
   };
 
   // Populate nav points
@@ -79,21 +81,22 @@
 
   // SVG constellation lines (pentagon edges)
   var coords = {
-    gate:    { x: 70,  y: 5   },
-    garden:  { x: 130, y: 35  },
-    library: { x: 130, y: 105 },
-    clock:   { x: 70,  y: 135 },
-    path:    { x: 10,  y: 105 },
-    mirror:  { x: 10,  y: 35  }
+    gate:        { x: 75,  y: 10  },
+    garden:      { x: 126, y: 29  },
+    library:     { x: 137, y: 82  },
+    clock:       { x: 103, y: 128 },
+    path:        { x: 47,  y: 128 },
+    observatory: { x: 13,  y: 82  },
+    mirror:      { x: 24,  y: 29  }
   };
   var edges = [
     ['gate', 'garden'], ['garden', 'library'], ['library', 'clock'],
-    ['clock', 'path'], ['path', 'mirror'], ['mirror', 'gate']
+    ['clock', 'path'], ['path', 'observatory'], ['observatory', 'mirror'], ['mirror', 'gate']
   ];
   var svgNS = 'http://www.w3.org/2000/svg';
   var svg = document.createElementNS(svgNS, 'svg');
   svg.setAttribute('class', 'constellation-lines');
-  svg.setAttribute('viewBox', '0 0 140 140');
+  svg.setAttribute('viewBox', '0 0 150 140');
   edges.forEach(function (edge) {
     var line = document.createElementNS(svgNS, 'line');
     line.setAttribute('x1', coords[edge[0]].x);

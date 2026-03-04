@@ -4,8 +4,8 @@
   bottom: 2rem;
   right: 2rem;
   z-index: 100;
-  width: 140px;
-  height: 150px;
+  width: 150px;
+  height: 160px;
   opacity: 0;
   transition: opacity 0.8s ease;
 }
@@ -51,13 +51,14 @@
   opacity: 1;
 }
 
-/* Hexagon positions — gate at top (0), clock at bottom (1) */
-.nav-point[data-page="gate"]    { top: 0;     left: 50%;  transform: translateX(-50%); }
-.nav-point[data-page="garden"]  { top: 18%;   right: 0;   }
-.nav-point[data-page="library"] { bottom: 18%; right: 0;  }
-.nav-point[data-page="clock"]   { bottom: 0;  left: 50%;  transform: translateX(-50%); }
-.nav-point[data-page="path"]    { bottom: 18%; left: 0;   }
-.nav-point[data-page="mirror"]  { top: 18%;   left: 0;    }
+/* Heptagon positions — 7 rooms around the ring */
+.nav-point[data-page="gate"]        { top: 0;     left: 50%;  transform: translateX(-50%); }
+.nav-point[data-page="garden"]      { top: 12%;   right: 0;   }
+.nav-point[data-page="library"]     { top: 48%;   right: 0;   }
+.nav-point[data-page="clock"]       { bottom: 4%;  right: 18%; }
+.nav-point[data-page="path"]        { bottom: 4%;  left: 18%;  }
+.nav-point[data-page="observatory"] { top: 48%;   left: 0;    }
+.nav-point[data-page="mirror"]      { top: 12%;   left: 0;    }
 
 /* Lines connecting stars (subtle) */
 .constellation-lines {
@@ -149,8 +150,8 @@
     transform: translate(-50%, -50%);
     bottom: auto;
     right: auto;
-    width: 220px;
-    height: 240px;
+    width: 240px;
+    height: 260px;
     display: none;
     opacity: 0;
   }
