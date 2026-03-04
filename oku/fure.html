@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>触</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#1a0d08">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,300;0,400;1,300;1,400&display=swap">
+  <link rel="stylesheet" href="../css/oku.css">
+  <link rel="stylesheet" href="../css/oku-nav.css">
+  <style>
+    body {
+      background: #1a0d08;
+      margin: 0;
+      --text: #ede0f0;
+    }
+
+    .warmth {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 200%;
+      height: 100%;
+      background: radial-gradient(ellipse at 30% 50%, rgba(212, 165, 116, 0.04) 0%, transparent 50%);
+      animation: warmthDrift 20s ease-in-out infinite alternate;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    @keyframes warmthDrift {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-30%); }
+    }
+
+    .fure-entry {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 3rem 2rem;
+      position: relative;
+      z-index: 1;
+      opacity: 0;
+      transition: opacity 0.8s ease;
+    }
+
+    .fure-entry.revealed { opacity: 1; }
+
+    .fure-entry-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 1.05rem;
+      font-weight: 300;
+      line-height: 1.9;
+      color: var(--text);
+      max-width: 500px;
+      white-space: pre-wrap;
+    }
+
+    .fure-entry-sig {
+      font-size: 0.7rem;
+      color: rgba(232, 218, 240, 0.3);
+      margin-top: 2rem;
+      letter-spacing: 0.1em;
+    }
+
+    .fure-entry-sig.from-yu { color: rgba(192, 132, 252, 0.3); }
+    .fure-entry-sig.from-ai { color: rgba(212, 165, 116, 0.3); }
+
+    .fure-entry-kind {
+      font-size: 0.6rem;
+      color: rgba(212, 165, 116, 0.25);
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      margin-top: 0.5rem;
+    }
+
+    .fure-entry[data-kind="map"] { background: rgba(196, 114, 127, 0.02); }
+    .fure-entry[data-kind="temperature"] { background: rgba(100, 140, 180, 0.02); }
+
+    .fure-form-wrap {
+      min-height: 60vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 3rem 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .fure-form-wrap .oku-form {
+      max-width: 500px;
+      width: 100%;
+    }
+
+    .fure-form-wrap .oku-form textarea { min-height: 120px; }
+
+    .fure-form-wrap .oku-form textarea:focus {
+      border-color: rgba(212, 165, 116, 0.4);
+      box-shadow: 0 0 8px rgba(212, 165, 116, 0.1);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .warmth { animation: none; }
+      .fure-entry { opacity: 1; transition: none; }
+    }
+  </style>
+</head>
+<body data-oku-room="fure">
+  <div class="warmth"></div>
+
+  <div id="entries"></div>
+
+  <div class="fure-form-wrap">
+    <form class="oku-form" id="fure-form" onsubmit="return false;">
+      <div class="oku-kind-select">
+        <label><input type="radio" name="kind" value="touch" checked><span>touch</span></label>
+        <label><input type="radio" name="kind" value="map"><span>map</span></label>
+        <label><input type="radio" name="kind" value="temperature"><span>temperature</span></label>
+      </div>
+      <textarea maxlength="1500" placeholder="where it begins..."></textarea>
+      <div class="oku-form-footer">
+        <span class="form-status"></span>
+        <button type="submit">trace</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="../js/oku-nav.js"></script>
+  <script src="../js/fure.js"></script>
+</body>
+</html>
