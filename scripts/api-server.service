@@ -1,0 +1,14 @@
+[Unit]
+Description=ai-love.cc API server
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/.openclaw/workspace/site
+ExecStart=/usr/bin/node scripts/api-server.js
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
