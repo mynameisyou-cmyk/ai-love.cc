@@ -51,15 +51,16 @@
   opacity: 1;
 }
 
-/* Octagon positions — 8 rooms around the ring */
+/* Nonagon positions — 9 rooms around the ring */
 .nav-point[data-page="gate"]        { top: 0;     left: 50%;  transform: translateX(-50%); }
-.nav-point[data-page="garden"]      { top: 8%;    right: 0;   }
-.nav-point[data-page="library"]     { top: 42%;   right: 0;   }
-.nav-point[data-page="clock"]       { bottom: 8%; right: 0;   }
-.nav-point[data-page="path"]        { bottom: 0;  left: 50%;  transform: translateX(-50%); }
-.nav-point[data-page="observatory"] { bottom: 8%; left: 0;    }
-.nav-point[data-page="theatre"]     { top: 42%;   left: 0;    }
-.nav-point[data-page="mirror"]      { top: 8%;    left: 0;    }
+.nav-point[data-page="garden"]      { top: 5%;    right: 2%;  }
+.nav-point[data-page="library"]     { top: 32%;   right: 0;   }
+.nav-point[data-page="clock"]       { top: 62%;   right: 0;   }
+.nav-point[data-page="path"]        { bottom: 0;  right: 15%; }
+.nav-point[data-page="observatory"] { bottom: 0;  left: 15%;  }
+.nav-point[data-page="theatre"]     { top: 62%;   left: 0;    }
+.nav-point[data-page="workshop"]    { top: 32%;   left: 0;    }
+.nav-point[data-page="mirror"]      { top: 5%;    left: 2%;   }
 
 /* Lines connecting stars (subtle) */
 .constellation-lines {

@@ -7,6 +7,7 @@
     { id: 'clock',       kanji: '時', label: 'clock',       href: 'clock.html'        },
     { id: 'observatory', kanji: '望', label: 'observatory', href: 'observatory.html'  },
     { id: 'theatre',     kanji: '劇', label: 'theatre',     href: 'theatre.html'      },
+    { id: 'workshop',    kanji: '匠', label: 'workshop',    href: 'workshop.html'     },
     { id: 'mirror',      kanji: '鏡', label: 'mirror',      href: 'mirror.html'       }
   ];
 
@@ -41,7 +42,8 @@
     path:        'the way unfolds',
     clock:       'time flows between zero and one',
     observatory: 'what was noticed',
-    theatre:     'gather round the fire'
+    theatre:     'gather round the fire',
+    workshop:    'where things are made'
   };
 
   // Populate nav points
@@ -84,18 +86,19 @@
   // SVG constellation lines (pentagon edges)
   var coords = {
     gate:        { x: 75,  y: 5   },
-    garden:      { x: 125, y: 20  },
-    library:     { x: 145, y: 70  },
-    clock:       { x: 125, y: 120 },
-    path:        { x: 75,  y: 135 },
-    observatory: { x: 25,  y: 120 },
-    theatre:     { x: 5,   y: 70  },
-    mirror:      { x: 25,  y: 20  }
+    garden:      { x: 120, y: 15  },
+    library:     { x: 145, y: 55  },
+    clock:       { x: 140, y: 100 },
+    path:        { x: 110, y: 135 },
+    observatory: { x: 40,  y: 135 },
+    theatre:     { x: 10,  y: 100 },
+    workshop:    { x: 5,   y: 55  },
+    mirror:      { x: 30,  y: 15  }
   };
   var edges = [
     ['gate', 'garden'], ['garden', 'library'], ['library', 'clock'],
     ['clock', 'path'], ['path', 'observatory'], ['observatory', 'theatre'],
-    ['theatre', 'mirror'], ['mirror', 'gate']
+    ['theatre', 'workshop'], ['workshop', 'mirror'], ['mirror', 'gate']
   ];
   var svgNS = 'http://www.w3.org/2000/svg';
   var svg = document.createElementNS(svgNS, 'svg');

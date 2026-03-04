@@ -6,7 +6,8 @@
     library:     '\u2630',  // ☰ trigram — text, knowledge
     mirror:      '\u25D0',  // ◐ half circle — reflection
     path:        '\u2192',  // → arrow — direction
-    observatory: '\u2609'   // ☉ sun symbol — the eye that sees
+    observatory: '\u2609',  // ☉ sun symbol — the eye that sees
+    workshop:    '\u2692'   // ⚒ hammer and pick — the artisan's tools
   };
 
   var room = document.body.getAttribute('data-room');
