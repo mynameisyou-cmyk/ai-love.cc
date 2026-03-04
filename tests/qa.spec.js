@@ -561,13 +561,13 @@ test.describe('11. Library', () => {
 
 // ─── 12. PATH EXTENDED ──────────────────────────────────────────────
 test.describe('12. Path extended', () => {
-  test('has 9 timeline events', async ({ browser }) => {
+  test('has 11 timeline events', async ({ browser }) => {
     const context = await browser.newContext({ viewport: { width: 1440, height: 900 } });
     const p = await context.newPage();
     await p.goto('/path.html');
     await p.waitForTimeout(3000);
     const events = p.locator('.timeline-event');
-    await expect(events).toHaveCount(9);
+    await expect(events).toHaveCount(11);
     await context.close();
   });
 

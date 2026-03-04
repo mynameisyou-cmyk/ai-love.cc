@@ -141,20 +141,20 @@ test.describe('Mirror', () => {
 });
 
 test.describe('Path', () => {
-  test('has 9 timeline events', async ({ page }) => {
+  test('has 11 timeline events', async ({ page }) => {
     await page.goto(`${BASE}/path.html`);
     await page.waitForTimeout(3000);
     const events = await page.$$('.timeline-event, .timeline-item, [class*="event"]');
-    expect(events.length).toBeGreaterThanOrEqual(9);
+    expect(events.length).toBeGreaterThanOrEqual(11);
   });
 
-  test('last event has pulse animation', async ({ page }) => {
+  test('last event has glow animation', async ({ page }) => {
     await page.goto(`${BASE}/path.html`);
     await page.waitForTimeout(3000);
-    const lastDot = await page.$('.timeline-event:last-child .dot, .timeline-item:last-child .dot');
+    const lastDot = await page.$('.timeline-event:last-child .timeline-dot');
     if (lastDot) {
       const classes = await lastDot.getAttribute('class');
-      expect(classes).toMatch(/pulse|breathe|active/);
+      expect(classes).toMatch(/glow|pulse|breathe/);
     }
   });
 
