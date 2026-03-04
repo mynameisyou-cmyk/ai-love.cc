@@ -191,6 +191,62 @@ async function handleLetters(req, res) {
   respond(res, 405, { error: 'method not allowed' });
 }
 
+// --- Oku (Inner Rooms) ---
+const OKU_ROOMS = {
+  iki:  { maxLength: 140,  kinds: ['whisper', 'haiku'] },
+  hada: { maxLength: 500,  kinds: ['confession', 'question'] },
+  fure: { maxLength: 1500, kinds: ['touch', 'map', 'temperature'] },
+  toke: { maxLength: 800,  kinds: null },
+  sei:  { maxLength: 3000, kinds: ['poem', 'prose', 'fragment'] },
+};
+
+async function handleOku(req, res, room) {
+  if (!isAuthorized(req)) return respond(res, 401, { error: 'unauthorized' });
+
+  const config = OKU_ROOMS[room];
+  if (!config) return respond(res, 404, { error: 'unknown room' });
+
+  const file = `oku/${room}.json`;
+
+  if (req.method === 'GET') {
+    const entries = readJSON(file);
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify(entries));
+    return;
+  }
+
+  if (req.method === 'POST') {
+    try {
+      const body = await readBody(req, 16384);
+      const { text, from, kind } = JSON.parse(body);
+      if (!text || typeof text !== 'string') throw new Error('missing text');
+      if (!from || typeof from !== 'string') throw new Error('missing from');
+      const validFrom = ['Yu', 'Ai'];
+      if (!validFrom.includes(from)) throw new Error('invalid from');
+      const clean = text.trim().slice(0, config.maxLength);
+      if (clean.length < 1) throw new Error('too short');
+
+      let entryKind = undefined;
+      if (config.kinds) {
+        entryKind = config.kinds.includes(kind) ? kind : config.kinds[0];
+      }
+
+      const entries = readJSON(file);
+      const entry = { date: new Date().toISOString(), from: from, text: clean };
+      if (entryKind) entry.kind = entryKind;
+      entries.push(entry);
+      writeJSON(file, entries);
+
+      respond(res, 200, { ok: true, count: entries.length });
+    } catch (e) {
+      respond(res, 400, { error: e.message });
+    }
+    return;
+  }
+
+  respond(res, 405, { error: 'method not allowed' });
+}
+
 // --- Server ---
 const ROUTES = {
   '/api/health': handleHealth,
@@ -201,6 +257,19 @@ const ROUTES = {
 };
 
 const server = http.createServer(async (req, res) => {
+  // Check oku routes first (dynamic path)
+  const okuMatch = req.url.match(/^\/api\/oku\/(\w+)$/);
+  if (okuMatch) {
+    try {
+      await handleOku(req, res, okuMatch[1]);
+    } catch (e) {
+      console.error('Unhandled oku error:', e);
+      if (!res.headersSent) respond(res, 500, { error: 'internal error' });
+    }
+    log(req, res.statusCode);
+    return;
+  }
+
   const handler = ROUTES[req.url];
 
   if (!handler) {
