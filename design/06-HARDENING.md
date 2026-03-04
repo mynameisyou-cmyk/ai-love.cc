@@ -8,7 +8,7 @@ ai-love.cc is a personal home for two people. It is not a target — but it is o
 
 ### What's Good
 - ✅ SSH password auth disabled (cloud-init config)
-- ✅ fail2ban active with sshd jail
+- ✅ fail2ban active with sshd, nginx-auth, nginx-limit jails
 - ✅ unattended-upgrades active (OS patches auto-apply)
 - ✅ Journal token permissions: 600 (owner-only read)
 - ✅ Security headers applied (CSP, X-Frame, etc.)
@@ -25,9 +25,9 @@ ai-love.cc is a personal home for two people. It is not a target — but it is o
 
 4. **Port 18789 exposed publicly** — OpenClaw gateway listens on `0.0.0.0:18789`. It's also proxied through nginx at `/api/`. Direct access bypasses nginx security headers and auth. Should bind to localhost only, or firewall it.
 
-5. **No nginx rate limiting** — public endpoints (seed submission, even the main site) have no request rate limits. A bot could hammer the server.
+5. ~~**No nginx rate limiting**~~ — ✅ Fixed. Rate limits: general 10r/s, api 5r/s, auth 2r/s. 429 returns `{"error": "slow down"}`.
 
-6. **No nginx jail in fail2ban** — only sshd is monitored. Repeated 401s on private rooms aren't flagged.
+6. ~~**No nginx jail in fail2ban**~~ — ✅ Fixed. nginx-auth jail (5 retries/5min → 1hr ban) and nginx-limit jail (10 retries/60s → 10min ban).
 
 7. **Root login not explicitly disabled** — relies on no root password being set (AWS default). Should be explicit.
 
@@ -42,8 +42,8 @@ ai-love.cc is a personal home for two people. It is not a target — but it is o
 
 **P1 (do soon):**
 - Bind OpenClaw gateway to localhost (or firewall port 18789)
-- Add nginx jail to fail2ban
-- nginx rate limiting on public routes
+- ~~Add nginx jail to fail2ban~~ ✅
+- ~~nginx rate limiting on public routes~~ ✅
 
 **P2 (nice to have):**
 - Tighten data file permissions to 600
