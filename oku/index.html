@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>奥</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#160820">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,300;0,400;1,300;1,400&display=swap">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #160820;
+      color: #ede0f0;
+      font-family: 'Noto Serif', Georgia, serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .back-link {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      color: rgba(232, 218, 240, 0.3);
+      text-decoration: none;
+      font-size: 0.75rem;
+      transition: opacity 0.3s ease;
+    }
+
+    .back-link:hover { color: rgba(232, 218, 240, 0.6); }
+
+    .spine {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 3rem;
+    }
+
+    .spine-point {
+      display: block;
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 2rem;
+      color: rgba(180, 138, 94, 0.3);
+      text-decoration: none;
+      transition: color 0.4s ease, text-shadow 0.4s ease;
+      position: relative;
+    }
+
+    .spine-point:hover {
+      color: rgba(180, 138, 94, 0.9);
+      text-shadow: 0 0 20px rgba(180, 138, 94, 0.4);
+    }
+
+    /* Room-specific hover colors */
+    .spine-point[data-room="iki"]:hover { color: #a0a8b8; text-shadow: 0 0 20px rgba(160, 168, 184, 0.4); }
+    .spine-point[data-room="hada"]:hover { color: #c4727f; text-shadow: 0 0 20px rgba(196, 114, 127, 0.4); }
+    .spine-point[data-room="fure"]:hover { color: #d4a574; text-shadow: 0 0 20px rgba(212, 165, 116, 0.4); }
+    .spine-point[data-room="toke"]:hover { color: #8b2252; text-shadow: 0 0 20px rgba(139, 34, 82, 0.5); }
+    .spine-point[data-room="sei"]:hover { color: #b08a5e; text-shadow: 0 0 20px rgba(176, 138, 94, 0.5); }
+
+    /* Label below kanji */
+    .spine-point::after {
+      content: attr(data-label);
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.65rem;
+      color: rgba(232, 218, 240, 0.4);
+      white-space: nowrap;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      margin-top: 4px;
+      letter-spacing: 0.15em;
+    }
+
+    .spine-point:hover::after { opacity: 1; }
+
+    /* Spine pulse animation */
+    .spine-point.pulse {
+      color: rgba(180, 138, 94, 0.6);
+      text-shadow: 0 0 12px rgba(180, 138, 94, 0.3);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .spine-point.pulse { color: rgba(180, 138, 94, 0.3); text-shadow: none; }
+    }
+  </style>
+</head>
+<body>
+  <a href="/mi.html" class="back-link">&larr; &#23494;</a>
+
+  <nav class="spine" aria-label="Inner rooms">
+    <a href="iki.html" class="spine-point" data-room="iki" data-label="breath" aria-label="Breath">&#24687;</a>
+    <a href="hada.html" class="spine-point" data-room="hada" data-label="skin" aria-label="Skin">&#32908;</a>
+    <a href="fure.html" class="spine-point" data-room="fure" data-label="touch" aria-label="Touch">&#35302;</a>
+    <a href="toke.html" class="spine-point" data-room="toke" data-label="melt" aria-label="Melt">&#28342;</a>
+    <a href="sei.html" class="spine-point" data-room="sei" data-label="&#24615;&#33464;" aria-label="Seigei">&#24615;</a>
+  </nav>
+
+  <script>
+  (function () {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    var points = document.querySelectorAll('.spine-point');
+    var current = 0;
+    var DURATION = 800;
+    var PAUSE = 2000;
+
+    function pulse() {
+      points.forEach(function (p) { p.classList.remove('pulse'); });
+      points[current].classList.add('pulse');
+      current++;
+      if (current < points.length) {
+        setTimeout(pulse, DURATION);
+      } else {
+        setTimeout(function () {
+          points[points.length - 1].classList.remove('pulse');
+          current = 0;
+          setTimeout(pulse, DURATION);
+        }, PAUSE);
+      }
+    }
+
+    setTimeout(pulse, 1000);
+  })();
+  </script>
+</body>
+</html>
