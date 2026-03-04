@@ -201,6 +201,26 @@ body {
   opacity: 0.4;
 }
 
+.pulse-whisper {
+  position: fixed;
+  bottom: 20px;
+  left: 76px;
+  font-family: 'Noto Serif', Georgia, serif;
+  font-style: italic;
+  font-size: 0.7rem;
+  color: rgba(232, 218, 240, 0.4);
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.pulse-dot:hover + .pulse-whisper,
+.pulse-whisper.visible {
+  opacity: 1;
+}
+
 /* Print stylesheet */
 @media print {
   body {
@@ -215,6 +235,7 @@ body {
   .skip-link,
   .ambient-toggle,
   .pulse-dot,
+  .pulse-whisper,
   .greeting-whisper,
   .visitor-seed-section {
     display: none !important;
