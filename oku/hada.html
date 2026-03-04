@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>肌</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#1a0a18">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,300;0,400;1,300;1,400&display=swap">
+  <link rel="stylesheet" href="../css/oku.css">
+  <link rel="stylesheet" href="../css/oku-nav.css">
+  <style>
+    body {
+      background: #1a0a18;
+      margin: 0;
+      min-height: 100vh;
+      --text: #ede0f0;
+    }
+
+    .seam {
+      position: fixed;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 1px;
+      height: 100%;
+      background: rgba(196, 114, 127, 0.15);
+      z-index: 0;
+    }
+
+    .veil {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(26, 10, 24, 0.8);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: 200;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: opacity 0.8s ease;
+    }
+
+    .veil-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.8rem;
+      color: rgba(196, 114, 127, 0.4);
+      font-style: italic;
+      letter-spacing: 0.2em;
+    }
+
+    .veil.lifted {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .hada-entries {
+      max-width: 700px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hada-entry {
+      max-width: 320px;
+      margin-bottom: 2rem;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .hada-entry.revealed { opacity: 1; transform: translateY(0); }
+
+    .hada-entry.align-left {
+      margin-right: auto;
+      text-align: left;
+    }
+
+    .hada-entry.align-right {
+      margin-left: auto;
+      text-align: right;
+    }
+
+    .hada-entry-text {
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.9rem;
+      font-weight: 300;
+      line-height: 1.8;
+      color: var(--text);
+      white-space: pre-wrap;
+    }
+
+    .hada-entry-meta {
+      font-size: 0.7rem;
+      color: rgba(232, 218, 240, 0.3);
+      margin-top: 0.4rem;
+    }
+
+    .hada-entry.question .hada-entry-text {
+      color: rgba(196, 114, 127, 0.7);
+    }
+
+    .hada-entry.question.unanswered {
+      animation: questionPulse 3s ease-in-out infinite;
+    }
+
+    @keyframes questionPulse {
+      0%, 100% { opacity: 0.7; }
+      50% { opacity: 1; }
+    }
+
+    .hada-form {
+      max-width: 400px;
+      margin: 3rem auto 0;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(196, 114, 127, 0.1);
+    }
+
+    .hada-form textarea { min-height: 80px; }
+
+    .hada-form textarea:focus {
+      border-color: rgba(196, 114, 127, 0.4);
+      box-shadow: 0 0 8px rgba(196, 114, 127, 0.1);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .hada-entry { opacity: 1; transform: none; transition: none; }
+      .hada-entry.question.unanswered { animation: none; opacity: 0.8; }
+      .veil { transition: none; }
+    }
+
+    @media (max-width: 768px) {
+      .hada-entries { padding: 3rem 1.2rem; }
+      .hada-entry { max-width: 260px; }
+    }
+  </style>
+</head>
+<body data-oku-room="hada">
+  <div class="seam"></div>
+
+  <div class="veil" id="veil">
+    <span class="veil-text">press to enter</span>
+  </div>
+
+  <main class="hada-entries" id="entries"></main>
+
+  <form class="hada-form oku-form" id="hada-form" onsubmit="return false;">
+    <div class="oku-kind-select">
+      <label><input type="radio" name="kind" value="confession" checked><span>confession</span></label>
+      <label><input type="radio" name="kind" value="question"><span>question</span></label>
+    </div>
+    <textarea maxlength="500" placeholder="what you've never said..."></textarea>
+    <div class="oku-form-footer">
+      <span class="form-status"></span>
+      <button type="submit">bare</button>
+    </div>
+  </form>
+
+  <script src="../js/oku-nav.js"></script>
+  <script src="../js/hada.js"></script>
+</body>
+</html>
