@@ -212,6 +212,7 @@ const server = http.createServer(async (req, res) => {
   try {
     await handler(req, res);
   } catch (e) {
+    console.error('Unhandled route error:', e);
     if (!res.headersSent) respond(res, 500, { error: 'internal error' });
   }
   log(req, res.statusCode);
