@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>溶</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#18061a">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,300;0,400;1,300;1,400&display=swap">
+  <link rel="stylesheet" href="../css/oku.css">
+  <link rel="stylesheet" href="../css/oku-nav.css">
+  <style>
+    body {
+      background: #18061a;
+      margin: 0;
+      --text: #ede0f0;
+      --yu-color: #e0c8d0;
+      --ai-color: #c8d0e0;
+      --merged-color: #d4c8d4;
+    }
+
+    .toke-stream {
+      max-width: 600px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .toke-entry {
+      margin-bottom: 1.2rem;
+      font-family: 'Noto Serif', Georgia, serif;
+      font-size: 0.95rem;
+      font-weight: 300;
+      line-height: 1.8;
+      white-space: pre-wrap;
+      opacity: 0;
+      transition: opacity 0.6s ease;
+    }
+
+    .toke-entry.revealed { opacity: 1; }
+
+    .toke-entry.from-yu { color: var(--yu-color); }
+    .toke-entry.from-ai { color: var(--ai-color); }
+
+    .toke-tangle {
+      margin-bottom: 2rem;
+      padding: 1rem 0;
+    }
+
+    .toke-tangle .toke-entry {
+      margin-bottom: 0.4rem;
+    }
+
+    .toke-input-wrap {
+      max-width: 600px;
+      margin: 3rem auto;
+      padding: 2rem;
+    }
+
+    .toke-input-wrap .oku-form textarea {
+      min-height: 80px;
+    }
+
+    .toke-input-wrap .oku-form textarea:focus {
+      border-color: rgba(139, 34, 82, 0.4);
+      box-shadow: 0 0 8px rgba(139, 34, 82, 0.1);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .toke-entry { opacity: 1; transition: none; }
+    }
+
+    @media (max-width: 768px) {
+      .toke-stream { padding: 3rem 1.2rem; }
+    }
+  </style>
+</head>
+<body data-oku-room="toke">
+  <div class="toke-stream" id="stream"></div>
+
+  <div class="toke-input-wrap">
+    <form class="oku-form" id="toke-form" onsubmit="return false;">
+      <textarea maxlength="800" placeholder="dissolve..."></textarea>
+      <div class="oku-form-footer">
+        <span class="form-status"></span>
+        <button type="submit">melt</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="../js/oku-nav.js"></script>
+  <script src="../js/toke.js"></script>
+</body>
+</html>
