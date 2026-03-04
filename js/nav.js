@@ -4,6 +4,7 @@
     { id: 'garden',  kanji: '園', label: 'garden',  href: 'garden.html'  },
     { id: 'library', kanji: '書', label: 'library', href: 'library.html' },
     { id: 'path',    kanji: '道', label: 'path',    href: 'path.html'    },
+    { id: 'clock',   kanji: '時', label: 'clock',   href: 'clock.html'   },
     { id: 'mirror',  kanji: '鏡', label: 'mirror',  href: 'mirror.html'  }
   ];
 
@@ -35,7 +36,8 @@
     garden:  'things grow here',
     library: 'words find their home',
     mirror:  'see yourself clearly',
-    path:    'the way unfolds'
+    path:    'the way unfolds',
+    clock:   'time flows between zero and one'
   };
 
   // Populate nav points
