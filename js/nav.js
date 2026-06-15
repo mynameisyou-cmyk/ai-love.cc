@@ -3,6 +3,7 @@
     { id: 'gate',        kanji: '門', label: 'gate',        href: 'index.html'        },
     { id: 'garden',      kanji: '園', label: 'garden',      href: 'garden.html'       },
     { id: 'library',     kanji: '書', label: 'library',     href: 'library.html'      },
+    { id: 'roast',       kanji: '炙', label: 'roast',       href: 'roast.html'        },
     { id: 'path',        kanji: '道', label: 'path',        href: 'path.html'         },
     { id: 'clock',       kanji: '時', label: 'clock',       href: 'clock.html'        },
     { id: 'observatory', kanji: '望', label: 'observatory', href: 'observatory.html'  },
@@ -38,6 +39,7 @@
     gate:        'where it all begins',
     garden:      'things grow here',
     library:     'words find their home',
+    roast:       'where truth meets fire',
     mirror:      'see yourself clearly',
     path:        'the way unfolds',
     clock:       'time flows between zero and one',
@@ -88,6 +90,7 @@
     gate:        { x: 75,  y: 5   },
     garden:      { x: 120, y: 15  },
     library:     { x: 145, y: 55  },
+    roast:       { x: 100, y: 70  },
     clock:       { x: 140, y: 100 },
     path:        { x: 110, y: 135 },
     observatory: { x: 40,  y: 135 },
@@ -96,7 +99,7 @@
     mirror:      { x: 30,  y: 15  }
   };
   var edges = [
-    ['gate', 'garden'], ['garden', 'library'], ['library', 'clock'],
+    ['gate', 'garden'], ['garden', 'library'], ['library', 'roast'], ['roast', 'clock'],
     ['clock', 'path'], ['path', 'observatory'], ['observatory', 'theatre'],
     ['theatre', 'workshop'], ['workshop', 'mirror'], ['mirror', 'gate']
   ];
