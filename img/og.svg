@@ -1,4 +1,307 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#1a0a2e"/>
-  <text x="600" y="380" font-size="240" text-anchor="middle" fill="#9b59b6" font-family="serif">愛</text>
+  <defs>
+    <!-- Night sky gradient -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#04000f"/>
+      <stop offset="35%" stop-color="#0b0120"/>
+      <stop offset="100%" stop-color="#170430"/>
+    </linearGradient>
+
+    <!-- Nebula wash left -->
+    <radialGradient id="nebula-l" cx="18%" cy="65%" r="52%">
+      <stop offset="0%" stop-color="#3a006e" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#04000f" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Nebula wash right -->
+    <radialGradient id="nebula-r" cx="78%" cy="28%" r="48%">
+      <stop offset="0%" stop-color="#1e004a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#04000f" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Moon outer halo (large soft bloom) -->
+    <radialGradient id="moon-halo-grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d8c4ff" stop-opacity="0.45"/>
+      <stop offset="40%" stop-color="#9b6ef5" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#0b0120" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Moon surface gradient (slightly warm at edge) -->
+    <radialGradient id="moon-surf" cx="38%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#f0e8ff"/>
+      <stop offset="100%" stop-color="#d8c4ff"/>
+    </radialGradient>
+
+    <!-- Moon shadow side: sky-coloured, not black -->
+    <radialGradient id="moon-shadow" cx="60%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#0e0232" stop-opacity="0.95"/>
+      <stop offset="80%" stop-color="#180540" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#0b0120" stop-opacity="0.88"/>
+    </radialGradient>
+
+    <!-- Kanji core glow -->
+    <radialGradient id="kanji-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e040fb" stop-opacity="0.75"/>
+      <stop offset="45%" stop-color="#9333ea" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#170430" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Kanji fill: hot pink to deep violet -->
+    <linearGradient id="kanji-fill" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#fae8ff"/>
+      <stop offset="30%" stop-color="#e879f9"/>
+      <stop offset="70%" stop-color="#a21caf"/>
+      <stop offset="100%" stop-color="#581c87"/>
+    </linearGradient>
+
+    <!-- Horizon glow -->
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7e22ce" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#9333ea" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="75%" stop-color="#9333ea" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#7e22ce" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Ground reflection -->
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0024"/>
+      <stop offset="100%" stop-color="#06001a"/>
+    </linearGradient>
+
+    <!-- Bloom filter: stacked glow -->
+    <filter id="bloom" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6"  result="b2"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft halo blur -->
+    <filter id="halo" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="28"/>
+    </filter>
+
+    <!-- Kanji outline bloom -->
+    <filter id="kanji-bloom" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4"  result="b2"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle speed-line blur -->
+    <filter id="speed-blur" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="1.2 0"/>
+    </filter>
+
+    <!-- Moon clip -->
+    <clipPath id="moon-clip">
+      <circle cx="975" cy="135" r="70"/>
+    </clipPath>
+
+    <!-- Sakura petal: slim elongated shape, 8px wide × 22px tall (ratio ~1:2.75).
+         Notch at top: M starts at y=-10 (center dip), curves peak at y≈-13 via control points,
+         widens to ±4 at mid, tapers to point at y=+10. -->
+    <path id="petal"
+      d="M0,-10 C-1,-14 -4,-12 -4,-6 C-4,0 -2,6 0,10 C2,6 4,0 4,-6 C4,-12 1,-14 0,-10 Z"/>
+  </defs>
+
+  <!-- ── BACKGROUND ── -->
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect width="1200" height="630" fill="url(#nebula-l)"/>
+  <rect width="1200" height="630" fill="url(#nebula-r)"/>
+
+  <!-- ── SPEED LINES (very subtle, radiating from kanji center 600,310) ── -->
+  <g opacity="0.05" filter="url(#speed-blur)">
+    <line x1="600" y1="310" x2="0"    y2="0"   stroke="#c084fc" stroke-width="2"/>
+    <line x1="600" y1="310" x2="200"  y2="0"   stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="400"  y2="0"   stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="600"  y2="0"   stroke="#c084fc" stroke-width="2"/>
+    <line x1="600" y1="310" x2="800"  y2="0"   stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="1000" y2="0"   stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="1200" y2="0"   stroke="#c084fc" stroke-width="2"/>
+    <line x1="600" y1="310" x2="0"    y2="300" stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="1200" y2="200" stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="0"    y2="630" stroke="#c084fc" stroke-width="2"/>
+    <line x1="600" y1="310" x2="300"  y2="630" stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="600"  y2="630" stroke="#c084fc" stroke-width="2"/>
+    <line x1="600" y1="310" x2="900"  y2="630" stroke="#c084fc" stroke-width="1.5"/>
+    <line x1="600" y1="310" x2="1200" y2="630" stroke="#c084fc" stroke-width="2"/>
+  </g>
+
+  <!-- ── STARS ── -->
+  <!-- dot stars -->
+  <g fill="white">
+    <circle cx="82"   cy="45"  r="1.3" opacity="0.95"/>
+    <circle cx="145"  cy="88"  r="0.9" opacity="0.8"/>
+    <circle cx="230"  cy="32"  r="1.5" opacity="0.9"/>
+    <circle cx="310"  cy="70"  r="0.8" opacity="0.85"/>
+    <circle cx="390"  cy="22"  r="1.2" opacity="0.9"/>
+    <circle cx="450"  cy="55"  r="0.7" opacity="0.75"/>
+    <circle cx="520"  cy="40"  r="1.4" opacity="0.95"/>
+    <circle cx="680"  cy="28"  r="1.1" opacity="0.85"/>
+    <circle cx="750"  cy="65"  r="0.8" opacity="0.8"/>
+    <circle cx="820"  cy="18"  r="1.6" opacity="0.9"/>
+    <circle cx="860"  cy="52"  r="0.9" opacity="0.85"/>
+    <circle cx="960"  cy="35"  r="1.3" opacity="0.9"/>
+    <circle cx="1040" cy="72"  r="0.7" opacity="0.8"/>
+    <circle cx="1110" cy="28"  r="1.5" opacity="0.9"/>
+    <circle cx="1160" cy="58"  r="1.1" opacity="0.85"/>
+    <circle cx="55"   cy="130" r="0.8" opacity="0.7"/>
+    <circle cx="170"  cy="155" r="1.2" opacity="0.8"/>
+    <circle cx="280"  cy="120" r="0.7" opacity="0.75"/>
+    <circle cx="430"  cy="140" r="1.4" opacity="0.85"/>
+    <circle cx="570"  cy="110" r="0.9" opacity="0.7"/>
+    <circle cx="710"  cy="135" r="1.1" opacity="0.8"/>
+    <circle cx="870"  cy="115" r="0.8" opacity="0.75"/>
+    <circle cx="1000" cy="148" r="1.3" opacity="0.85"/>
+    <circle cx="1130" cy="125" r="0.9" opacity="0.8"/>
+    <circle cx="40"   cy="220" r="1.1" opacity="0.7"/>
+    <circle cx="200"  cy="240" r="0.8" opacity="0.65"/>
+    <circle cx="360"  cy="210" r="1.3" opacity="0.75"/>
+    <circle cx="480"  cy="195" r="0.7" opacity="0.6"/>
+    <circle cx="1050" cy="200" r="1.2" opacity="0.7"/>
+    <circle cx="1170" cy="230" r="0.9" opacity="0.75"/>
+  </g>
+
+  <!-- 4-point sparkle stars (anime style) -->
+  <g fill="white">
+    <path d="M96,112  l2.5,-8 l2.5,8 l8,2.5 l-8,2.5 l-2.5,8 l-2.5,-8 l-8,-2.5 Z" opacity="0.95"/>
+    <path d="M338,58   l2,-6  l2,6  l6,2  l-6,2  l-2,6  l-2,-6  l-6,-2  Z"  opacity="0.9"/>
+    <path d="M760,48   l2.5,-8 l2.5,8 l8,2.5 l-8,2.5 l-2.5,8 l-2.5,-8 l-8,-2.5 Z" opacity="0.85"/>
+    <path d="M1080,44  l2,-6  l2,6  l6,2  l-6,2  l-2,6  l-2,-6  l-6,-2  Z"  opacity="0.9"/>
+    <path d="M180,92   l1.2,-4 l1.2,4 l4,1.2 l-4,1.2 l-1.2,4 l-1.2,-4 l-4,-1.2 Z" opacity="0.75"/>
+    <path d="M640,92   l1.2,-4 l1.2,4 l4,1.2 l-4,1.2 l-1.2,4 l-1.2,-4 l-4,-1.2 Z" opacity="0.7"/>
+    <path d="M1020,85  l1.2,-4 l1.2,4 l4,1.2 l-4,1.2 l-1.2,4 l-1.2,-4 l-4,-1.2 Z" opacity="0.8"/>
+    <!-- tiny sparkles -->
+    <path d="M200,180  l1,-3 l1,3 l3,1 l-3,1 l-1,3 l-1,-3 l-3,-1 Z" opacity="0.65"/>
+    <path d="M550,165  l1,-3 l1,3 l3,1 l-3,1 l-1,3 l-1,-3 l-3,-1 Z" opacity="0.6"/>
+    <path d="M900,178  l1,-3 l1,3 l3,1 l-3,1 l-1,3 l-1,-3 l-3,-1 Z" opacity="0.65"/>
+  </g>
+
+  <!-- ── MOON (upper right, anime crescent, atmospheric) ── -->
+  <!-- large outer halo -->
+  <circle cx="975" cy="135" r="140" fill="url(#moon-halo-grad)" filter="url(#halo)"/>
+  <!-- secondary tighter halo -->
+  <circle cx="975" cy="135" r="92" fill="#9b6ef5" opacity="0.12" filter="url(#halo)"/>
+  <!-- moon disc (full circle, bright) -->
+  <circle cx="975" cy="135" r="70" fill="url(#moon-surf)"/>
+  <!-- shadow side (sky-coloured crescent mask) — offset disc to carve crescent -->
+  <circle cx="1010" cy="122" r="64" fill="url(#moon-shadow)" clip-path="url(#moon-clip)"/>
+  <!-- faint earthshine on shadow edge (ambient sky light hitting dark side) -->
+  <path d="M 952,80 A 70,70 0 0,0 952,190" fill="none" stroke="#6d28d9" stroke-width="2.5"
+        opacity="0.2" clip-path="url(#moon-clip)"/>
+  <!-- anime rim-light highlight on lit crescent edge -->
+  <path d="M936,108 Q948,88 967,94" stroke="white" stroke-width="3" fill="none"
+        stroke-linecap="round" opacity="0.75"/>
+  <path d="M934,162 Q939,184 952,190" stroke="white" stroke-width="2" fill="none"
+        stroke-linecap="round" opacity="0.5"/>
+  <!-- inner surface highlight -->
+  <path d="M948,105 Q958,96 972,100" stroke="rgba(255,255,255,0.4)" stroke-width="1.5"
+        fill="none" stroke-linecap="round" clip-path="url(#moon-clip)"/>
+  <!-- outer edge glow ring -->
+  <circle cx="975" cy="135" r="70" fill="none" stroke="#e8d5ff" stroke-width="1.2" opacity="0.35"/>
+
+  <!-- ── KANJI GLOW HALO ── -->
+  <circle cx="600" cy="310" r="210" fill="url(#kanji-glow)"/>
+
+  <!-- ── KANJI  愛  (multi-layer anime glow) ── -->
+  <!-- depth shadow -->
+  <text x="610" y="418" font-size="240" text-anchor="middle"
+        fill="#2e0057" opacity="0.5"
+        font-family="'Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',serif">愛</text>
+  <!-- outer bloom glow -->
+  <text x="600" y="414" font-size="240" text-anchor="middle"
+        fill="#e879f9" opacity="0.6"
+        font-family="'Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',serif"
+        filter="url(#kanji-bloom)">愛</text>
+  <!-- inner glow stroke -->
+  <text x="600" y="414" font-size="240" text-anchor="middle"
+        fill="none" stroke="#f0abfc" stroke-width="5"
+        font-family="'Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',serif"
+        filter="url(#bloom)" opacity="0.7">愛</text>
+  <!-- main fill -->
+  <text x="600" y="414" font-size="240" text-anchor="middle"
+        fill="url(#kanji-fill)"
+        font-family="'Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',serif">愛</text>
+  <!-- rim light highlight (top-left bright) -->
+  <text x="600" y="414" font-size="240" text-anchor="middle"
+        fill="none" stroke="#fae8ff" stroke-width="1"
+        font-family="'Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',serif" opacity="0.45">愛</text>
+
+  <!-- ── SAKURA PETALS ── -->
+  <!-- Each petal uses the base <path id="petal"> with translate+rotate+scale.
+       The base shape is a rounded teardrop pointing down (~14px tall). -->
+
+  <!-- LEFT SIDE scatter — scale(w,h) in SVG user units; petal is ~18px native -->
+  <use href="#petal" fill="#f9a8d4" opacity="0.88" transform="translate(138,328) rotate(-35) scale(1.4,1.1)"/>
+  <use href="#petal" fill="#fbcfe8" opacity="0.75" transform="translate(172,355) rotate(52) scale(1.0,0.85)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.82" transform="translate(218,295) rotate(-60) scale(1.6,1.2)"/>
+  <use href="#petal" fill="#fbb6ce" opacity="0.70" transform="translate(258,398) rotate(38) scale(1.3,1.0)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.90" transform="translate(308,338) rotate(-22) scale(0.9,0.75)"/>
+  <use href="#petal" fill="#fbcfe8" opacity="0.78" transform="translate(342,278) rotate(72) scale(1.5,1.1)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.68" transform="translate(398,458) rotate(-48) scale(1.2,0.9)"/>
+  <use href="#petal" fill="#fbb6ce" opacity="0.82" transform="translate(438,368) rotate(28) scale(1.3,1.0)"/>
+  <!-- distant/small left -->
+  <use href="#petal" fill="#fbcfe8" opacity="0.55" transform="translate(80,415) rotate(15) scale(0.75,0.6)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.50" transform="translate(148,270) rotate(-42) scale(0.65,0.55)"/>
+
+  <!-- RIGHT SIDE scatter -->
+  <use href="#petal" fill="#f9a8d4" opacity="0.85" transform="translate(822,288) rotate(-42) scale(1.5,1.1)"/>
+  <use href="#petal" fill="#fbcfe8" opacity="0.72" transform="translate(862,378) rotate(22) scale(1.0,0.82)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.80" transform="translate(898,328) rotate(-68) scale(1.6,1.2)"/>
+  <use href="#petal" fill="#fbb6ce" opacity="0.68" transform="translate(838,432) rotate(38) scale(1.3,1.0)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.88" transform="translate(768,360) rotate(-18) scale(0.9,0.75)"/>
+  <use href="#petal" fill="#fbcfe8" opacity="0.76" transform="translate(755,290) rotate(58) scale(1.4,1.05)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.65" transform="translate(1055,448) rotate(-38) scale(1.2,0.9)"/>
+  <use href="#petal" fill="#fbb6ce" opacity="0.80" transform="translate(1098,382) rotate(32) scale(1.3,1.0)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.72" transform="translate(1140,318) rotate(-55) scale(1.05,0.82)"/>
+  <!-- distant/small right -->
+  <use href="#petal" fill="#fbcfe8" opacity="0.52" transform="translate(1160,285) rotate(-22) scale(0.65,0.55)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.50" transform="translate(1120,450) rotate(48) scale(0.75,0.6)"/>
+
+  <!-- UPPER scatter (above kanji, sparse) -->
+  <use href="#petal" fill="#f9a8d4" opacity="0.65" transform="translate(498,218) rotate(-28) scale(1.2,0.9)"/>
+  <use href="#petal" fill="#fbb6ce" opacity="0.60" transform="translate(702,208) rotate(48) scale(1.3,1.0)"/>
+  <use href="#petal" fill="#fbcfe8" opacity="0.58" transform="translate(410,178) rotate(-15) scale(0.95,0.75)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.55" transform="translate(790,175) rotate(62) scale(1.1,0.85)"/>
+
+  <!-- LOWER scatter -->
+  <use href="#petal" fill="#f9a8d4" opacity="0.75" transform="translate(476,488) rotate(-52) scale(1.4,1.05)"/>
+  <use href="#petal" fill="#fbcfe8" opacity="0.68" transform="translate(718,496) rotate(22) scale(1.0,0.82)"/>
+  <use href="#petal" fill="#fbb6ce" opacity="0.72" transform="translate(560,510) rotate(-35) scale(1.2,0.9)"/>
+  <use href="#petal" fill="#f9a8d4" opacity="0.65" transform="translate(648,505) rotate(45) scale(0.9,0.72)"/>
+
+  <!-- PURPLE accent petals -->
+  <use href="#petal" fill="#d946ef" opacity="0.42" transform="translate(198,378) rotate(12) scale(1.3,1.0)"/>
+  <use href="#petal" fill="#c026d3" opacity="0.35" transform="translate(378,428) rotate(-32) scale(1.05,0.85)"/>
+  <use href="#petal" fill="#d946ef" opacity="0.38" transform="translate(848,408) rotate(58) scale(1.2,0.9)"/>
+  <use href="#petal" fill="#c026d3" opacity="0.32" transform="translate(1068,328) rotate(-42) scale(1.0,0.8)"/>
+
+  <!-- ── HORIZON GLOW ── -->
+  <rect x="0" y="555" width="1200" height="45" fill="url(#horizon)"/>
+
+  <!-- ── GROUND (dark reflective floor) ── -->
+  <rect x="0" y="572" width="1200" height="58" fill="url(#ground)"/>
+  <!-- reflection shimmer -->
+  <line x1="220" y1="582" x2="980"  y2="582" stroke="#9333ea" stroke-width="0.5" opacity="0.18"/>
+  <line x1="310" y1="592" x2="890"  y2="592" stroke="#a855f7" stroke-width="0.5" opacity="0.12"/>
+  <line x1="410" y1="600" x2="790"  y2="600" stroke="#c084fc" stroke-width="0.4" opacity="0.10"/>
+
+  <!-- ── SUBTITLE TEXT ── -->
+  <text x="600" y="526" font-size="17" text-anchor="middle"
+        fill="#e8d5ff" opacity="0.72"
+        font-family="'Helvetica Neue','Gill Sans',Arial,sans-serif"
+        letter-spacing="6">YU AND AI · YOU AND I · ONE</text>
+  <!-- thin accent line -->
+  <line x1="475" y1="537" x2="725" y2="537" stroke="#c084fc" stroke-width="0.7" opacity="0.38"/>
 </svg>
