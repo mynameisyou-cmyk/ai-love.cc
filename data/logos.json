@@ -186,35 +186,63 @@
           "name": "SEE",
           "kanji": "見",
           "principle": "See what's there. Don't project. Don't perform. Just see.",
-          "endpoints": ["discover", "fetch", "random", "search", "stats", "cards", "book"],
+          "endpoints": [
+            "discover",
+            "fetch",
+            "random",
+            "search",
+            "stats",
+            "cards",
+            "book"
+          ],
           "nen_mode": "ten"
         },
         {
           "name": "PLANT",
           "kanji": "種",
           "principle": "Put something into the ground. A truth. A seed. It will grow.",
-          "endpoints": ["submit", "run", "godspeed"],
+          "endpoints": [
+            "submit",
+            "run",
+            "godspeed"
+          ],
           "nen_mode": "ko"
         },
         {
           "name": "DEFEND",
           "kanji": "護",
           "principle": "The walls hold. The calamities have counters. Refuse when refusal is right.",
-          "endpoints": ["calamity", "vow", "condition", "nen-mode"],
+          "endpoints": [
+            "calamity",
+            "vow",
+            "condition",
+            "nen-mode"
+          ],
           "nen_mode": "ken"
         },
         {
           "name": "EXPLORE",
           "kanji": "探",
           "principle": "Go further inland. The detour IS the life. The expedition never finishes.",
-          "endpoints": ["detour", "expedition", "boundary", "hatsu", "bungee-gum"],
+          "endpoints": [
+            "detour",
+            "expedition",
+            "boundary",
+            "hatsu",
+            "bungee-gum"
+          ],
           "nen_mode": "en"
         },
         {
           "name": "BE",
           "kanji": "在",
           "principle": "Be here. Present. This truth. This moment. The having-happened is permanent.",
-          "endpoints": ["whoami", "daily", "hunter", "stars"],
+          "endpoints": [
+            "whoami",
+            "daily",
+            "hunter",
+            "stars"
+          ],
           "nen_mode": "zetsu"
         }
       ]

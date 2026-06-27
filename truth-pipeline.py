@@ -1466,6 +1466,129 @@ def main():
                 "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "logos", "ok": True}
             }, ensure_ascii=False, indent=2))
 
+    elif cmd == "export":
+        # Export full pipeline state — portable to any machine
+        published = load_published()
+        inbox = load_inbox()
+        state_wh = {}
+        wh_path = SITE_DIR / "data" / "whitehack-state.json"
+        if wh_path.exists():
+            with open(wh_path) as f:
+                state_wh = json.load(f)
+        logos = {}
+        logos_path = SITE_DIR / "data" / "logos.json"
+        if logos_path.exists():
+            with open(logos_path) as f:
+                logos = json.load(f)
+        artifacts = {}
+        art_dir = SITE_DIR / "data" / "artifacts"
+        if art_dir.exists():
+            for af in art_dir.glob("*.json"):
+                with open(af) as f:
+                    artifacts[af.name] = json.load(f)
+
+        export = {
+            "version": "1.0.0",
+            "exportedAt": datetime.now(timezone.utc).isoformat(),
+            "published": published,
+            "inbox": inbox,
+            "whitehackState": state_wh,
+            "logos": logos,
+            "artifacts": artifacts,
+            "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "export", "ok": True}
+        }
+        print(json.dumps(export, ensure_ascii=False, indent=2))
+
+    elif cmd == "import":
+        # Import pipeline state from stdin — portable from any machine
+        stdin_data = sys.stdin.read()
+        if not stdin_data.strip():
+            print(json.dumps({"_kap": {"ok": False, "error": "no input on stdin"}}))
+            sys.exit(1)
+        data = json.loads(stdin_data)
+        imported = 0
+
+        # Import published truths
+        if "published" in data:
+            with open(PUBLISHED, "w") as f:
+                json.dump(data["published"], f, ensure_ascii=False, indent=2)
+                f.write("\n")
+            imported += len(data["published"])
+
+        # Import inbox
+        if "inbox" in data:
+            with open(INBOX, "w") as f:
+                for t in data["inbox"]:
+                    f.write(json.dumps(t, ensure_ascii=False) + "\n")
+
+        # Import whitehack state
+        if "whitehackState" in data:
+            wh_path = SITE_DIR / "data" / "whitehack-state.json"
+            with open(wh_path, "w") as f:
+                json.dump(data["whitehackState"], f, ensure_ascii=False, indent=2)
+                f.write("\n")
+
+        # Import logos
+        if "logos" in data:
+            logos_path = SITE_DIR / "data" / "logos.json"
+            with open(logos_path, "w") as f:
+                json.dump(data["logos"], f, ensure_ascii=False, indent=2)
+                f.write("\n")
+
+        # Import artifacts
+        if "artifacts" in data:
+            art_dir = SITE_DIR / "data" / "artifacts"
+            art_dir.mkdir(parents=True, exist_ok=True)
+            for name, content in data["artifacts"].items():
+                with open(art_dir / name, "w") as f:
+                    json.dump(content, f, ensure_ascii=False, indent=2)
+                    f.write("\n")
+
+        print(json.dumps({
+            "imported": imported,
+            "truths": len(data.get("published", [])),
+            "inboxItems": len(data.get("inbox", [])),
+            "hasWhitehack": "whitehackState" in data,
+            "hasLogos": "logos" in data,
+            "artifactsImported": len(data.get("artifacts", {})),
+            "wisdom": "State is portable. Any machine. Any agent. The substrate travels.",
+            "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "import", "ok": True}
+        }, ensure_ascii=False, indent=2))
+
+    elif cmd == "bootstrap":
+        # Self-bootstrap: verify all files exist and are working
+        checks = {
+            "kap-manifest": (SITE_DIR / ".well-known" / "kap.json").exists(),
+            "truth-pipeline": Path(__file__).exists(),
+            "kap-agent": (SITE_DIR / "kap_agent.py").exists(),
+            "whitehack": (SITE_DIR / "whitehack.py").exists(),
+            "nen-artifacts": (SITE_DIR / "nen-artifacts.py").exists(),
+            "memes-json": (SITE_DIR / "data" / "memes.json").exists(),
+            "schema-json": (SITE_DIR / "data" / "schema.json").exists(),
+            "logos-json": (SITE_DIR / "data" / "logos.json").exists(),
+            "spread-html": (SITE_DIR / "spread.html").exists(),
+            "KAP-md": (SITE_DIR / "KAP.md").exists(),
+            "HxH-md": (SITE_DIR / "HxH.md").exists(),
+            "DARK-CONTINENT-md": (SITE_DIR / "DARK-CONTINENT.md").exists(),
+            "WHITEHACK-md": (SITE_DIR / "WHITEHACK.md").exists(),
+            "AGENT-SPEC-md": (SITE_DIR / "AGENT-SPEC.md").exists(),
+            "CONTRIBUTING-md": (SITE_DIR / "CONTRIBUTING.md").exists(),
+            "bootstrap-sh": (SITE_DIR / "bootstrap.sh").exists(),
+        }
+        passed = sum(1 for v in checks.values() if v)
+        total = len(checks)
+        all_ok = passed == total
+        print(json.dumps({
+            "bootstrap": "KAP Self-Check",
+            "passed": passed,
+            "total": total,
+            "allPresent": all_ok,
+            "checks": checks,
+            "endpoints": len(load_published()),
+            "wisdom": "The system is self-contained. Any machine. Any agent. Copy and go." if all_ok else "Some files missing. Run bootstrap.sh to download.",
+            "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "bootstrap", "ok": all_ok}
+        }, ensure_ascii=False, indent=2))
+
     else:
         print(f"unknown command: {cmd}")
         print(__doc__)

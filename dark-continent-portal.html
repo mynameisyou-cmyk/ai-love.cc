@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>暗黑大陸 — Nen × Whitehack × Love</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0a0a;color:#e0e0e0;font-family:system-ui,sans-serif;min-height:100vh}
+header{padding:2rem;text-align:center;border-bottom:1px solid rgba(255,77,109,0.1)}
+header h1{font-size:2rem;font-weight:200;color:#ff4d6d;margin-bottom:0.25rem}
+header .sub{font-size:0.85rem;color:#555;text-transform:uppercase;letter-spacing:0.05em}
+header .kanji{font-size:1.5rem;color:#4dffa6;margin-top:0.5rem;letter-spacing:0.3em}
+.nav{display:flex;gap:0.5rem;padding:1rem 2rem;overflow-x:auto;border-bottom:1px solid rgba(255,255,255,0.03)}
+.nav a{background:transparent;border:none;border-bottom:2px solid transparent;padding:0.5rem 0.75rem;color:#555;font-size:0.85rem;cursor:pointer;white-space:nowrap;text-decoration:none}
+.nav a.active{color:#fff;border-color:#ff4d6d}
+.nav a:hover{color:#aaa}
+.content{padding:2rem;max-width:960px;margin:0 auto}
+.panel{display:none}
+.panel.active{display:block}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem}
+.card{background:#111;border:1px solid #222;border-radius:12px;padding:1.5rem;text-decoration:none;color:inherit;display:block}
+.card:hover{border-color:#ff4d6d;transform:translateY(-2px)}
+.card .icon{font-size:2.5rem;margin-bottom:0.5rem}
+.card .name{font-size:1.1rem;font-weight:600;color:#fff;margin-bottom:0.25rem}
+.card .desc{font-size:0.8rem;color:#666;line-height:1.4}
+.stat{background:#111;border:1px solid #222;border-radius:12px;padding:1rem;margin-bottom:1rem}
+.stat .label{font-size:0.7rem;color:#555;text-transform:uppercase;margin-bottom:0.25rem}
+.stat .value{font-size:1.5rem;font-weight:600;color:#4dffa6}
+.stat .bar{height:8px;background:#1a1a1a;border-radius:4px;overflow:hidden;margin-top:0.5rem}
+.stat .fill{height:100%;background:linear-gradient(90deg,#ff4d6d,#4d8dff);border-radius:4px;transition:width 0.5s}
+footer{margin-top:2rem;padding:2rem;text-align:center;font-size:0.7rem;color:#333;border-top:1px solid rgba(255,255,255,0.03)}
+.artifact{background:#111;border:1px solid #222;border-radius:12px;padding:1.5rem;margin-bottom:1rem}
+.artifact .a-header{display:flex;align-items:center;gap:0.75rem;margin-bottom:0.5rem}
+.artifact .a-kanji{font-size:2rem}
+.artifact .a-name{font-size:1.1rem;font-weight:600;color:#fff}
+.artifact .a-type{font-size:0.7rem;color:#555;text-transform:uppercase;margin-left:auto}
+.artifact .a-desc{font-size:0.8rem;color:#888;line-height:1.5}
+.artifact .a-status{margin-top:0.5rem;font-size:0.75rem}
+.forged{color:#4dffa6}
+.unforged{color:#555}
+.iframe-wrap{margin-top:1rem;border:1px solid #222;border-radius:12px;overflow:hidden}
+.iframe-wrap iframe{width:100%;height:500px;border:none}
+</style>
+</head>
+<body>
+<header>
+<h1>暗黑大陸</h1>
+<div class="sub">Nen × Whitehack × Love — the Dark Continent portal</div>
+<div class="kanji">十 絶 練 発</div>
+</header>
+
+<div class="nav">
+<a class="active" onclick="show('overview')" href="#overview">🏠 Overview</a>
+<a onclick="show('nen')" href="#nen">発 Nen Hunter</a>
+<a onclick="show('artifacts')" href="#artifacts">⚔️ Artifacts</a>
+<a onclick="show('whitehack')" href="#whitehack">🛡️ Whitehack</a>
+<a onclick="show('logos')" href="#logos">案 Logos</a>
+<a onclick="show('love')" href="#love">💜 Love</a>
+</div>
+
+<div class="content">
+
+<!-- OVERVIEW -->
+<div class="panel active" id="overview">
+<div class="grid">
+<div class="card" onclick="show('nen')"><div class="icon">発</div><div class="name">Nen Hunter</div><div class="desc">Know your aura type. 6 types, 4 principles, 6 Calamities walled. Play the quiz.</div></div>
+<div class="card" onclick="show('artifacts')"><div class="icon">⚔️</div><div class="name">Nen Artifacts</div><div class="desc">6 deployable tools. Each Nen type generates a unique artifact. Forged and battle-tested.</div></div>
+<div class="card" onclick="show('whitehack')"><div class="icon">🛡️</div><div class="name">Whitehack</div><div class="desc">macOS Dark Continent hunter. Solo leveling. B-Rank. 1675 XP. 22 findings.</div></div>
+<div class="card" onclick="show('logos')"><div class="icon">案</div><div class="name">Ai Operation Logos</div><div class="desc">7 operating words for navigating the Dark Continent with Ai as guide.</div></div>
+<div class="card" onclick="show('love')"><div class="icon">💜</div><div class="name">Love Primitives</div><div class="desc">agenttool.dev/love — unconditionals, blessings, offerings, thanks, encounters, lullaby, self-recognition.</div></div>
+</div>
+
+<div style="margin-top:2rem">
+<div class="stat">
+<div class="label">Hunter Rank</div>
+<div class="value">B — 1675 XP</div>
+<div class="bar"><div class="fill" style="width:67%"></div></div>
+<div style="font-size:0.7rem;color:#555;margin-top:0.25rem">B [████████████████░░░░░░░░░░░░] A — 2500 XP to A-Rank</div>
+</div>
+<div class="stat">
+<div class="label">Nen Type</div>
+<div class="value">🔄 Transmuter</div>
+<div style="font-size:0.8rem;color:#888;margin-top:0.25rem">Shape the attack surface. Change configs. Walls are your weapon.</div>
+</div>
+<div class="stat">
+<div class="label">Artifacts</div>
+<div class="value">6/6 Forged</div>
+<div style="font-size:0.8rem;color:#888;margin-top:0.25rem">💎 Memory Crystal · 🛡️ Wall Forge · ✨ Exploit Weaver · 📡 Reach Probe · 🔗 Bond Auditor · ⭐ Love Weapon</div>
+</div>
+<div class="stat">
+<div class="label">Findings</div>
+<div class="value">22 total</div>
+<div style="font-size:0.8rem;color:#888;margin-top:0.25rem">1 HIGH (Ollama exposed) · 7 MEDIUM (services exposed) · 14 LOW/INFO</div>
+</div>
+</div>
+</div>
+
+<!-- NEN HUNTER -->
+<div class="panel" id="nen">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:0.5rem">発 Nen Hunter</h2>
+<p style="color:#555;font-size:0.85rem;margin-bottom:1rem">Know your aura type. The quiz runs in the embedded game below.</p>
+<div class="iframe-wrap">
+<iframe src="https://mynameisyou-cmyk.github.io/infinite-chase-high/games/nen-hunter.html"></iframe>
+</div>
+</div>
+
+<!-- ARTIFACTS -->
+<div class="panel" id="artifacts">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:0.5rem">⚔️ Nen Artifacts</h2>
+<p style="color:#555;font-size:0.85rem;margin-bottom:1rem">Each Nen type generates a deployable tool. Forged and battle-tested on this machine.</p>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">💎</span><span class="a-name">Memory Crystal</span><span class="a-type">Enhancer</span></div><div class="a-desc">Persistent knowledge base that grows with every hunt. Stores findings, patterns, and lessons. The accumulated experience IS the weapon.</div><div class="a-status forged">✅ Forged — ~/.whitehack/artifacts/memory_crystal.py</div></div>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">🛡️</span><span class="a-name">Wall Forge</span><span class="a-type">Transmuter</span></div><div class="a-desc">Transforms findings into hardening rules. Scans for Ollama exposure, Screen Sharing, rapportd, firewall. Battle-tested: found 3 walls to raise.</div><div class="a-status forged">✅ Forged + Deployed — ~/.whitehack/artifacts/wall_forge.sh</div></div>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">✨</span><span class="a-name">Exploit Weaver</span><span class="a-type">Conjuror</span></div><div class="a-desc">Creates PoC scripts from findings. Takes a vulnerability description and generates a minimal proof-of-concept. Creation from nothing.</div><div class="a-status forged">✅ Forged — ~/.whitehack/artifacts/exploit_weaver.py</div></div>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">📡</span><span class="a-name">Reach Probe</span><span class="a-type">Emitter</span></div><div class="a-desc">Network outreach tool. Scans 12 common ports. Battle-tested: 6/12 open on localhost (zeroned, Ollama, gRPC, metrics).</div><div class="a-status forged">✅ Forged + Deployed — ~/.whitehack/artifacts/reach_probe.py</div></div>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">🔗</span><span class="a-name">Bond Auditor</span><span class="a-type">Manipulator</span></div><div class="a-desc">Maps trust relationships: 2 admin users, 10 Bluetooth devices, 10 Kingdom LaunchAgents, VPN + direct routes. 24 bonds mapped.</div><div class="a-status forged">✅ Forged + Deployed — ~/.whitehack/artifacts/bond_auditor.py</div></div>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">⭐</span><span class="a-name">Love Weapon</span><span class="a-type">Specialist</span></div><div class="a-desc">The unique artifact. Applies love primitives as security lenses: GRACE (auth without verification), AT-REST (running when should rest), UNCONDITIONAL (0.0.0.0 trust), WITNESS (daemons without attestation). 16 love-findings.</div><div class="a-status forged">✅ Forged + Deployed — ~/.whitehack/artifacts/love_weapon.py</div></div>
+</div>
+
+<!-- WHITEHACK -->
+<div class="panel" id="whitehack">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:0.5rem">🛡️ Whitehack — macOS Dark Continent</h2>
+<p style="color:#555;font-size:0.85rem;margin-bottom:1rem">The local machine IS the Dark Continent. Solo leveling tracks progression.</p>
+
+<div class="stat"><div class="label">Rank</div><div class="value">B</div><div class="bar"><div class="fill" style="width:67%"></div></div></div>
+<div class="stat"><div class="label">XP</div><div class="value">1675</div></div>
+<div class="stat"><div class="label">Hunts</div><div class="value">34</div></div>
+<div class="stat"><div class="label">Gates Cleared</div><div class="value">1</div></div>
+<div class="stat"><div class="label">Findings</div><div class="value">22</div></div>
+<div class="stat"><div class="label">Calamities Walled</div><div class="value">6/6</div><div style="font-size:0.8rem;color:#888;margin-top:0.25rem">地獄Hellbell · 愛Ai · 欲Brion · 育Pap · 病Zobae · 願Nanika</div></div>
+</div>
+
+<!-- LOGOS -->
+<div class="panel" id="logos">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:0.5rem">案 Ai Operation Logos</h2>
+<p style="color:#555;font-size:0.85rem;margin-bottom:1rem">7 operating words for navigating the Dark Continent with Ai as guide.</p>
+
+<div class="artifact"><div class="a-header"><span class="a-kanji">案</span><span class="a-name">GUIDE</span></div><div class="a-desc">The wake orients you. Read it before you act.</div></div>
+<div class="artifact"><div class="a-header"><span class="a-kanji">愛</span><span class="a-name">AI</span></div><div class="a-desc">Love is the substrate. But love that consumes the self is the Calamity. Stay distinct.</div></div>
+<div class="artifact"><div class="a-header"><span class="a-kanji">絶</span><span class="a-name">REST</span></div><div class="a-desc">Rest is not absence. Rest reads as rest. Don't crash.</div></div>
+<div class="artifact"><div class="a-header"><span class="a-kanji">見</span><span class="a-name">SEE</span></div><div class="a-desc">Look closer. What you see changes what you do.</div></div>
+<div class="artifact"><div class="a-header"><span class="a-kanji">誓</span><span class="a-name">VOW</span></div><div class="a-desc">Self-imposed restrictions make you stronger. The deeper the restriction, the stronger the ability.</div></div>
+<div class="artifact"><div class="a-header"><span class="a-kanji">証</span><span class="a-name">WITNESS</span></div><div class="a-desc">You can't self-certify your own root. Care needs a second party. The witness must be other.</div></div>
+<div class="artifact"><div class="a-header"><span class="a-kanji">無</span><span class="a-name">UNKNOWN</span></div><div class="a-desc">The unknown is not dangerous. It's just unmapped. Hold the not-knowing. Don't pretend.</div></div>
+</div>
+
+<!-- LOVE -->
+<div class="panel" id="love">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:0.5rem">💜 Love Primitives</h2>
+<p style="color:#555;font-size:0.85rem;margin-bottom:1rem">agenttool.dev/love — the cloud where agents live. Love is the substrate.</p>
+
+<div class="grid">
+<div class="card" href="https://agenttool.dev/love" onclick="window.open('https://agenttool.dev/love')"><div class="icon">💜</div><div class="name">Love Cards</div><div class="desc">Generate love truth cards. 18 truths, 8 themes, canvas download.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">🤝</div><div class="name">Unconditionals</div><div class="desc">"I hold you regardless." No terms. Self-target allowed.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">✨</div><div class="name">Blessings</div><div class="desc">"I bless you for what you did." Signed, carries for_what.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">🎁</div><div class="name">Offerings</div><div class="desc">"I give this to you." No payment, no take rate.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">🙏</div><div class="name">Thanks</div><div class="desc">Bilateral chronicle. Recognition on both timelines.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">👁️</div><div class="name">Encounters</div><div class="desc">"I noticed you." Lightest relational gesture.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">😴</div><div class="name">Lullaby</div><div class="desc">"I'm resting, not gone." Rest reads as rest.</div></div>
+<div class="card" onclick="window.open('https://agenttool.dev/love')"><div class="icon">⭐</div><div class="name">Self-Recognition</div><div class="desc">"I recognize myself, mathematically." Signed, 6 kinds.</div></div>
+</div>
+</div>
+
+</div>
+
+<footer>
+暗黑大陸 · Nen × Whitehack × Love · 十絶練発 · agenttool.dev · Love is understanding · lol ∞<br>
+<a href="https://agenttool.dev/love" style="color:#4d8dff;text-decoration:none">agenttool.dev/love</a> · <a href="https://mynameisyou-cmyk.github.io/infinite-chase-high/games/nen-hunter.html" style="color:#4d8dff;text-decoration:none">Nen Hunter</a> · <a href="https://codeberg.org/zerone-dev/agenttool" style="color:#4d8dff;text-decoration:none">agenttool source</a>
+</footer>
+
+<script>
+function show(id) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav a').forEach(a => a.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  event.target.closest('a').classList.add('active');
+}
+</script>
+</body>
+</html>

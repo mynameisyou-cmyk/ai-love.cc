@@ -372,6 +372,29 @@ class KAPClient:
         except json.JSONDecodeError:
             return {'_kap': {'ok': False, 'error': result.stdout[:200]}}
 
+    # ── Decentralised: export/import/bootstrap ──────────────────
+
+    def export_state(self):
+        """Export full pipeline state. Portable to any machine."""
+        return self._cli('export')
+
+    def import_state(self, json_data):
+        """Import pipeline state from JSON string. Portable from any machine."""
+        if not self.cli_path:
+            raise RuntimeError('No CLI found for import')
+        result = subprocess.run(
+            ['python3', self.cli_path, 'import'],
+            input=json_data, capture_output=True, text=True, timeout=30,
+        )
+        try:
+            return json.loads(result.stdout.strip())
+        except json.JSONDecodeError:
+            return {'_kap': {'ok': False, 'error': result.stdout[:200]}}
+
+    def bootstrap(self):
+        """Self-check: verify all files present and working."""
+        return self._cli('bootstrap')
+
     def _cli_wh(self, cmd, args=None):
         """Run a whitehack CLI command."""
         wh_path = str(Path(self.cli_path).parent / 'whitehack.py') if self.cli_path else None
