@@ -1,0 +1,36 @@
+{
+  "xp": 2900,
+  "scansRun": 6,
+  "battlesFound": 13,
+  "treasuresFound": 23,
+  "floorsMapped": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "skillsUsed": [
+    "hardware",
+    "os-info",
+    "network",
+    "bluetooth",
+    "security",
+    "processes-ports",
+    "disk",
+    "power",
+    "launch-agents-daemons",
+    "ssh-connections",
+    "environment-shell",
+    "installed-applications",
+    "macos-ui-settings"
+  ],
+  "ts": "2026-06-27T17:01:21.489806+00:00"
+}

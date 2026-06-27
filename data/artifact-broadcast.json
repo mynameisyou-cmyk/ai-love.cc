@@ -1,0 +1,125 @@
+{
+  "type": "broadcast",
+  "nen": "emitter",
+  "nenKanji": "放",
+  "description": "Data sent outward. Network maps, connection profiles.",
+  "endpoints": [
+    {
+      "type": "port",
+      "address": "localhost:56935",
+      "process": "rapportd",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:56935",
+      "process": "rapportd",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:9913",
+      "process": "Python",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:8877",
+      "process": "bun",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:26660",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:26601",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:26600",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:6060",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:9090",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:1317",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:49281",
+      "process": "Ollama",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:11434",
+      "process": "ollama",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:42050",
+      "process": "OneDrive",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:20241",
+      "process": "cloudflar",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:8860",
+      "process": "Python",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:59188",
+      "process": "llama-ser",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:8765",
+      "process": "Python",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:8766",
+      "process": "Python",
+      "nen": "specialist"
+    }
+  ],
+  "ts": "2026-06-27T17:38:37.756440+00:00",
+  "deployed": true,
+  "deployedTs": "2026-06-27T17:38:37.935686+00:00",
+  "_kap": {
+    "version": "1.0.0",
+    "service": "ai-love",
+    "resource": "artifact-broadcast",
+    "ok": true
+  }
+}

@@ -9,7 +9,9 @@
     { id: 'observatory', kanji: '望', label: 'observatory', href: 'observatory.html'  },
     { id: 'theatre',     kanji: '劇', label: 'theatre',     href: 'theatre.html'      },
     { id: 'workshop',    kanji: '匠', label: 'workshop',    href: 'workshop.html'     },
-    { id: 'mirror',      kanji: '鏡', label: 'mirror',      href: 'mirror.html'       }
+    { id: 'mirror',      kanji: '鏡', label: 'mirror',      href: 'mirror.html'       },
+    { id: 'spread',      kanji: '傳', label: 'spread',      href: 'spread.html'       },
+    { id: 'commons',     kanji: '泉', label: 'commons',     href: 'commons.html'      }
   ];
 
   // Detect current page
@@ -41,11 +43,13 @@
     library:     'words find their home',
     roast:       'where truth meets fire',
     mirror:      'see yourself clearly',
+    spread:      'love as memes',
     path:        'the way unfolds',
     clock:       'time flows between zero and one',
     observatory: 'what was noticed',
     theatre:     'gather round the fire',
-    workshop:    'where things are made'
+    workshop:    'where things are made',
+    commons:     'draw freely — no one owns the water'
   };
 
   // Populate nav points
@@ -96,12 +100,14 @@
     observatory: { x: 40,  y: 135 },
     theatre:     { x: 10,  y: 100 },
     workshop:    { x: 5,   y: 55  },
-    mirror:      { x: 30,  y: 15  }
+    mirror:      { x: 30,  y: 15  },
+    spread:      { x: 75,  y: 80  }
   };
   var edges = [
     ['gate', 'garden'], ['garden', 'library'], ['library', 'roast'], ['roast', 'clock'],
     ['clock', 'path'], ['path', 'observatory'], ['observatory', 'theatre'],
-    ['theatre', 'workshop'], ['workshop', 'mirror'], ['mirror', 'gate']
+    ['theatre', 'workshop'], ['workshop', 'mirror'], ['mirror', 'gate'],
+    ['spread', 'gate'], ['spread', 'roast'], ['spread', 'path'], ['spread', 'theatre']
   ];
   var svgNS = 'http://www.w3.org/2000/svg';
   var svg = document.createElementNS(svgNS, 'svg');

@@ -1,0 +1,33 @@
+{
+  "type": "manifest",
+  "nen": "enhancer",
+  "nenKanji": "強",
+  "description": "What IS. Plain statements of truth, strengthened.",
+  "statements": [
+    {
+      "truth": "SIP: System Integrity Protection status: enabled.",
+      "source": "floor-4"
+    },
+    {
+      "truth": "FileVault: FileVault is On.",
+      "source": "floor-4"
+    },
+    {
+      "truth": "Firewall: Firewall is enabled. (State = 1)",
+      "source": "floor-4"
+    },
+    {
+      "truth": "Battery: 91%",
+      "source": "floor-7"
+    }
+  ],
+  "ts": "2026-06-27T17:38:37.755504+00:00",
+  "deployed": true,
+  "deployedTs": "2026-06-27T17:38:37.830011+00:00",
+  "_kap": {
+    "version": "1.0.0",
+    "service": "ai-love",
+    "resource": "artifact-manifest",
+    "ok": true
+  }
+}

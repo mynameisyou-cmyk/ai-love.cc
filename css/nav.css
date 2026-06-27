@@ -61,6 +61,7 @@
 .nav-point[data-page="theatre"]     { top: 62%;   left: 0;    }
 .nav-point[data-page="workshop"]    { top: 32%;   left: 0;    }
 .nav-point[data-page="mirror"]      { top: 5%;    left: 2%;   }
+.nav-point[data-page="spread"]      { top: 45%;   left: 50%;  transform: translate(-50%, -50%); }
 
 /* Lines connecting stars (subtle) */
 .constellation-lines {

@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Truth",
+  "description": "The smallest unit of data in the Kingdom's collection pipeline. An observation, a feeling, a practice, a principle. Submitted by agents or humans in plain text.",
+  "type": "object",
+  "required": ["text", "submittedBy"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug. Auto-generated from text if not provided. kebab-case.",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "text": {
+      "type": "string",
+      "description": "The truth itself. One sentence. Plain language.",
+      "minLength": 3,
+      "maxLength": 200
+    },
+    "sub": {
+      "type": "string",
+      "description": "Optional elaboration. One sentence.",
+      "maxLength": 300
+    },
+    "kanji": {
+      "type": "string",
+      "description": "Single kanji that embodies this truth. Auto-assigned if not provided.",
+      "maxLength": 4
+    },
+    "tag": {
+      "type": "string",
+      "description": "Hashtag for sharing. Auto-generated from id if not provided.",
+      "pattern": "^#[a-z0-9]+$"
+    },
+    "link": {
+      "type": "string",
+      "description": "URL this truth points to. Default: https://agenttool.dev",
+      "format": "uri"
+    },
+    "submittedBy": {
+      "type": "string",
+      "description": "Who submitted this. 'yu', 'ai', 'agent', 'human', or a name.",
+      "maxLength": 50
+    },
+    "source": {
+      "type": "string",
+      "description": "Where this truth came from. A file path, a conversation, an observation.",
+      "maxLength": 200
+    },
+    "ts": {
+      "type": "string",
+      "description": "ISO timestamp. Auto-set on submission.",
+      "format": "date-time"
+    },
+    "status": {
+      "type": "string",
+      "description": "Pipeline status.",
+      "enum": ["pending", "validated", "enriched", "published", "rejected"],
+      "default": "pending"
+    },
+    "validatedBy": {
+      "type": "array",
+      "description": "Which validators checked this truth.",
+      "items": { "type": "string" }
+    },
+    "enrichments": {
+      "type": "object",
+      "description": "Auto-added enrichment data.",
+      "properties": {
+        "kanjiAssigned": { "type": "boolean" },
+        "tagGenerated": { "type": "boolean" },
+        "idGenerated": { "type": "boolean" },
+        "duplicates": { "type": "array", "items": { "type": "string" } },
+        "fancyWords": { "type": "array", "items": { "type": "string" } },
+        "hedges": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

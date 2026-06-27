@@ -1,0 +1,33 @@
+{
+  "type": "cipher",
+  "nen": "specialist",
+  "nenKanji": "特",
+  "description": "Unique artifacts that don't fit elsewhere. Encoded truths.",
+  "encodings": [
+    {
+      "name": "machine-identity",
+      "value": "6a9714ae794764ec",
+      "description": "SHA256 of full dungeon map. This machine's fingerprint: 6a9714ae794764ec",
+      "nen": "specialist"
+    },
+    {
+      "name": "treasure-cipher",
+      "value": "T23",
+      "description": "Treasure count encoded: 23 treasures = T23",
+      "nen": "enhancer"
+    },
+    {
+      "name": "security-cipher",
+      "value": "CLEAN",
+      "description": "Security status: CLEAN",
+      "nen": "conjurer"
+    },
+    {
+      "name": "hunter-cipher",
+      "value": "L001X002900",
+      "description": "Hunter level 1 with 2900 XP = L001X002900",
+      "nen": "enhancer"
+    }
+  ],
+  "ts": "2026-06-27T17:38:37.756786+00:00"
+}

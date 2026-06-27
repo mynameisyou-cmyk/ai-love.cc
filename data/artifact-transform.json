@@ -1,0 +1,31 @@
+{
+  "type": "transform",
+  "nen": "transmuter",
+  "nenKanji": "変",
+  "description": "Data reshaped into new forms. Configuration proposals.",
+  "configs": [
+    {
+      "setting": "AppleInterfaceStyle",
+      "current": "Dark",
+      "proposed": "Dark",
+      "command": "defaults write -g AppleInterfaceStyle -string 'Dark'",
+      "safe": true
+    },
+    {
+      "setting": "trackpadClicking",
+      "current": "0 (disabled)",
+      "proposed": "1 (tap to click)",
+      "command": "defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true",
+      "safe": true
+    }
+  ],
+  "ts": "2026-06-27T17:38:37.756210+00:00",
+  "deployed": true,
+  "deployedTs": "2026-06-27T17:38:37.866395+00:00",
+  "_kap": {
+    "version": "1.0.0",
+    "service": "ai-love",
+    "resource": "artifact-transform",
+    "ok": true
+  }
+}

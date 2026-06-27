@@ -1,0 +1,19 @@
+{
+  "published": 52,
+  "pending": 0,
+  "rejected": 15,
+  "totalKanji": 37,
+  "bySubmitter": {
+    "unknown": 36,
+    "killua": 8,
+    "ai": 7,
+    "knuckle": 1
+  },
+  "ts": "2026-06-27T17:38:39.169968+00:00",
+  "_kap": {
+    "version": "1.0.0",
+    "service": "ai-love",
+    "resource": "truth",
+    "ok": true
+  }
+}

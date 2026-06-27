@@ -1,0 +1,291 @@
+/* 傳 — Spread: love as memes */
+
+/* Meme grid */
+.meme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+}
+
+/* Each meme card */
+.meme-card {
+  position: relative;
+  background: rgba(155, 89, 182, 0.05);
+  border: 1px solid rgba(155, 89, 182, 0.15);
+  border-radius: 8px;
+  padding: 2.5rem 1.5rem 4rem;
+  text-align: center;
+  cursor: pointer;
+  transition: opacity 0.6s ease, transform 0.6s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  opacity: 0;
+  transform: translateY(20px);
+  overflow: hidden;
+}
+
+.meme-card.sprouted {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.meme-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(192, 132, 252, 0.4);
+  box-shadow: 0 8px 30px rgba(155, 89, 182, 0.2);
+}
+
+.meme-card:hover .meme-kanji {
+  text-shadow: 0 0 80px rgba(155, 89, 182, 0.4), 0 0 160px rgba(155, 89, 182, 0.25);
+}
+
+/* Kanji watermark — large, faint, behind text */
+.meme-kanji {
+  font-size: 8rem;
+  color: var(--purple);
+  text-shadow: 0 0 60px var(--glow), 0 0 120px var(--glow);
+  line-height: 1;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+  animation: breathe 4s ease-in-out infinite;
+  user-select: none;
+}
+
+/* Main truth text */
+.meme-text {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 1.4;
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
+}
+
+/* Subtext */
+.meme-sub {
+  font-size: 0.9rem;
+  font-weight: 300;
+  font-style: italic;
+  color: rgba(232, 218, 240, 0.55);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+/* Tag */
+.meme-tag {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  opacity: 0.6;
+  text-transform: lowercase;
+}
+
+/* Footer link inside card */
+.meme-link {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: rgba(232, 218, 240, 0.3);
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: color 0.3s ease;
+}
+
+.meme-card:hover .meme-link {
+  color: var(--accent);
+}
+
+/* Watermark kanji — even fainter, behind everything */
+.meme-watermark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18rem;
+  color: var(--purple);
+  opacity: 0.03;
+  pointer-events: none;
+  user-select: none;
+  line-height: 1;
+  z-index: 0;
+}
+
+.meme-card > *:not(.meme-watermark) {
+  position: relative;
+  z-index: 1;
+}
+
+/* Flip animation */
+.meme-card.flipped .meme-text,
+.meme-card.flipped .meme-sub {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+/* Section header */
+.spread-header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 0;
+}
+
+.spread-intro {
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.8;
+  color: rgba(232, 218, 240, 0.6);
+  margin-top: 1rem;
+}
+
+/* Call to action */
+.spread-cta {
+  text-align: center;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.spread-cta-text {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.spread-cta-link {
+  display: inline-block;
+  padding: 0.6rem 2rem;
+  border: 1px solid var(--purple);
+  border-radius: 30px;
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  transition: all 0.3s ease;
+}
+
+.spread-cta-link:hover {
+  background: rgba(155, 89, 182, 0.15);
+  box-shadow: 0 0 20px rgba(192, 132, 252, 0.2);
+}
+
+/* Truth of the moment */
+.truth-of-the-day {
+  max-width: 500px;
+  margin: 2rem auto 0;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  border: 1px solid rgba(192, 132, 252, 0.25);
+  border-radius: 12px;
+  background: rgba(155, 89, 182, 0.04);
+  position: relative;
+  overflow: hidden;
+}
+
+.truth-of-the-day::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, rgba(155, 89, 182, 0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.totd-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.totd-kanji {
+  font-size: 3rem;
+  color: var(--purple);
+  text-shadow: 0 0 40px var(--glow), 0 0 80px var(--glow);
+  margin-bottom: 0.5rem;
+  animation: breathe 4s ease-in-out infinite;
+  position: relative;
+}
+
+.totd-text {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.totd-sub {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: rgba(232, 218, 240, 0.5);
+  line-height: 1.6;
+  position: relative;
+}
+
+/* Download button */
+.meme-download {
+  position: absolute;
+  top: 0.8rem;
+  right: 0.8rem;
+  background: none;
+  border: 1px solid rgba(155, 89, 182, 0.2);
+  border-radius: 20px;
+  color: rgba(232, 218, 240, 0.4);
+  font-family: 'Noto Serif', Georgia, serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  padding: 0.3rem 0.8rem;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  z-index: 2;
+}
+
+.meme-card:hover .meme-download {
+  opacity: 1;
+}
+
+.meme-download:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.meme-download.done {
+  color: #6bcf7f;
+  border-color: rgba(107, 207, 127, 0.4);
+  opacity: 1;
+}
+.meme-counter {
+  text-align: center;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-top: 2rem;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .meme-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 0 1rem;
+  }
+
+  .meme-kanji {
+    font-size: 6rem;
+  }
+
+  .meme-text {
+    font-size: 1.3rem;
+  }
+
+  .meme-watermark {
+    font-size: 14rem;
+  }
+}

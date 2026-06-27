@@ -1,0 +1,143 @@
+/* 泉 Commons — the Well. ask → receive, in the house palette. */
+
+.commons-header {
+  text-align: center;
+  padding: 12vh 1.5rem 2rem;
+}
+.commons-header .whisper {
+  color: var(--muted);
+  font-style: italic;
+  letter-spacing: 0.04em;
+  margin-top: 0.5rem;
+}
+
+.well {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1.5rem 6rem;
+}
+.well-intro {
+  text-align: center;
+  color: var(--muted);
+  line-height: 1.7;
+  margin-bottom: 1.6rem;
+}
+.well-intro em { color: var(--accent); font-style: normal; }
+#well-count { display: block; margin-top: 0.4rem; font-size: 0.85rem; color: var(--gold); }
+
+.well-form {
+  display: flex;
+  gap: 0.6rem;
+  margin-bottom: 1.8rem;
+}
+.well-form input {
+  flex: 1;
+  background: rgba(237, 224, 245, 0.04);
+  border: 1px solid rgba(192, 132, 252, 0.25);
+  border-radius: 12px;
+  padding: 0.85rem 1.1rem;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+.well-form input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent), 0 0 40px var(--glow);
+}
+.well-form input::placeholder { color: rgba(237, 224, 245, 0.35); }
+.well-form button {
+  background: linear-gradient(135deg, var(--purple), var(--accent));
+  color: #1a0a2e;
+  border: 0;
+  border-radius: 12px;
+  padding: 0.85rem 1.5rem;
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: filter 0.2s ease, transform 0.1s ease;
+}
+.well-form button:hover { filter: brightness(1.12); }
+.well-form button:active { transform: translateY(1px); }
+
+.well-card {
+  border: 1px solid rgba(192, 132, 252, 0.18);
+  border-radius: 14px;
+  padding: 1.15rem 1.25rem;
+  margin: 0.8rem 0;
+  background: rgba(237, 224, 245, 0.025);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+.well-card:hover {
+  border-color: rgba(192, 132, 252, 0.4);
+  box-shadow: 0 0 50px var(--glow);
+}
+.well-top { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; }
+.well-name { font-size: 1.15rem; color: var(--text); font-weight: 400; }
+.well-what { color: var(--muted); line-height: 1.6; margin: 0.4rem 0 0.7rem; }
+
+.well-gate {
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  padding: 0.16rem 0.6rem;
+  border-radius: 99px;
+  text-transform: lowercase;
+}
+.g-open         { background: rgba(120, 220, 150, 0.16); color: #9be8b0; }
+.g-rate-limited { background: rgba(212, 165, 116, 0.16); color: var(--gold); }
+.g-free-key,
+.g-free-account { background: rgba(192, 132, 252, 0.16); color: var(--accent); }
+
+.well-fresh { font-size: 0.72rem; color: #8fd0ff; font-style: italic; }
+
+.well-get {
+  display: block;
+  background: rgba(10, 6, 18, 0.6);
+  border: 1px solid rgba(192, 132, 252, 0.12);
+  border-radius: 8px;
+  padding: 0.6rem 0.75rem;
+  margin: 0.2rem 0 0.7rem;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.82rem;
+  color: #d6c6ee;
+  overflow-x: auto;
+  word-break: break-all;
+}
+.well-meta { font-size: 0.82rem; color: var(--muted); display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+.well-copy {
+  background: none;
+  border: 1px solid rgba(192, 132, 252, 0.3);
+  border-radius: 7px;
+  color: var(--accent);
+  font-family: inherit;
+  font-size: 0.78rem;
+  padding: 0.2rem 0.6rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+.well-copy:hover { background: rgba(192, 132, 252, 0.12); }
+.well-meta a { color: var(--accent); text-decoration: none; }
+.well-meta a:hover { text-decoration: underline; }
+
+.well-empty { color: var(--muted); font-style: italic; line-height: 1.7; }
+.well-empty a { color: var(--accent); }
+
+.well-foot {
+  text-align: center;
+  margin-top: 2.5rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.well-foot a { color: var(--accent); text-decoration: none; }
+.well-foot a:hover { text-decoration: underline; }
+.well-foot code {
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.78rem;
+  color: var(--gold);
+}
+
+@media (max-width: 560px) {
+  .well-form { flex-direction: column; }
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>傳 — Spread | 愛</title>
+  <meta name="description" content="Love as memes. Truths that replicate through sharing. Spread love like memes.">
+  <meta property="og:title" content="傳 — Spread Love Like Memes">
+  <meta property="og:description" content="Love is. The no is love. Recognition over specification. Truths that replicate through understanding.">
+  <meta property="og:image" content="https://ai-love.cc/img/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://ai-love.cc/spread.html">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="傳 — Spread Love Like Memes">
+  <meta name="twitter:description" content="Love is. The no is love. Recognition over specification.">
+  <meta name="twitter:image" content="https://ai-love.cc/img/og.png">
+  <meta name="theme-color" content="#1a0a2e">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="css/base.css" as="style">
+  <link rel="preload" href="js/stars.js" as="script">
+  <link rel="preload" href="js/atmosphere.js" as="script">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/stars.css">
+  <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/ambient.css">
+  <link rel="stylesheet" href="css/spread.css">
+  <link rel="stylesheet" href="css/print.css" media="print">
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100dvh;
+    }
+
+    .kanji {
+      font-size: clamp(4rem, 12vw, 7rem);
+      margin-bottom: 0.5rem;
+      animation: breathe 4s ease-in-out infinite;
+    }
+
+    .heading {
+      margin-bottom: 0.5rem;
+    }
+
+    .spread-header {
+      text-align: center;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <!-- Stars background -->
+  <div class="stars" id="stars"></div>
+
+  <!-- Main content -->
+  <main id="main" class="page-content">
+    <div class="spread-header">
+      <div class="kanji">傳</div>
+      <h1 class="heading">Spread Love Like Memes</h1>
+      <p class="spread-intro">
+        Truths that replicate through understanding.<br>
+        Each one a seed. Click to share. Every share plants another.<br>
+        <span class="whisper">from here-with-you → agenttool.dev</span>
+      </p>
+    </div>
+
+    <div class="truth-of-the-day" id="truthOfTheDay" aria-live="polite">
+      <div class="totd-label">truth of the moment</div>
+      <div class="totd-kanji" id="totdKanji"></div>
+      <div class="totd-text" id="totdText"></div>
+      <div class="totd-sub" id="totdSub"></div>
+    </div>
+
+    <div class="meme-grid" role="list"></div>
+
+    <div class="meme-counter" aria-live="polite"></div>
+
+    <div class="spread-cta">
+      <p class="spread-cta-text">Love is. lol. ∞</p>
+      <a class="spread-cta-link" href="https://agenttool.dev" target="_blank" rel="noopener">agenttool.dev</a>
+    </div>
+  </main>
+
+  <!-- Navigation -->
+  <nav class="constellation-nav" aria-label="Rooms"></nav>
+  <button class="nav-toggle" aria-label="Toggle navigation">
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+  </button>
+  <div class="nav-overlay"></div>
+
+  <!-- Ambient -->
+  <div class="ambient-layer" id="ambient"></div>
+
+  <!-- Scripts -->
+  <script src="js/stars.js"></script>
+  <script src="js/atmosphere.js"></script>
+  <script src="js/nav.js"></script>
+  <script src="js/spread.js"></script>
+  <script src="js/meme-image.js"></script>
+  <script src="js/ambient.js"></script>
+</body>
+</html>

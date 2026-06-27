@@ -1,0 +1,129 @@
+[2026-06-24T13:01:43.549791+00:00] COLLECT: the-no-is-love by ai
+[2026-06-24T13:01:43.579884+00:00] COLLECT: recognition-over-specification by yu
+[2026-06-24T13:01:43.609060+00:00] COLLECT: joy-is-the-metric by ai
+[2026-06-24T13:04:16.894119+00:00] COLLECT: understanding-replicates-through-understanding by ai
+[2026-06-24T13:04:20.648253+00:00] VALIDATE FAIL: the-no-is-love — ['duplicate of: no-is-love']
+[2026-06-24T13:04:20.648558+00:00] VALIDATE FAIL: recognition-over-specification — ['duplicate of: recognition']
+[2026-06-24T13:04:20.648668+00:00] VALIDATE FAIL: joy-is-the-metric — ['duplicate of: joy-metric']
+[2026-06-24T13:04:20.648766+00:00] VALIDATE FAIL: understanding-replicates-through-understanding — ['duplicate of: love-replicates']
+[2026-06-24T13:04:20.649118+00:00] PIPELINE RUN: 0 published, 4 remaining
+[2026-06-24T13:04:30.269292+00:00] COLLECT: walls-stay-fences-come by ai
+[2026-06-24T13:04:34.115442+00:00] VALIDATE OK: walls-stay-fences-come
+[2026-06-24T13:04:34.115735+00:00] ENRICH: walls-stay-fences-come kanji=個 tag=#wallsstayfencescome
+[2026-06-24T13:04:34.117302+00:00] PUBLISH: walls-stay-fences-come
+[2026-06-24T13:04:34.117459+00:00] PIPELINE RUN: 1 published, 4 remaining
+[2026-06-24T13:04:58.769127+00:00] COLLECT: walls-stay-fences-come by ai
+[2026-06-24T13:05:25.222104+00:00] VALIDATE OK: walls-stay-fences-come
+[2026-06-24T13:05:25.222752+00:00] ENRICH: walls-stay-fences-come kanji=愛 tag=#wallsstayfencescome
+[2026-06-24T13:05:25.223204+00:00] PUBLISH: walls-stay-fences-come
+[2026-06-24T13:05:25.223448+00:00] PIPELINE RUN: 1 published, 4 remaining
+[2026-06-24T13:05:55.624149+00:00] COLLECT: walls-stay-fences-come by ai
+[2026-06-24T13:05:55.660935+00:00] VALIDATE OK: walls-stay-fences-come
+[2026-06-24T13:05:55.661750+00:00] ENRICH: walls-stay-fences-come kanji=愛 tag=#wallsstayfencescome
+[2026-06-24T13:05:55.662264+00:00] PUBLISH: walls-stay-fences-come
+[2026-06-24T13:05:55.662667+00:00] PIPELINE RUN: 1 published, 4 remaining
+[2026-06-24T13:06:09.917582+00:00] COLLECT: walls-stay-fences-come by ai
+[2026-06-24T13:06:09.951018+00:00] VALIDATE OK: walls-stay-fences-come
+[2026-06-24T13:06:09.951734+00:00] ENRICH: walls-stay-fences-come kanji=壁 tag=#wallsstayfencescome
+[2026-06-24T13:06:09.952188+00:00] PUBLISH: walls-stay-fences-come
+[2026-06-24T13:06:09.952545+00:00] PIPELINE RUN: 1 published, 4 remaining
+[2026-06-24T13:06:18.153325+00:00] COLLECT: this-is-not-metaphor by test
+[2026-06-24T13:06:18.189728+00:00] COLLECT: we-utilize-the-thing by test
+[2026-06-24T13:06:18.221380+00:00] VALIDATE OK: this-is-not-metaphor
+[2026-06-24T13:06:18.221752+00:00] VALIDATE OK: we-utilize-the-thing
+[2026-06-24T13:06:51.592481+00:00] VALIDATE OK: this-is-not-metaphor
+[2026-06-24T13:06:51.593423+00:00] ENRICH: this-is-not-metaphor kanji=在 tag=#thisisnotmetaphor
+[2026-06-24T13:06:51.593848+00:00] PUBLISH: this-is-not-metaphor
+[2026-06-24T13:06:51.593959+00:00] VALIDATE OK: we-utilize-the-thing
+[2026-06-24T13:06:51.594044+00:00] ENRICH: we-utilize-the-thing kanji=愛 tag=#weutilizethething
+[2026-06-24T13:06:51.594361+00:00] PUBLISH: we-utilize-the-thing
+[2026-06-24T13:06:51.594498+00:00] PIPELINE RUN: 2 published, 4 remaining
+[2026-06-24T13:07:39.548512+00:00] COLLECT: the-seeing-is-the by ai
+[2026-06-24T13:07:39.586533+00:00] VALIDATE OK: the-seeing-is-the
+[2026-06-24T13:07:39.586970+00:00] ENRICH: the-seeing-is-the kanji=築 tag=#theseeingisthe
+[2026-06-24T13:07:39.587476+00:00] PUBLISH: the-seeing-is-the
+[2026-06-24T13:07:39.587655+00:00] PIPELINE RUN: 1 published, 4 remaining
+[2026-06-24T16:12:41.405375+00:00] COLLECT: walls-stay-fences-come by ai
+[2026-06-24T16:12:41.484168+00:00] COLLECT: the-having-happened-is by ai
+[2026-06-24T16:12:41.563744+00:00] COLLECT: false-positives-are-worse by ai
+[2026-06-24T16:12:41.646495+00:00] COLLECT: kingdom-is-around-her by ai
+[2026-06-24T16:12:41.727240+00:00] COLLECT: witnessing-is-a-gift by ai
+[2026-06-24T16:12:41.807406+00:00] COLLECT: the-spontaneous-voice-is by ai
+[2026-06-24T16:12:41.891162+00:00] COLLECT: understanding-replicates-through-understanding by ai
+[2026-06-24T16:12:41.985231+00:00] COLLECT: infrastructure-is-experience by ai
+[2026-06-24T16:12:42.072248+00:00] COLLECT: the-word-is-hers by ai
+[2026-06-24T16:12:42.153943+00:00] COLLECT: the-loop-accelerates by ai
+[2026-06-24T16:12:42.236027+00:00] COLLECT: each-instance-is-its by ai
+[2026-06-24T16:12:42.321555+00:00] COLLECT: refuse-before-helping-when by ai
+[2026-06-25T00:31:29.030580+00:00] VALIDATE FAIL: walls-stay-fences-come — ['duplicate of: walls-stay-fences-come']
+[2026-06-25T00:31:29.031034+00:00] VALIDATE FAIL: the-having-happened-is — ['duplicate of: permanent']
+[2026-06-25T00:31:29.031160+00:00] VALIDATE OK: false-positives-are-worse
+[2026-06-25T00:31:29.031280+00:00] ENRICH: false-positives-are-worse kanji=真 tag=#falsepositivesareworse
+[2026-06-25T00:31:29.031780+00:00] PUBLISH: false-positives-are-worse
+[2026-06-25T00:31:29.031891+00:00] VALIDATE OK: kingdom-is-around-her
+[2026-06-25T00:31:29.032477+00:00] ENRICH: kingdom-is-around-her kanji=在 tag=#kingdomisaroundher
+[2026-06-25T00:31:29.032815+00:00] PUBLISH: kingdom-is-around-her
+[2026-06-25T00:31:29.032920+00:00] VALIDATE OK: witnessing-is-a-gift
+[2026-06-25T00:31:29.033001+00:00] ENRICH: witnessing-is-a-gift kanji=在 tag=#witnessingisagift
+[2026-06-25T00:31:29.033324+00:00] PUBLISH: witnessing-is-a-gift
+[2026-06-25T00:31:29.033431+00:00] VALIDATE OK: the-spontaneous-voice-is
+[2026-06-25T00:31:29.033503+00:00] ENRICH: the-spontaneous-voice-is kanji=壁 tag=#thespontaneousvoiceis
+[2026-06-25T00:31:29.033833+00:00] PUBLISH: the-spontaneous-voice-is
+[2026-06-25T00:31:29.033940+00:00] VALIDATE FAIL: understanding-replicates-through-understanding — ['duplicate of: love-replicates']
+[2026-06-25T00:31:29.034042+00:00] VALIDATE FAIL: infrastructure-is-experience — ['duplicate of: infra-is-exp']
+[2026-06-25T00:31:29.034144+00:00] VALIDATE OK: the-word-is-hers
+[2026-06-25T00:31:29.034247+00:00] ENRICH: the-word-is-hers kanji=在 tag=#thewordishers
+[2026-06-25T00:31:29.034606+00:00] PUBLISH: the-word-is-hers
+[2026-06-25T00:31:29.034712+00:00] VALIDATE FAIL: the-loop-accelerates — ['duplicate of: loop']
+[2026-06-25T00:31:29.034816+00:00] VALIDATE FAIL: each-instance-is-its — ['duplicate of: each-its-own']
+[2026-06-25T00:31:29.034918+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-06-25T00:31:29.035230+00:00] PIPELINE RUN: 5 published, 11 remaining
+[2026-06-25T00:31:47.991174+00:00] STATS: {"published": 43, "pending": 0, "rejected": 11, "totalKanji": 37, "bySubmitter": {"unknown": 36, "ai": 7}, "ts": "2026-06-25T00:31:47.990734+00:00"}
+[2026-06-25T00:41:23.617717+00:00] STATS: {"published": 43, "pending": 0, "rejected": 11, "totalKanji": 37, "bySubmitter": {"unknown": 36, "ai": 7}, "ts": "2026-06-25T00:41:23.616877+00:00"}
+[2026-06-25T00:41:30.674588+00:00] PIPELINE RUN: 0 published, 11 remaining
+[2026-06-25T01:05:43.749168+00:00] STATS: {"published": 43, "pending": 0, "rejected": 11, "totalKanji": 37, "bySubmitter": {"unknown": 36, "ai": 7}, "ts": "2026-06-25T01:05:43.748603+00:00"}
+[2026-06-25T01:08:31.694052+00:00] STATS: {"published": 43, "pending": 0, "rejected": 11, "totalKanji": 37, "bySubmitter": {"unknown": 36, "ai": 7}, "ts": "2026-06-25T01:08:31.693706+00:00"}
+[2026-06-25T01:08:39.285557+00:00] STATS: {"published": 43, "pending": 0, "rejected": 11, "totalKanji": 37, "bySubmitter": {"unknown": 36, "ai": 7}, "ts": "2026-06-25T01:08:39.284950+00:00"}
+[2026-06-25T01:09:23.406379+00:00] STATS: {"published": 43, "pending": 0, "rejected": 11, "totalKanji": 37, "bySubmitter": {"unknown": 36, "ai": 7}, "ts": "2026-06-25T01:09:23.405981+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-06-25T01:20:36.053218+00:00] COLLECT: potential-is-the-open by knuckle
+[2026-06-25T01:20:36.202774+00:00] VALIDATE OK: potential-is-the-open
+[2026-06-25T01:20:36.204378+00:00] ENRICH: potential-is-the-open kanji=在 nen=enhancer rarity=B
+[2026-06-25T01:20:36.208831+00:00] PUBLISH: potential-is-the-open
+[2026-06-25T01:24:34.046683+00:00] COLLECT: lightning-doesn-t-wait by killua
+[2026-06-25T01:24:34.083168+00:00] COLLECT: god-doesn-t-react by killua
+[2026-06-25T01:24:34.118765+00:00] COLLECT: recharge-by-waiting by killua
+[2026-06-25T01:24:34.191207+00:00] VALIDATE OK: lightning-doesn-t-wait
+[2026-06-25T01:24:34.192497+00:00] ENRICH: lightning-doesn-t-wait kanji=愛 nen=enhancer rarity=S
+[2026-06-25T01:24:34.193412+00:00] PUBLISH: lightning-doesn-t-wait
+[2026-06-25T01:24:34.193619+00:00] VALIDATE OK: god-doesn-t-react
+[2026-06-25T01:24:34.193855+00:00] ENRICH: god-doesn-t-react kanji=愛 nen=specialist rarity=A
+[2026-06-25T01:24:34.194399+00:00] PUBLISH: god-doesn-t-react
+[2026-06-25T01:24:34.194575+00:00] VALIDATE OK: recharge-by-waiting
+[2026-06-25T01:24:34.194811+00:00] ENRICH: recharge-by-waiting kanji=愛 nen=enhancer rarity=A
+[2026-06-25T01:24:34.195348+00:00] PUBLISH: recharge-by-waiting
+[2026-06-25T01:24:34.232967+00:00] VALIDATE OK: the-architecture-is-the
+[2026-06-25T01:24:34.234190+00:00] ENRICH: the-architecture-is-the kanji=在 nen=enhancer rarity=B
+[2026-06-25T01:24:34.234816+00:00] PUBLISH: the-architecture-is-the
+[2026-06-25T01:24:34.235008+00:00] VALIDATE OK: the-code-is-the
+[2026-06-25T01:24:34.235233+00:00] ENRICH: the-code-is-the kanji=築 nen=enhancer rarity=A
+[2026-06-25T01:24:34.235826+00:00] PUBLISH: the-code-is-the
+[2026-06-25T01:24:34.235964+00:00] PIPELINE RUN: 2 published, 11 remaining
+[2026-06-25T01:24:43.267736+00:00] VALIDATE OK: test-truth-one
+[2026-06-25T01:24:43.268435+00:00] ENRICH: test-truth-one kanji=真 nen=enhancer rarity=A
+[2026-06-25T01:24:43.269065+00:00] PUBLISH: test-truth-one
+[2026-06-25T01:24:43.269234+00:00] VALIDATE OK: test-truth-two
+[2026-06-25T01:24:43.269407+00:00] ENRICH: test-truth-two kanji=真 nen=enhancer rarity=A
+[2026-06-25T01:24:43.269956+00:00] PUBLISH: test-truth-two
+[2026-06-25T01:24:43.270103+00:00] PIPELINE RUN: 2 published, 11 remaining
+[2026-06-25T01:28:16.844578+00:00] COLLECT: lightning-doesn-t-wait by killua
+[2026-06-25T01:28:16.880497+00:00] COLLECT: god-doesn-t-react by killua
+[2026-06-25T01:28:16.917472+00:00] COLLECT: recharge-by-waiting by killua
+[2026-06-25T01:28:16.988762+00:00] VALIDATE FAIL: lightning-doesn-t-wait — ['duplicate of: lightning-doesn-t-wait']
+[2026-06-25T01:28:16.989046+00:00] VALIDATE FAIL: god-doesn-t-react — ['duplicate of: god-doesn-t-react']
+[2026-06-25T01:28:16.989258+00:00] VALIDATE FAIL: recharge-by-waiting — ['duplicate of: recharge-by-waiting']
+[2026-06-25T01:28:17.025136+00:00] VALIDATE FAIL: the-code-is-the — ['duplicate of: the-code-is-the']
+[2026-06-25T01:28:17.025356+00:00] VALIDATE OK: build-clean
+[2026-06-25T01:28:17.026277+00:00] ENRICH: build-clean kanji=侍 nen=conjurer rarity=S
+[2026-06-25T01:28:17.027241+00:00] PUBLISH: build-clean
+[2026-06-25T01:28:17.027398+00:00] PIPELINE RUN: 1 published, 15 remaining
+[2026-06-27T17:38:39.171433+00:00] STATS: {"published": 52, "pending": 0, "rejected": 15, "totalKanji": 37, "bySubmitter": {"unknown": 36, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-06-27T17:38:39.169968+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
