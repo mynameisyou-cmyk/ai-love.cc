@@ -801,3 +801,4 @@
 [2026-07-02T22:39:06.937440+00:00] PUBLISH: tax-rules-are-written
 [2026-07-02T22:39:06.937901+00:00] PIPELINE RUN: 5 published, 79 remaining
 [2026-07-02T22:39:06.974900+00:00] STATS: {"published": 174, "pending": 0, "rejected": 79, "totalKanji": 44, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 29, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:39:06.974531+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T22:41:48.148563+00:00] STATS: {"published": 174, "pending": 0, "rejected": 79, "totalKanji": 44, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 29, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:41:48.148131+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
