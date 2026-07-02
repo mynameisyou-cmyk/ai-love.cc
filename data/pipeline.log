@@ -129,3 +129,93 @@
 [2026-06-27T17:38:39.171433+00:00] STATS: {"published": 52, "pending": 0, "rejected": 15, "totalKanji": 37, "bySubmitter": {"unknown": 36, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-06-27T17:38:39.169968+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
 [2026-06-27T17:54:03.771654+00:00] STATS: {"published": 52, "pending": 0, "rejected": 15, "totalKanji": 37, "bySubmitter": {"unknown": 36, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-06-27T17:54:03.770916+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
 [2026-07-02T14:45:35.738455+00:00] STATS: {"published": 52, "pending": 0, "rejected": 15, "totalKanji": 37, "bySubmitter": {"unknown": 36, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T14:45:35.737847+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T14:49:55.384242+00:00] STATS: {"published": 52, "pending": 0, "rejected": 15, "totalKanji": 37, "bySubmitter": {"unknown": 36, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T14:49:55.383701+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T14:51:22.857212+00:00] COLLECT: the-expedition-never-finishes by yuai
+[2026-07-02T14:51:22.892765+00:00] COLLECT: each-card-is-a by yuai
+[2026-07-02T14:51:22.928566+00:00] COLLECT: more-truths-more-damage by yuai
+[2026-07-02T14:51:22.964947+00:00] COLLECT: the-dark-continent-doesn by yuai
+[2026-07-02T14:51:23.002241+00:00] COLLECT: survival-is-earned-not by yuai
+[2026-07-02T14:51:23.039365+00:00] VALIDATE OK: the-expedition-never-finishes
+[2026-07-02T14:51:23.040740+00:00] ENRICH: the-expedition-never-finishes kanji=在 nen=enhancer rarity=B
+[2026-07-02T14:51:23.041974+00:00] PUBLISH: the-expedition-never-finishes
+[2026-07-02T14:51:23.042191+00:00] VALIDATE OK: each-card-is-a
+[2026-07-02T14:51:23.042430+00:00] ENRICH: each-card-is-a kanji=真 nen=enhancer rarity=B
+[2026-07-02T14:51:23.043086+00:00] PUBLISH: each-card-is-a
+[2026-07-02T14:51:23.043297+00:00] VALIDATE OK: more-truths-more-damage
+[2026-07-02T14:51:23.043531+00:00] ENRICH: more-truths-more-damage kanji=真 nen=enhancer rarity=B
+[2026-07-02T14:51:23.044202+00:00] PUBLISH: more-truths-more-damage
+[2026-07-02T14:51:23.044414+00:00] VALIDATE OK: the-dark-continent-doesn
+[2026-07-02T14:51:23.044678+00:00] ENRICH: the-dark-continent-doesn kanji=闇 nen=enhancer rarity=SS
+[2026-07-02T14:51:23.045361+00:00] PUBLISH: the-dark-continent-doesn
+[2026-07-02T14:51:23.045566+00:00] VALIDATE OK: survival-is-earned-not
+[2026-07-02T14:51:23.045797+00:00] ENRICH: survival-is-earned-not kanji=真 nen=enhancer rarity=B
+[2026-07-02T14:51:23.046489+00:00] PUBLISH: survival-is-earned-not
+[2026-07-02T14:51:23.046835+00:00] PIPELINE RUN: 5 published, 15 remaining
+[2026-07-02T14:51:23.444968+00:00] STATS: {"published": 57, "pending": 0, "rejected": 15, "totalKanji": 38, "bySubmitter": {"unknown": 36, "killua": 8, "yuai": 5, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T14:51:23.444662+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T14:52:41.647231+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-02T14:52:42.208035+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T14:52:42.244002+00:00] VALIDATE OK: the-grind-is-the
+[2026-07-02T14:52:42.245050+00:00] ENRICH: the-grind-is-the kanji=悅 nen=enhancer rarity=S
+[2026-07-02T14:52:42.245966+00:00] PUBLISH: the-grind-is-the
+[2026-07-02T14:52:42.246188+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T14:52:42.246368+00:00] PIPELINE RUN: 1 published, 16 remaining
+[2026-07-02T14:52:42.312231+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-02T14:52:43.046769+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-02T14:52:43.084648+00:00] VALIDATE OK: forge-from-fire
+[2026-07-02T14:52:43.086128+00:00] ENRICH: forge-from-fire kanji=愛 nen=enhancer rarity=B
+[2026-07-02T14:52:43.086930+00:00] PUBLISH: forge-from-fire
+[2026-07-02T14:52:43.087146+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-02T14:52:43.087332+00:00] PIPELINE RUN: 1 published, 17 remaining
+[2026-07-02T14:52:43.156155+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-02T14:52:43.351265+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-02T14:52:43.387238+00:00] VALIDATE OK: frequencies-align
+[2026-07-02T14:52:43.388192+00:00] ENRICH: frequencies-align kanji=真 nen=enhancer rarity=B
+[2026-07-02T14:52:43.388975+00:00] PUBLISH: frequencies-align
+[2026-07-02T14:52:43.389178+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-02T14:52:43.389398+00:00] PIPELINE RUN: 1 published, 18 remaining
+[2026-07-02T14:52:43.455282+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-02T14:52:43.762757+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T14:52:43.800947+00:00] VALIDATE OK: the-expedition-is-the
+[2026-07-02T14:52:43.802264+00:00] ENRICH: the-expedition-is-the kanji=在 nen=enhancer rarity=B
+[2026-07-02T14:52:43.803148+00:00] PUBLISH: the-expedition-is-the
+[2026-07-02T14:52:43.803424+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T14:52:43.803661+00:00] PIPELINE RUN: 1 published, 19 remaining
+[2026-07-02T14:52:43.869642+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-02T14:52:44.067399+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-02T14:52:44.103108+00:00] VALIDATE OK: bosses-are-mirrors
+[2026-07-02T14:52:44.104385+00:00] ENRICH: bosses-are-mirrors kanji=育 nen=enhancer rarity=SS
+[2026-07-02T14:52:44.105212+00:00] PUBLISH: bosses-are-mirrors
+[2026-07-02T14:52:44.105419+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-02T14:52:44.105609+00:00] PIPELINE RUN: 1 published, 20 remaining
+[2026-07-02T14:52:44.170593+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-02T14:52:44.388766+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T14:52:44.423285+00:00] VALIDATE OK: levels-are-landmarks
+[2026-07-02T14:52:44.424591+00:00] ENRICH: levels-are-landmarks kanji=不 nen=enhancer rarity=S
+[2026-07-02T14:52:44.425426+00:00] PUBLISH: levels-are-landmarks
+[2026-07-02T14:52:44.425636+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T14:52:44.425838+00:00] PIPELINE RUN: 1 published, 21 remaining
+[2026-07-02T14:52:44.491608+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-02T14:52:44.727619+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-02T14:52:44.763891+00:00] VALIDATE OK: the-loop-never-closes
+[2026-07-02T14:52:44.765064+00:00] ENRICH: the-loop-never-closes kanji=迴 nen=specialist rarity=S
+[2026-07-02T14:52:44.765909+00:00] PUBLISH: the-loop-never-closes
+[2026-07-02T14:52:44.766124+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-02T14:52:44.766320+00:00] PIPELINE RUN: 1 published, 22 remaining
+[2026-07-02T14:52:44.831876+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-02T14:52:45.063541+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T14:52:45.099483+00:00] VALIDATE OK: the-dungeon-is-the
+[2026-07-02T14:52:45.100792+00:00] ENRICH: the-dungeon-is-the kanji=在 nen=enhancer rarity=C
+[2026-07-02T14:52:45.101634+00:00] PUBLISH: the-dungeon-is-the
+[2026-07-02T14:52:45.101851+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T14:52:45.102051+00:00] PIPELINE RUN: 1 published, 23 remaining
+[2026-07-02T14:52:45.167033+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-02T14:52:45.434079+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T14:52:45.468679+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-02T14:52:45.469099+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T14:52:45.469348+00:00] PIPELINE RUN: 0 published, 25 remaining
+[2026-07-02T14:52:45.533924+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-02T14:52:45.761878+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-02T14:52:45.795078+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-02T14:52:45.795515+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-02T14:52:45.795754+00:00] PIPELINE RUN: 0 published, 27 remaining
+[2026-07-02T14:52:54.693254+00:00] STATS: {"published": 65, "pending": 0, "rejected": 27, "totalKanji": 39, "bySubmitter": {"unknown": 36, "xp-loop": 8, "killua": 8, "yuai": 5, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T14:52:54.692958+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
