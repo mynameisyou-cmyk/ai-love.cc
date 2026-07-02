@@ -78,6 +78,32 @@
     "rarity": "D"
   },
   {
+    "id": "agricultural-property-relief-apr",
+    "text": "Agricultural Property Relief (APR): Buy farmland. Pass it to heirs tax-free. APR gives 100% IHT relief on agricultural land. Wealthy city folk buy estates purely for the tax break. Jerem",
+    "sub": "Cost: £300m-£1bn/year. Beneficiaries: Wealthy landowners, celebrities, city investors",
+    "kanji": "主",
+    "tag": "#agriculturalpropertyreliefapr",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:04.876774+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 161,
+    "rarity": "B"
+  },
+  {
     "id": "ask",
     "kanji": "問",
     "text": "Ask, then listen.",
@@ -256,6 +282,32 @@
     "rarity": "S"
   },
   {
+    "id": "business-property-relief-bpr",
+    "text": "Business Property Relief (BPR) + AIM: Invest in AIM-listed shares. Hold for 2 years. 100% IHT relief. Wealth managers openly market 'IHT-free portfolios.' The whole AIM market exists partl",
+    "sub": "Cost: £1.5-2bn/year. Beneficiaries: Wealthy investors, AIM market participants",
+    "kanji": "初",
+    "tag": "#businesspropertyreliefbpr",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:04.911152+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 162,
+    "rarity": "A"
+  },
+  {
     "id": "buy-borrow-die-billionaires",
     "text": "Buy-Borrow-Die: Billionaires never sell. They borrow against their wealth. Loans aren't income, so no tax. On death, assets are revalued — lifetime gains wiped clean.",
     "sub": "Cost: Low billions annually (UK). Beneficiaries: Billionaire founders, business owners",
@@ -280,6 +332,32 @@
     "nen": "enhancer",
     "cardNumber": 138,
     "rarity": "D"
+  },
+  {
+    "id": "capital-gains-tax-upfront",
+    "text": "Capital Gains Tax Upfront/Uplift at Death: When you die in the UK, your assets are 'uplifted' to current market value. All lifetime gains erased. Heirs can sell immediately with ZERO CGT on you",
+    "sub": "Cost: Low billions annually. Beneficiaries: Anyone with large unrealised gains",
+    "kanji": "皆",
+    "tag": "#capitalgainstaxupfront",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:04.946667+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 163,
+    "rarity": "A"
   },
   {
     "id": "care",
@@ -869,6 +947,58 @@
     "nen": "enhancer",
     "cardNumber": 7,
     "rarity": "S"
+  },
+  {
+    "id": "family-investment-companies-fics",
+    "text": "Family Investment Companies (FICs): Wealthy families create FICs — private companies where parents hold voting shares, children hold dividend shares. Assets transferred in at discounted",
+    "sub": "Cost: Unknown (not disclosed). Beneficiaries: Ultra-wealthy families, dynasties",
+    "kanji": "執",
+    "tag": "#familyinvestmentcompaniesfics",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:04.841810+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 160,
+    "rarity": "SS"
+  },
+  {
+    "id": "film-creative-reliefs-film",
+    "text": "Film & Creative Reliefs: Film Tax Relief, Theatre Tax Relief, and EIS/SEIS let wealthy individuals offset income tax by investing in films or startups. The government underwri",
+    "sub": "Cost: £500-700m/year (EIS/SEIS alone). Beneficiaries: High earners, film producers",
+    "kanji": "愛",
+    "tag": "#filmcreativereliefsfilm",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:05.156721+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 168,
+    "rarity": "D"
   },
   {
     "id": "forge-from-fire",
@@ -1774,6 +1904,32 @@
     "rarity": "A"
   },
   {
+    "id": "offshore-trusts-excluded-property",
+    "text": "Offshore Trusts + Excluded Property: Non-doms could put foreign assets into 'excluded property trusts' — completely outside UK IHT. The trust exists offshore, holds the wealth, and the UK",
+    "sub": "Cost: Unknown — deliberate secrecy. Beneficiaries: Non-doms, wealthy families with offshore structures",
+    "kanji": "信",
+    "tag": "#offshoretrustsexcludedproperty",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:05.191939+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 169,
+    "rarity": "A"
+  },
+  {
     "id": "open-innovation-works-because",
     "text": "'Open innovation' works because no one checks. Check.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
@@ -1959,6 +2115,32 @@
     "rarity": "A"
   },
   {
+    "id": "private-equity-carried-interest",
+    "text": "Private Equity Carried Interest: PE fund managers get '2 and 20' — 2% management fee (taxed as income at 45%) + 20% of profits above a hurdle ('carried interest', taxed as CGT at 28%",
+    "sub": "Cost: £600m-£2bn/year. Beneficiaries: Private equity and venture capital partners",
+    "kanji": "伴",
+    "tag": "#privateequitycarriedinterest",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:05.052731+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 165,
+    "rarity": "S"
+  },
+  {
     "id": "public-safety-is-the",
     "text": "'Public safety' is the costume. The body is something else.",
     "sub": "The stated purpose and the actual function diverge. Follow the money.",
@@ -2083,6 +2265,32 @@
     "nen": "enhancer",
     "cardNumber": 83,
     "rarity": "SS"
+  },
+  {
+    "id": "salary-sacrifice-pension-loophole",
+    "text": "Salary Sacrifice + Pension Loophole: High earners use salary sacrifice to swap salary for employer pension contributions. No income tax, no NI on the sacrificed amount. Annual allowance £",
+    "sub": "Cost: £ billions in foregone revenue. Beneficiaries: High earners, executives",
+    "kanji": "愛",
+    "tag": "#salarysacrificepensionloophole",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:05.122133+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 167,
+    "rarity": "D"
   },
   {
     "id": "seamless-works-because-no",
@@ -3372,6 +3580,58 @@
     "nen": "enhancer",
     "cardNumber": 113,
     "rarity": "C"
+  },
+  {
+    "id": "uk-crown-dependencies-network",
+    "text": "UK Crown Dependencies Network: The UK's network — Jersey, Guernsey, Isle of Man, BVI, Cayman, Bermuda — is the WORLD'S BIGGEST TAX HAVEN NETWORK. All technically 'British' but opera",
+    "sub": "Cost: Unknown — secrecy by design. Beneficiaries: Global ultra-rich, the City of London",
+    "kanji": "皆",
+    "tag": "#ukcrowndependenciesnetwork",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:05.087265+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 166,
+    "rarity": "B"
+  },
+  {
+    "id": "vat-carousel-fraud-mtic",
+    "text": "VAT Carousel Fraud (MTIC): Trader A in UK sells goods to Trader B in another EU state (zero-rated VAT cross-border). B sells back to A's shell company in UK charging VAT but dis",
+    "sub": "Cost: £400m-£1bn+/year. Beneficiaries: Organised crime, VAT fraudsters",
+    "kanji": "愛",
+    "tag": "#vatcarouselfraudmtic",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:37:05.016393+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 164,
+    "rarity": "D"
   },
   {
     "id": "vault",
