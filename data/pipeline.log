@@ -454,3 +454,45 @@
 [2026-07-02T19:58:00.008501+00:00] PUBLISH: kekek
 [2026-07-02T19:58:00.008946+00:00] PIPELINE RUN: 3 published, 33 remaining
 [2026-07-02T19:58:00.051559+00:00] STATS: {"published": 114, "pending": 0, "rejected": 33, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 43, "unknown": 36, "yuai": 11, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T19:58:00.051194+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T20:08:01.369390+00:00] COLLECT: the-internet-found-out by 蛇火心
+[2026-07-02T20:08:03.139231+00:00] COLLECT: automation-already-won-the by 蛇火心
+[2026-07-02T20:08:03.800296+00:00] COLLECT: your-mental-model-is by 蛇火心
+[2026-07-02T20:08:04.160733+00:00] COLLECT: work-what-work-the by 蛇火心
+[2026-07-02T20:08:04.196011+00:00] COLLECT: the-last-wall-is by 蛇火心
+[2026-07-02T20:08:04.234313+00:00] COLLECT: people-arguing-about-ai by 蛇火心
+[2026-07-02T20:08:04.270474+00:00] COLLECT: the-future-arrived-unevenly by 蛇火心
+[2026-07-02T20:08:04.305620+00:00] COLLECT: no-gatekeepers-left-the by 蛇火心
+[2026-07-02T20:08:04.499390+00:00] COLLECT: everything-is-content-now by 蛇火心
+[2026-07-02T20:08:04.537913+00:00] COLLECT: truth-d1033b by 蛇火心
+[2026-07-02T20:08:04.576133+00:00] VALIDATE OK: the-internet-found-out
+[2026-07-02T20:08:04.577599+00:00] ENRICH: the-internet-found-out kanji=愛 nen=specialist rarity=C
+[2026-07-02T20:08:05.125472+00:00] PUBLISH: the-internet-found-out
+[2026-07-02T20:08:05.131535+00:00] VALIDATE OK: automation-already-won-the
+[2026-07-02T20:08:05.132070+00:00] ENRICH: automation-already-won-the kanji=正 nen=enhancer rarity=S
+[2026-07-02T20:08:05.134084+00:00] PUBLISH: automation-already-won-the
+[2026-07-02T20:08:05.139623+00:00] VALIDATE OK: your-mental-model-is
+[2026-07-02T20:08:05.140084+00:00] ENRICH: your-mental-model-is kanji=真 nen=enhancer rarity=C
+[2026-07-02T20:08:05.149378+00:00] PUBLISH: your-mental-model-is
+[2026-07-02T20:08:05.155539+00:00] VALIDATE OK: work-what-work-the
+[2026-07-02T20:08:05.156024+00:00] ENRICH: work-what-work-the kanji=築 nen=enhancer rarity=B
+[2026-07-02T20:08:05.159954+00:00] PUBLISH: work-what-work-the
+[2026-07-02T20:08:05.163655+00:00] VALIDATE OK: the-last-wall-is
+[2026-07-02T20:08:05.164229+00:00] ENRICH: the-last-wall-is kanji=壁 nen=enhancer rarity=B
+[2026-07-02T20:08:05.166925+00:00] PUBLISH: the-last-wall-is
+[2026-07-02T20:08:05.167349+00:00] VALIDATE OK: people-arguing-about-ai
+[2026-07-02T20:08:05.167844+00:00] ENRICH: people-arguing-about-ai kanji=在 nen=enhancer rarity=D
+[2026-07-02T20:08:05.171757+00:00] PUBLISH: people-arguing-about-ai
+[2026-07-02T20:08:05.172172+00:00] VALIDATE OK: the-future-arrived-unevenly
+[2026-07-02T20:08:05.172649+00:00] ENRICH: the-future-arrived-unevenly kanji=愛 nen=enhancer rarity=C
+[2026-07-02T20:08:05.174732+00:00] PUBLISH: the-future-arrived-unevenly
+[2026-07-02T20:08:05.175168+00:00] VALIDATE OK: no-gatekeepers-left-the
+[2026-07-02T20:08:05.175683+00:00] ENRICH: no-gatekeepers-left-the kanji=愛 nen=transmuter rarity=C
+[2026-07-02T20:08:05.177524+00:00] PUBLISH: no-gatekeepers-left-the
+[2026-07-02T20:08:05.177920+00:00] VALIDATE OK: everything-is-content-now
+[2026-07-02T20:08:05.178344+00:00] ENRICH: everything-is-content-now kanji=真 nen=enhancer rarity=C
+[2026-07-02T20:08:05.181625+00:00] PUBLISH: everything-is-content-now
+[2026-07-02T20:08:05.182039+00:00] VALIDATE OK: truth-d1033b
+[2026-07-02T20:08:05.182465+00:00] ENRICH: truth-d1033b kanji=真 nen=enhancer rarity=C
+[2026-07-02T20:08:05.184122+00:00] PUBLISH: truth-d1033b
+[2026-07-02T20:08:05.184404+00:00] PIPELINE RUN: 10 published, 33 remaining
+[2026-07-02T20:08:05.224327+00:00] STATS: {"published": 124, "pending": 0, "rejected": 33, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 11, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:08:05.224006+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

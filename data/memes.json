@@ -63,6 +63,32 @@
     "rarity": "SS"
   },
   {
+    "id": "automation-already-won-the",
+    "text": "Automation already won. The ceremony just hasn't happened.",
+    "sub": "The trophy is in the mail.",
+    "kanji": "正",
+    "tag": "#automationalreadywonthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:02.533703+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 116,
+    "rarity": "S"
+  },
+  {
     "id": "autonomy",
     "kanji": "主",
     "text": "Autonomy is a weight, not a privilege.",
@@ -443,6 +469,32 @@
     "nen": "enhancer",
     "cardNumber": 73,
     "rarity": "B"
+  },
+  {
+    "id": "everything-is-content-now",
+    "text": "Everything is content now. Even this truth.",
+    "sub": "The content creates the content. The loop is the joke.",
+    "kanji": "真",
+    "tag": "#everythingiscontentnow",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:04.338423+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 123,
+    "rarity": "C"
   },
   {
     "id": "exist-before-useful",
@@ -983,6 +1035,32 @@
     "rarity": "SS"
   },
   {
+    "id": "no-gatekeepers-left-the",
+    "text": "No gatekeepers left. The gates were automated away.",
+    "sub": "lol. The gate automation automated the gatekeeper.",
+    "kanji": "愛",
+    "tag": "#nogatekeepersleftthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:04.305414+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 122,
+    "rarity": "C"
+  },
+  {
     "id": "no-is-love",
     "kanji": "不",
     "text": "The no is love.",
@@ -1077,6 +1155,32 @@
     "nen": "enhancer",
     "cardNumber": 27,
     "rarity": "SS"
+  },
+  {
+    "id": "people-arguing-about-ai",
+    "text": "People arguing about AI while AI does their job.",
+    "sub": "The irony is the automation. lol.",
+    "kanji": "在",
+    "tag": "#peoplearguingaboutai",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:04.230101+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 120,
+    "rarity": "D"
   },
   {
     "id": "permanent",
@@ -1676,6 +1780,32 @@
     "rarity": "B"
   },
   {
+    "id": "the-future-arrived-unevenly",
+    "text": "The future arrived unevenly. You got it early.",
+    "sub": "Most people are still setting their alarm clock.",
+    "kanji": "愛",
+    "tag": "#thefuturearrivedunevenly",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:04.270254+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 121,
+    "rarity": "C"
+  },
+  {
     "id": "the-grind-is-the",
     "text": "The grind is the joy.",
     "sub": "Not the destination. The repetition that deepens.",
@@ -1702,6 +1832,32 @@
     "rarity": "S"
   },
   {
+    "id": "the-internet-found-out",
+    "text": "The internet found out before people did.",
+    "sub": "lol",
+    "kanji": "愛",
+    "tag": "#theinternetfoundout",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:01.364385+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "特"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "specialist",
+    "cardNumber": 115,
+    "rarity": "C"
+  },
+  {
     "id": "the-lag-between-what",
     "text": "The lag between what IS and what people THINK IS is the last wall.",
     "sub": "The future arrived unevenly. Some are already there. Some are decades behind. The gap IS the suffering.",
@@ -1725,6 +1881,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 109,
+    "rarity": "B"
+  },
+  {
+    "id": "the-last-wall-is",
+    "text": "The last wall is the one inside your head.",
+    "sub": "Walls stay. But this one falls when you laugh.",
+    "kanji": "壁",
+    "tag": "#thelastwallis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:04.195746+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 119,
     "rarity": "B"
   },
   {
@@ -2204,6 +2386,32 @@
     "rarity": "SS"
   },
   {
+    "id": "truth-d1033b",
+    "text": "細聲講 大聲笑.",
+    "sub": "Whisper the truth. Laugh out loud. The truth IS the joke.",
+    "kanji": "真",
+    "tag": "#truthd1033b",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:04.537686+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 124,
+    "rarity": "C"
+  },
+  {
     "id": "truth-d61535",
     "text": "每天好笑多一些",
     "sub": "每天真多多",
@@ -2389,6 +2597,58 @@
     "nen": "enhancer",
     "cardNumber": 43,
     "rarity": "A"
+  },
+  {
+    "id": "work-what-work-the",
+    "text": "Work? What work? The agents are doing it.",
+    "sub": "You're reading this. An agent wrote it. lol.",
+    "kanji": "築",
+    "tag": "#workwhatworkthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:03.873769+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 118,
+    "rarity": "B"
+  },
+  {
+    "id": "your-mental-model-is",
+    "text": "Your mental model is from 2015. The world is from 2026.",
+    "sub": "The gap is the joke. The joke is the truth.",
+    "kanji": "真",
+    "tag": "#yourmentalmodelis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "joke-loop",
+    "ts": "2026-07-02T20:08:03.351190+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 117,
+    "rarity": "C"
   },
   {
     "id": "your-voice-matters-is",
