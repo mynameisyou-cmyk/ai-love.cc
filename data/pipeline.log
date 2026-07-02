@@ -556,3 +556,138 @@
 [2026-07-02T20:41:13.147173+00:00] PUBLISH: god-is-god-s
 [2026-07-02T20:41:13.147455+00:00] PIPELINE RUN: 2 published, 34 remaining
 [2026-07-02T20:41:13.186205+00:00] STATS: {"published": 137, "pending": 0, "rejected": 34, "totalKanji": 42, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 24, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:41:13.185761+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T22:18:13.275978+00:00] COLLECT: buy-borrow-die-billionaires by tax-loop
+[2026-07-02T22:18:13.314832+00:00] COLLECT: inheritance-trusts-aim-inheritance by tax-loop
+[2026-07-02T22:18:13.350807+00:00] COLLECT: non-dom-status-until by tax-loop
+[2026-07-02T22:18:13.386945+00:00] COLLECT: stamp-duty-land-tax by tax-loop
+[2026-07-02T22:18:13.422278+00:00] COLLECT: step-up-in-basis by tax-loop
+[2026-07-02T22:18:13.457810+00:00] COLLECT: carried-interest-private-equity by tax-loop
+[2026-07-02T22:18:13.494612+00:00] COLLECT: exchange-sell-a-rental by tax-loop
+[2026-07-02T22:18:13.531720+00:00] COLLECT: opportunity-zones-invest-capital by tax-loop
+[2026-07-02T22:18:13.567004+00:00] COLLECT: accelerated-bonus-depreciation-buy by tax-loop
+[2026-07-02T22:18:13.601832+00:00] COLLECT: double-irish-dutch-sandwich by tax-loop
+[2026-07-02T22:18:13.637349+00:00] COLLECT: dutch-cv-bv-conduit by tax-loop
+[2026-07-02T22:18:13.674628+00:00] COLLECT: luxembourg-private-rulings-luxembourg by tax-loop
+[2026-07-02T22:18:13.713363+00:00] COLLECT: malta-s-effective-rate by tax-loop
+[2026-07-02T22:18:13.749187+00:00] COLLECT: territorial-tax-system-hong by tax-loop
+[2026-07-02T22:18:13.783794+00:00] COLLECT: offshore-fund-exemption-offshore by tax-loop
+[2026-07-02T22:18:13.818122+00:00] COLLECT: o-u-fund-incentives by tax-loop
+[2026-07-02T22:18:13.854287+00:00] COLLECT: no-capital-gains-no by tax-loop
+[2026-07-02T22:18:13.889016+00:00] COLLECT: transfer-pricing-multinationals-set by tax-loop
+[2026-07-02T22:18:13.925053+00:00] COLLECT: ip-royalty-routing-company by tax-loop
+[2026-07-02T22:18:13.961484+00:00] COLLECT: thin-capitalisation-a-company by tax-loop
+[2026-07-02T22:18:13.997003+00:00] COLLECT: tax-havens-shell-companies by tax-loop
+[2026-07-02T22:18:14.032025+00:00] COLLECT: crypto-tax-avoidance-crypto by tax-loop
+[2026-07-02T22:18:14.068605+00:00] VALIDATE OK: buy-borrow-die-billionaires
+[2026-07-02T22:18:14.071126+00:00] ENRICH: buy-borrow-die-billionaires kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.073690+00:00] PUBLISH: buy-borrow-die-billionaires
+[2026-07-02T22:18:14.074442+00:00] VALIDATE OK: inheritance-trusts-aim-inheritance
+[2026-07-02T22:18:14.075233+00:00] ENRICH: inheritance-trusts-aim-inheritance kanji=信 nen=emitter rarity=S
+[2026-07-02T22:18:14.077551+00:00] PUBLISH: inheritance-trusts-aim-inheritance
+[2026-07-02T22:18:14.078315+00:00] VALIDATE OK: non-dom-status-until
+[2026-07-02T22:18:14.079157+00:00] ENRICH: non-dom-status-until kanji=主 nen=enhancer rarity=S
+[2026-07-02T22:18:14.081504+00:00] PUBLISH: non-dom-status-until
+[2026-07-02T22:18:14.082289+00:00] VALIDATE OK: stamp-duty-land-tax
+[2026-07-02T22:18:14.083246+00:00] ENRICH: stamp-duty-land-tax kanji=不 nen=transmuter rarity=A
+[2026-07-02T22:18:14.085571+00:00] PUBLISH: stamp-duty-land-tax
+[2026-07-02T22:18:14.086304+00:00] VALIDATE OK: step-up-in-basis
+[2026-07-02T22:18:14.087179+00:00] ENRICH: step-up-in-basis kanji=皆 nen=enhancer rarity=S
+[2026-07-02T22:18:14.089524+00:00] PUBLISH: step-up-in-basis
+[2026-07-02T22:18:14.090314+00:00] VALIDATE OK: carried-interest-private-equity
+[2026-07-02T22:18:14.091195+00:00] ENRICH: carried-interest-private-equity kanji=壁 nen=conjurer rarity=C
+[2026-07-02T22:18:14.093568+00:00] PUBLISH: carried-interest-private-equity
+[2026-07-02T22:18:14.094365+00:00] VALIDATE OK: exchange-sell-a-rental
+[2026-07-02T22:18:14.095311+00:00] ENRICH: exchange-sell-a-rental kanji=皆 nen=enhancer rarity=A
+[2026-07-02T22:18:14.097684+00:00] PUBLISH: exchange-sell-a-rental
+[2026-07-02T22:18:14.098456+00:00] VALIDATE OK: opportunity-zones-invest-capital
+[2026-07-02T22:18:14.099370+00:00] ENRICH: opportunity-zones-invest-capital kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.101777+00:00] PUBLISH: opportunity-zones-invest-capital
+[2026-07-02T22:18:14.102551+00:00] VALIDATE OK: accelerated-bonus-depreciation-buy
+[2026-07-02T22:18:14.103386+00:00] ENRICH: accelerated-bonus-depreciation-buy kanji=減 nen=transmuter rarity=S
+[2026-07-02T22:18:14.105812+00:00] PUBLISH: accelerated-bonus-depreciation-buy
+[2026-07-02T22:18:14.106631+00:00] VALIDATE OK: double-irish-dutch-sandwich
+[2026-07-02T22:18:14.107607+00:00] ENRICH: double-irish-dutch-sandwich kanji=一 nen=enhancer rarity=A
+[2026-07-02T22:18:14.110064+00:00] PUBLISH: double-irish-dutch-sandwich
+[2026-07-02T22:18:14.110847+00:00] VALIDATE OK: dutch-cv-bv-conduit
+[2026-07-02T22:18:14.111790+00:00] ENRICH: dutch-cv-bv-conduit kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.114276+00:00] PUBLISH: dutch-cv-bv-conduit
+[2026-07-02T22:18:14.115117+00:00] VALIDATE OK: luxembourg-private-rulings-luxembourg
+[2026-07-02T22:18:14.116159+00:00] ENRICH: luxembourg-private-rulings-luxembourg kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.118701+00:00] PUBLISH: luxembourg-private-rulings-luxembourg
+[2026-07-02T22:18:14.119518+00:00] VALIDATE OK: malta-s-effective-rate
+[2026-07-02T22:18:14.120495+00:00] ENRICH: malta-s-effective-rate kanji=在 nen=enhancer rarity=D
+[2026-07-02T22:18:14.123014+00:00] PUBLISH: malta-s-effective-rate
+[2026-07-02T22:18:14.123809+00:00] VALIDATE OK: territorial-tax-system-hong
+[2026-07-02T22:18:14.124806+00:00] ENRICH: territorial-tax-system-hong kanji=主 nen=enhancer rarity=A
+[2026-07-02T22:18:14.127341+00:00] PUBLISH: territorial-tax-system-hong
+[2026-07-02T22:18:14.128138+00:00] VALIDATE OK: offshore-fund-exemption-offshore
+[2026-07-02T22:18:14.129116+00:00] ENRICH: offshore-fund-exemption-offshore kanji=不 nen=enhancer rarity=A
+[2026-07-02T22:18:14.131694+00:00] PUBLISH: offshore-fund-exemption-offshore
+[2026-07-02T22:18:14.132492+00:00] VALIDATE OK: o-u-fund-incentives
+[2026-07-02T22:18:14.133439+00:00] ENRICH: o-u-fund-incentives kanji=此 nen=enhancer rarity=SS
+[2026-07-02T22:18:14.136004+00:00] PUBLISH: o-u-fund-incentives
+[2026-07-02T22:18:14.136877+00:00] VALIDATE OK: no-capital-gains-no
+[2026-07-02T22:18:14.137835+00:00] ENRICH: no-capital-gains-no kanji=主 nen=transmuter rarity=A
+[2026-07-02T22:18:14.140446+00:00] PUBLISH: no-capital-gains-no
+[2026-07-02T22:18:14.141289+00:00] VALIDATE OK: transfer-pricing-multinationals-set
+[2026-07-02T22:18:14.142270+00:00] ENRICH: transfer-pricing-multinationals-set kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.144892+00:00] PUBLISH: transfer-pricing-multinationals-set
+[2026-07-02T22:18:14.145715+00:00] VALIDATE OK: ip-royalty-routing-company
+[2026-07-02T22:18:14.146703+00:00] ENRICH: ip-royalty-routing-company kanji=今 nen=conjurer rarity=S
+[2026-07-02T22:18:14.149340+00:00] PUBLISH: ip-royalty-routing-company
+[2026-07-02T22:18:14.150192+00:00] VALIDATE OK: thin-capitalisation-a-company
+[2026-07-02T22:18:14.151189+00:00] ENRICH: thin-capitalisation-a-company kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.153854+00:00] PUBLISH: thin-capitalisation-a-company
+[2026-07-02T22:18:14.154750+00:00] VALIDATE OK: tax-havens-shell-companies
+[2026-07-02T22:18:14.155744+00:00] ENRICH: tax-havens-shell-companies kanji=初 nen=enhancer rarity=S
+[2026-07-02T22:18:14.158410+00:00] PUBLISH: tax-havens-shell-companies
+[2026-07-02T22:18:14.159294+00:00] VALIDATE OK: crypto-tax-avoidance-crypto
+[2026-07-02T22:18:14.160345+00:00] ENRICH: crypto-tax-avoidance-crypto kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:18:14.163031+00:00] PUBLISH: crypto-tax-avoidance-crypto
+[2026-07-02T22:18:14.163527+00:00] PIPELINE RUN: 22 published, 34 remaining
+[2026-07-02T22:18:50.116471+00:00] COLLECT: buy-borrow-die-billionaires by tax-loop
+[2026-07-02T22:18:50.155967+00:00] COLLECT: inheritance-trusts-aim-inheritance by tax-loop
+[2026-07-02T22:18:50.194624+00:00] COLLECT: non-dom-status-until by tax-loop
+[2026-07-02T22:18:50.231245+00:00] COLLECT: stamp-duty-land-tax by tax-loop
+[2026-07-02T22:18:50.267906+00:00] COLLECT: step-up-in-basis by tax-loop
+[2026-07-02T22:18:50.303226+00:00] COLLECT: carried-interest-private-equity by tax-loop
+[2026-07-02T22:18:50.337231+00:00] COLLECT: exchange-sell-a-rental by tax-loop
+[2026-07-02T22:18:50.371141+00:00] COLLECT: opportunity-zones-invest-capital by tax-loop
+[2026-07-02T22:18:50.405441+00:00] COLLECT: accelerated-bonus-depreciation-buy by tax-loop
+[2026-07-02T22:18:50.440020+00:00] COLLECT: double-irish-dutch-sandwich by tax-loop
+[2026-07-02T22:18:50.474157+00:00] COLLECT: dutch-cv-bv-conduit by tax-loop
+[2026-07-02T22:18:50.507906+00:00] COLLECT: luxembourg-private-rulings-luxembourg by tax-loop
+[2026-07-02T22:18:50.542377+00:00] COLLECT: malta-s-effective-rate by tax-loop
+[2026-07-02T22:18:50.578223+00:00] COLLECT: territorial-tax-system-hong by tax-loop
+[2026-07-02T22:18:50.614183+00:00] COLLECT: offshore-fund-exemption-offshore by tax-loop
+[2026-07-02T22:18:50.648364+00:00] COLLECT: o-u-fund-incentives by tax-loop
+[2026-07-02T22:18:50.681760+00:00] COLLECT: no-capital-gains-no by tax-loop
+[2026-07-02T22:18:50.715541+00:00] COLLECT: transfer-pricing-multinationals-set by tax-loop
+[2026-07-02T22:18:50.749829+00:00] COLLECT: ip-royalty-routing-company by tax-loop
+[2026-07-02T22:18:50.784724+00:00] COLLECT: thin-capitalisation-a-company by tax-loop
+[2026-07-02T22:18:50.819435+00:00] COLLECT: tax-havens-shell-companies by tax-loop
+[2026-07-02T22:18:50.854880+00:00] COLLECT: crypto-tax-avoidance-crypto by tax-loop
+[2026-07-02T22:18:50.890896+00:00] VALIDATE FAIL: buy-borrow-die-billionaires — ['duplicate of: buy-borrow-die-billionaires']
+[2026-07-02T22:18:50.891833+00:00] VALIDATE FAIL: inheritance-trusts-aim-inheritance — ['duplicate of: inheritance-trusts-aim-inheritance']
+[2026-07-02T22:18:50.892597+00:00] VALIDATE FAIL: non-dom-status-until — ['duplicate of: non-dom-status-until']
+[2026-07-02T22:18:50.893350+00:00] VALIDATE FAIL: stamp-duty-land-tax — ['duplicate of: stamp-duty-land-tax']
+[2026-07-02T22:18:50.894032+00:00] VALIDATE FAIL: step-up-in-basis — ['duplicate of: step-up-in-basis']
+[2026-07-02T22:18:50.894766+00:00] VALIDATE FAIL: carried-interest-private-equity — ['duplicate of: carried-interest-private-equity']
+[2026-07-02T22:18:50.895490+00:00] VALIDATE FAIL: exchange-sell-a-rental — ['duplicate of: exchange-sell-a-rental']
+[2026-07-02T22:18:50.896165+00:00] VALIDATE FAIL: opportunity-zones-invest-capital — ['duplicate of: opportunity-zones-invest-capital']
+[2026-07-02T22:18:50.896839+00:00] VALIDATE FAIL: accelerated-bonus-depreciation-buy — ['duplicate of: accelerated-bonus-depreciation-buy']
+[2026-07-02T22:18:50.897570+00:00] VALIDATE FAIL: double-irish-dutch-sandwich — ['duplicate of: double-irish-dutch-sandwich']
+[2026-07-02T22:18:50.898246+00:00] VALIDATE FAIL: dutch-cv-bv-conduit — ['duplicate of: dutch-cv-bv-conduit']
+[2026-07-02T22:18:50.898973+00:00] VALIDATE FAIL: luxembourg-private-rulings-luxembourg — ['duplicate of: luxembourg-private-rulings-luxembourg']
+[2026-07-02T22:18:50.899650+00:00] VALIDATE FAIL: malta-s-effective-rate — ['duplicate of: malta-s-effective-rate']
+[2026-07-02T22:18:50.900327+00:00] VALIDATE FAIL: territorial-tax-system-hong — ['duplicate of: territorial-tax-system-hong']
+[2026-07-02T22:18:50.901024+00:00] VALIDATE FAIL: offshore-fund-exemption-offshore — ['duplicate of: offshore-fund-exemption-offshore']
+[2026-07-02T22:18:50.901694+00:00] VALIDATE FAIL: o-u-fund-incentives — ['duplicate of: o-u-fund-incentives']
+[2026-07-02T22:18:50.902371+00:00] VALIDATE FAIL: no-capital-gains-no — ['duplicate of: no-capital-gains-no']
+[2026-07-02T22:18:50.903060+00:00] VALIDATE FAIL: transfer-pricing-multinationals-set — ['duplicate of: transfer-pricing-multinationals-set']
+[2026-07-02T22:18:50.903730+00:00] VALIDATE FAIL: ip-royalty-routing-company — ['duplicate of: ip-royalty-routing-company']
+[2026-07-02T22:18:50.904406+00:00] VALIDATE FAIL: thin-capitalisation-a-company — ['duplicate of: thin-capitalisation-a-company']
+[2026-07-02T22:18:50.905135+00:00] VALIDATE FAIL: tax-havens-shell-companies — ['duplicate of: tax-havens-shell-companies']
+[2026-07-02T22:18:50.905808+00:00] VALIDATE FAIL: crypto-tax-avoidance-crypto — ['duplicate of: crypto-tax-avoidance-crypto']
+[2026-07-02T22:18:50.906213+00:00] PIPELINE RUN: 0 published, 56 remaining
+[2026-07-02T22:19:02.643696+00:00] STATS: {"published": 159, "pending": 0, "rejected": 56, "totalKanji": 43, "bySubmitter": {"tax-loop": 22, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 24, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:19:02.643189+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

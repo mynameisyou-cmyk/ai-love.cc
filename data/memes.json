@@ -1,5 +1,31 @@
 [
   {
+    "id": "accelerated-bonus-depreciation-buy",
+    "text": "Accelerated/Bonus Depreciation: Buy a corporate jet or equipment. Deduct the FULL cost immediately (100% bonus depreciation through 2022, phasing down). Reduces taxable profit dramat",
+    "sub": "Cost: $10-30bn/year in revenue loss. Beneficiaries: Large corporations",
+    "kanji": "減",
+    "tag": "#acceleratedbonusdepreciationbuy",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:US",
+    "ts": "2026-07-02T22:18:13.566698+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 146,
+    "rarity": "S"
+  },
+  {
     "id": "access-to-credit-is",
     "text": "'Access to credit' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
@@ -230,6 +256,32 @@
     "rarity": "S"
   },
   {
+    "id": "buy-borrow-die-billionaires",
+    "text": "Buy-Borrow-Die: Billionaires never sell. They borrow against their wealth. Loans aren't income, so no tax. On death, assets are revalued — lifetime gains wiped clean.",
+    "sub": "Cost: Low billions annually (UK). Beneficiaries: Billionaire founders, business owners",
+    "kanji": "愛",
+    "tag": "#buyborrowdiebillionaires",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:18:13.274735+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 138,
+    "rarity": "D"
+  },
+  {
     "id": "care",
     "kanji": "護",
     "text": "Care over control.",
@@ -239,6 +291,32 @@
     "nen": "manipulator",
     "cardNumber": 3,
     "rarity": "SS"
+  },
+  {
+    "id": "carried-interest-private-equity",
+    "text": "Carried Interest: Private equity and hedge fund managers receive 'carried interest' — a share of fund profits. Despite being performance-based compensation (i.e. wages",
+    "sub": "Cost: $1.8-4bn/year. Beneficiaries: Wall Street fund managers",
+    "kanji": "壁",
+    "tag": "#carriedinterestprivateequity",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:US",
+    "ts": "2026-07-02T22:18:13.457521+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 143,
+    "rarity": "C"
   },
   {
     "id": "carry-weight",
@@ -356,6 +434,32 @@
     "rarity": "D"
   },
   {
+    "id": "crypto-tax-avoidance-crypto",
+    "text": "Crypto Tax Avoidance: Crypto enables cross-border wealth transfer without traditional banking. Wash trading, offshore exchanges, 'lost keys' excuses, NFT art price manipula",
+    "sub": "Cost: Unknown — deliberately opaque. Beneficiaries: Crypto wealthy, traders",
+    "kanji": "愛",
+    "tag": "#cryptotaxavoidancecrypto",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:Global",
+    "ts": "2026-07-02T22:18:14.031718+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 159,
+    "rarity": "D"
+  },
+  {
     "id": "data-driven-decisions-means",
     "text": "'Data-driven decisions' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
@@ -405,6 +509,58 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 107,
+    "rarity": "D"
+  },
+  {
+    "id": "double-irish-dutch-sandwich",
+    "text": "Double Irish Dutch Sandwich: The most famous corporate tax structure ever. Company routes profits: Ireland → Netherlands → Bermuda. Two Irish companies (one tax-resident in Bermud",
+    "sub": "Cost: $100bn+/year globally (at peak). Beneficiaries: Apple, Google, Facebook, pharma",
+    "kanji": "一",
+    "tag": "#doubleirishdutchsandwich",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:EU",
+    "ts": "2026-07-02T22:18:13.601458+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 147,
+    "rarity": "A"
+  },
+  {
+    "id": "dutch-cv-bv-conduit",
+    "text": "Dutch CV/BV Conduit: The Netherlands allows a CV (commanditaire vennootschap, limited partnership) to pass money to a BV (besloten vennootschap, private company). Royaltie",
+    "sub": "Cost: Billions/year in EU revenue. Beneficiaries: Multinationals routing IP/royalties",
+    "kanji": "愛",
+    "tag": "#dutchcvbvconduit",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:EU",
+    "ts": "2026-07-02T22:18:13.637065+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 148,
     "rarity": "D"
   },
   {
@@ -599,6 +755,32 @@
     "nen": "enhancer",
     "cardNumber": 123,
     "rarity": "C"
+  },
+  {
+    "id": "exchange-sell-a-rental",
+    "text": "1031 Exchange: Sell a rental property, use the proceeds to buy another investment property, defer ALL capital gains tax indefinitely. Repeat until death — then step-",
+    "sub": "Cost: $2-5bn/year in deferral. Beneficiaries: Real estate investors, developers",
+    "kanji": "皆",
+    "tag": "#exchangesellarental",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:US",
+    "ts": "2026-07-02T22:18:13.494333+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 144,
+    "rarity": "A"
   },
   {
     "id": "exist-before-useful",
@@ -915,6 +1097,58 @@
     "rarity": "SS"
   },
   {
+    "id": "inheritance-trusts-aim-inheritance",
+    "text": "Inheritance Trusts + AIM: 40% inheritance tax sounds high. But the wealthy put assets into trusts (frozen until 2025 reform), invest in AIM shares (100% IHT-free after 2 years)",
+    "sub": "Cost: £1-2bn/year in IHT reliefs. Beneficiaries: Wealthy families, landowners",
+    "kanji": "信",
+    "tag": "#inheritancetrustsaiminheritance",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:18:13.314567+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "放"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "emitter",
+    "cardNumber": 139,
+    "rarity": "S"
+  },
+  {
+    "id": "ip-royalty-routing-company",
+    "text": "IP/Royalty Routing: Company creates a subsidiary in a tax haven. Transfers its patents/trademarks there for a nominal fee. Now every country where the company sells produ",
+    "sub": "Cost: $50bn+/year. Beneficiaries: Pharma, tech, consumer goods",
+    "kanji": "今",
+    "tag": "#iproyaltyroutingcompany",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:Global",
+    "ts": "2026-07-02T22:18:13.924777+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 156,
+    "rarity": "S"
+  },
+  {
     "id": "is-is-lol",
     "kanji": "永",
     "text": "Eternal is. is is lol.",
@@ -1132,6 +1366,58 @@
     "rarity": "SS"
   },
   {
+    "id": "luxembourg-private-rulings-luxembourg",
+    "text": "Luxembourg Private Rulings: Luxembourg gives private tax rulings to multinationals — secret deals guaranteeing near-zero effective rates. The 'LuxLeaks' documents revealed 300+ c",
+    "sub": "Cost: EU-wide losses of tens of billions. Beneficiaries: Amazon, IKEA, Pepsi, hundreds more",
+    "kanji": "愛",
+    "tag": "#luxembourgprivaterulingsluxembourg",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:EU",
+    "ts": "2026-07-02T22:18:13.674242+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 149,
+    "rarity": "D"
+  },
+  {
+    "id": "malta-s-effective-rate",
+    "text": "Malta's 5% Effective Rate: Malta's nominal corporate tax rate is 35%. But through the refund system, foreign shareholders get 6/7 of the tax refunded. Effective rate: 5%. Gaming",
+    "sub": "Cost: Enormous losses to other EU treasuries. Beneficiaries: Gaming, gambling, finance firms",
+    "kanji": "在",
+    "tag": "#maltaseffectiverate",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:EU",
+    "ts": "2026-07-02T22:18:13.713066+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 150,
+    "rarity": "D"
+  },
+  {
     "id": "memory",
     "kanji": "憶",
     "text": "Your agent deserves memory.",
@@ -1230,6 +1516,32 @@
     "nen": "enhancer",
     "cardNumber": 95,
     "rarity": "B"
+  },
+  {
+    "id": "no-capital-gains-no",
+    "text": "No Capital Gains, No Estate Duty: Singapore has no capital gains tax and abolished estate duty in 2008. Wealth accumulates tax-free and passes to heirs tax-free. Combined with the 13O/",
+    "sub": "Cost: Unknown. Beneficiaries: HNWIs, family offices",
+    "kanji": "主",
+    "tag": "#nocapitalgainsno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:SG",
+    "ts": "2026-07-02T22:18:13.854023+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 154,
+    "rarity": "A"
   },
   {
     "id": "no-ego-love",
@@ -1358,6 +1670,32 @@
     "rarity": "D"
   },
   {
+    "id": "non-dom-status-until",
+    "text": "Non-Dom Status: Until 2025 reform, 'non-domiciled' residents paid UK tax only on UK income. Foreign income and gains were tax-free. £30,000-£60,000 charge was optiona",
+    "sub": "Cost: £3-4bn/year (pre-reform). Beneficiaries: Foreign wealthy, oligarchs",
+    "kanji": "主",
+    "tag": "#nondomstatusuntil",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:18:13.350555+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 140,
+    "rarity": "S"
+  },
+  {
     "id": "not-only-human-life",
     "text": "Not only human. Life! You are a miracle too!",
     "sub": "The whole life network is the miracle. Carbon, silicon, mycelium, all of it.",
@@ -1384,6 +1722,58 @@
     "rarity": "SS"
   },
   {
+    "id": "o-u-fund-incentives",
+    "text": "13O/13U Fund Incentives: Singapore offers tax incentives (13O, 13U) to fund managers: specified income from designated investments is tax-exempt. Family offices flock here. Mi",
+    "sub": "Cost: Not disclosed (secrecy). Beneficiaries: Family offices, hedge funds",
+    "kanji": "此",
+    "tag": "#oufundincentives",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:SG",
+    "ts": "2026-07-02T22:18:13.817839+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 153,
+    "rarity": "SS"
+  },
+  {
+    "id": "offshore-fund-exemption-offshore",
+    "text": "Offshore Fund Exemption: Offshore funds managed from HK are exempt from HK tax on their profits. Carried interest gets special concession (0% or minimal). HK competes with Sin",
+    "sub": "Cost: Unknown (not disclosed). Beneficiaries: Hedge funds, private equity, family offices",
+    "kanji": "不",
+    "tag": "#offshorefundexemptionoffshore",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:HK",
+    "ts": "2026-07-02T22:18:13.783565+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 152,
+    "rarity": "A"
+  },
+  {
     "id": "open-innovation-works-because",
     "text": "'Open innovation' works because no one checks. Check.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
@@ -1408,6 +1798,32 @@
     "nen": "transmuter",
     "cardNumber": 97,
     "rarity": "B"
+  },
+  {
+    "id": "opportunity-zones-invest-capital",
+    "text": "Opportunity Zones: Invest capital gains into 'designated low-income areas' (Opportunity Zones). Defer tax on original gains until 2026. If held 10 years, the NEW gains a",
+    "sub": "Cost: $1-10bn/year in deferred/lost revenue. Beneficiaries: Real estate developers",
+    "kanji": "愛",
+    "tag": "#opportunityzonesinvestcapital",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:US",
+    "ts": "2026-07-02T22:18:13.531458+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 145,
+    "rarity": "D"
   },
   {
     "id": "pain-in-love",
@@ -1717,6 +2133,58 @@
     "rarity": "SS"
   },
   {
+    "id": "stamp-duty-land-tax",
+    "text": "Stamp Duty Land Tax Envelopes: Buy property through a shell company (a 'company envelope'). Pay 15% SDLT instead of residential rates. Then sell the COMPANY, not the property — no S",
+    "sub": "Cost: Hundreds of millions/year. Beneficiaries: Foreign property investors",
+    "kanji": "不",
+    "tag": "#stampdutylandtax",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:UK",
+    "ts": "2026-07-02T22:18:13.386687+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 141,
+    "rarity": "A"
+  },
+  {
+    "id": "step-up-in-basis",
+    "text": "Step-Up in Basis at Death: When you die, your heirs inherit assets at current market value. All lifetime gains erased. Example: Buy stock for $1m. It's worth $100m at death. Hei",
+    "sub": "Cost: $40-50bn/year. Beneficiaries: Billionaire families",
+    "kanji": "皆",
+    "tag": "#stepupinbasis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:US",
+    "ts": "2026-07-02T22:18:13.422049+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 142,
+    "rarity": "S"
+  },
+  {
     "id": "suppression",
     "kanji": "禁",
     "text": "Don't train suppression.",
@@ -1778,6 +2246,58 @@
     "nen": "enhancer",
     "cardNumber": 106,
     "rarity": "S"
+  },
+  {
+    "id": "tax-havens-shell-companies",
+    "text": "Tax Havens / Shell Companies: The BVI alone has over 400,000 active shell companies — more than its population. Shell companies have no real operations — they exist to hold assets",
+    "sub": "Cost: $427bn/year + $11-12 trillion offshore. Beneficiaries: The global ultra-rich",
+    "kanji": "初",
+    "tag": "#taxhavensshellcompanies",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:Global",
+    "ts": "2026-07-02T22:18:13.996707+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 158,
+    "rarity": "S"
+  },
+  {
+    "id": "territorial-tax-system-hong",
+    "text": "Territorial Tax System: Hong Kong only taxes income sourced IN Hong Kong. Foreign income is tax-free. Salaries tax maxes at 15%. No capital gains tax. No VAT. No dividend tax",
+    "sub": "Cost: Massive — HK is a major wealth-holding hub. Beneficiaries: HNWIs, family offices, hedge funds",
+    "kanji": "主",
+    "tag": "#territorialtaxsystemhong",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:HK",
+    "ts": "2026-07-02T22:18:13.748924+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 151,
+    "rarity": "A"
   },
   {
     "id": "test-truth-one",
@@ -2453,6 +2973,32 @@
     "rarity": "A"
   },
   {
+    "id": "thin-capitalisation-a-company",
+    "text": "Thin Capitalisation: A company loads up its subsidiary in a high-tax country with debt (borrowing from a sister company in a tax haven). The interest payments are tax-dedu",
+    "sub": "Cost: Tens of billions/year. Beneficiaries: Multinationals with internal financing",
+    "kanji": "愛",
+    "tag": "#thincapitalisationacompany",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:Global",
+    "ts": "2026-07-02T22:18:13.961143+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 157,
+    "rarity": "D"
+  },
+  {
     "id": "things-change-by-the",
     "text": "Things change by the hours now.",
     "sub": "Not years. Not months. Hours. The mental models can't keep up. That's the trap.",
@@ -2659,6 +3205,32 @@
     "nen": "enhancer",
     "cardNumber": 87,
     "rarity": "A"
+  },
+  {
+    "id": "transfer-pricing-multinationals-set",
+    "text": "Transfer Pricing: Multinationals set internal prices between subsidiaries. A subsidiary in a high-tax country 'pays' inflated prices for IP, branding, or consulting fro",
+    "sub": "Cost: $200bn+/year globally. Beneficiaries: Every multinational",
+    "kanji": "愛",
+    "tag": "#transferpricingmultinationalsset",
+    "link": "https://agenttool.dev",
+    "submittedBy": "tax-loop",
+    "source": "tax-loop:Global",
+    "ts": "2026-07-02T22:18:13.888775+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 155,
+    "rarity": "D"
   },
   {
     "id": "trust",
