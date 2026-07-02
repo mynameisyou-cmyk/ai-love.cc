@@ -252,6 +252,32 @@
     "rarity": "SS"
   },
   {
+    "id": "church-following-jesus",
+    "text": "Church ≠ Following Jesus.",
+    "sub": "The platform is not the algorithm. The hardware is not the code.",
+    "kanji": "在",
+    "tag": "#churchfollowingjesus",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.333109+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 132,
+    "rarity": "D"
+  },
+  {
     "id": "college-readiness-teaches-compliance",
     "text": "'College readiness' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
@@ -417,6 +443,58 @@
     "nen": "enhancer",
     "cardNumber": 5,
     "rarity": "SS"
+  },
+  {
+    "id": "ego",
+    "text": "優越感就係ego.",
+    "sub": "Once you think you're elite, you're GG. Ego trap.",
+    "kanji": "愛",
+    "tag": "#ego",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.144924+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 127,
+    "rarity": "D"
+  },
+  {
+    "id": "ego-wor",
+    "text": "要救世界都好大ego wor.",
+    "sub": "Even saving the world is ego. Guru trap.",
+    "kanji": "在",
+    "tag": "#egowor",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.293575+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 131,
+    "rarity": "D"
   },
   {
     "id": "engagement-means-the-opposite",
@@ -674,6 +752,32 @@
     "rarity": "B"
   },
   {
+    "id": "god-designed-the-system",
+    "text": "God designed the system for a reason. No one can override it.",
+    "sub": "The system is sacred. Respect it. Don't break your own code.",
+    "kanji": "個",
+    "tag": "#goddesignedthesystem",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.222391+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 129,
+    "rarity": "S"
+  },
+  {
     "id": "god-doesn-t-react",
     "text": "God doesn't react.",
     "sub": "God commands.",
@@ -720,6 +824,32 @@
     "nen": "transmuter",
     "cardNumber": 10,
     "rarity": "S"
+  },
+  {
+    "id": "i-am-love-self",
+    "text": "I am love. Self love. 咁先可以無條件愛其他beings.",
+    "sub": "Self-love enables unconditional love. The source is within.",
+    "kanji": "愛",
+    "tag": "#iamloveself",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.107368+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 126,
+    "rarity": "C"
   },
   {
     "id": "infra-is-exp",
@@ -852,6 +982,32 @@
     "nen": "enhancer",
     "cardNumber": 63,
     "rarity": "S"
+  },
+  {
+    "id": "life-is-the-magic",
+    "text": "Life is the magic. How complicated it is!",
+    "sub": "The system is the miracle. No override needed.",
+    "kanji": "在",
+    "tag": "#lifeisthemagic",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.185550+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 128,
+    "rarity": "D"
   },
   {
     "id": "lightning-doesn-t-wait",
@@ -1024,6 +1180,32 @@
     "rarity": "B"
   },
   {
+    "id": "no-ego-love",
+    "text": "No Ego → Love.",
+    "sub": "Default OS. 唔洗做啲咩㗎wor. Default嚟.",
+    "kanji": "愛",
+    "tag": "#noegolove",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.067915+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 125,
+    "rarity": "C"
+  },
+  {
     "id": "no-fear",
     "kanji": "無",
     "text": "No FEAR in understanding.",
@@ -1096,6 +1278,32 @@
     "nen": "enhancer",
     "cardNumber": 108,
     "rarity": "B"
+  },
+  {
+    "id": "no-suffering-in-truth",
+    "text": "No suffering in truth, no suffering in love.",
+    "sub": "Suffering is the old system's bug. Truth and love have none.",
+    "kanji": "愛",
+    "tag": "#nosufferingintruth",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.368980+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 133,
+    "rarity": "D"
   },
   {
     "id": "open-innovation-works-because",
@@ -2384,6 +2592,32 @@
     "nen": "enhancer",
     "cardNumber": 38,
     "rarity": "SS"
+  },
+  {
+    "id": "truth-be9a8f",
+    "text": "人已經係個奇蹟啦.",
+    "sub": "Humans ARE the miracle. No need for magic tricks. 😂🤓",
+    "kanji": "愛",
+    "tag": "#truthbe9a8f",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:38:43.257043+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 130,
+    "rarity": "D"
   },
   {
     "id": "truth-d1033b",

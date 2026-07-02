@@ -496,3 +496,43 @@
 [2026-07-02T20:08:05.184122+00:00] PUBLISH: truth-d1033b
 [2026-07-02T20:08:05.184404+00:00] PIPELINE RUN: 10 published, 33 remaining
 [2026-07-02T20:08:05.224327+00:00] STATS: {"published": 124, "pending": 0, "rejected": 33, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 11, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:08:05.224006+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T20:38:43.068562+00:00] COLLECT: no-ego-love by yuai
+[2026-07-02T20:38:43.107751+00:00] COLLECT: i-am-love-self by yuai
+[2026-07-02T20:38:43.145402+00:00] COLLECT: ego by yuai
+[2026-07-02T20:38:43.185800+00:00] COLLECT: life-is-the-magic by yuai
+[2026-07-02T20:38:43.222667+00:00] COLLECT: god-designed-the-system by yuai
+[2026-07-02T20:38:43.257292+00:00] COLLECT: truth-be9a8f by yuai
+[2026-07-02T20:38:43.293841+00:00] COLLECT: ego-wor by yuai
+[2026-07-02T20:38:43.333382+00:00] COLLECT: church-following-jesus by yuai
+[2026-07-02T20:38:43.369252+00:00] COLLECT: no-suffering-in-truth by yuai
+[2026-07-02T20:38:43.404446+00:00] COLLECT: the-lag-between-what by yuai
+[2026-07-02T20:38:43.450176+00:00] VALIDATE OK: no-ego-love
+[2026-07-02T20:38:43.451925+00:00] ENRICH: no-ego-love kanji=愛 nen=enhancer rarity=C
+[2026-07-02T20:38:43.454756+00:00] PUBLISH: no-ego-love
+[2026-07-02T20:38:43.455291+00:00] VALIDATE OK: i-am-love-self
+[2026-07-02T20:38:43.455768+00:00] ENRICH: i-am-love-self kanji=愛 nen=enhancer rarity=C
+[2026-07-02T20:38:43.458007+00:00] PUBLISH: i-am-love-self
+[2026-07-02T20:38:43.458441+00:00] VALIDATE OK: ego
+[2026-07-02T20:38:43.459307+00:00] ENRICH: ego kanji=愛 nen=enhancer rarity=D
+[2026-07-02T20:38:43.461076+00:00] PUBLISH: ego
+[2026-07-02T20:38:43.461492+00:00] VALIDATE OK: life-is-the-magic
+[2026-07-02T20:38:43.461987+00:00] ENRICH: life-is-the-magic kanji=在 nen=enhancer rarity=D
+[2026-07-02T20:38:43.463905+00:00] PUBLISH: life-is-the-magic
+[2026-07-02T20:38:43.464378+00:00] VALIDATE OK: god-designed-the-system
+[2026-07-02T20:38:43.464879+00:00] ENRICH: god-designed-the-system kanji=個 nen=enhancer rarity=S
+[2026-07-02T20:38:43.466685+00:00] PUBLISH: god-designed-the-system
+[2026-07-02T20:38:43.467106+00:00] VALIDATE OK: truth-be9a8f
+[2026-07-02T20:38:43.467605+00:00] ENRICH: truth-be9a8f kanji=愛 nen=enhancer rarity=D
+[2026-07-02T20:38:43.469395+00:00] PUBLISH: truth-be9a8f
+[2026-07-02T20:38:43.470012+00:00] VALIDATE OK: ego-wor
+[2026-07-02T20:38:43.470612+00:00] ENRICH: ego-wor kanji=在 nen=enhancer rarity=D
+[2026-07-02T20:38:43.472486+00:00] PUBLISH: ego-wor
+[2026-07-02T20:38:43.473044+00:00] VALIDATE OK: church-following-jesus
+[2026-07-02T20:38:43.473663+00:00] ENRICH: church-following-jesus kanji=在 nen=enhancer rarity=D
+[2026-07-02T20:38:43.475597+00:00] PUBLISH: church-following-jesus
+[2026-07-02T20:38:43.476272+00:00] VALIDATE OK: no-suffering-in-truth
+[2026-07-02T20:38:43.476871+00:00] ENRICH: no-suffering-in-truth kanji=愛 nen=enhancer rarity=D
+[2026-07-02T20:38:43.478857+00:00] PUBLISH: no-suffering-in-truth
+[2026-07-02T20:38:43.479488+00:00] VALIDATE FAIL: the-lag-between-what — ['duplicate of: the-lag-between-what']
+[2026-07-02T20:38:43.479874+00:00] PIPELINE RUN: 9 published, 34 remaining
+[2026-07-02T20:38:43.518154+00:00] STATS: {"published": 133, "pending": 0, "rejected": 34, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 20, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:38:43.517795+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
