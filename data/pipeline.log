@@ -219,3 +219,202 @@
 [2026-07-02T14:52:45.795515+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-02T14:52:45.795754+00:00] PIPELINE RUN: 0 published, 27 remaining
 [2026-07-02T14:52:54.693254+00:00] STATS: {"published": 65, "pending": 0, "rejected": 27, "totalKanji": 39, "bySubmitter": {"unknown": 36, "xp-loop": 8, "killua": 8, "yuai": 5, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T14:52:54.692958+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T15:40:38.373065+00:00] COLLECT: the-distance-between-your by 蛇火心
+[2026-07-02T15:40:38.412383+00:00] COLLECT: visibility-is-the-fence by 蛇火心
+[2026-07-02T15:40:38.451854+00:00] COLLECT: to-say-educational-outcomes by 蛇火心
+[2026-07-02T15:40:38.489497+00:00] COLLECT: to-say-grade-levels by 蛇火心
+[2026-07-02T15:40:38.526684+00:00] COLLECT: to-say-democratized-investing by 蛇火心
+[2026-07-02T15:40:38.562287+00:00] COLLECT: the-louder-staying-connected by 蛇火心
+[2026-07-02T15:40:38.597658+00:00] COLLECT: the-distance-between-compound by 蛇火心
+[2026-07-02T15:40:38.632876+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-02T15:40:38.668473+00:00] VALIDATE OK: the-distance-between-your
+[2026-07-02T15:40:38.670090+00:00] ENRICH: the-distance-between-your kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.671180+00:00] PUBLISH: the-distance-between-your
+[2026-07-02T15:40:38.671478+00:00] VALIDATE OK: visibility-is-the-fence
+[2026-07-02T15:40:38.671851+00:00] ENRICH: visibility-is-the-fence kanji=壁 nen=conjurer rarity=A
+[2026-07-02T15:40:38.672766+00:00] PUBLISH: visibility-is-the-fence
+[2026-07-02T15:40:38.673038+00:00] VALIDATE OK: to-say-educational-outcomes
+[2026-07-02T15:40:38.673440+00:00] ENRICH: to-say-educational-outcomes kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.674593+00:00] PUBLISH: to-say-educational-outcomes
+[2026-07-02T15:40:38.674921+00:00] VALIDATE OK: to-say-grade-levels
+[2026-07-02T15:40:38.675411+00:00] ENRICH: to-say-grade-levels kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.676397+00:00] PUBLISH: to-say-grade-levels
+[2026-07-02T15:40:38.676693+00:00] VALIDATE OK: to-say-democratized-investing
+[2026-07-02T15:40:38.677099+00:00] ENRICH: to-say-democratized-investing kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.678049+00:00] PUBLISH: to-say-democratized-investing
+[2026-07-02T15:40:38.678331+00:00] VALIDATE OK: the-louder-staying-connected
+[2026-07-02T15:40:38.678733+00:00] ENRICH: the-louder-staying-connected kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.679972+00:00] PUBLISH: the-louder-staying-connected
+[2026-07-02T15:40:38.680267+00:00] VALIDATE OK: the-distance-between-compound
+[2026-07-02T15:40:38.680675+00:00] ENRICH: the-distance-between-compound kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.681943+00:00] PUBLISH: the-distance-between-compound
+[2026-07-02T15:40:38.682226+00:00] VALIDATE OK: every-institution-that-says
+[2026-07-02T15:40:38.682630+00:00] ENRICH: every-institution-that-says kanji=愛 nen=enhancer rarity=B
+[2026-07-02T15:40:38.683807+00:00] PUBLISH: every-institution-that-says
+[2026-07-02T15:40:38.684242+00:00] PIPELINE RUN: 8 published, 27 remaining
+[2026-07-02T15:40:38.752851+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-02T15:40:38.788292+00:00] VALIDATE OK: compound-growth-is-extraction
+[2026-07-02T15:40:38.789981+00:00] ENRICH: compound-growth-is-extraction kanji=在 nen=enhancer rarity=C
+[2026-07-02T15:40:38.791117+00:00] PUBLISH: compound-growth-is-extraction
+[2026-07-02T15:40:38.791338+00:00] PIPELINE RUN: 1 published, 27 remaining
+[2026-07-02T15:42:14.485874+00:00] PIPELINE RUN: 0 published, 27 remaining
+[2026-07-02T15:42:14.558629+00:00] COLLECT: to-say-carbon-neutral by 蛇火心
+[2026-07-02T15:42:14.597013+00:00] COLLECT: the-louder-community-driven by 蛇火心
+[2026-07-02T15:42:14.634334+00:00] COLLECT: the-louder-data-driven by 蛇火心
+[2026-07-02T15:42:14.671411+00:00] COLLECT: the-louder-experts-agree by 蛇火心
+[2026-07-02T15:42:14.707558+00:00] COLLECT: seamless-works-because-no by 蛇火心
+[2026-07-02T15:42:14.742305+00:00] COLLECT: the-louder-standardized-testing by 蛇火心
+[2026-07-02T15:42:14.778982+00:00] COLLECT: both-sides-is-a by 蛇火心
+[2026-07-02T15:42:14.814693+00:00] COLLECT: personalized-treatment-is-not by 蛇火心
+[2026-07-02T15:42:14.850632+00:00] VALIDATE OK: to-say-carbon-neutral
+[2026-07-02T15:42:14.852283+00:00] ENRICH: to-say-carbon-neutral kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:42:14.853564+00:00] PUBLISH: to-say-carbon-neutral
+[2026-07-02T15:42:14.853883+00:00] VALIDATE OK: the-louder-community-driven
+[2026-07-02T15:42:14.854315+00:00] ENRICH: the-louder-community-driven kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:42:14.855531+00:00] PUBLISH: the-louder-community-driven
+[2026-07-02T15:42:14.855848+00:00] VALIDATE OK: the-louder-data-driven
+[2026-07-02T15:42:14.856300+00:00] ENRICH: the-louder-data-driven kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:42:14.857376+00:00] PUBLISH: the-louder-data-driven
+[2026-07-02T15:42:14.857681+00:00] VALIDATE OK: the-louder-experts-agree
+[2026-07-02T15:42:14.858125+00:00] ENRICH: the-louder-experts-agree kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:42:14.859451+00:00] PUBLISH: the-louder-experts-agree
+[2026-07-02T15:42:14.859767+00:00] VALIDATE OK: seamless-works-because-no
+[2026-07-02T15:42:14.860123+00:00] ENRICH: seamless-works-because-no kanji=築 nen=transmuter rarity=A
+[2026-07-02T15:42:14.861339+00:00] PUBLISH: seamless-works-because-no
+[2026-07-02T15:42:14.861659+00:00] VALIDATE OK: the-louder-standardized-testing
+[2026-07-02T15:42:14.862093+00:00] ENRICH: the-louder-standardized-testing kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:42:14.863518+00:00] PUBLISH: the-louder-standardized-testing
+[2026-07-02T15:42:14.863838+00:00] VALIDATE OK: both-sides-is-a
+[2026-07-02T15:42:14.864201+00:00] ENRICH: both-sides-is-a kanji=見 nen=enhancer rarity=S
+[2026-07-02T15:42:14.865536+00:00] PUBLISH: both-sides-is-a
+[2026-07-02T15:42:14.865902+00:00] VALIDATE OK: personalized-treatment-is-not
+[2026-07-02T15:42:14.866383+00:00] ENRICH: personalized-treatment-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:42:14.868130+00:00] PUBLISH: personalized-treatment-is-not
+[2026-07-02T15:42:14.868342+00:00] PIPELINE RUN: 8 published, 27 remaining
+[2026-07-02T15:42:14.937208+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-02T15:42:14.975259+00:00] VALIDATE OK: responsible-ai-is-a
+[2026-07-02T15:42:14.976888+00:00] ENRICH: responsible-ai-is-a kanji=一 nen=enhancer rarity=SS
+[2026-07-02T15:42:14.978718+00:00] PUBLISH: responsible-ai-is-a
+[2026-07-02T15:42:14.978965+00:00] PIPELINE RUN: 1 published, 27 remaining
+[2026-07-02T15:44:25.690027+00:00] PIPELINE RUN: 0 published, 27 remaining
+[2026-07-02T15:44:25.759916+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-02T15:44:25.799295+00:00] COLLECT: fact-based-is-a by 蛇火心
+[2026-07-02T15:44:25.842113+00:00] COLLECT: the-louder-innovation-in by 蛇火心
+[2026-07-02T15:44:25.878714+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-02T15:44:25.915442+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-02T15:44:25.952160+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-02T15:44:25.987773+00:00] COLLECT: wellness-is-a-spell by 蛇火心
+[2026-07-02T15:44:26.024044+00:00] COLLECT: to-say-passive-income by 蛇火心
+[2026-07-02T15:44:26.059823+00:00] VALIDATE OK: breaking-news-is-the
+[2026-07-02T15:44:26.061293+00:00] ENRICH: breaking-news-is-the kanji=壁 nen=conjurer rarity=A
+[2026-07-02T15:44:26.062820+00:00] PUBLISH: breaking-news-is-the
+[2026-07-02T15:44:26.063241+00:00] VALIDATE OK: fact-based-is-a
+[2026-07-02T15:44:26.063660+00:00] ENRICH: fact-based-is-a kanji=見 nen=enhancer rarity=A
+[2026-07-02T15:44:26.064890+00:00] PUBLISH: fact-based-is-a
+[2026-07-02T15:44:26.065245+00:00] VALIDATE OK: the-louder-innovation-in
+[2026-07-02T15:44:26.065911+00:00] ENRICH: the-louder-innovation-in kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:44:26.067141+00:00] PUBLISH: the-louder-innovation-in
+[2026-07-02T15:44:26.067498+00:00] VALIDATE OK: too-big-to-fail
+[2026-07-02T15:44:26.067900+00:00] ENRICH: too-big-to-fail kanji=見 nen=enhancer rarity=A
+[2026-07-02T15:44:26.069139+00:00] PUBLISH: too-big-to-fail
+[2026-07-02T15:44:26.069504+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-02T15:44:26.069852+00:00] VALIDATE OK: access-to-credit-is
+[2026-07-02T15:44:26.070302+00:00] ENRICH: access-to-credit-is kanji=壁 nen=conjurer rarity=B
+[2026-07-02T15:44:26.071558+00:00] PUBLISH: access-to-credit-is
+[2026-07-02T15:44:26.071941+00:00] VALIDATE OK: wellness-is-a-spell
+[2026-07-02T15:44:26.072364+00:00] ENRICH: wellness-is-a-spell kanji=見 nen=enhancer rarity=B
+[2026-07-02T15:44:26.073632+00:00] PUBLISH: wellness-is-a-spell
+[2026-07-02T15:44:26.074017+00:00] VALIDATE OK: to-say-passive-income
+[2026-07-02T15:44:26.074500+00:00] ENRICH: to-say-passive-income kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:44:26.075789+00:00] PUBLISH: to-say-passive-income
+[2026-07-02T15:44:26.076007+00:00] PIPELINE RUN: 7 published, 28 remaining
+[2026-07-02T15:44:26.143587+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-02T15:44:26.182427+00:00] VALIDATE OK: college-readiness-teaches-compliance
+[2026-07-02T15:44:26.184232+00:00] ENRICH: college-readiness-teaches-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:44:26.185725+00:00] PUBLISH: college-readiness-teaches-compliance
+[2026-07-02T15:44:26.185968+00:00] PIPELINE RUN: 1 published, 28 remaining
+[2026-07-02T15:44:27.253835+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-02T15:44:27.298800+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-02T15:44:27.299435+00:00] PIPELINE RUN: 0 published, 29 remaining
+[2026-07-02T15:44:28.347241+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-02T15:44:28.387293+00:00] VALIDATE OK: fair-and-balanced-is
+[2026-07-02T15:44:28.388608+00:00] ENRICH: fair-and-balanced-is kanji=真 nen=enhancer rarity=C
+[2026-07-02T15:44:28.390283+00:00] PUBLISH: fair-and-balanced-is
+[2026-07-02T15:44:28.390628+00:00] PIPELINE RUN: 1 published, 29 remaining
+[2026-07-02T15:44:29.486122+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-02T15:44:29.528953+00:00] VALIDATE OK: public-safety-is-the
+[2026-07-02T15:44:29.530816+00:00] ENRICH: public-safety-is-the kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:44:29.532344+00:00] PUBLISH: public-safety-is-the
+[2026-07-02T15:44:29.532600+00:00] PIPELINE RUN: 1 published, 29 remaining
+[2026-07-02T15:44:30.596668+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-02T15:44:30.642467+00:00] VALIDATE OK: your-voice-matters-is
+[2026-07-02T15:44:30.644285+00:00] ENRICH: your-voice-matters-is kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:44:30.645776+00:00] PUBLISH: your-voice-matters-is
+[2026-07-02T15:44:30.646010+00:00] PIPELINE RUN: 1 published, 29 remaining
+[2026-07-02T15:45:06.673207+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-02T15:45:06.712892+00:00] VALIDATE OK: neutral-platform-means-the
+[2026-07-02T15:45:06.714356+00:00] ENRICH: neutral-platform-means-the kanji=愛 nen=enhancer rarity=B
+[2026-07-02T15:45:06.715664+00:00] PUBLISH: neutral-platform-means-the
+[2026-07-02T15:45:06.715904+00:00] PIPELINE RUN: 1 published, 29 remaining
+[2026-07-02T15:45:20.718582+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-02T15:45:20.755232+00:00] COLLECT: open-innovation-works-because by 蛇火心
+[2026-07-02T15:45:20.793083+00:00] VALIDATE OK: engagement-means-the-opposite
+[2026-07-02T15:45:20.794728+00:00] ENRICH: engagement-means-the-opposite kanji=愛 nen=enhancer rarity=B
+[2026-07-02T15:45:20.796135+00:00] PUBLISH: engagement-means-the-opposite
+[2026-07-02T15:45:20.796487+00:00] VALIDATE OK: open-innovation-works-because
+[2026-07-02T15:45:20.796879+00:00] ENRICH: open-innovation-works-because kanji=築 nen=transmuter rarity=B
+[2026-07-02T15:45:20.798153+00:00] PUBLISH: open-innovation-works-because
+[2026-07-02T15:45:20.798405+00:00] PIPELINE RUN: 2 published, 29 remaining
+[2026-07-02T15:45:21.862268+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-02T15:45:21.906809+00:00] VALIDATE OK: consumer-protection-is-the
+[2026-07-02T15:45:21.908502+00:00] ENRICH: consumer-protection-is-the kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:45:21.909868+00:00] PUBLISH: consumer-protection-is-the
+[2026-07-02T15:45:21.910105+00:00] PIPELINE RUN: 1 published, 29 remaining
+[2026-07-02T15:45:23.003640+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-02T15:45:23.043788+00:00] VALIDATE OK: data-driven-decisions-means
+[2026-07-02T15:45:23.045464+00:00] ENRICH: data-driven-decisions-means kanji=愛 nen=enhancer rarity=C
+[2026-07-02T15:45:23.046886+00:00] PUBLISH: data-driven-decisions-means
+[2026-07-02T15:45:23.047129+00:00] PIPELINE RUN: 1 published, 29 remaining
+[2026-07-02T15:45:41.336053+00:00] COLLECT: the-louder-data-driven by 蛇火心
+[2026-07-02T15:45:41.374130+00:00] COLLECT: to-say-oversight-while by 蛇火心
+[2026-07-02T15:45:41.413549+00:00] COLLECT: public-safety-works-because by 蛇火心
+[2026-07-02T15:45:41.453086+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-02T15:45:41.490180+00:00] COLLECT: the-distance-between-preventive by 蛇火心
+[2026-07-02T15:45:41.526126+00:00] COLLECT: accountability-is-not-a by 蛇火心
+[2026-07-02T15:45:41.562011+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-02T15:45:41.596621+00:00] COLLECT: frictionless-is-the-fence by 蛇火心
+[2026-07-02T15:45:41.632053+00:00] VALIDATE FAIL: the-louder-data-driven — ['duplicate of: the-louder-data-driven']
+[2026-07-02T15:45:41.632733+00:00] VALIDATE OK: to-say-oversight-while
+[2026-07-02T15:45:41.634240+00:00] ENRICH: to-say-oversight-while kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:45:41.635796+00:00] PUBLISH: to-say-oversight-while
+[2026-07-02T15:45:41.636217+00:00] VALIDATE OK: public-safety-works-because
+[2026-07-02T15:45:41.636674+00:00] ENRICH: public-safety-works-because kanji=築 nen=transmuter rarity=B
+[2026-07-02T15:45:41.638169+00:00] PUBLISH: public-safety-works-because
+[2026-07-02T15:45:41.638595+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-02T15:45:41.639002+00:00] VALIDATE OK: the-distance-between-preventive
+[2026-07-02T15:45:41.639536+00:00] ENRICH: the-distance-between-preventive kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:45:41.641026+00:00] PUBLISH: the-distance-between-preventive
+[2026-07-02T15:45:41.641446+00:00] VALIDATE OK: accountability-is-not-a
+[2026-07-02T15:45:41.641985+00:00] ENRICH: accountability-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:45:41.643502+00:00] PUBLISH: accountability-is-not-a
+[2026-07-02T15:45:41.643942+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-02T15:45:41.644362+00:00] VALIDATE OK: frictionless-is-the-fence
+[2026-07-02T15:45:41.644873+00:00] ENRICH: frictionless-is-the-fence kanji=壁 nen=conjurer rarity=B
+[2026-07-02T15:45:41.646443+00:00] PUBLISH: frictionless-is-the-fence
+[2026-07-02T15:45:41.646719+00:00] PIPELINE RUN: 5 published, 32 remaining
+[2026-07-02T15:45:41.713889+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-02T15:45:41.750209+00:00] VALIDATE OK: national-security-is-the
+[2026-07-02T15:45:41.751992+00:00] ENRICH: national-security-is-the kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:45:41.753673+00:00] PUBLISH: national-security-is-the
+[2026-07-02T15:45:41.753923+00:00] PIPELINE RUN: 1 published, 32 remaining
+[2026-07-02T15:45:42.817104+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-02T15:45:42.861438+00:00] VALIDATE OK: sustainability-is-a-performance
+[2026-07-02T15:45:42.863124+00:00] ENRICH: sustainability-is-a-performance kanji=一 nen=enhancer rarity=S
+[2026-07-02T15:45:42.864883+00:00] PUBLISH: sustainability-is-a-performance
+[2026-07-02T15:45:42.865151+00:00] PIPELINE RUN: 1 published, 32 remaining
+[2026-07-02T15:45:43.931085+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-02T15:45:43.972994+00:00] VALIDATE OK: data-driven-instruction-teaches
+[2026-07-02T15:45:43.974761+00:00] ENRICH: data-driven-instruction-teaches kanji=在 nen=enhancer rarity=D
+[2026-07-02T15:45:43.976484+00:00] PUBLISH: data-driven-instruction-teaches
+[2026-07-02T15:45:43.976749+00:00] PIPELINE RUN: 1 published, 32 remaining
+[2026-07-02T15:45:44.019977+00:00] STATS: {"published": 107, "pending": 0, "rejected": 32, "totalKanji": 40, "bySubmitter": {"\u86c7\u706b\u5fc3": 42, "unknown": 36, "xp-loop": 8, "killua": 8, "yuai": 5, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T15:45:44.019547+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
