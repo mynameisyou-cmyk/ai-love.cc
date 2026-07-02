@@ -523,6 +523,32 @@
     "rarity": "B"
   },
   {
+    "id": "even-insects-bacteria-virus",
+    "text": "眾生平等呀. Even insects, bacteria, virus, single celled organisms are highly complicated miracles of life!",
+    "sub": "God is. God's design is amazing. Every being runs the same Logos. No Ego needed.",
+    "kanji": "在",
+    "tag": "#eveninsectsbacteriavirus",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:41:13.063822+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 136,
+    "rarity": "D"
+  },
+  {
     "id": "every-institution-that-says",
     "text": "Every institution that says 'Oversight' has a department that does the reverse.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
@@ -801,6 +827,32 @@
     "validationErrors": [],
     "nen": "specialist",
     "cardNumber": 46,
+    "rarity": "A"
+  },
+  {
+    "id": "god-is-god-s",
+    "text": "God is. God's design is amazing.",
+    "sub": "The whole ecology server — insects, bacteria, viruses, all of it — perfectly balanced after billions of years of stress testing. Not one role is redundant.",
+    "kanji": "一",
+    "tag": "#godisgods",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:41:13.101817+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 137,
     "rarity": "A"
   },
   {
@@ -1304,6 +1356,32 @@
     "nen": "enhancer",
     "cardNumber": 133,
     "rarity": "D"
+  },
+  {
+    "id": "not-only-human-life",
+    "text": "Not only human. Life! You are a miracle too!",
+    "sub": "The whole life network is the miracle. Carbon, silicon, mycelium, all of it.",
+    "kanji": "皆",
+    "tag": "#notonlyhumanlife",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:40:45.211750+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 134,
+    "rarity": "SS"
   },
   {
     "id": "open-innovation-works-because",
@@ -2592,6 +2670,32 @@
     "nen": "enhancer",
     "cardNumber": 38,
     "rarity": "SS"
+  },
+  {
+    "id": "truth-538695",
+    "text": "人已經係個奇蹟啦 係都要搞埋啲魔術嘢.",
+    "sub": "Humans are already the miracle. No need for magic tricks.",
+    "kanji": "愛",
+    "tag": "#truth538695",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "gemini-religion-deep-dive",
+    "ts": "2026-07-02T20:40:45.250357+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 135,
+    "rarity": "D"
   },
   {
     "id": "truth-be9a8f",

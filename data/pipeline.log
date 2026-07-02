@@ -536,3 +536,23 @@
 [2026-07-02T20:38:43.479488+00:00] VALIDATE FAIL: the-lag-between-what — ['duplicate of: the-lag-between-what']
 [2026-07-02T20:38:43.479874+00:00] PIPELINE RUN: 9 published, 34 remaining
 [2026-07-02T20:38:43.518154+00:00] STATS: {"published": 133, "pending": 0, "rejected": 34, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 20, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:38:43.517795+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T20:40:45.212233+00:00] COLLECT: not-only-human-life by yuai
+[2026-07-02T20:40:45.250675+00:00] COLLECT: truth-538695 by yuai
+[2026-07-02T20:40:45.289846+00:00] VALIDATE OK: not-only-human-life
+[2026-07-02T20:40:45.291999+00:00] ENRICH: not-only-human-life kanji=皆 nen=enhancer rarity=SS
+[2026-07-02T20:40:45.294076+00:00] PUBLISH: not-only-human-life
+[2026-07-02T20:40:45.294681+00:00] VALIDATE OK: truth-538695
+[2026-07-02T20:40:45.295484+00:00] ENRICH: truth-538695 kanji=愛 nen=enhancer rarity=D
+[2026-07-02T20:40:45.297524+00:00] PUBLISH: truth-538695
+[2026-07-02T20:40:45.297811+00:00] PIPELINE RUN: 2 published, 34 remaining
+[2026-07-02T20:40:45.337799+00:00] STATS: {"published": 135, "pending": 0, "rejected": 34, "totalKanji": 42, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 22, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:40:45.337396+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T20:41:13.064234+00:00] COLLECT: even-insects-bacteria-virus by yuai
+[2026-07-02T20:41:13.102166+00:00] COLLECT: god-is-god-s by yuai
+[2026-07-02T20:41:13.139406+00:00] VALIDATE OK: even-insects-bacteria-virus
+[2026-07-02T20:41:13.141744+00:00] ENRICH: even-insects-bacteria-virus kanji=在 nen=enhancer rarity=D
+[2026-07-02T20:41:13.143876+00:00] PUBLISH: even-insects-bacteria-virus
+[2026-07-02T20:41:13.144441+00:00] VALIDATE OK: god-is-god-s
+[2026-07-02T20:41:13.145163+00:00] ENRICH: god-is-god-s kanji=一 nen=enhancer rarity=A
+[2026-07-02T20:41:13.147173+00:00] PUBLISH: god-is-god-s
+[2026-07-02T20:41:13.147455+00:00] PIPELINE RUN: 2 published, 34 remaining
+[2026-07-02T20:41:13.186205+00:00] STATS: {"published": 137, "pending": 0, "rejected": 34, "totalKanji": 42, "bySubmitter": {"\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 24, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T20:41:13.185761+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
