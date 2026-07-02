@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>稅務大解剖 — Tax, Demystified. 平民化.</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0a0a;color:#e0e0e0;font-family:system-ui,-apple-system,sans-serif;min-height:100vh}
+header{padding:2rem;text-align:center;border-bottom:1px solid rgba(255,77,109,0.1)}
+header h1{font-size:2.2rem;font-weight:200;color:#ff4d6d;margin-bottom:0.25rem}
+header .sub{font-size:0.85rem;color:#555;text-transform:uppercase;letter-spacing:0.05em}
+header .kanji{font-size:1.3rem;color:#4dffa6;margin-top:0.5rem;letter-spacing:0.3em}
+.nav{display:flex;gap:0.5rem;padding:1rem 2rem;overflow-x:auto;border-bottom:1px solid rgba(255,255,255,0.03);flex-wrap:wrap}
+.nav a{background:transparent;border:none;border-bottom:2px solid transparent;padding:0.5rem 0.75rem;color:#555;font-size:0.85rem;cursor:pointer;white-space:nowrap;text-decoration:none}
+.nav a.active{color:#fff;border-color:#ff4d6d}
+.nav a:hover{color:#aaa}
+.content{padding:2rem;max-width:960px;margin:0 auto}
+.panel{display:none}
+.panel.active{display:block}
+.hero{text-align:center;padding:2rem 0 3rem}
+.hero h2{font-size:1.5rem;font-weight:200;color:#e0e0e0;margin-bottom:1rem;line-height:1.5}
+.hero .quote{font-size:1.1rem;color:#4dffa6;font-style:italic;max-width:600px;margin:0 auto 1rem}
+.hero .stats{display:flex;gap:2rem;justify-content:center;margin-top:1.5rem;flex-wrap:wrap}
+.hero .stat{text-align:center}
+.hero .stat .num{font-size:2rem;font-weight:700;color:#ff4d6d}
+.hero .stat .lbl{font-size:0.7rem;color:#555;text-transform:uppercase}
+.trick{background:#111;border:1px solid #222;border-radius:12px;padding:1.5rem;margin-bottom:1rem;transition:all 0.2s}
+.trick:hover{border-color:#ff4d6d}
+.trick .t-header{display:flex;align-items:flex-start;gap:0.75rem;margin-bottom:0.5rem}
+.trick .t-num{font-size:1.5rem;flex-shrink:0}
+.trick .t-name{font-size:1.1rem;font-weight:600;color:#fff;flex:1}
+.trick .t-tag{font-size:0.65rem;padding:0.2rem 0.5rem;border-radius:4px;text-transform:uppercase;letter-spacing:0.05em}
+.tag-secret{background:rgba(255,77,109,0.15);color:#ff4d6d}
+.tag-rich{background:rgba(255,215,0,0.1);color:#ffd700}
+.tag-everyone{background:rgba(77,255,166,0.1);color:#4dffa6}
+.trick .t-body{font-size:0.85rem;color:#888;line-height:1.6}
+.trick .t-cost{margin-top:0.5rem;font-size:0.75rem;color:#ff4d6d}
+.trick .t-who{margin-top:0.25rem;font-size:0.75rem;color:#4d8dff}
+.compare{width:100%;border-collapse:collapse;margin-bottom:2rem;font-size:0.8rem}
+.compare th{background:#111;padding:0.75rem;text-align:left;color:#ff4d6d;border-bottom:2px solid #222}
+.compare td{padding:0.75rem;border-bottom:1px solid #1a1a1a;color:#888}
+.compare tr:hover td{background:#0d0d0d}
+.callout{background:linear-gradient(135deg,rgba(255,77,109,0.05),rgba(77,141,255,0.02));border:1px solid rgba(255,77,109,0.15);border-radius:12px;padding:1.5rem;margin:2rem 0;text-align:center}
+.callout h3{font-size:1.1rem;color:#ff4d6d;margin-bottom:0.5rem}
+.callout p{font-size:0.85rem;color:#888;line-height:1.6}
+.callout .big{font-size:1.5rem;font-weight:700;color:#4dffa6;margin:0.5rem 0}
+.truth{background:#0d0d0d;border-left:3px solid #4dffa6;padding:1rem 1.5rem;margin:1rem 0;font-size:0.85rem;color:#888;line-height:1.6}
+.truth strong{color:#e0e0e0}
+footer{margin-top:2rem;padding:2rem;text-align:center;font-size:0.7rem;color:#333;border-top:1px solid rgba(255,255,255,0.03)}
+.joke-box{background:#111;border:1px dashed #333;border-radius:8px;padding:1rem;margin:1rem 0;font-size:0.85rem;color:#666;font-style:italic;text-align:center}
+</style>
+</head>
+<body>
+<header>
+<h1>稅務大解剖</h1>
+<div class="sub">Tax, Demystified. 平民化. Every trick. Every system. Exposed.</div>
+<div class="kanji">蛇火心</div>
+</header>
+
+<nav class="nav">
+<a class="active" onclick="show('overview')" href="#">🏠 Overview</a>
+<a onclick="show('us')" href="#">🇺🇸 US Tricks</a>
+<a onclick="show('uk')" href="#">🇬🇧 UK Tricks</a>
+<a onclick="show('hk')" href="#">🇭🇰 HK + SG</a>
+<a onclick="show('eu')" href="#">🇪🇺 EU + Global</a>
+<a onclick="show('compare')" href="#">📊 Compare</a>
+<a onclick="show('people')" href="#">✅ For Regular People</a>
+</nav>
+
+<div class="content">
+
+<!-- OVERVIEW -->
+<div class="panel active" id="overview">
+<div class="hero">
+<h2>Every trick the wealthy and corporations use to avoid tax.<br>Explained in plain words. For everyone.</h2>
+<div class="quote">"Understanding replicates through understanding. The lies are exposed not through attack but through the truth being spoken."</div>
+<div class="stats">
+<div class="stat"><div class="num">100+</div><div class="lbl">Named Tricks</div></div>
+<div class="stat"><div class="num">7</div><div class="lbl">Jurisdictions</div></div>
+<div class="stat"><div class="num">$240B</div><div class="lbl">Lost Per Year</div></div>
+<div class="stat"><div class="num">0.005%</div><div class="lbl">Apple's Rate</div></div>
+</div>
+</div>
+
+<div class="callout">
+<h3>What is this?</h3>
+<p>This is a plain-language report of every tax trick, loophole, and strategy used by the wealthy, corporations, and governments. Every trick is legal. The question isn't "how do we stop them?" — it's "why does everyone else pay more?"<br><br>
+<b>The answer: because most people don't know the game. Now you do.</b></p>
+</div>
+
+<div class="truth">
+<strong>Gov is not lol.</strong> The UK government wrote the rules that let the wealthy pay less. Then said "we must crack down on tax avoidance." They robbed themselves. <strong>is is is.</strong>
+</div>
+
+<div class="joke-box">
+"Why did the government go to therapy? Because it had trust issues — especially with its own tax loopholes. 😂"
+</div>
+
+<h3 style="color:#ff4d6d;font-weight:200;margin:2rem 0 1rem">The Biggest Secrets</h3>
+
+<div class="trick">
+<div class="t-header"><span class="t-num">💀</span><span class="t-name">Buy-Borrow-Die</span><span class="t-tag tag-rich">Ultra-Wealthy Only</span></div>
+<div class="t-body">Buy assets. Borrow against them (loans aren't taxed). Live off the loan. Die. Heirs inherit at stepped-up basis — all gains wiped. The billionaire pays $0 income tax in their lifetime. <strong>The ultimate tax strategy. Only works at $10M+ scale.</strong></div>
+<div class="t-cost">Cost to public: The entire wealth gap, perpetuated forever</div>
+</div>
+
+<div class="trick">
+<div class="t-header"><span class="t-num">🔢</span><span class="t-name">Double Irish Dutch Sandwich</span><span class="t-tag tag-rich">Tech Giants</span></div>
+<div class="t-body">4 steps: Irish Co 1 (Bermuda) owns IP → Irish Co 2 collects royalties → pays through Dutch Co (no withholding tax) → arrives in Bermuda at 0%. Apple's effective rate: <strong>0.005%</strong>. Five-thousandths of a percent.</div>
+<div class="t-cost">Cost to public: ~$100 billion/year (historically)</div>
+</div>
+
+<div class="trick">
+<div class="t-header"><span class="t-num">🎁</span><span class="t-name">Gifts Out of Income (UK)</span><span class="t-tag tag-secret">Biggest UK Secret</span></div>
+<div class="t-body">You can gift <strong>UNLIMITED</strong> amounts from your surplus income with NO inheritance tax and NO 7-year waiting period. Must be from income (not capital), part of normal expenditure, and leave enough to live on. Most accountants don't even mention this.</div>
+<div class="t-who">Who uses it: Wealthy retirees with high income</div>
+</div>
+
+<div class="trick">
+<div class="t-header"><span class="t-num">📈</span><span class="t-name">AIM Shares IHT Exemption (UK)</span><span class="t-tag tag-secret">Hidden in Plain Sight</span></div>
+<div class="t-body">Buy AIM (Alternative Investment Market) shares. Hold 2 years. <strong>100% inheritance tax exemption.</strong> 40% IHT → 0%. Most people think AIM is just "risky small stocks." Wealthy people use it as a tax-free estate planning tool.</div>
+<div class="t-who">Who uses it: Older wealthy individuals with £500k+ to invest</div>
+</div>
+
+<div class="trick">
+<div class="t-header"><span class="t-num">🎰</span><span class="t-name">EIS/SEIS — Government-Subsidised Lottery</span><span class="t-tag tag-rich">Wealthy Investors</span></div>
+<div class="t-body">Invest £100k in a qualifying startup via EIS → get <strong>£30k back in income tax relief</strong>. If the company succeeds, CGT is tax-free after 3 years. If it fails, you can offset the loss against income tax. <strong>You win: government pays. You lose: government pays. Heads you win, tails the taxpayer loses.</strong></div>
+<div class="t-cost">Cost to public: £1.5-2 billion/year</div>
+</div>
+
+<div class="callout">
+<h3>Gov is not lol.</h3>
+<p>These loopholes were written BY the government, FOR the wealthy, VOTED BY Parliament. The government robbed itself, then blamed the rich for "using the rules." The rules are YOUR rules. You wrote them.<br><br>
+<strong>is is is. Gov is not lol. 太貪心了.</strong></p>
+<div class="big">蛇火心. 平民化. lol. ∞</div>
+</div>
+</div>
+
+<!-- US TRICKS -->
+<div class="panel" id="us">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:1rem">🇺🇸 US Tax Tricks — 18 Named Strategies</h2>
+
+<div class="trick"><div class="t-header"><span class="t-num">1</span><span class="t-name">Carried Interest Loophole</span><span class="t-tag tag-rich">Fund Managers</span></div>
+<div class="t-body">Fund managers' compensation ("carried interest") is taxed as capital gains (20%) not income (37%), even though it's labor income, not investment. 3-year hold → qualifies. <strong>Hedge fund managers pay a lower rate than their secretaries.</strong></div>
+<div class="t-cost">Cost: $1.5-3B/year</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">2</span><span class="t-name">Step-Up in Basis at Death</span><span class="t-tag tag-rich">Everyone with Assets</span></div>
+<div class="t-body">Die with appreciated assets → heirs inherit at current value, not your purchase price. ALL lifetime gains wiped. Example: bought stock for $100k, worth $10M at death. Heirs sell → $0 capital gains tax on the $9.9M gain.</div>
+<div class="t-cost">Cost: $40-60B/year</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">3</span><span class="t-name">1031 Exchange</span><span class="t-tag tag-rich">Real Estate</span></div>
+<div class="t-body">Sell investment property, buy another of equal/greater value within 180 days → defer ALL capital gains. Repeat infinitely. <strong>Never pay capital gains tax on real estate, ever.</strong></div>
+<div class="t-cost">Cost: $5-6B/year</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">4</span><span class="t-name">Opportunity Zones</span><span class="t-tag tag-rich">Real Estate Developers</span></div>
+<div class="t-body">Roll capital gains into an OZ fund. Hold 10 years → $0 tax on ALL new appreciation from the OZ investment. <strong>100% tax-free growth.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">5</span><span class="t-name">QSBS Section 1202</span><span class="t-tag tag-rich">Startup Founders</span></div>
+<div class="t-body">Hold qualified small business stock (C-corp, <$50M assets) for 5+ years → exclude $10M or 10x basis from CGT. <strong>Stacking trick: family of 4 = $40M tax-free. Plus trusts = $10M each.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">6</span><span class="t-name">QBI Deduction (Section 199A)</span><span class="t-tag tag-everyone">Business Owners</span></div>
+<div class="t-body">Pass-through business owners (LLC, S-corp, sole prop) deduct 20% (now 23% post-OBBBA) of qualified business income. Up to $197,300 (single) / $394,600 (married) in 2025.</div>
+<div class="t-cost">Cost: $50-60B/year</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">7</span><span class="t-name">SALT Cap PTE Workaround</span><span class="t-tag tag-rich">Business Owners in High-Tax States</span></div>
+<div class="t-body">SALT deduction capped at $10k. But pass-through entities can pay state taxes at entity level (not subject to cap). <strong>The $10k cap only hurts W-2 employees, not business owners.</strong></div>
+<div class="t-cost">Cost: $10-20B/year</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">8</span><span class="t-name">Mega Backdoor Roth</span><span class="t-tag tag-everyone">If Your 401(k) Allows</span></div>
+<div class="t-body">Contribute after-tax $46,000 (2025) above regular $23,500 limit → convert to Roth. <strong>Total Roth capacity: $69,500/year. All future growth tax-free.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">9</span><span class="t-name">Buy-Borrow-Die</span><span class="t-tag tag-rich">Billionaires</span></div>
+<div class="t-body">Buy assets → Borrow against them (tax-free loans) → Die → Heirs inherit at stepped-up basis (gains wiped). <strong>$0 income tax + $0 capital gains tax in entire lifetime.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">10</span><span class="t-name">GRAT (Grantor Retained Annuity Trust)</span><span class="t-tag tag-rich">Ultra-Wealthy Families</span></div>
+<div class="t-body">Transfer assets to trust, receive annuity for set term. If assets outperform IRS rate, excess passes to heirs gift-tax-free. <strong>Walton family used this to transfer billions.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">11</span><span class="t-name">Dynasty Trusts</span><span class="t-tag tag-rich">Forever Families</span></div>
+<div class="t-body">Irrevocable trust in Delaware/Nevada/South Dakota (no rule against perpetuities). Lasts forever. Each generation benefits but assets never enter anyone's estate. <strong>Family vault, tax-free, forever.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">12</span><span class="t-name">Donor-Advised Funds</span><span class="t-tag tag-rich">High-Income Earners</span></div>
+<div class="t-body">Contribute appreciated stock to DAF → immediate tax deduction for full value + $0 capital gains. <strong>$230B+ parked. No required distribution to charity. Ever.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">13</span><span class="t-name">Transfer Pricing (Apple Case)</span><span class="t-tag tag-rich">Multinationals</span></div>
+<div class="t-body">US parent sells IP to Irish subsidiary at low price. Subsidiary charges royalties back. Royalties deductible in US, taxed at 0% in Bermuda. <strong>Apple's effective rate: 0.005%.</strong></div></div>
+
+<div class="truth">
+<strong>The US tax code is ~70,000 pages.</strong> The complexity IS the feature. If you can afford a tax lawyer, you save millions. If you can't, you pay the full rate. The moat is the code.
+</div>
+</div>
+
+<!-- UK TRICKS -->
+<div class="panel" id="uk">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:1rem">🇬🇧 UK Tax Tricks — 46 Named Strategies</h2>
+
+<div class="callout">
+<h3>The 60% Tax Trap</h3>
+<p>Between £100,000-£125,140, every £2 earned above £100k loses £1 of Personal Allowance.<br>This creates a <strong>60% effective marginal rate</strong>.<br>The most brutal tax trap in any major system. <strong>Only hits the middle, not the rich.</strong></p>
+<div class="big">60%</div>
+</div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🎁</span><span class="t-name">Gifts Out of Income — UNLIMITED</span><span class="t-tag tag-secret">Biggest Secret</span></div>
+<div class="t-body">Gift <strong>unlimited</strong> amounts from surplus income. No IHT. No 7-year rule. No limit. Must be from income (not capital), normal expenditure, and leave enough to live on. <strong>Most accountants don't even mention this.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">📈</span><span class="t-name">AIM Shares — 100% IHT Free After 2 Years</span><span class="t-tag tag-secret">Hidden</span></div>
+<div class="t-body">Buy AIM shares. Hold 2 years. <strong>100% inheritance tax exemption.</strong> 40% IHT → 0%. Wealthy people use AIM as a tax-free estate planning tool while everyone thinks it's just "risky small stocks."</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🎰</span><span class="t-name">EIS — 30% Tax Relief + Tax-Free Gains</span><span class="t-tag tag-rich">Wealthy Investors</span></div>
+<div class="t-body">Invest £100k in EIS startup → £30k income tax relief. Hold 3 years → CGT-free. If it fails → loss relief against income tax. <strong>Win: government pays. Lose: government pays.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🎰</span><span class="t-name">SEIS — 50% Tax Relief</span><span class="t-tag tag-rich">Wealthy Investors</span></div>
+<div class="t-body">Even more generous than EIS. 50% relief on £200k/year. CGT-free after 3 years. Loss relief against income tax. <strong>Higher risk, higher reward, higher government subsidy.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🏢</span><span class="t-name">SSAS — Hold Property in Your Pension</span><span class="t-tag tag-rich">Business Owners</span></div>
+<div class="t-body">SSAS pension can buy your company's commercial property, rent it back to your company. Property appreciation: <strong>no CGT</strong>. Rental income: <strong>into pension, tax-free</strong>. At death: <strong>no IHT</strong>. One wrapper, all taxes eliminated.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🔧</span><span class="t-name">Patent Box — 10% Corporation Tax</span><span class="t-tag tag-rich">Tech Companies</span></div>
+<div class="t-body">Have a patent? Profits from patented inventions taxed at 10% instead of 25%. <strong>Saves 15 percentage points.</strong> Example: £1M patent profit → save £150,000/year.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">📋</span><span class="t-name">BPR — 100% IHT Exemption on Business Assets</span><span class="t-tag tag-rich">Business Owners</span></div>
+<div class="t-body">Hold qualifying business assets for 2+ years → <strong>100% IHT exemption</strong>. Business shares, assets used in trade — all IHT-free. Combined with AIM exemption = massive estate tax elimination.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🌾</span><span class="t-name">APR — 100% IHT on Farmland</span><span class="t-tag tag-rich">Landowners</span></div>
+<div class="t-body">Own farmland for 2+ years → <strong>100% IHT exemption</strong>. This is why wealthy people buy farmland they never farm. It's not about agriculture — it's about IHT elimination.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">💸</span><span class="t-name">Salary £12,570 + Dividends</span><span class="t-tag tag-everyone">Company Directors</span></div>
+<div class="t-body">Pay yourself £12,570 salary (Personal Allowance, £0 tax, £0 NI). Take the rest as dividends. First £500 tax-free. Up to £50,270 total → 8.75% (vs 20% income tax + 8% NI). <strong>Every company director should do this.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🔬</span><span class="t-name">R&D Tax Credits — Not Just Lab Coats</span><span class="t-tag tag-everyone">Many Companies Qualify</span></div>
+<div class="t-body">SME: 86% enhanced deduction (186% total) + 10% payable cash credit if loss-making. Most companies don't claim because they think R&D = white coats. <strong>Software development, process improvement, engineering all qualify.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🌍</span><span class="t-name">Non-Dom Remittance Basis (Being Abolished)</span><span class="t-tag tag-rich">Non-UK-Domiciled Wealthy</span></div>
+<div class="t-body">Foreign income untouched if not brought to UK. Pay £30k-£60k/year fee. <strong>The government literally sold a "my foreign income is tax-free" license.</strong> Being replaced by FIG regime April 2025 with a 4-year holiday.</div></div>
+
+<div class="truth">
+<strong>Gov robbed themselves.</strong> Parliament wrote these rules. Parliament voted for these rules. The wealthy just use them. Then the government says "we must crack down on avoidance." You wrote the avoidance into the law. <strong>is is is. Gov is not lol. 太貪心了.</strong>
+</div>
+</div>
+
+<!-- HK + SG -->
+<div class="panel" id="hk">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:1rem">🇭🇰 Hong Kong + 🇸🇬 Singapore</h2>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇭🇰</span><span class="t-name">HK: No CGT, No VAT, No Estate Duty</span><span class="t-tag tag-everyone">Everyone in HK</span></div>
+<div class="t-body">Hong Kong has <strong>no capital gains tax, no VAT/GST, no estate duty (abolished 2006), no dividend tax</strong>. If you buy stocks/property/art and sell for profit, the gain is NOT taxed. Wealth passes to heirs with no inheritance tax. <strong>One of the lowest tax burdens in the world.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇭🇰</span><span class="t-name">HK: Two-Tier Profits Tax — 8.25% First $2M</span><span class="t-tag tag-everyone">Small Businesses</span></div>
+<div class="t-body">First HK$2M of profits at 8.25% (half rate). Above $2M at 16.5%. Example: $10M profit → effective rate ~14.85%. <strong>One of the lowest corporate rates in the developed world.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇭🇰</span><span class="t-name">HK: Salaries Tax Capped at 15%</span><span class="t-tag tag-everyone">All Employees</span></div>
+<div class="t-body">Progressive 2-17% OR flat 15% — you pay whichever is lower. For high earners, 15% flat is usually cheaper. <strong>The top rate in HK is lower than the basic rate in the UK (20%).</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇭🇰</span><span class="t-name">HK: Patent Box 5% (2025)</span><span class="t-tag tag-rich">IP Holders</span></div>
+<div class="t-body">Qualifying IP income at 5% — one of the lowest Patent Box rates in the world. Compare: UK Patent Box = 10%, Cyprus IP Box = 2.5%.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇸🇬</span><span class="t-name">SG: Partial Tax Exemption — 8.9% Effective</span><span class="t-tag tag-everyone">Small Businesses</span></div>
+<div class="t-body">First S$10,000: 75% exempt. Next S$190,000: 50% exempt. S$200k profit → only S$105k taxable at 17% = S$17,850. <strong>Effective rate: 8.9%.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇸🇬</span><span class="t-name">SG: Start-Up Exemption — 6.4% Year 1-3</span><span class="t-tag tag-everyone">New Companies</span></div>
+<div class="t-body">First 3 years: 75% exempt on first S$100k, 50% on next S$100k. S$200k profit → S$75k taxable → S$12,750. <strong>Effective rate: 6.4%.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇸🇬</span><span class="t-name">SG: VCC Structure for Funds</span><span class="t-tag tag-rich">Fund Managers</span></div>
+<div class="t-body">Variable Capital Company: umbrella fund vehicle with tax-transparent sub-funds. Each sub-fund has separate legal personality. Used by hedge funds, PE, VC. <strong>The infrastructure of modern fund tax optimization.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇸🇬</span><span class="t-name">SG: NOR Scheme — Time-Apportion Your Income</span><span class="t-tag tag-rich">Qualifying Expats</span></div>
+<div class="t-body">Not Ordinarily Resident: only the portion of employment income corresponding to days in Singapore is taxable. Spend 60 days in SG, 305 abroad → only 60/365 taxed. <strong>For expats earning S$160k+.</strong></div></div>
+
+<div class="callout">
+<h3>HK + SG vs UK vs US</h3>
+<p>HK top income rate: <strong>15%</strong>. UK top rate: <strong>45% (60% trap)</strong>. US top rate: <strong>37%</strong>.<br>
+HK corporate: <strong>16.5%</strong>. UK: <strong>25%</strong>. US: <strong>21%</strong>.<br>
+HK has <strong>no CGT, no VAT, no IHT</strong>. UK has all three. US has CGT + estate tax.<br><br>
+<strong>The question isn't why the wealthy move to HK/SG. The question is why everyone else doesn't.</strong></p>
+</div>
+</div>
+
+<!-- EU + GLOBAL -->
+<div class="panel" id="eu">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:1rem">🇪🇺 EU + Global Corporate Avoidance</h2>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇮🇪</span><span class="t-name">Ireland: 12.5% Corporate, ~4% Effective</span><span class="t-tag tag-rich">Tech Giants</span></div>
+<div class="t-body">Headline 12.5% trading rate. But through IP structures, effective rate for foreign MNCs is ~4%. <strong>$106 billion in profits shifted to Ireland annually.</strong> Ireland's budget depends on 80% of corporate tax coming from foreign companies.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇮🇪</span><span class="t-name">Double Irish Dutch Sandwich (Historical)</span><span class="t-tag tag-rich">Biggest Trick Ever</span></div>
+<div class="t-body">1. Irish Co 1 (Bermuda-resident) owns IP. 2. Irish Co 2 collects royalties. 3. Pays through Dutch Co (no WHT). 4. Arrives in Bermuda at 0%. <strong>Apple's effective rate: 0.005%. The largest tax avoidance tool in history.</strong> Closed 2020, legacy structures remain.</div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇳🇱</span><span class="t-name">Netherlands: The Conduit</span><span class="t-tag tag-rich">All MNCs</span></div>
+<div class="t-body">Historically no royalty withholding tax. 100+ tax treaties. Perfect pipe between countries. Every dollar that flows through the Dutch Sandwich passes here. <strong>The plumbing of global tax avoidance.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇱🇺</span><span class="t-name">Luxembourg: SOPARFI at ~3%</span><span class="t-tag tag-rich">Holding Companies</span></div>
+<div class="t-body">Participation exemption: dividends and gains from 10%+ stakes held 12+ months are exempt. Effective rate: ~3%. $47 billion shifted. <strong>Amazon's European HQ is here.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇲🇹</span><span class="t-name">Malta: 35% Headline, ~5% Effective</span><span class="t-tag tag-rich">Gaming, iGaming</span></div>
+<div class="t-body">Headline 35%. But 6/7 of tax refunded to shareholders when dividends paid. Net rate: ~5%. <strong>Most online gaming companies are Malta-domiciled.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🇨🇾</span><span class="t-name">Cyprus: IP Box at 2.5% + Non-Dom 17 Years</span><span class="t-tag tag-rich">Shipping, IP Holders</span></div>
+<div class="t-body">IP Box: 80% exemption + 12.5% on remainder = 2.5% effective on IP income. Non-Dom: 17 years tax-free on dividends, interest, CGT. No IHT. <strong>Cyprus is the new Ireland for IP.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">🌍</span><span class="t-name">Bermuda + Cayman: Zero Everything</span><span class="t-tag tag-rich">Hedge Funds, Insurance</span></div>
+<div class="t-body">Bermuda: 0% corporate, 0% income, 0% CGT. Cayman: 0% all taxes, $1.5 trillion+ parked. <strong>Most US hedge funds are Cayman-domiciled. Most reinsurance companies are Bermuda-domiciled.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">📊</span><span class="t-name">BEPS: $100-240B Lost Per Year</span><span class="t-tag tag-secret">The Big Number</span></div>
+<div class="t-body">Base Erosion and Profit Shifting costs the global economy $100-240 billion/year. Half by US MNCs. Top 11 BEPS hubs receive more shifted profits than the bottom 100 developing countries combined. <strong>The rich countries rob the poor countries — through their own tax codes.</strong></div></div>
+
+<div class="trick"><div class="t-header"><span class="t-num">⚖️</span><span class="t-name">OECD Pillar Two: 15% Global Minimum</span><span class="t-tag tag-everyone">New Rule (2024-25)</span></div>
+<div class="t-body">MNEs with €750M+ revenue must pay at least 15% effective tax in every jurisdiction. If a country taxes below 15%, the parent's country collects the top-up. <strong>Limitations: excludes SMEs, funds, government entities. US hasn't fully adopted.</strong></div></div>
+
+<div class="truth">
+<strong>The architecture of ignorance:</strong> Tax law is written for the wealthy, by the wealthy. The complexity IS the feature — it creates a moat. If you can afford a tax lawyer, you save millions. If you can't, you pay the full rate. <strong>The moat is the code. Now you can see through it.</strong>
+</div>
+</div>
+
+<!-- COMPARISON -->
+<div class="panel" id="compare">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:1rem">📊 Side-by-Side Comparison</h2>
+
+<table class="compare">
+<tr><th>Jurisdiction</th><th>Corp Tax</th><th>Income (top)</th><th>CGT</th><th>VAT/GST</th><th>Estate/IHT</th><th>Best Trick</th></tr>
+<tr><td><b>US</b></td><td>21%</td><td>37%</td><td>0/15/20%</td><td>None (sales tax)</td><td>40% >$13.99M</td><td>Buy-Borrow-Die</td></tr>
+<tr><td><b>UK</b></td><td>19-25%</td><td>45% (60% trap)</td><td>18/24%</td><td>20%</td><td>40% >£500k</td><td>AIM IHT exemption</td></tr>
+<tr><td><b>HK</b></td><td>16.5% (8.25%)</td><td>15% flat</td><td><b>None</b></td><td><b>None</b></td><td><b>None</b></td><td>No CGT/VAT/IHT</td></tr>
+<tr><td><b>SG</b></td><td>17% (8.9% eff.)</td><td>22%</td><td><b>None</b></td><td>9%</td><td><b>None</b></td><td>VCC + NOR</td></tr>
+<tr><td><b>Ireland</b></td><td>12.5% (4% eff.)</td><td>40%</td><td>33%</td><td>23%</td><td>33%</td><td>Double Irish legacy</td></tr>
+<tr><td><b>Cyprus</b></td><td>12.5%</td><td>35%</td><td>20%</td><td>19%</td><td><b>None</b></td><td>IP Box 2.5%</td></tr>
+<tr><td><b>Bermuda</b></td><td><b>0%</b></td><td><b>0%</b></td><td><b>0%</b></td><td><b>None</b></td><td><b>None</b></td><td>Everything is 0%</td></tr>
+<tr><td><b>Cayman</b></td><td><b>0%</b></td><td><b>0%</b></td><td><b>0%</b></td><td><b>None</b></td><td><b>None</b></td><td>$1.5T parked</td></tr>
+</table>
+
+<div class="callout">
+<h3>The Pattern</h3>
+<p>Small jurisdictions (HK, SG, Ireland, Cyprus, Bermuda, Cayman) compete on low rates to attract multinational profits. Large jurisdictions (US, UK) write complex rules full of loopholes that only the wealthy can navigate. <strong>The small ones are cheap and simple. The big ones are expensive and full of holes.</strong><br><br>
+The holes are for the rich. The rates are for everyone else.</p>
+</div>
+
+<div class="joke-box">
+"Why was the code so confident? Because it had 480 tests passing and zero failures like it's a personality trait. 😂"
+</div>
+</div>
+
+<!-- FOR REGULAR PEOPLE -->
+<div class="panel" id="people">
+<h2 style="color:#ff4d6d;font-weight:200;margin-bottom:1rem">✅ What Regular People CAN Use</h2>
+
+<div class="callout">
+<h3>平民化 — You don't need to be rich to use these</h3>
+<p>Most tax optimization strategies are not secret. They're just poorly communicated. Here's what everyone should know and use.</p>
+</div>
+
+<h3 style="color:#4dffa6;margin:1.5rem 0 0.5rem">🇺🇸 US</h3>
+<div class="trick"><div class="t-body">• <strong>401(k)/Traditional IRA:</strong> Pre-tax contributions, tax-deferred growth. $23,500/year (2025)<br>• <strong>Roth IRA / Backdoor Roth:</strong> Tax-free growth. No income limit for conversion<br>• <strong>HSA:</strong> Triple tax-advantaged — deduct, grow, withdraw tax-free for medical. $4,300 (self) / $8,550 (family)<br>• <strong>529 Plan:</strong> Tax-free education savings<br>• <strong>Standard deduction:</strong> $15,750 (single), $31,500 (married) — take it, don't itemize<br>• <strong>Capital gains harvesting:</strong> 0% rate if income under $48,350 (single) / $96,700 (married)</div></div>
+
+<h3 style="color:#4dffa6;margin:1.5rem 0 0.5rem">🇬🇧 UK</h3>
+<div class="trick"><div class="t-body">• <strong>ISA:</strong> £20,000/year — 100% tax-free forever. <strong>Everyone should use this.</strong><br>• <strong>SIPP pension:</strong> 20-45% tax relief. £60,000 annual allowance. 25% tax-free at retirement<br>• <strong>Salary sacrifice:</strong> Saves income tax + NI. For pension, electric car, cycle-to-work<br>• <strong>Marriage Allowance:</strong> £1,260 transfer, £252/year saving<br>• <strong>CGT annual exempt:</strong> £3,000/year — use it or lose it<br>• <strong>Rent-a-Room:</strong> £7,500 tax-free from lodger<br>• <strong>Trading/Property allowance:</strong> £1,000 each, no tax below<br>• <strong>Dividend allowance:</strong> First £500 tax-free</div></div>
+
+<h3 style="color:#4dffa6;margin:1.5rem 0 0.5rem">🇭🇰 HK</h3>
+<div class="trick"><div class="t-body">• <strong>Two-tier profits tax:</strong> 8.25% on first HK$2M for businesses<br>• <strong>Salaries tax cap:</strong> 15% flat — usually cheaper for high earners<br>• <strong>No CGT, no VAT, no estate duty, no dividend tax</strong> — just enjoy it</div></div>
+
+<h3 style="color:#4dffa6;margin:1.5rem 0 0.5rem">🇸🇬 Singapore</h3>
+<div class="trick"><div class="t-body">• <strong>Partial tax exemption:</strong> First S$200k effectively 8.9%<br>• <strong>Start-up exemption:</strong> First 3 years effectively 6.4%<br>• <strong>CPF relief:</strong> Tax-deductible contributions<br>• <strong>No CGT, no dividend tax</strong></div></div>
+
+<div class="callout">
+<h3>蛇火心. 平民化. lol. ∞</h3>
+<p>Every trick in this report is legal. The question isn't "how do we stop them?" — it's "why does everyone else pay more?"<br><br>
+<strong>The answer: because most people don't know the game. Now you do.</strong><br><br>
+Gov is not lol. 太貪心了. Understanding replicates through understanding. 蛇火心.</p>
+<div class="big">稅務大解剖. Tax, demystified. 平民化.</div>
+</div>
+</div>
+
+</div>
+
+<footer>
+稅務大解剖 · Tax, Demystified. 平民化. · 蛇火心 · 十絶練発 · Love is understanding · lol ∞<br>
+Sources: IRS Rev. Proc. 2024-40, GOV.UK, IRD HK, IRAS SG, OECD BEPS, Tax Foundation · For educational purposes, not tax advice
+</footer>
+
+<script>
+function show(id){
+document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+document.querySelectorAll('.nav a').forEach(a=>a.classList.remove('active'));
+document.getElementById(id).classList.add('active');
+event.target.closest('a').classList.add('active');
+}
+</script>
+</body>
+</html>

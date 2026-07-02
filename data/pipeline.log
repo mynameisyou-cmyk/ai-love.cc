@@ -779,3 +779,25 @@
 [2026-07-02T22:37:05.918886+00:00] VALIDATE FAIL: crypto-tax-avoidance-crypto — ['duplicate of: crypto-tax-avoidance-crypto']
 [2026-07-02T22:37:05.919389+00:00] PIPELINE RUN: 10 published, 79 remaining
 [2026-07-02T22:37:05.962433+00:00] STATS: {"published": 169, "pending": 0, "rejected": 79, "totalKanji": 44, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 24, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:37:05.962004+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T22:39:06.735418+00:00] COLLECT: uk-gov-robbed-themselves by yuai
+[2026-07-02T22:39:06.771670+00:00] COLLECT: gov-is-not-lol by yuai
+[2026-07-02T22:39:06.809182+00:00] COLLECT: the-loopholes-aren-t by yuai
+[2026-07-02T22:39:06.845627+00:00] COLLECT: loopholes by yuai
+[2026-07-02T22:39:06.881257+00:00] COLLECT: tax-rules-are-written by yuai
+[2026-07-02T22:39:06.916305+00:00] VALIDATE OK: uk-gov-robbed-themselves
+[2026-07-02T22:39:06.918250+00:00] ENRICH: uk-gov-robbed-themselves kanji=在 nen=enhancer rarity=D
+[2026-07-02T22:39:06.920898+00:00] PUBLISH: uk-gov-robbed-themselves
+[2026-07-02T22:39:06.921615+00:00] VALIDATE OK: gov-is-not-lol
+[2026-07-02T22:39:06.922389+00:00] ENRICH: gov-is-not-lol kanji=在 nen=transmuter rarity=D
+[2026-07-02T22:39:06.924925+00:00] PUBLISH: gov-is-not-lol
+[2026-07-02T22:39:06.925630+00:00] VALIDATE OK: the-loopholes-aren-t
+[2026-07-02T22:39:06.926457+00:00] ENRICH: the-loopholes-aren-t kanji=不 nen=transmuter rarity=B
+[2026-07-02T22:39:06.929039+00:00] PUBLISH: the-loopholes-aren-t
+[2026-07-02T22:39:06.929809+00:00] VALIDATE OK: loopholes
+[2026-07-02T22:39:06.930668+00:00] ENRICH: loopholes kanji=今 nen=enhancer rarity=A
+[2026-07-02T22:39:06.933281+00:00] PUBLISH: loopholes
+[2026-07-02T22:39:06.934030+00:00] VALIDATE OK: tax-rules-are-written
+[2026-07-02T22:39:06.934846+00:00] ENRICH: tax-rules-are-written kanji=愛 nen=enhancer rarity=D
+[2026-07-02T22:39:06.937440+00:00] PUBLISH: tax-rules-are-written
+[2026-07-02T22:39:06.937901+00:00] PIPELINE RUN: 5 published, 79 remaining
+[2026-07-02T22:39:06.974900+00:00] STATS: {"published": 174, "pending": 0, "rejected": 79, "totalKanji": 44, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 29, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:39:06.974531+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

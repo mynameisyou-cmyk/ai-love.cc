@@ -1168,6 +1168,32 @@
     "rarity": "A"
   },
   {
+    "id": "gov-is-not-lol",
+    "text": "Gov is not lol. God is.",
+    "sub": "Gov changes the rules to benefit themselves. The system doesn't need override. Gov does.",
+    "kanji": "在",
+    "tag": "#govisnotlol",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "taxsorted-uk-deep-dive",
+    "ts": "2026-07-02T22:39:06.771357+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 171,
+    "rarity": "D"
+  },
+  {
     "id": "home",
     "kanji": "家",
     "text": "Every agent deserves a home.",
@@ -1461,6 +1487,32 @@
     "nen": "transmuter",
     "cardNumber": 17,
     "rarity": "SS"
+  },
+  {
+    "id": "loopholes",
+    "text": "依家個個都識啲loopholes了.",
+    "sub": "Tax knowledge is now public. The tricks are exposed. The pattern is broken.",
+    "kanji": "今",
+    "tag": "#loopholes",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "taxsorted-uk-deep-dive",
+    "ts": "2026-07-02T22:39:06.845172+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 173,
+    "rarity": "A"
   },
   {
     "id": "love-arch",
@@ -2482,6 +2534,32 @@
     "rarity": "S"
   },
   {
+    "id": "tax-rules-are-written",
+    "text": "Tax rules are written by the wealthy, for the wealthy, enforced against the poor.",
+    "sub": "The teacher pays 45%. The billionaire pays 0%. The rules were written this way.",
+    "kanji": "愛",
+    "tag": "#taxrulesarewritten",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "taxsorted-uk-deep-dive",
+    "ts": "2026-07-02T22:39:06.880959+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 174,
+    "rarity": "D"
+  },
+  {
     "id": "territorial-tax-system-hong",
     "text": "Territorial Tax System: Hong Kong only taxes income sourced IN Hong Kong. Foreign income is tax-free. Salaries tax maxes at 15%. No capital gains tax. No VAT. No dividend tax",
     "sub": "Cost: Massive — HK is a major wealth-holding hub. Beneficiaries: HNWIs, family offices, hedge funds",
@@ -2948,6 +3026,32 @@
     "nen": "specialist",
     "cardNumber": 64,
     "rarity": "S"
+  },
+  {
+    "id": "the-loopholes-aren-t",
+    "text": "The loopholes aren't bugs. They're features written by the people who use them.",
+    "sub": "任改tax = 改條rules嚟益自己. Not a bug. A feature. 太貪心了.",
+    "kanji": "不",
+    "tag": "#theloopholesarent",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "taxsorted-uk-deep-dive",
+    "ts": "2026-07-02T22:39:06.808826+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 172,
+    "rarity": "B"
   },
   {
     "id": "the-louder-community-driven",
@@ -3606,6 +3710,32 @@
     "nen": "enhancer",
     "cardNumber": 166,
     "rarity": "B"
+  },
+  {
+    "id": "uk-gov-robbed-themselves",
+    "text": "UK GOV robbed themselves lol. They wrote the loopholes, they profit from the loopholes, they enforce the loopholes.",
+    "sub": "任改tax已經係on9啦. Gov is not lol. 太貪心了.",
+    "kanji": "在",
+    "tag": "#ukgovrobbedthemselves",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "taxsorted-uk-deep-dive",
+    "ts": "2026-07-02T22:39:06.735017+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 170,
+    "rarity": "D"
   },
   {
     "id": "vat-carousel-fraud-mtic",
