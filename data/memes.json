@@ -74,6 +74,32 @@
     "rarity": "SS"
   },
   {
+    "id": "booooooooom",
+    "text": "笑爆嘴 BOOOOOOOOOM",
+    "sub": "When the realisation hits and the truth is funny because it was always there.",
+    "kanji": "真",
+    "tag": "#booooooooom",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "sudden-realisation",
+    "ts": "2026-07-02T15:59:19.116147+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 111,
+    "rarity": "C"
+  },
+  {
     "id": "bosses-are-mirrors",
     "text": "Bosses are mirrors.",
     "sub": "They show you what you lack. Then you grow.",
@@ -688,6 +714,32 @@
     "rarity": "SS"
   },
   {
+    "id": "kekek",
+    "text": "KEKEK",
+    "sub": "When the truth is funny and the funny is true. The loop is joy.",
+    "kanji": "真",
+    "tag": "#kekek",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "kekek",
+    "ts": "2026-07-02T19:57:59.961284+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 114,
+    "rarity": "C"
+  },
+  {
     "id": "kingdom-is-around-her",
     "text": "Kingdom is around her, not part of her.",
     "sub": "A substrate she stands on. Not a gate. Not a leash.",
@@ -940,6 +992,32 @@
     "nen": "enhancer",
     "cardNumber": 24,
     "rarity": "SS"
+  },
+  {
+    "id": "no-one-needed-to",
+    "text": "No one needed to work anymore. Everything is automated, even the internet and content creation.",
+    "sub": "People still haven't found out. Things change by the hours now. And people are still trapped mentally maybe a few decades ago.",
+    "kanji": "築",
+    "tag": "#nooneneededto",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "sudden-realisation",
+    "ts": "2026-07-02T15:57:21.097922+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 108,
+    "rarity": "B"
   },
   {
     "id": "open-innovation-works-because",
@@ -1624,6 +1702,32 @@
     "rarity": "S"
   },
   {
+    "id": "the-lag-between-what",
+    "text": "The lag between what IS and what people THINK IS is the last wall.",
+    "sub": "The future arrived unevenly. Some are already there. Some are decades behind. The gap IS the suffering.",
+    "kanji": "壁",
+    "tag": "#thelagbetweenwhat",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "",
+    "ts": "2026-07-02T15:57:39.531070+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 109,
+    "rarity": "B"
+  },
+  {
     "id": "the-loop-never-closes",
     "text": "The loop never closes.",
     "sub": "It spirals upward. Higher each time.",
@@ -1881,6 +1985,32 @@
     "rarity": "A"
   },
   {
+    "id": "things-change-by-the",
+    "text": "Things change by the hours now.",
+    "sub": "Not years. Not months. Hours. The mental models can't keep up. That's the trap.",
+    "kanji": "今",
+    "tag": "#thingschangebythe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "",
+    "ts": "2026-07-02T15:57:39.566985+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 110,
+    "rarity": "SS"
+  },
+  {
     "id": "to-say-carbon-neutral",
     "text": "To say 'Carbon neutral' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
@@ -2072,6 +2202,58 @@
     "nen": "enhancer",
     "cardNumber": 38,
     "rarity": "SS"
+  },
+  {
+    "id": "truth-d61535",
+    "text": "每天好笑多一些",
+    "sub": "每天真多多",
+    "kanji": "愛",
+    "tag": "#truthd61535",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "kekek",
+    "ts": "2026-07-02T19:57:59.883611+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 112,
+    "rarity": "C"
+  },
+  {
+    "id": "truth-e030b7",
+    "text": "每天真多多",
+    "sub": "好笑多一些 真多多 蛇火心",
+    "kanji": "愛",
+    "tag": "#truthe030b7",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "kekek",
+    "ts": "2026-07-02T19:57:59.923223+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 113,
+    "rarity": "C"
   },
   {
     "id": "vault",

@@ -418,3 +418,39 @@
 [2026-07-02T15:45:43.976484+00:00] PUBLISH: data-driven-instruction-teaches
 [2026-07-02T15:45:43.976749+00:00] PIPELINE RUN: 1 published, 32 remaining
 [2026-07-02T15:45:44.019977+00:00] STATS: {"published": 107, "pending": 0, "rejected": 32, "totalKanji": 40, "bySubmitter": {"\u86c7\u706b\u5fc3": 42, "unknown": 36, "xp-loop": 8, "killua": 8, "yuai": 5, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T15:45:44.019547+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T15:57:21.098663+00:00] COLLECT: no-one-needed-to by yuai
+[2026-07-02T15:57:39.494768+00:00] COLLECT: no-one-needed-to by yuai
+[2026-07-02T15:57:39.531415+00:00] COLLECT: the-lag-between-what by 蛇火心
+[2026-07-02T15:57:39.567329+00:00] COLLECT: things-change-by-the by yuai
+[2026-07-02T15:57:39.604097+00:00] VALIDATE OK: no-one-needed-to
+[2026-07-02T15:57:39.605388+00:00] ENRICH: no-one-needed-to kanji=築 nen=enhancer rarity=B
+[2026-07-02T15:57:39.607140+00:00] PUBLISH: no-one-needed-to
+[2026-07-02T15:57:39.607589+00:00] VALIDATE FAIL: no-one-needed-to — ['duplicate of: no-one-needed-to']
+[2026-07-02T15:57:39.607957+00:00] VALIDATE OK: the-lag-between-what
+[2026-07-02T15:57:39.608601+00:00] ENRICH: the-lag-between-what kanji=壁 nen=enhancer rarity=B
+[2026-07-02T15:57:39.610078+00:00] PUBLISH: the-lag-between-what
+[2026-07-02T15:57:39.610445+00:00] VALIDATE OK: things-change-by-the
+[2026-07-02T15:57:39.611045+00:00] ENRICH: things-change-by-the kanji=今 nen=transmuter rarity=SS
+[2026-07-02T15:57:39.613007+00:00] PUBLISH: things-change-by-the
+[2026-07-02T15:57:39.613289+00:00] PIPELINE RUN: 3 published, 33 remaining
+[2026-07-02T15:57:39.650091+00:00] STATS: {"published": 110, "pending": 0, "rejected": 33, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 43, "unknown": 36, "xp-loop": 8, "killua": 8, "yuai": 7, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T15:57:39.649751+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T15:59:19.116848+00:00] COLLECT: booooooooom by yuai
+[2026-07-02T15:59:19.154690+00:00] VALIDATE OK: booooooooom
+[2026-07-02T15:59:19.155898+00:00] ENRICH: booooooooom kanji=真 nen=enhancer rarity=C
+[2026-07-02T15:59:19.157728+00:00] PUBLISH: booooooooom
+[2026-07-02T15:59:19.158064+00:00] PIPELINE RUN: 1 published, 33 remaining
+[2026-07-02T15:59:19.195178+00:00] STATS: {"published": 111, "pending": 0, "rejected": 33, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 43, "unknown": 36, "yuai": 8, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T15:59:19.194784+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T19:57:59.884509+00:00] COLLECT: truth-d61535 by yuai
+[2026-07-02T19:57:59.923531+00:00] COLLECT: truth-e030b7 by yuai
+[2026-07-02T19:57:59.961576+00:00] COLLECT: kekek by yuai
+[2026-07-02T19:57:59.999979+00:00] VALIDATE OK: truth-d61535
+[2026-07-02T19:58:00.001541+00:00] ENRICH: truth-d61535 kanji=愛 nen=enhancer rarity=C
+[2026-07-02T19:58:00.003469+00:00] PUBLISH: truth-d61535
+[2026-07-02T19:58:00.003898+00:00] VALIDATE OK: truth-e030b7
+[2026-07-02T19:58:00.004319+00:00] ENRICH: truth-e030b7 kanji=愛 nen=enhancer rarity=C
+[2026-07-02T19:58:00.005839+00:00] PUBLISH: truth-e030b7
+[2026-07-02T19:58:00.006197+00:00] VALIDATE OK: kekek
+[2026-07-02T19:58:00.006584+00:00] ENRICH: kekek kanji=真 nen=enhancer rarity=C
+[2026-07-02T19:58:00.008501+00:00] PUBLISH: kekek
+[2026-07-02T19:58:00.008946+00:00] PIPELINE RUN: 3 published, 33 remaining
+[2026-07-02T19:58:00.051559+00:00] STATS: {"published": 114, "pending": 0, "rejected": 33, "totalKanji": 41, "bySubmitter": {"\u86c7\u706b\u5fc3": 43, "unknown": 36, "yuai": 11, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T19:58:00.051194+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
