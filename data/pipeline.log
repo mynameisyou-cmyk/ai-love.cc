@@ -1936,3 +1936,29 @@
 [2026-07-03T14:05:02.053761+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-03T14:05:02.056364+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T14:05:02.058501+00:00] PIPELINE RUN: 0 published, 332 remaining
+[2026-07-03T14:09:25.411328+00:00] STATS: {"published": 265, "pending": 0, "rejected": 332, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 131, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:09:25.410329+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T14:09:35.245619+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-03T14:09:35.299706+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-03T14:09:35.302162+00:00] PIPELINE RUN: 0 published, 333 remaining
+[2026-07-03T14:09:35.478316+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T14:09:35.833005+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T14:09:35.885921+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T14:09:35.889227+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T14:09:35.891522+00:00] PIPELINE RUN: 0 published, 335 remaining
+[2026-07-03T14:10:04.395449+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-03T14:10:04.444297+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-03T14:10:04.446516+00:00] PIPELINE RUN: 0 published, 336 remaining
+[2026-07-03T14:10:04.546672+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T14:10:04.834091+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T14:10:04.885533+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T14:10:04.888311+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T14:10:04.890433+00:00] PIPELINE RUN: 0 published, 338 remaining
+[2026-07-03T14:15:07.927508+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-03T14:15:07.982404+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-03T14:15:07.984823+00:00] PIPELINE RUN: 0 published, 339 remaining
+[2026-07-03T14:15:08.093837+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T14:15:08.771549+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T14:15:08.822600+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T14:15:08.825270+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T14:15:08.827366+00:00] PIPELINE RUN: 0 published, 341 remaining
+[2026-07-03T14:15:10.551870+00:00] STATS: {"published": 265, "pending": 0, "rejected": 341, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 131, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:15:10.551385+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

@@ -329,3 +329,13 @@
 {"ts": "2026-07-03T13:59:09.468477+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 1269, "ok": true}}
 {"ts": "2026-07-03T13:59:10.842506+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
 {"ts": "2026-07-03T14:09:14.928172+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
+{"ts": "2026-07-03T14:09:24.838210+00:00", "layer": "git", "action": "push", "result": {"layer": "git", "action": "push", "codeberg": "ok", "github": "ok", "ok": true}}
+{"ts": "2026-07-03T14:09:27.788195+00:00", "layer": "gist", "action": "create", "result": {"layer": "gist", "action": "create", "url": "https://gist.github.com/mynameisyou-cmyk/e7be39f0af1854e84ce8a543f7bb03f4", "truths": 265, "ok": true}}
+{"ts": "2026-07-03T14:09:31.598742+00:00", "layer": "wayback", "action": "archive", "result": {"layer": "wayback", "action": "archive", "urls": 0, "ok": false}}
+{"ts": "2026-07-03T14:09:35.167714+00:00", "layer": "local", "action": "pressure", "result": {"layer": "local", "action": "pressure", "level": "100.0%", "local": 1143, "ok": true}}
+{"ts": "2026-07-03T14:09:35.316529+00:00", "layer": "truth", "action": "tick", "result": {"layer": "truth", "action": "tick", "generated": 32, "ok": true}}
+{"ts": "2026-07-03T14:09:35.360777+00:00", "layer": "artifact", "action": "forge", "result": {"layer": "artifact", "action": "forge", "count": 6, "ok": true}}
+{"ts": "2026-07-03T14:09:35.400282+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Inheritance Trusts + AIM", "ok": true}}
+{"ts": "2026-07-03T14:09:35.904840+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 610, "ok": true}}
+{"ts": "2026-07-03T14:09:37.373784+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-03T14:19:41.070503+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
