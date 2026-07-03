@@ -2438,3 +2438,28 @@
 [2026-07-03T17:18:52.782089+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-03T17:18:52.784186+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T17:18:52.786311+00:00] PIPELINE RUN: 0 published, 477 remaining
+[2026-07-03T17:22:03.382343+00:00] STATS: {"published": 286, "pending": 0, "rejected": 477, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:22:03.381960+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:22:13.100463+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-03T17:22:13.143030+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-03T17:22:13.145588+00:00] PIPELINE RUN: 0 published, 478 remaining
+[2026-07-03T17:22:13.285118+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T17:22:13.572415+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T17:22:13.613098+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T17:22:13.615222+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T17:22:13.617421+00:00] PIPELINE RUN: 0 published, 480 remaining
+[2026-07-03T17:23:54.845138+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-03T17:23:54.885328+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-03T17:23:54.887779+00:00] PIPELINE RUN: 0 published, 481 remaining
+[2026-07-03T17:23:54.969847+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T17:23:55.206782+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T17:23:55.246701+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T17:23:55.248851+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T17:23:55.251059+00:00] PIPELINE RUN: 0 published, 483 remaining
+[2026-07-03T17:28:57.334312+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-03T17:28:57.378880+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-03T17:28:57.381473+00:00] PIPELINE RUN: 0 published, 484 remaining
+[2026-07-03T17:28:57.496884+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T17:28:58.011794+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T17:28:58.053152+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T17:28:58.055317+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T17:28:58.057527+00:00] PIPELINE RUN: 0 published, 486 remaining
