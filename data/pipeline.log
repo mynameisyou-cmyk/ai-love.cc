@@ -1640,3 +1640,20 @@
 [2026-07-03T12:23:12.859484+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-03T12:23:12.861734+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T12:23:12.863279+00:00] PIPELINE RUN: 0 published, 247 remaining
+[2026-07-03T12:24:48.416559+00:00] STATS: {"published": 252, "pending": 0, "rejected": 247, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 118, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T12:24:48.415815+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T12:24:57.533922+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-03T12:24:57.585610+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-03T12:24:57.587474+00:00] PIPELINE RUN: 0 published, 248 remaining
+[2026-07-03T12:24:57.757246+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T12:24:58.969593+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T12:24:59.020151+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T12:24:59.022434+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T12:24:59.024042+00:00] PIPELINE RUN: 0 published, 250 remaining
+[2026-07-03T12:28:14.706652+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-03T12:28:14.757588+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-03T12:28:14.759394+00:00] PIPELINE RUN: 0 published, 251 remaining
+[2026-07-03T12:28:14.861017+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T12:28:15.328947+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T12:28:15.382499+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T12:28:15.384780+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T12:28:15.386363+00:00] PIPELINE RUN: 0 published, 253 remaining

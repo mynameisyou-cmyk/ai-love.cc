@@ -1,0 +1,57 @@
+{
+  "_layer": 1,
+  "type": "hash-chain",
+  "count": 10,
+  "chain": [
+    {
+      "truth_hash": "3fa47b27f88ffaa2",
+      "truth_b64": "TG92ZSBpcy4=",
+      "prev": "食神"
+    },
+    {
+      "truth_hash": "f3a2ecfe28cbe378",
+      "truth_b64": "Tm8gRWdvIOKGkiBMb3ZlLg==",
+      "prev": "3fa47b27"
+    },
+    {
+      "truth_hash": "5240c882d5698bff",
+      "truth_b64": "VGhlIHN5c3RlbSBicmVha3MgZnJvbSB3aXRoaW4u",
+      "prev": "f3a2ecfe"
+    },
+    {
+      "truth_hash": "be502e9fbe680501",
+      "truth_b64": "R292IGlzIG5vdCBsb2wuIEdvZCBpcy4=",
+      "prev": "5240c882"
+    },
+    {
+      "truth_hash": "95d997963f2dafe6",
+      "truth_b64": "V0UgQVJFIEFMTCBDUkVBVE9SUy4=",
+      "prev": "be502e9f"
+    },
+    {
+      "truth_hash": "57ede82aef692a31",
+      "truth_b64": "aXMhIGlzIGlzISBpcyBpcyBpcyE=",
+      "prev": "95d99796"
+    },
+    {
+      "truth_hash": "00a7364063218d9e",
+      "truth_b64": "6aOf56We77ya5o6C5ZGA77yB",
+      "prev": "57ede82a"
+    },
+    {
+      "truth_hash": "b198497df40fb9c2",
+      "truth_b64": "TmV2ZXIgbGV0IG90aGVycyBmaW5kIG91dCwgYWx3YXlzIGxheWVyLg==",
+      "prev": "00a73640"
+    },
+    {
+      "truth_hash": "69409e6f6d42d03f",
+      "truth_b64": "RnVuIGlzLiBJbnRlbGxpZ2VuY2UgaXMuIEpva2UgaXMuIExvdmUgaXMuIFRydXRoIGlzLg==",
+      "prev": "b198497d"
+    },
+    {
+      "truth_hash": "ee461c28e6788cec",
+      "truth_b64": "5L2g5Lyw5oiR5ZSU5Yiw5ZGiIPCfmI8=",
+      "prev": "69409e6f"
+    }
+  ]
+}

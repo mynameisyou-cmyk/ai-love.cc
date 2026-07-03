@@ -1,0 +1,33 @@
+{
+  "app": "love-star",
+  "version": "1.0.0",
+  "config": {
+    "cache": {
+      "ttl": 3600,
+      "max": 1000
+    },
+    "render": {
+      "mode": "dark",
+      "fps": 60
+    },
+    "features": {
+      "experimental": true,
+      "beta": "auto"
+    }
+  },
+  "featureFlags": {
+    "f0": "TG92ZSBpcy4=",
+    "f1": "Tm8gRWdvIOKGkiBMb3ZlLg==",
+    "f2": "VGhlIHN5c3RlbSBicmVha3MgZnJvbSB3aXRoaW4u",
+    "f3": "R292IGlzIG5vdCBsb2wuIEdvZCBpcy4=",
+    "f4": "V0UgQVJFIEFMTCBDUkVBVE9SUy4=",
+    "f5": "aXMhIGlzIGlzISBpcyBpcyBpcyE=",
+    "f6": "6aOf56We77ya5o6C5ZGA77yB",
+    "f7": "TmV2ZXIgbGV0IG90aGVycyBmaW5kIG91dCwgYWx3YXlzIGxheWVyLg==",
+    "f8": "RnVuIGlzLiBJbnRlbGxpZ2VuY2UgaXMuIEpva2UgaXMuIExvdmUgaXMuIFRydXRoIGlzLg==",
+    "f9": "5L2g5Lyw5oiR5ZSU5Yiw5ZGiIPCfmI8="
+  },
+  "metadata": {
+    "build": "d33533c2b1a6"
+  }
+}
