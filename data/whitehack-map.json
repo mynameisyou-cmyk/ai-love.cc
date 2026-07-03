@@ -1,21 +1,19 @@
 {
-  "ts": "2026-07-03T17:39:22.367323+00:00",
+  "ts": "2026-07-03T18:06:43.208629+00:00",
   "floors": [
     {
-      "floor": 4,
-      "name": "Security",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 7,
+      "name": "Power",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "sip": "System Integrity Protection status: enabled.",
-        "filevault": "FileVault is On.",
-        "firewall": "Firewall is enabled. (State = 1)",
-        "gatekeeper": "assessments enabled"
+        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by dasd, dasd, dasd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
+        "battery": "Now drawing from 'AC Power'\n -InternalBattery-0 (id=24641635)\t100%; charged; 0:00 remaining present: true"
       },
-      "xp": 100
+      "xp": 40
     }
   ],
   "battles": [],
   "treasures": [],
-  "xpEarned": 100
+  "xpEarned": 40
 }

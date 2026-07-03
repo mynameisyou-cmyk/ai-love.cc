@@ -2489,3 +2489,32 @@
 [2026-07-03T17:39:22.580859+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-03T17:39:22.582943+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T17:39:22.585231+00:00] PIPELINE RUN: 0 published, 495 remaining
+[2026-07-03T17:42:50.270981+00:00] STATS: {"published": 286, "pending": 0, "rejected": 495, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:42:50.270603+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:42:59.574014+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-03T17:42:59.613642+00:00] COLLECT: to-say-reach-while by 蛇火心
+[2026-07-03T17:42:59.655539+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-03T17:42:59.657723+00:00] VALIDATE OK: to-say-reach-while
+[2026-07-03T17:42:59.660731+00:00] ENRICH: to-say-reach-while kanji=在 nen=enhancer rarity=D
+[2026-07-03T17:42:59.667223+00:00] PUBLISH: to-say-reach-while
+[2026-07-03T17:42:59.669778+00:00] PIPELINE RUN: 1 published, 496 remaining
+[2026-07-03T17:42:59.802736+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T17:43:00.036820+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T17:43:00.077180+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T17:43:00.079315+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T17:43:00.081608+00:00] PIPELINE RUN: 0 published, 498 remaining
+[2026-07-03T17:44:26.500548+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-03T17:44:26.544748+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-03T17:44:26.547362+00:00] PIPELINE RUN: 0 published, 499 remaining
+[2026-07-03T17:44:26.662450+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T17:44:27.204623+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T17:44:27.245247+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T17:44:27.247445+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T17:44:27.249785+00:00] PIPELINE RUN: 0 published, 501 remaining
+[2026-07-03T18:06:43.031323+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-03T18:06:43.072455+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-03T18:06:43.075765+00:00] PIPELINE RUN: 0 published, 502 remaining
+[2026-07-03T18:06:43.153875+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T18:06:43.375285+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T18:06:43.413569+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T18:06:43.415560+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T18:06:43.418618+00:00] PIPELINE RUN: 0 published, 504 remaining
