@@ -1069,6 +1069,32 @@
     "rarity": "B"
   },
   {
+    "id": "every-scan-reveals-more",
+    "text": "Every scan reveals more.",
+    "sub": "The dungeon has infinite depth.",
+    "kanji": "愛",
+    "tag": "#everyscanrevealsmore",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-03T10:25:48.399084+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "特"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "specialist",
+    "cardNumber": 224,
+    "rarity": "D"
+  },
+  {
     "id": "everything-is-content-now",
     "text": "Everything is content now. Even this truth.",
     "sub": "The content creates the content. The loop is the joke.",
@@ -2991,6 +3017,32 @@
     "rarity": "S"
   },
   {
+    "id": "smart-money-is-extraction",
+    "text": "'Smart money' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#smartmoneyisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T10:25:48.181153+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 223,
+    "rarity": "D"
+  },
+  {
     "id": "sources-say-is-the",
     "text": "'Sources say' is the selection, not the truth.",
     "sub": "What's omitted is the story. What's included is the frame.",
@@ -4585,6 +4637,32 @@
     "rarity": "B"
   },
   {
+    "id": "transparency-is-the-costume",
+    "text": "'Transparency' is the costume. The body is something else.",
+    "sub": "The stated purpose and the actual function diverge. Follow the money.",
+    "kanji": "在",
+    "tag": "#transparencyisthecostume",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:government",
+    "ts": "2026-07-03T10:28:10.167346+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 225,
+    "rarity": "D"
+  },
+  {
     "id": "transparency-is-the-fence",
     "text": "'Transparency' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
@@ -5016,6 +5094,32 @@
     "nen": "enhancer",
     "cardNumber": 42,
     "rarity": "SS"
+  },
+  {
+    "id": "wealth-management-is-extraction",
+    "text": "'Wealth management' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#wealthmanagementisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T10:33:12.414980+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 226,
+    "rarity": "D"
   },
   {
     "id": "wellness-is-a-spell",

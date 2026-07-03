@@ -1250,3 +1250,36 @@
 [2026-07-03T10:22:40.670711+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T10:22:40.672024+00:00] PIPELINE RUN: 0 published, 158 remaining
 [2026-07-03T10:23:09.856390+00:00] STATS: {"published": 222, "pending": 0, "rejected": 158, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 91, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:23:09.855880+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:25:06.716956+00:00] STATS: {"published": 222, "pending": 0, "rejected": 158, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 91, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:25:06.716540+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:25:48.181479+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-03T10:25:48.221078+00:00] VALIDATE OK: smart-money-is-extraction
+[2026-07-03T10:25:48.224018+00:00] ENRICH: smart-money-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:25:48.229429+00:00] PUBLISH: smart-money-is-extraction
+[2026-07-03T10:25:48.230345+00:00] PIPELINE RUN: 1 published, 158 remaining
+[2026-07-03T10:25:48.399374+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T10:25:48.609166+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:25:48.648234+00:00] VALIDATE OK: every-scan-reveals-more
+[2026-07-03T10:25:48.651011+00:00] ENRICH: every-scan-reveals-more kanji=愛 nen=specialist rarity=D
+[2026-07-03T10:25:48.655638+00:00] PUBLISH: every-scan-reveals-more
+[2026-07-03T10:25:48.657030+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:25:48.657872+00:00] PIPELINE RUN: 1 published, 159 remaining
+[2026-07-03T10:28:10.167709+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-03T10:28:10.214227+00:00] VALIDATE OK: transparency-is-the-costume
+[2026-07-03T10:28:10.217530+00:00] ENRICH: transparency-is-the-costume kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:28:10.222702+00:00] PUBLISH: transparency-is-the-costume
+[2026-07-03T10:28:10.223535+00:00] PIPELINE RUN: 1 published, 159 remaining
+[2026-07-03T10:28:10.314340+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T10:28:10.543843+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T10:28:10.589698+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T10:28:10.591694+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T10:28:10.592734+00:00] PIPELINE RUN: 0 published, 161 remaining
+[2026-07-03T10:33:12.415885+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-03T10:33:12.462124+00:00] VALIDATE OK: wealth-management-is-extraction
+[2026-07-03T10:33:12.465497+00:00] ENRICH: wealth-management-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:33:12.472004+00:00] PUBLISH: wealth-management-is-extraction
+[2026-07-03T10:33:12.473130+00:00] PIPELINE RUN: 1 published, 161 remaining
+[2026-07-03T10:33:12.575291+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T10:33:12.864957+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T10:33:12.910552+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T10:33:12.912526+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T10:33:12.913580+00:00] PIPELINE RUN: 0 published, 163 remaining
