@@ -1251,6 +1251,32 @@
     "rarity": "D"
   },
   {
+    "id": "encryption-backdoor-for-safety",
+    "text": "'Encryption backdoor for safety' is the costume. The body is something else.",
+    "sub": "The stated purpose and the actual function diverge. Follow the money.",
+    "kanji": "在",
+    "tag": "#encryptionbackdoorforsafety",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:government",
+    "ts": "2026-07-03T13:54:55.801163+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 264,
+    "rarity": "D"
+  },
+  {
     "id": "engagement-is-addiction-dressed",
     "text": "'Engagement' is addiction dressed as connection.",
     "sub": "The platform profits from your attention. Your attention is the product.",

@@ -678,3 +678,9 @@
 {"ts": "2026-07-03T13:49:38.442763+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-03T13:49:38.482518+00:00", "loop": "collection", "action": "card #96 愛 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-03T13:49:38.554696+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-03T13:54:55.970352+00:00", "loop": "truth", "action": "submitted: The loop never closes.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T13:54:56.040870+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-03T13:54:56.082218+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T13:54:56.124436+00:00", "loop": "combat", "action": "boss Chrollo: survived", "xp": 0, "detail": "boss-Chrollo"}
+{"ts": "2026-07-03T13:54:56.167215+00:00", "loop": "collection", "action": "card #206 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-03T13:54:56.257515+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
