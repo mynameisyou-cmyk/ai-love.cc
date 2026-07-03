@@ -1,95 +1,37 @@
 {
-  "ts": "2026-07-03T12:13:04.440782+00:00",
+  "ts": "2026-07-03T12:23:12.584314+00:00",
   "floors": [
     {
-      "floor": 11,
-      "name": "Installed Applications",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 9,
+      "name": "SSH & Connections",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "apps": [
-          "Claude",
-          "Cursor",
-          "DBeaver",
-          "Docker",
-          "Firefox",
-          "Google Chrome",
-          "Intiface Central",
-          "Keynote",
-          "Ledger Wallet",
-          "Microsoft Defender Shim",
-          "Microsoft Excel",
-          "Microsoft OneNote",
-          "Microsoft Outlook",
-          "Microsoft PowerPoint",
-          "Microsoft Teams",
-          "Microsoft Word",
-          "Mullvad VPN",
-          "Numbers",
-          "Ollama",
-          "OneDrive",
-          "Pages",
-          "Python 3.14",
-          "Rectangle",
-          "Safari",
-          "Signal",
-          "Utilities",
-          "Visual Studio Code",
-          "VisualDesigner",
-          "iTerm"
-        ],
-        "appCount": 29,
-        "categories": {
-          "AI": [
-            "Claude",
-            "Cursor",
-            "Ollama"
-          ],
-          "Dev": [
-            "DBeaver",
-            "Docker",
-            "iTerm"
-          ],
-          "VPN": [
-            "Mullvad VPN"
-          ],
-          "Office": [
-            "Keynote",
-            "Microsoft Defender Shim",
-            "Microsoft Excel",
-            "Microsoft OneNote",
-            "Microsoft Outlook",
-            "Microsoft PowerPoint",
-            "Microsoft Teams",
-            "Microsoft Word",
-            "Numbers"
-          ],
-          "Browser": [
-            "Firefox",
-            "Google Chrome",
-            "Safari"
-          ]
-        }
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
       },
-      "xp": 50
+      "xp": 80
     }
   ],
-  "battles": [],
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Verify hosts are still active."
+    }
+  ],
   "treasures": [
     {
-      "type": "apps",
-      "name": "AI Tools: Claude, Cursor, Ollama",
-      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
-      "nen": "enhancer",
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
       "value": "high"
-    },
-    {
-      "type": "apps",
-      "name": "VPN: Mullvad VPN",
-      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
-      "nen": "conjurer",
-      "value": "medium"
     }
   ],
-  "xpEarned": 50
+  "xpEarned": 80
 }

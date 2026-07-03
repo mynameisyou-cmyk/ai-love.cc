@@ -1615,3 +1615,28 @@
 [2026-07-03T12:13:04.895406+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-03T12:13:04.899093+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T12:13:04.901781+00:00] PIPELINE RUN: 0 published, 238 remaining
+[2026-07-03T12:14:21.098187+00:00] STATS: {"published": 252, "pending": 0, "rejected": 238, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 118, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T12:14:21.097317+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T12:14:30.842703+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-03T12:14:30.930291+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-03T12:14:30.935430+00:00] PIPELINE RUN: 0 published, 239 remaining
+[2026-07-03T12:14:31.213212+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T12:14:33.524832+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T12:14:33.883423+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T12:14:33.890060+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T12:14:33.896782+00:00] PIPELINE RUN: 0 published, 241 remaining
+[2026-07-03T12:18:08.006912+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-03T12:18:08.083371+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-03T12:18:08.085791+00:00] PIPELINE RUN: 0 published, 242 remaining
+[2026-07-03T12:18:08.229305+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T12:18:08.690226+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T12:18:08.769790+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T12:18:08.773031+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T12:18:08.775770+00:00] PIPELINE RUN: 0 published, 244 remaining
+[2026-07-03T12:23:12.348853+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T12:23:12.396910+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T12:23:12.398576+00:00] PIPELINE RUN: 0 published, 245 remaining
+[2026-07-03T12:23:12.534620+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T12:23:12.808562+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T12:23:12.859484+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T12:23:12.861734+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T12:23:12.863279+00:00] PIPELINE RUN: 0 published, 247 remaining
