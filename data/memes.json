@@ -3151,6 +3151,32 @@
     "rarity": "SS"
   },
   {
+    "id": "risk-adjusted-returns-is",
+    "text": "'Risk-adjusted returns' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#riskadjustedreturnsis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T11:24:10.850126+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 241,
+    "rarity": "D"
+  },
+  {
     "id": "salary-sacrifice-pension-loophole",
     "text": "Salary Sacrifice + Pension Loophole: High earners use salary sacrifice to swap salary for employer pension contributions. No income tax, no NI on the sacrificed amount. Annual allowance £",
     "sub": "Cost: £ billions in foregone revenue. Beneficiaries: High earners, executives",
@@ -3808,6 +3834,32 @@
     "rarity": "SS"
   },
   {
+    "id": "the-distance-between-accountability",
+    "text": "The distance between 'Accountability' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenaccountability",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T11:21:40.324363+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 240,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-compound",
     "text": "The distance between 'Compound growth' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
@@ -3832,6 +3884,32 @@
     "nen": "enhancer",
     "cardNumber": 72,
     "rarity": "C"
+  },
+  {
+    "id": "the-distance-between-developing",
+    "text": "The distance between 'Developing story' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweendeveloping",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-03T11:24:10.896052+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 242,
+    "rarity": "D"
   },
   {
     "id": "the-distance-between-evidence",

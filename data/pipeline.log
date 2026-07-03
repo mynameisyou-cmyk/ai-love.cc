@@ -1425,3 +1425,38 @@
 [2026-07-03T11:19:08.850424+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-03T11:19:08.852584+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T11:19:08.854158+00:00] PIPELINE RUN: 0 published, 192 remaining
+[2026-07-03T11:20:57.959226+00:00] STATS: {"published": 239, "pending": 0, "rejected": 192, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 107, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:20:57.958799+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:21:40.284831+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-03T11:21:40.324706+00:00] COLLECT: the-distance-between-accountability by 蛇火心
+[2026-07-03T11:21:40.371152+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-03T11:21:40.373057+00:00] VALIDATE OK: the-distance-between-accountability
+[2026-07-03T11:21:40.376011+00:00] ENRICH: the-distance-between-accountability kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:21:40.381466+00:00] PUBLISH: the-distance-between-accountability
+[2026-07-03T11:21:40.382566+00:00] PIPELINE RUN: 1 published, 193 remaining
+[2026-07-03T11:21:40.538856+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T11:21:40.769656+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T11:21:40.815506+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T11:21:40.817547+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T11:21:40.818992+00:00] PIPELINE RUN: 0 published, 195 remaining
+[2026-07-03T11:24:10.851147+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-03T11:24:10.896390+00:00] COLLECT: the-distance-between-developing by 蛇火心
+[2026-07-03T11:24:10.945373+00:00] VALIDATE OK: risk-adjusted-returns-is
+[2026-07-03T11:24:10.948562+00:00] ENRICH: risk-adjusted-returns-is kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:24:10.954920+00:00] PUBLISH: risk-adjusted-returns-is
+[2026-07-03T11:24:10.956756+00:00] VALIDATE OK: the-distance-between-developing
+[2026-07-03T11:24:10.958564+00:00] ENRICH: the-distance-between-developing kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:24:10.964581+00:00] PUBLISH: the-distance-between-developing
+[2026-07-03T11:24:10.965959+00:00] PIPELINE RUN: 2 published, 195 remaining
+[2026-07-03T11:24:11.057684+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T11:24:11.302113+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T11:24:11.346366+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T11:24:11.349341+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T11:24:11.355081+00:00] PIPELINE RUN: 0 published, 197 remaining
+[2026-07-03T11:29:13.200576+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-03T11:29:13.246994+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-03T11:29:13.248715+00:00] PIPELINE RUN: 0 published, 198 remaining
+[2026-07-03T11:29:13.341897+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T11:29:18.925129+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T11:29:18.969401+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T11:29:18.971469+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T11:29:18.972653+00:00] PIPELINE RUN: 0 published, 200 remaining
