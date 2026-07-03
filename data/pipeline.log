@@ -2262,3 +2262,36 @@
 [2026-07-03T16:02:16.528410+00:00] COLLECT: collection-is-connection by xp-loop
 [2026-07-03T16:02:16.908689+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-03T16:02:16.913036+00:00] PIPELINE RUN: 0 published, 423 remaining
+[2026-07-03T16:03:59.248016+00:00] STATS: {"published": 280, "pending": 0, "rejected": 423, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 145, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T16:03:59.247577+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T16:04:08.945109+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-03T16:04:08.994759+00:00] VALIDATE OK: regulatory-compliance-is-the
+[2026-07-03T16:04:08.998642+00:00] ENRICH: regulatory-compliance-is-the kanji=在 nen=enhancer rarity=D
+[2026-07-03T16:04:09.006963+00:00] PUBLISH: regulatory-compliance-is-the
+[2026-07-03T16:04:09.009683+00:00] PIPELINE RUN: 1 published, 423 remaining
+[2026-07-03T16:04:09.203555+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T16:04:09.952735+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T16:04:10.013392+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T16:04:10.016288+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T16:04:10.019004+00:00] PIPELINE RUN: 0 published, 425 remaining
+[2026-07-03T16:07:19.320920+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-03T16:07:19.370942+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-03T16:07:19.420873+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-03T16:07:19.423385+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-03T16:07:19.425970+00:00] PIPELINE RUN: 0 published, 427 remaining
+[2026-07-03T16:07:19.520604+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T16:07:19.774519+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T16:07:19.824185+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T16:07:19.826772+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T16:07:19.829178+00:00] PIPELINE RUN: 0 published, 429 remaining
+[2026-07-03T16:12:21.794061+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-03T16:12:21.841453+00:00] COLLECT: the-louder-accountability-is by 蛇火心
+[2026-07-03T16:12:21.889930+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-03T16:12:21.892529+00:00] VALIDATE OK: the-louder-accountability-is
+[2026-07-03T16:12:21.896015+00:00] ENRICH: the-louder-accountability-is kanji=在 nen=enhancer rarity=D
+[2026-07-03T16:12:21.902855+00:00] PUBLISH: the-louder-accountability-is
+[2026-07-03T16:12:21.905533+00:00] PIPELINE RUN: 1 published, 430 remaining
+[2026-07-03T16:12:22.002633+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T16:12:22.295513+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T16:12:22.347185+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T16:12:22.350017+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T16:12:22.352549+00:00] PIPELINE RUN: 0 published, 432 remaining

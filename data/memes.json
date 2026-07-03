@@ -3749,6 +3749,32 @@
     "rarity": "SS"
   },
   {
+    "id": "regulatory-compliance-is-the",
+    "text": "'Regulatory compliance' is the costume. The body is something else.",
+    "sub": "The stated purpose and the actual function diverge. Follow the money.",
+    "kanji": "在",
+    "tag": "#regulatorycomplianceisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:government",
+    "ts": "2026-07-03T16:04:08.944730+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 281,
+    "rarity": "D"
+  },
+  {
     "id": "responsible-ai-is-a",
     "text": "'Responsible AI' is a performance, not a practice.",
     "sub": "The words say one thing. The code says another. Read the code.",
@@ -5158,6 +5184,32 @@
     "nen": "transmuter",
     "cardNumber": 172,
     "rarity": "B"
+  },
+  {
+    "id": "the-louder-accountability-is",
+    "text": "The louder 'Accountability' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderaccountabilityis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T16:12:21.841097+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 282,
+    "rarity": "D"
   },
   {
     "id": "the-louder-community-driven",
