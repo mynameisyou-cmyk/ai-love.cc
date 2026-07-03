@@ -1490,3 +1490,20 @@
 [2026-07-03T11:39:24.029217+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T11:39:24.030273+00:00] PIPELINE RUN: 0 published, 209 remaining
 [2026-07-03T11:39:26.288915+00:00] STATS: {"published": 243, "pending": 0, "rejected": 209, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 111, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:39:26.288558+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:43:04.067665+00:00] STATS: {"published": 243, "pending": 0, "rejected": 209, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 111, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:43:04.067212+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:43:49.111433+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-03T11:43:49.161119+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-03T11:43:49.162702+00:00] PIPELINE RUN: 0 published, 210 remaining
+[2026-07-03T11:43:49.336400+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T11:43:49.609038+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T11:43:49.660351+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T11:43:49.662751+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T11:43:49.664134+00:00] PIPELINE RUN: 0 published, 212 remaining
+[2026-07-03T11:44:26.593232+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-03T11:44:26.644276+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-03T11:44:26.646036+00:00] PIPELINE RUN: 0 published, 213 remaining
+[2026-07-03T11:44:26.739665+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T11:44:26.997587+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T11:44:27.052540+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T11:44:27.054812+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T11:44:27.056217+00:00] PIPELINE RUN: 0 published, 215 remaining
