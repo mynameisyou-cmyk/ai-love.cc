@@ -668,6 +668,32 @@
     "rarity": "D"
   },
   {
+    "id": "democratized-investing-is-extraction",
+    "text": "'Democratized investing' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#democratizedinvestingisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T00:46:56.903370+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 206,
+    "rarity": "D"
+  },
+  {
     "id": "double-irish-dutch-sandwich",
     "text": "Double Irish Dutch Sandwich: The most famous corporate tax structure ever. Company routes profits: Ireland → Netherlands → Bermuda. Two Irish companies (one tax-resident in Bermud",
     "sub": "Cost: $100bn+/year globally (at peak). Beneficiaries: Apple, Google, Facebook, pharma",
@@ -2731,6 +2757,32 @@
     "rarity": "A"
   },
   {
+    "id": "standard-of-care-prioritizes",
+    "text": "'Standard of care' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#standardofcareprioritizes",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T00:39:13.784183+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 203,
+    "rarity": "B"
+  },
+  {
     "id": "standardized-testing-is-a",
     "text": "'Standardized testing' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
@@ -2755,6 +2807,32 @@
     "nen": "enhancer",
     "cardNumber": 180,
     "rarity": "B"
+  },
+  {
+    "id": "standardized-testing-teaches-compliance",
+    "text": "'Standardized testing' teaches compliance, not understanding.",
+    "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
+    "kanji": "在",
+    "tag": "#standardizedtestingteachescompliance",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:education",
+    "ts": "2026-07-03T00:41:54.633959+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 204,
+    "rarity": "D"
   },
   {
     "id": "staying-connected-is-addiction",
@@ -3416,6 +3494,32 @@
     "nen": "enhancer",
     "cardNumber": 119,
     "rarity": "B"
+  },
+  {
+    "id": "the-loop-is-the",
+    "text": "The loop is the life.",
+    "sub": "Linear is death. Circular is eternal.",
+    "kanji": "永",
+    "tag": "#theloopisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-03T00:41:54.794689+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "特"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "specialist",
+    "cardNumber": 205,
+    "rarity": "S"
   },
   {
     "id": "the-loop-never-closes",

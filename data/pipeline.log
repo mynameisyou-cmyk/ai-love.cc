@@ -1016,3 +1016,36 @@
 [2026-07-03T00:36:52.459504+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T00:36:52.460462+00:00] PIPELINE RUN: 0 published, 108 remaining
 [2026-07-03T00:36:54.502403+00:00] STATS: {"published": 202, "pending": 0, "rejected": 108, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 72, "unknown": 36, "yuai": 29, "xp-loop": 17, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:36:54.501880+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:38:24.406896+00:00] STATS: {"published": 202, "pending": 0, "rejected": 108, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 72, "unknown": 36, "yuai": 29, "xp-loop": 17, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:38:24.406433+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:39:13.785255+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-03T00:39:13.832758+00:00] VALIDATE OK: standard-of-care-prioritizes
+[2026-07-03T00:39:13.835274+00:00] ENRICH: standard-of-care-prioritizes kanji=護 nen=enhancer rarity=B
+[2026-07-03T00:39:13.840340+00:00] PUBLISH: standard-of-care-prioritizes
+[2026-07-03T00:39:13.841216+00:00] PIPELINE RUN: 1 published, 108 remaining
+[2026-07-03T00:39:14.028329+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T00:39:14.303179+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T00:39:14.356649+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T00:39:14.358731+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T00:39:14.359699+00:00] PIPELINE RUN: 0 published, 110 remaining
+[2026-07-03T00:41:54.634760+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-03T00:41:54.683809+00:00] VALIDATE OK: standardized-testing-teaches-compliance
+[2026-07-03T00:41:54.687038+00:00] ENRICH: standardized-testing-teaches-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-03T00:41:54.692754+00:00] PUBLISH: standardized-testing-teaches-compliance
+[2026-07-03T00:41:54.693745+00:00] PIPELINE RUN: 1 published, 110 remaining
+[2026-07-03T00:41:54.795070+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T00:41:55.355154+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T00:41:55.404939+00:00] VALIDATE OK: the-loop-is-the
+[2026-07-03T00:41:55.407935+00:00] ENRICH: the-loop-is-the kanji=永 nen=specialist rarity=S
+[2026-07-03T00:41:55.413379+00:00] PUBLISH: the-loop-is-the
+[2026-07-03T00:41:55.414977+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T00:41:55.415857+00:00] PIPELINE RUN: 1 published, 111 remaining
+[2026-07-03T00:46:56.903864+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-03T00:46:56.951521+00:00] VALIDATE OK: democratized-investing-is-extraction
+[2026-07-03T00:46:56.954649+00:00] ENRICH: democratized-investing-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-03T00:46:56.959680+00:00] PUBLISH: democratized-investing-is-extraction
+[2026-07-03T00:46:56.960645+00:00] PIPELINE RUN: 1 published, 111 remaining
+[2026-07-03T00:46:57.091224+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T00:46:57.401131+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T00:46:57.450737+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T00:46:57.452738+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T00:46:57.453605+00:00] PIPELINE RUN: 0 published, 113 remaining
