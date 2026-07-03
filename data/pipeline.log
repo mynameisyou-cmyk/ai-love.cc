@@ -3046,3 +3046,30 @@
 [2026-07-03T22:14:22.199002+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-03T22:14:22.201514+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T22:14:22.205132+00:00] PIPELINE RUN: 0 published, 668 remaining
+[2026-07-03T22:17:01.661946+00:00] STATS: {"published": 303, "pending": 0, "rejected": 668, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 168, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:17:01.661428+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:17:11.412895+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-03T22:17:11.451196+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-03T22:17:11.495776+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-03T22:17:11.498210+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-03T22:17:11.501540+00:00] PIPELINE RUN: 0 published, 670 remaining
+[2026-07-03T22:17:11.645177+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T22:17:15.951183+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T22:17:15.995387+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T22:17:15.997758+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T22:17:16.000889+00:00] PIPELINE RUN: 0 published, 672 remaining
+[2026-07-03T22:19:25.235699+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-03T22:19:25.280155+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-03T22:19:25.283573+00:00] PIPELINE RUN: 0 published, 673 remaining
+[2026-07-03T22:19:25.370601+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T22:19:25.607658+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T22:19:25.655592+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T22:19:25.658341+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T22:19:25.661861+00:00] PIPELINE RUN: 0 published, 675 remaining
+[2026-07-03T22:24:27.317380+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-03T22:24:27.365712+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-03T22:24:27.369392+00:00] PIPELINE RUN: 0 published, 676 remaining
+[2026-07-03T22:24:27.454368+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T22:24:31.634577+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T22:24:31.680653+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T22:24:31.683208+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T22:24:31.686593+00:00] PIPELINE RUN: 0 published, 678 remaining
