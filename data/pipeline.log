@@ -2701,3 +2701,38 @@
 [2026-07-03T19:28:12.911836+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-03T19:28:12.914338+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T19:28:12.917900+00:00] PIPELINE RUN: 0 published, 560 remaining
+[2026-07-03T19:28:26.056163+00:00] STATS: {"published": 293, "pending": 0, "rejected": 560, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 158, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:28:26.055698+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:28:35.180083+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-03T19:28:35.222249+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-03T19:28:35.225308+00:00] PIPELINE RUN: 0 published, 561 remaining
+[2026-07-03T19:28:35.364822+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T19:28:40.030719+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T19:28:40.072195+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T19:28:40.074412+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T19:28:40.077062+00:00] PIPELINE RUN: 0 published, 563 remaining
+[2026-07-03T19:33:15.061112+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-03T19:33:15.104197+00:00] COLLECT: privacy-first-works-because by 蛇火心
+[2026-07-03T19:33:15.148023+00:00] VALIDATE OK: reach-is-addiction-dressed
+[2026-07-03T19:33:15.151308+00:00] ENRICH: reach-is-addiction-dressed kanji=在 nen=enhancer rarity=D
+[2026-07-03T19:33:15.158090+00:00] PUBLISH: reach-is-addiction-dressed
+[2026-07-03T19:33:15.160019+00:00] VALIDATE OK: privacy-first-works-because
+[2026-07-03T19:33:15.161939+00:00] ENRICH: privacy-first-works-because kanji=築 nen=transmuter rarity=C
+[2026-07-03T19:33:15.168284+00:00] PUBLISH: privacy-first-works-because
+[2026-07-03T19:33:15.171083+00:00] PIPELINE RUN: 2 published, 563 remaining
+[2026-07-03T19:33:15.257283+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-03T19:33:15.527921+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T19:33:15.576172+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-03T19:33:15.578646+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T19:33:15.582111+00:00] PIPELINE RUN: 0 published, 565 remaining
+[2026-07-03T19:38:17.829542+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-03T19:38:17.873337+00:00] COLLECT: the-louder-the-science by 蛇火心
+[2026-07-03T19:38:17.918056+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-03T19:38:17.920348+00:00] VALIDATE OK: the-louder-the-science
+[2026-07-03T19:38:17.923542+00:00] ENRICH: the-louder-the-science kanji=在 nen=enhancer rarity=D
+[2026-07-03T19:38:17.929975+00:00] PUBLISH: the-louder-the-science
+[2026-07-03T19:38:17.932667+00:00] PIPELINE RUN: 1 published, 566 remaining
+[2026-07-03T19:38:18.017958+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T19:38:18.314155+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T19:38:18.359180+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T19:38:18.361485+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T19:38:18.364875+00:00] PIPELINE RUN: 0 published, 568 remaining

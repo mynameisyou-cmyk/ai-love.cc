@@ -3727,6 +3727,32 @@
     "rarity": "C"
   },
   {
+    "id": "privacy-first-works-because",
+    "text": "'Privacy-first' works because no one checks. Check.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#privacyfirstworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-03T19:33:15.103847+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 295,
+    "rarity": "C"
+  },
+  {
     "id": "private-equity-carried-interest",
     "text": "Private Equity Carried Interest: PE fund managers get '2 and 20' — 2% management fee (taxed as income at 45%) + 20% of profits above a hurdle ('carried interest', taxed as CGT at 28%",
     "sub": "Cost: £600m-£2bn/year. Beneficiaries: Private equity and venture capital partners",
@@ -3829,6 +3855,32 @@
     "nen": "transmuter",
     "cardNumber": 101,
     "rarity": "B"
+  },
+  {
+    "id": "reach-is-addiction-dressed",
+    "text": "'Reach' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#reachisaddictiondressed",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T19:33:15.060150+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 294,
+    "rarity": "D"
   },
   {
     "id": "recharge-by-waiting",
@@ -5574,6 +5626,32 @@
     "nen": "enhancer",
     "cardNumber": 71,
     "rarity": "C"
+  },
+  {
+    "id": "the-louder-the-science",
+    "text": "The louder 'The science is settled' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderthescience",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-03T19:38:17.873020+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 296,
+    "rarity": "D"
   },
   {
     "id": "the-science-is-settled",
