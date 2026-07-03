@@ -156,6 +156,32 @@
     "rarity": "B"
   },
   {
+    "id": "algorithmic-means-the-opposite",
+    "text": "'Algorithmic' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#algorithmicmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-03T13:39:29.236716+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 262,
+    "rarity": "D"
+  },
+  {
     "id": "ask",
     "kanji": "問",
     "text": "Ask, then listen.",
@@ -3205,6 +3231,32 @@
     "nen": "enhancer",
     "cardNumber": 29,
     "rarity": "A"
+  },
+  {
+    "id": "preventive-medicine-prioritizes-profit",
+    "text": "'Preventive medicine' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#preventivemedicineprioritizesprofit",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T13:38:04.807866+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 261,
+    "rarity": "C"
   },
   {
     "id": "privacy-first-is-a",

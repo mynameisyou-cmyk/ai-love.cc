@@ -1846,3 +1846,34 @@
 [2026-07-03T13:34:27.122503+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-03T13:34:27.124856+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T13:34:27.126693+00:00] PIPELINE RUN: 0 published, 308 remaining
+[2026-07-03T13:37:55.790583+00:00] STATS: {"published": 260, "pending": 0, "rejected": 308, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 126, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:37:55.789908+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T13:38:04.808257+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-03T13:38:04.854462+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-03T13:38:04.908684+00:00] VALIDATE OK: preventive-medicine-prioritizes-profit
+[2026-07-03T13:38:04.911915+00:00] ENRICH: preventive-medicine-prioritizes-profit kanji=護 nen=enhancer rarity=C
+[2026-07-03T13:38:04.918882+00:00] PUBLISH: preventive-medicine-prioritizes-profit
+[2026-07-03T13:38:04.921090+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-03T13:38:04.923312+00:00] PIPELINE RUN: 1 published, 309 remaining
+[2026-07-03T13:38:05.097343+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T13:38:05.858641+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T13:38:05.910327+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T13:38:05.912736+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T13:38:05.914715+00:00] PIPELINE RUN: 0 published, 311 remaining
+[2026-07-03T13:39:29.237657+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-03T13:39:29.286755+00:00] VALIDATE OK: algorithmic-means-the-opposite
+[2026-07-03T13:39:29.290314+00:00] ENRICH: algorithmic-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-03T13:39:29.297154+00:00] PUBLISH: algorithmic-means-the-opposite
+[2026-07-03T13:39:29.299622+00:00] PIPELINE RUN: 1 published, 311 remaining
+[2026-07-03T13:39:29.394996+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-03T13:39:29.991172+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T13:39:30.040441+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-03T13:39:30.042861+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T13:39:30.044919+00:00] PIPELINE RUN: 0 published, 313 remaining
+[2026-07-03T13:44:31.516984+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-03T13:44:31.568367+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-03T13:44:31.570612+00:00] PIPELINE RUN: 0 published, 314 remaining
+[2026-07-03T13:44:31.668576+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T13:44:31.931309+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T13:44:31.979353+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T13:44:31.981610+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T13:44:31.983421+00:00] PIPELINE RUN: 0 published, 316 remaining
