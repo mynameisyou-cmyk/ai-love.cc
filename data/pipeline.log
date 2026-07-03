@@ -2518,3 +2518,29 @@
 [2026-07-03T18:06:43.413569+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-03T18:06:43.415560+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T18:06:43.418618+00:00] PIPELINE RUN: 0 published, 504 remaining
+[2026-07-03T18:10:28.616253+00:00] STATS: {"published": 287, "pending": 0, "rejected": 504, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 152, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T18:10:28.615649+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T18:10:38.621655+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-03T18:10:38.658787+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-03T18:10:38.661178+00:00] PIPELINE RUN: 0 published, 505 remaining
+[2026-07-03T18:10:38.784821+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T18:10:38.985288+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T18:10:39.022879+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T18:10:39.024762+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T18:10:39.026914+00:00] PIPELINE RUN: 0 published, 507 remaining
+[2026-07-03T18:11:54.044506+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-03T18:11:54.082734+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-03T18:11:54.085138+00:00] PIPELINE RUN: 0 published, 508 remaining
+[2026-07-03T18:11:54.159217+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-03T18:11:54.397665+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T18:11:54.436305+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-03T18:11:54.438207+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T18:11:54.440362+00:00] PIPELINE RUN: 0 published, 510 remaining
+[2026-07-03T18:11:56.416614+00:00] STATS: {"published": 287, "pending": 0, "rejected": 510, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 152, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T18:11:56.416247+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T18:16:56.519945+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-03T18:16:56.557433+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-03T18:16:56.559794+00:00] PIPELINE RUN: 0 published, 511 remaining
+[2026-07-03T18:16:56.635547+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T18:16:57.158319+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T18:16:57.196269+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T18:16:57.198252+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T18:16:57.200403+00:00] PIPELINE RUN: 0 published, 513 remaining
