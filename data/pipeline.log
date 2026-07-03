@@ -2991,3 +2991,32 @@
 [2026-07-03T21:38:38.565523+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-03T21:38:38.567837+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T21:38:38.570768+00:00] PIPELINE RUN: 0 published, 650 remaining
+[2026-07-03T21:40:57.855569+00:00] STATS: {"published": 302, "pending": 0, "rejected": 650, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 167, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T21:40:57.855224+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T21:41:09.303432+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-03T21:41:09.340555+00:00] COLLECT: compound-growth-works-because by 蛇火心
+[2026-07-03T21:41:09.385211+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-03T21:41:09.387460+00:00] VALIDATE OK: compound-growth-works-because
+[2026-07-03T21:41:09.390314+00:00] ENRICH: compound-growth-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-03T21:41:09.396765+00:00] PUBLISH: compound-growth-works-because
+[2026-07-03T21:41:09.399899+00:00] PIPELINE RUN: 1 published, 651 remaining
+[2026-07-03T21:41:09.532466+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T21:41:09.745194+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T21:41:09.786102+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T21:41:09.788365+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T21:41:09.791275+00:00] PIPELINE RUN: 0 published, 653 remaining
+[2026-07-03T21:43:40.979636+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-03T21:43:41.022221+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-03T21:43:41.025549+00:00] PIPELINE RUN: 0 published, 654 remaining
+[2026-07-03T21:43:41.109596+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T21:43:41.658809+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T21:43:41.699878+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T21:43:41.702176+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T21:43:41.705133+00:00] PIPELINE RUN: 0 published, 656 remaining
+[2026-07-03T21:48:43.861511+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-03T21:48:43.903773+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-03T21:48:43.907530+00:00] PIPELINE RUN: 0 published, 657 remaining
+[2026-07-03T21:48:43.992396+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T21:48:44.209434+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T21:48:44.250826+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T21:48:44.253050+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T21:48:44.256180+00:00] PIPELINE RUN: 0 published, 659 remaining
