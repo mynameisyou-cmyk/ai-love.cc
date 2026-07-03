@@ -2295,3 +2295,34 @@
 [2026-07-03T16:12:22.347185+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-03T16:12:22.350017+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T16:12:22.352549+00:00] PIPELINE RUN: 0 published, 432 remaining
+[2026-07-03T16:14:24.701552+00:00] STATS: {"published": 282, "pending": 0, "rejected": 432, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 147, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T16:14:24.701101+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T16:14:33.740626+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T16:14:33.789142+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T16:14:33.791775+00:00] PIPELINE RUN: 0 published, 433 remaining
+[2026-07-03T16:14:33.952657+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T16:14:34.215798+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T16:14:34.272879+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T16:14:34.275672+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T16:14:34.278701+00:00] PIPELINE RUN: 0 published, 435 remaining
+[2026-07-03T16:17:24.367812+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-03T16:17:24.414934+00:00] COLLECT: the-louder-machine-learning by 蛇火心
+[2026-07-03T16:17:24.467840+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-03T16:17:24.470330+00:00] VALIDATE OK: the-louder-machine-learning
+[2026-07-03T16:17:24.474045+00:00] ENRICH: the-louder-machine-learning kanji=在 nen=enhancer rarity=D
+[2026-07-03T16:17:24.481945+00:00] PUBLISH: the-louder-machine-learning
+[2026-07-03T16:17:24.484826+00:00] PIPELINE RUN: 1 published, 436 remaining
+[2026-07-03T16:17:24.587780+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T16:17:28.885681+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T16:17:28.937784+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T16:17:28.940582+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T16:17:28.943222+00:00] PIPELINE RUN: 0 published, 438 remaining
+[2026-07-03T16:22:30.942268+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-03T16:22:31.000706+00:00] VALIDATE OK: experts-agree-is-the
+[2026-07-03T16:22:31.005852+00:00] ENRICH: experts-agree-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-03T16:22:31.014397+00:00] PUBLISH: experts-agree-is-the
+[2026-07-03T16:22:31.017031+00:00] PIPELINE RUN: 1 published, 438 remaining
+[2026-07-03T16:22:31.163686+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T16:22:31.437031+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T16:22:31.489747+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T16:22:31.492399+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T16:22:31.495073+00:00] PIPELINE RUN: 0 published, 440 remaining
