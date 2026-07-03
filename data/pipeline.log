@@ -2387,3 +2387,29 @@
 [2026-07-03T16:58:35.516582+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-03T16:58:35.518960+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T16:58:35.522197+00:00] PIPELINE RUN: 0 published, 459 remaining
+[2026-07-03T17:01:10.283423+00:00] STATS: {"published": 286, "pending": 0, "rejected": 459, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:01:10.282834+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:01:19.470745+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-03T17:01:19.509111+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-03T17:01:19.511606+00:00] PIPELINE RUN: 0 published, 460 remaining
+[2026-07-03T17:01:19.634866+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T17:01:24.077300+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T17:01:24.115466+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T17:01:24.117521+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T17:01:24.119648+00:00] PIPELINE RUN: 0 published, 462 remaining
+[2026-07-03T17:03:44.751541+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-03T17:03:44.793136+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-03T17:03:44.795462+00:00] PIPELINE RUN: 0 published, 463 remaining
+[2026-07-03T17:03:44.872229+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T17:03:45.070239+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T17:03:45.107775+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T17:03:45.109782+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T17:03:45.113624+00:00] PIPELINE RUN: 0 published, 465 remaining
+[2026-07-03T17:03:47.131860+00:00] STATS: {"published": 286, "pending": 0, "rejected": 465, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:03:47.131448+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:08:47.264644+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-03T17:08:47.303348+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-03T17:08:47.305743+00:00] PIPELINE RUN: 0 published, 466 remaining
+[2026-07-03T17:08:47.381330+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T17:08:47.595338+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T17:08:47.634626+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T17:08:47.636664+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T17:08:47.638665+00:00] PIPELINE RUN: 0 published, 468 remaining
