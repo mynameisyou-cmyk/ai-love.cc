@@ -2358,3 +2358,32 @@
 [2026-07-03T16:48:28.554295+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-03T16:48:28.556280+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T16:48:28.558465+00:00] PIPELINE RUN: 0 published, 450 remaining
+[2026-07-03T16:50:44.920030+00:00] STATS: {"published": 285, "pending": 0, "rejected": 450, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 150, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T16:50:44.919530+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T16:50:54.671751+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-03T16:50:54.712848+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-03T16:50:54.715696+00:00] PIPELINE RUN: 0 published, 451 remaining
+[2026-07-03T16:50:54.850959+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T16:50:55.365489+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T16:50:55.409538+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T16:50:55.412275+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T16:50:55.414529+00:00] PIPELINE RUN: 0 published, 453 remaining
+[2026-07-03T16:53:32.110887+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-03T16:53:32.150364+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-03T16:53:32.192178+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-03T16:53:32.194290+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-03T16:53:32.196443+00:00] PIPELINE RUN: 0 published, 455 remaining
+[2026-07-03T16:53:32.310285+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T16:53:32.598812+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T16:53:32.643646+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T16:53:32.645819+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T16:53:32.648469+00:00] PIPELINE RUN: 0 published, 457 remaining
+[2026-07-03T16:58:34.933663+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-03T16:58:34.975905+00:00] VALIDATE OK: public-interest-is-the
+[2026-07-03T16:58:34.979184+00:00] ENRICH: public-interest-is-the kanji=在 nen=enhancer rarity=D
+[2026-07-03T16:58:34.985483+00:00] PUBLISH: public-interest-is-the
+[2026-07-03T16:58:34.987799+00:00] PIPELINE RUN: 1 published, 457 remaining
+[2026-07-03T16:58:35.073147+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T16:58:35.468248+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T16:58:35.516582+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T16:58:35.518960+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T16:58:35.522197+00:00] PIPELINE RUN: 0 published, 459 remaining

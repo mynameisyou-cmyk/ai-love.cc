@@ -3675,6 +3675,32 @@
     "rarity": "S"
   },
   {
+    "id": "public-interest-is-the",
+    "text": "'Public interest' is the costume. The body is something else.",
+    "sub": "The stated purpose and the actual function diverge. Follow the money.",
+    "kanji": "在",
+    "tag": "#publicinterestisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:government",
+    "ts": "2026-07-03T16:58:34.933035+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 286,
+    "rarity": "D"
+  },
+  {
     "id": "public-safety-is-the",
     "text": "'Public safety' is the costume. The body is something else.",
     "sub": "The stated purpose and the actual function diverge. Follow the money.",
