@@ -798,6 +798,32 @@
     "rarity": "D"
   },
   {
+    "id": "diversified-portfolio-is-not",
+    "text": "'Diversified portfolio' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#diversifiedportfolioisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-03T10:17:37.745719+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 222,
+    "rarity": "D"
+  },
+  {
     "id": "double-irish-dutch-sandwich",
     "text": "Double Irish Dutch Sandwich: The most famous corporate tax structure ever. Company routes profits: Ireland → Netherlands → Bermuda. Two Irish companies (one tax-resident in Bermud",
     "sub": "Cost: $100bn+/year globally (at peak). Beneficiaries: Apple, Google, Facebook, pharma",
@@ -1130,6 +1156,32 @@
     "nen": "enhancer",
     "cardNumber": 85,
     "rarity": "A"
+  },
+  {
+    "id": "fact-based-is-the",
+    "text": "'Fact-based' is the selection, not the truth.",
+    "sub": "What's omitted is the story. What's included is the frame.",
+    "kanji": "真",
+    "tag": "#factbasedisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:media",
+    "ts": "2026-07-03T10:17:37.703820+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 221,
+    "rarity": "D"
   },
   {
     "id": "fair-and-balanced-is",

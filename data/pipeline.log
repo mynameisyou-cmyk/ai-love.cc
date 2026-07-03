@@ -1218,3 +1218,34 @@
 [2026-07-03T10:12:35.134481+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-03T10:12:35.136170+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T10:12:35.137019+00:00] PIPELINE RUN: 0 published, 150 remaining
+[2026-07-03T10:13:48.396925+00:00] STATS: {"published": 220, "pending": 0, "rejected": 150, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 89, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:13:48.396578+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:14:38.226100+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-03T10:14:38.264582+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-03T10:14:38.265721+00:00] PIPELINE RUN: 0 published, 151 remaining
+[2026-07-03T10:14:38.396362+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T10:14:42.330133+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:14:42.371920+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T10:14:42.375150+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:14:42.376767+00:00] PIPELINE RUN: 0 published, 153 remaining
+[2026-07-03T10:17:37.704340+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-03T10:17:37.746050+00:00] COLLECT: diversified-portfolio-is-not by 蛇火心
+[2026-07-03T10:17:37.796388+00:00] VALIDATE OK: fact-based-is-the
+[2026-07-03T10:17:37.798795+00:00] ENRICH: fact-based-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-03T10:17:37.803893+00:00] PUBLISH: fact-based-is-the
+[2026-07-03T10:17:37.805435+00:00] VALIDATE OK: diversified-portfolio-is-not
+[2026-07-03T10:17:37.807427+00:00] ENRICH: diversified-portfolio-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:17:37.811970+00:00] PUBLISH: diversified-portfolio-is-not
+[2026-07-03T10:17:37.812826+00:00] PIPELINE RUN: 2 published, 153 remaining
+[2026-07-03T10:17:37.899826+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T10:17:38.140379+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T10:17:38.181225+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T10:17:38.182881+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T10:17:38.184084+00:00] PIPELINE RUN: 0 published, 155 remaining
+[2026-07-03T10:22:40.261304+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-03T10:22:40.303842+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-03T10:22:40.305755+00:00] PIPELINE RUN: 0 published, 156 remaining
+[2026-07-03T10:22:40.389612+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T10:22:40.629479+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:22:40.668979+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T10:22:40.670711+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:22:40.672024+00:00] PIPELINE RUN: 0 published, 158 remaining
