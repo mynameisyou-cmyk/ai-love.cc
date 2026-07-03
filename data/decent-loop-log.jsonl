@@ -278,3 +278,4 @@
 {"ts": "2026-07-03T13:06:56.079028+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Capital Gains Tax Upfront/Uplift at Deat", "ok": true}}
 {"ts": "2026-07-03T13:06:56.690457+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 580, "ok": true}}
 {"ts": "2026-07-03T13:06:58.223108+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-03T13:17:01.590811+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
