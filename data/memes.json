@@ -1131,6 +1131,32 @@
     "rarity": "D"
   },
   {
+    "id": "financial-freedom-is-extraction",
+    "text": "'Financial freedom' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#financialfreedomisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T00:51:59.287233+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 207,
+    "rarity": "D"
+  },
+  {
     "id": "financial-inclusion-is-extraction",
     "text": "'Financial inclusion' is extraction with a smile.",
     "sub": "The house always wins. The game is the house. You are the game.",
@@ -3233,6 +3259,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 102,
+    "rarity": "D"
+  },
+  {
+    "id": "the-distance-between-rigor",
+    "text": "The distance between 'Rigor' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenrigor",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T00:57:01.965245+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 208,
     "rarity": "D"
   },
   {

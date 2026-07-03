@@ -1049,3 +1049,34 @@
 [2026-07-03T00:46:57.450737+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-03T00:46:57.452738+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T00:46:57.453605+00:00] PIPELINE RUN: 0 published, 113 remaining
+[2026-07-03T00:49:33.101522+00:00] STATS: {"published": 206, "pending": 0, "rejected": 113, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 75, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:49:33.101059+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:50:31.261034+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-03T00:50:31.309400+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-03T00:50:31.310527+00:00] PIPELINE RUN: 0 published, 114 remaining
+[2026-07-03T00:50:31.474500+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T00:50:31.902363+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T00:50:31.953937+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T00:50:31.956156+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T00:50:31.957107+00:00] PIPELINE RUN: 0 published, 116 remaining
+[2026-07-03T00:51:59.287712+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-03T00:51:59.334848+00:00] VALIDATE OK: financial-freedom-is-extraction
+[2026-07-03T00:51:59.337992+00:00] ENRICH: financial-freedom-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-03T00:51:59.343266+00:00] PUBLISH: financial-freedom-is-extraction
+[2026-07-03T00:51:59.344144+00:00] PIPELINE RUN: 1 published, 116 remaining
+[2026-07-03T00:51:59.439748+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T00:51:59.693839+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T00:51:59.744356+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T00:51:59.746324+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T00:51:59.747403+00:00] PIPELINE RUN: 0 published, 118 remaining
+[2026-07-03T00:57:01.927072+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-03T00:57:01.965527+00:00] COLLECT: the-distance-between-rigor by 蛇火心
+[2026-07-03T00:57:02.008964+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-03T00:57:02.010681+00:00] VALIDATE OK: the-distance-between-rigor
+[2026-07-03T00:57:02.013261+00:00] ENRICH: the-distance-between-rigor kanji=在 nen=enhancer rarity=D
+[2026-07-03T00:57:02.018358+00:00] PUBLISH: the-distance-between-rigor
+[2026-07-03T00:57:02.019225+00:00] PIPELINE RUN: 1 published, 119 remaining
+[2026-07-03T00:57:02.110200+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-03T00:57:02.364887+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T00:57:02.406937+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-03T00:57:02.408586+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T00:57:02.409370+00:00] PIPELINE RUN: 0 published, 121 remaining
