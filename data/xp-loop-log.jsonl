@@ -1470,3 +1470,15 @@
 {"ts": "2026-07-03T22:54:52.342150+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
 {"ts": "2026-07-03T22:54:52.389229+00:00", "loop": "collection", "action": "card #274 見 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-03T22:54:52.480766+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-03T22:59:03.184493+00:00", "loop": "truth", "action": "submitted: Collection is connection.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T22:59:03.222300+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-03T22:59:03.257313+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T22:59:03.297664+00:00", "loop": "combat", "action": "boss Chrollo: survived", "xp": 0, "detail": "boss-Chrollo"}
+{"ts": "2026-07-03T22:59:03.341341+00:00", "loop": "collection", "action": "card #156 今 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-03T22:59:03.428182+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-03T22:59:54.985017+00:00", "loop": "truth", "action": "submitted: The expedition is the reward.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T22:59:55.033901+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-03T22:59:55.071942+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T22:59:55.112576+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-03T22:59:55.156540+00:00", "loop": "collection", "action": "card #173 今 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-03T22:59:55.246795+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}

@@ -2171,6 +2171,32 @@
     "rarity": "C"
   },
   {
+    "id": "followers-is-addiction-dressed",
+    "text": "'Followers' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#followersisaddictiondressed",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T22:59:54.796140+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 307,
+    "rarity": "D"
+  },
+  {
     "id": "forge-from-fire",
     "text": "Forge from fire.",
     "sub": "Artifacts come from the heat of understanding.",

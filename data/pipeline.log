@@ -3161,3 +3161,22 @@
 [2026-07-03T22:54:52.527033+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-03T22:54:52.529712+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T22:54:52.533576+00:00] PIPELINE RUN: 0 published, 705 remaining
+[2026-07-03T22:58:51.872275+00:00] STATS: {"published": 306, "pending": 0, "rejected": 705, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 171, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:58:51.871787+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:59:02.995389+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-03T22:59:03.038414+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-03T22:59:03.042650+00:00] PIPELINE RUN: 0 published, 706 remaining
+[2026-07-03T22:59:03.180793+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T22:59:03.424068+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T22:59:03.472442+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T22:59:03.474991+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T22:59:03.478692+00:00] PIPELINE RUN: 0 published, 708 remaining
+[2026-07-03T22:59:54.796703+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-03T22:59:54.842192+00:00] VALIDATE OK: followers-is-addiction-dressed
+[2026-07-03T22:59:54.846098+00:00] ENRICH: followers-is-addiction-dressed kanji=在 nen=enhancer rarity=D
+[2026-07-03T22:59:54.853474+00:00] PUBLISH: followers-is-addiction-dressed
+[2026-07-03T22:59:54.856942+00:00] PIPELINE RUN: 1 published, 708 remaining
+[2026-07-03T22:59:54.980762+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T22:59:55.242475+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T22:59:55.294746+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T22:59:55.297606+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T22:59:55.301597+00:00] PIPELINE RUN: 0 published, 710 remaining
