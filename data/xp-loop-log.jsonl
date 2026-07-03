@@ -492,3 +492,9 @@
 {"ts": "2026-07-03T12:04:06.868768+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-03T12:04:06.917826+00:00", "loop": "collection", "action": "card #169 信 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-03T12:04:07.023606+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-03T12:04:45.628434+00:00", "loop": "truth", "action": "submitted: Frequencies align.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T12:04:46.024586+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-03T12:04:46.063397+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T12:04:46.106328+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-03T12:04:46.146780+00:00", "loop": "collection", "action": "card #223 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-03T12:04:46.232235+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}

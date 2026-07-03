@@ -3,32 +3,6 @@
   "nen": "manipulator",
   "nenKanji": "控",
   "description": "Control flows. SSH configs, automation scripts.",
-  "protocols": [
-    {
-      "name": "ai-love",
-      "type": "ssh",
-      "config": [
-        "HostName 16.60.83.250",
-        "User ubuntu",
-        "IdentityFile ~/.ssh/openclaw-key.pem",
-        "StrictHostKeyChecking no",
-        "ServerAliveInterval 60",
-        "ServerAliveCountMax 3"
-      ],
-      "nen": "manipulator",
-      "usage": "ssh ai-love"
-    },
-    {
-      "name": "seigei-brain",
-      "type": "ssh",
-      "config": [
-        "HostName 52.7.131.246",
-        "User ec2-user",
-        "Iden"
-      ],
-      "nen": "manipulator",
-      "usage": "ssh seigei-brain"
-    }
-  ],
-  "ts": "2026-07-03T12:04:06.812349+00:00"
+  "protocols": [],
+  "ts": "2026-07-03T12:04:49.818571+00:00"
 }
