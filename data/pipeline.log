@@ -2848,3 +2848,28 @@
 [2026-07-03T20:19:17.771838+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-03T20:19:17.774142+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T20:19:17.776898+00:00] PIPELINE RUN: 0 published, 603 remaining
+[2026-07-03T20:20:33.723884+00:00] STATS: {"published": 299, "pending": 0, "rejected": 603, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 164, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T20:20:33.723358+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T20:20:42.929249+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-03T20:20:42.973765+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-03T20:20:42.977360+00:00] PIPELINE RUN: 0 published, 604 remaining
+[2026-07-03T20:20:43.125743+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-03T20:20:43.353623+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T20:20:43.398222+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-03T20:20:43.400506+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T20:20:43.405548+00:00] PIPELINE RUN: 0 published, 606 remaining
+[2026-07-03T20:52:44.050366+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-03T20:52:44.096425+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-03T20:52:44.100780+00:00] PIPELINE RUN: 0 published, 607 remaining
+[2026-07-03T20:52:44.186577+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T20:52:44.422392+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T20:52:44.468365+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T20:52:44.470882+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T20:52:44.473903+00:00] PIPELINE RUN: 0 published, 609 remaining
+[2026-07-03T20:57:46.717555+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-03T20:57:46.759918+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-03T20:57:46.762921+00:00] PIPELINE RUN: 0 published, 610 remaining
+[2026-07-03T20:57:46.848090+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T20:57:47.135807+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T20:57:47.179580+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T20:57:47.182147+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T20:57:47.185265+00:00] PIPELINE RUN: 0 published, 612 remaining
