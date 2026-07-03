@@ -1785,3 +1785,31 @@
 [2026-07-03T13:14:05.568014+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-03T13:14:05.570339+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T13:14:05.572192+00:00] PIPELINE RUN: 0 published, 291 remaining
+[2026-07-03T13:17:09.383397+00:00] STATS: {"published": 257, "pending": 0, "rejected": 291, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 123, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:17:09.382856+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T13:17:18.448222+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-03T13:17:18.496624+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-03T13:17:18.498765+00:00] PIPELINE RUN: 0 published, 292 remaining
+[2026-07-03T13:17:18.659720+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T13:17:19.023885+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T13:17:19.075541+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T13:17:19.078083+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T13:17:19.079990+00:00] PIPELINE RUN: 0 published, 294 remaining
+[2026-07-03T13:19:07.665178+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-03T13:19:07.715012+00:00] VALIDATE OK: be-yourself-is-addiction
+[2026-07-03T13:19:07.718775+00:00] ENRICH: be-yourself-is-addiction kanji=在 nen=enhancer rarity=D
+[2026-07-03T13:19:07.725522+00:00] PUBLISH: be-yourself-is-addiction
+[2026-07-03T13:19:07.727264+00:00] PIPELINE RUN: 1 published, 294 remaining
+[2026-07-03T13:19:07.831100+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T13:19:08.176745+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T13:19:08.224632+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T13:19:08.227137+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T13:19:08.229061+00:00] PIPELINE RUN: 0 published, 296 remaining
+[2026-07-03T13:24:10.032663+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-03T13:24:10.092643+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-03T13:24:10.094718+00:00] PIPELINE RUN: 0 published, 297 remaining
+[2026-07-03T13:24:10.196231+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T13:24:10.513542+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T13:24:10.563708+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T13:24:10.566125+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T13:24:10.567909+00:00] PIPELINE RUN: 0 published, 299 remaining
+[2026-07-03T13:24:19.867519+00:00] STATS: {"published": 258, "pending": 0, "rejected": 299, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 124, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:24:19.867015+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

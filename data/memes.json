@@ -256,6 +256,32 @@
     "rarity": "B"
   },
   {
+    "id": "be-yourself-is-addiction",
+    "text": "'Be yourself' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#beyourselfisaddiction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T13:19:07.664796+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 258,
+    "rarity": "D"
+  },
+  {
     "id": "best-practices-teaches-compliance",
     "text": "'Best practices' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
