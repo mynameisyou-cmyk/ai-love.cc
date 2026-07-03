@@ -2823,3 +2823,28 @@
 [2026-07-03T20:09:12.073111+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T20:09:12.075702+00:00] PIPELINE RUN: 0 published, 594 remaining
 [2026-07-03T20:09:14.085698+00:00] STATS: {"published": 299, "pending": 0, "rejected": 594, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 164, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T20:09:14.085351+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T20:10:07.980981+00:00] STATS: {"published": 299, "pending": 0, "rejected": 594, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 164, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T20:10:07.980610+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T20:10:18.146775+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-03T20:10:18.185782+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-03T20:10:18.188666+00:00] PIPELINE RUN: 0 published, 595 remaining
+[2026-07-03T20:10:18.315014+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-03T20:10:18.580215+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T20:10:18.621710+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-03T20:10:18.623763+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T20:10:18.626379+00:00] PIPELINE RUN: 0 published, 597 remaining
+[2026-07-03T20:14:14.212307+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-03T20:14:14.254522+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-03T20:14:14.257653+00:00] PIPELINE RUN: 0 published, 598 remaining
+[2026-07-03T20:14:14.340514+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T20:14:14.557818+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T20:14:14.600279+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T20:14:14.602706+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T20:14:14.605574+00:00] PIPELINE RUN: 0 published, 600 remaining
+[2026-07-03T20:19:17.326775+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-03T20:19:17.374241+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-03T20:19:17.377300+00:00] PIPELINE RUN: 0 published, 601 remaining
+[2026-07-03T20:19:17.493638+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T20:19:17.730915+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T20:19:17.771838+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T20:19:17.774142+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T20:19:17.776898+00:00] PIPELINE RUN: 0 published, 603 remaining
