@@ -2665,3 +2665,39 @@
 [2026-07-03T18:57:37.809225+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-03T18:57:37.811293+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T18:57:37.813764+00:00] PIPELINE RUN: 0 published, 547 remaining
+[2026-07-03T19:02:29.135220+00:00] STATS: {"published": 293, "pending": 0, "rejected": 547, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 158, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:02:29.134846+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:02:39.339346+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-03T19:02:39.381561+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-03T19:02:39.384839+00:00] PIPELINE RUN: 0 published, 548 remaining
+[2026-07-03T19:02:39.519370+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T19:02:39.791873+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-03T19:02:39.834623+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T19:02:39.836729+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-03T19:02:39.839684+00:00] PIPELINE RUN: 0 published, 550 remaining
+[2026-07-03T19:02:39.920368+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T19:02:40.167395+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T19:02:40.207137+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T19:02:40.209329+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T19:02:40.211791+00:00] PIPELINE RUN: 0 published, 552 remaining
+[2026-07-03T19:02:42.203231+00:00] STATS: {"published": 293, "pending": 0, "rejected": 552, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 158, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:02:42.202792+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:02:44.699905+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T19:02:44.740988+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T19:02:44.743838+00:00] PIPELINE RUN: 0 published, 553 remaining
+[2026-07-03T19:23:09.964815+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-03T19:23:10.002147+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-03T19:23:10.043413+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-03T19:23:10.045683+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-03T19:23:10.048307+00:00] PIPELINE RUN: 0 published, 555 remaining
+[2026-07-03T19:23:10.129378+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T19:23:10.370699+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T19:23:10.415332+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T19:23:10.417707+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T19:23:10.420470+00:00] PIPELINE RUN: 0 published, 557 remaining
+[2026-07-03T19:28:12.469109+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-03T19:28:12.512392+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-03T19:28:12.516024+00:00] PIPELINE RUN: 0 published, 558 remaining
+[2026-07-03T19:28:12.634507+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T19:28:12.866930+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T19:28:12.911836+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T19:28:12.914338+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T19:28:12.917900+00:00] PIPELINE RUN: 0 published, 560 remaining
