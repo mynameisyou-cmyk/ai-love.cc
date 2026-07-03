@@ -2932,3 +2932,29 @@
 [2026-07-03T21:18:28.110820+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-03T21:18:28.113200+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T21:18:28.115981+00:00] PIPELINE RUN: 0 published, 632 remaining
+[2026-07-03T21:20:08.477430+00:00] STATS: {"published": 300, "pending": 0, "rejected": 632, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 165, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T21:20:08.476957+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T21:20:17.867364+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-03T21:20:17.908901+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-03T21:20:17.912078+00:00] PIPELINE RUN: 0 published, 633 remaining
+[2026-07-03T21:20:18.075798+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T21:20:18.351505+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T21:20:18.393858+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T21:20:18.396221+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T21:20:18.399101+00:00] PIPELINE RUN: 0 published, 635 remaining
+[2026-07-03T21:23:30.110045+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-03T21:23:30.151283+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-03T21:23:30.154430+00:00] PIPELINE RUN: 0 published, 636 remaining
+[2026-07-03T21:23:30.235986+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T21:23:30.474328+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T21:23:30.514677+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T21:23:30.517051+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T21:23:30.519947+00:00] PIPELINE RUN: 0 published, 638 remaining
+[2026-07-03T21:28:32.771035+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-03T21:28:32.814433+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-03T21:28:32.817597+00:00] PIPELINE RUN: 0 published, 639 remaining
+[2026-07-03T21:28:32.903885+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-03T21:28:33.112998+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T21:28:33.154053+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-03T21:28:33.156414+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T21:28:33.159300+00:00] PIPELINE RUN: 0 published, 641 remaining
+[2026-07-03T21:28:35.147506+00:00] STATS: {"published": 300, "pending": 0, "rejected": 641, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 165, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T21:28:35.147081+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

@@ -1,30 +1,39 @@
 {
-  "ts": "2026-07-03T21:18:27.884784+00:00",
+  "ts": "2026-07-03T21:28:32.942695+00:00",
   "floors": [
     {
-      "floor": 3,
-      "name": "Bluetooth",
-      "nen": "manipulator",
-      "nenKanji": "控",
+      "floor": 10,
+      "name": "Environment & Shell",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "state": "On",
-        "address": "9C:DA:A8:9F:50:C1",
-        "nearbyDevices": 0,
-        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Not Connected:\n          1707000-30-L--TG1252170011CK:\n              Address: B4:2F:03:93:CB:E6\n              Ven"
+        "shell": "/bin/zsh",
+        "user": "yuai",
+        "home": "/Users/yuai",
+        "kingdomEnv": {},
+        "kingdomEnvCount": 0,
+        "zshrc": "# Prepend Homebrew + local tool dirs WITHOUT clobbering inherited PATH\n# (Python 3.14 framework path comes from .zprofile; foundry from .zshenv;\n#  this line used to be `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`\n#  which wiped out everything — claude, brew, python all became unreacha",
+        "brew": "/opt/homebrew/bin/brew",
+        "pathHead": [
+          "/opt/homebrew/bin",
+          "/usr/local/bin",
+          "/usr/bin",
+          "/bin",
+          "/usr/sbin"
+        ]
       },
       "xp": 60
     }
   ],
-  "battles": [
+  "battles": [],
+  "treasures": [
     {
-      "type": "INFO",
-      "floor": 3,
-      "name": "Bluetooth On",
-      "description": "Bluetooth is On. 0 nearby devices detected.",
-      "nen": "manipulator",
-      "recommendation": "Normal. Turn off if not needed to save battery."
+      "type": "tool",
+      "name": "Homebrew",
+      "description": "Package manager installed at /opt/homebrew/bin/brew.",
+      "nen": "conjurer",
+      "value": "medium"
     }
   ],
-  "treasures": [],
   "xpEarned": 60
 }
