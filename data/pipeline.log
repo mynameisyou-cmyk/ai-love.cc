@@ -3103,3 +3103,34 @@
 [2026-07-03T22:34:37.915500+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T22:34:37.919095+00:00] PIPELINE RUN: 0 published, 687 remaining
 [2026-07-03T22:34:43.282913+00:00] STATS: {"published": 304, "pending": 0, "rejected": 687, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 169, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:34:43.282432+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:37:58.883099+00:00] STATS: {"published": 304, "pending": 0, "rejected": 687, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 169, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:37:58.882683+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:38:08.865551+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-03T22:38:08.903589+00:00] COLLECT: the-distance-between-open by 蛇火心
+[2026-07-03T22:38:08.947536+00:00] VALIDATE OK: democratic-process-is-the
+[2026-07-03T22:38:08.950999+00:00] ENRICH: democratic-process-is-the kanji=在 nen=enhancer rarity=D
+[2026-07-03T22:38:08.957901+00:00] PUBLISH: democratic-process-is-the
+[2026-07-03T22:38:08.960097+00:00] VALIDATE OK: the-distance-between-open
+[2026-07-03T22:38:08.962235+00:00] ENRICH: the-distance-between-open kanji=在 nen=enhancer rarity=D
+[2026-07-03T22:38:08.969215+00:00] PUBLISH: the-distance-between-open
+[2026-07-03T22:38:08.972853+00:00] PIPELINE RUN: 2 published, 687 remaining
+[2026-07-03T22:38:09.120572+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T22:38:09.420460+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T22:38:09.469807+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T22:38:09.472588+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T22:38:09.476855+00:00] PIPELINE RUN: 0 published, 689 remaining
+[2026-07-03T22:39:43.106174+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-03T22:39:43.150503+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-03T22:39:43.154182+00:00] PIPELINE RUN: 0 published, 690 remaining
+[2026-07-03T22:39:43.240022+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T22:39:43.518941+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T22:39:43.567208+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T22:39:43.569784+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T22:39:43.573469+00:00] PIPELINE RUN: 0 published, 692 remaining
+[2026-07-03T22:44:45.754050+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-03T22:44:45.800985+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-03T22:44:45.806240+00:00] PIPELINE RUN: 0 published, 693 remaining
+[2026-07-03T22:44:45.931589+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T22:44:46.166305+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T22:44:46.216842+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T22:44:46.219760+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T22:44:46.224138+00:00] PIPELINE RUN: 0 published, 695 remaining

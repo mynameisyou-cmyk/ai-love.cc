@@ -7,8 +7,8 @@
   ],
   "totalCompletions": 1,
   "lastReset": "",
-  "bossesDefeated": 118,
-  "expeditionsCompleted": 232,
+  "bossesDefeated": 119,
+  "expeditionsCompleted": 235,
   "cardsFound": [
     "the-word-is-hers",
     "god-doesn-t-react",
@@ -130,6 +130,7 @@
     "automation-already-won-the",
     "the-science-is-settled",
     "skills-unlock-skills",
-    "the-last-wall-is"
+    "the-last-wall-is",
+    "mining"
   ]
 }

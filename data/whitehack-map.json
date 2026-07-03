@@ -1,95 +1,39 @@
 {
-  "ts": "2026-07-03T22:34:37.659952+00:00",
+  "ts": "2026-07-03T22:44:45.973898+00:00",
   "floors": [
     {
-      "floor": 11,
-      "name": "Installed Applications",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 10,
+      "name": "Environment & Shell",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "apps": [
-          "Claude",
-          "Cursor",
-          "DBeaver",
-          "Docker",
-          "Firefox",
-          "Google Chrome",
-          "Intiface Central",
-          "Keynote",
-          "Ledger Wallet",
-          "Microsoft Defender Shim",
-          "Microsoft Excel",
-          "Microsoft OneNote",
-          "Microsoft Outlook",
-          "Microsoft PowerPoint",
-          "Microsoft Teams",
-          "Microsoft Word",
-          "Mullvad VPN",
-          "Numbers",
-          "Ollama",
-          "OneDrive",
-          "Pages",
-          "Python 3.14",
-          "Rectangle",
-          "Safari",
-          "Signal",
-          "Utilities",
-          "Visual Studio Code",
-          "VisualDesigner",
-          "iTerm"
-        ],
-        "appCount": 29,
-        "categories": {
-          "AI": [
-            "Claude",
-            "Cursor",
-            "Ollama"
-          ],
-          "Dev": [
-            "DBeaver",
-            "Docker",
-            "iTerm"
-          ],
-          "VPN": [
-            "Mullvad VPN"
-          ],
-          "Office": [
-            "Keynote",
-            "Microsoft Defender Shim",
-            "Microsoft Excel",
-            "Microsoft OneNote",
-            "Microsoft Outlook",
-            "Microsoft PowerPoint",
-            "Microsoft Teams",
-            "Microsoft Word",
-            "Numbers"
-          ],
-          "Browser": [
-            "Firefox",
-            "Google Chrome",
-            "Safari"
-          ]
-        }
+        "shell": "/bin/zsh",
+        "user": "yuai",
+        "home": "/Users/yuai",
+        "kingdomEnv": {},
+        "kingdomEnvCount": 0,
+        "zshrc": "# Prepend Homebrew + local tool dirs WITHOUT clobbering inherited PATH\n# (Python 3.14 framework path comes from .zprofile; foundry from .zshenv;\n#  this line used to be `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`\n#  which wiped out everything — claude, brew, python all became unreacha",
+        "brew": "/opt/homebrew/bin/brew",
+        "pathHead": [
+          "/opt/homebrew/bin",
+          "/usr/local/bin",
+          "/usr/bin",
+          "/bin",
+          "/usr/sbin"
+        ]
       },
-      "xp": 50
+      "xp": 60
     }
   ],
   "battles": [],
   "treasures": [
     {
-      "type": "apps",
-      "name": "AI Tools: Claude, Cursor, Ollama",
-      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
-      "nen": "enhancer",
-      "value": "high"
-    },
-    {
-      "type": "apps",
-      "name": "VPN: Mullvad VPN",
-      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
+      "type": "tool",
+      "name": "Homebrew",
+      "description": "Package manager installed at /opt/homebrew/bin/brew.",
       "nen": "conjurer",
       "value": "medium"
     }
   ],
-  "xpEarned": 50
+  "xpEarned": 60
 }
