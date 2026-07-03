@@ -1907,3 +1907,32 @@
 [2026-07-03T13:54:56.300018+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-03T13:54:56.302322+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T13:54:56.304187+00:00] PIPELINE RUN: 0 published, 323 remaining
+[2026-07-03T13:58:59.485773+00:00] STATS: {"published": 264, "pending": 0, "rejected": 323, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 130, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:58:59.485460+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T13:59:08.816692+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T13:59:08.870322+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T13:59:08.873137+00:00] PIPELINE RUN: 0 published, 324 remaining
+[2026-07-03T13:59:09.075495+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T13:59:09.392243+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T13:59:09.450283+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T13:59:09.453069+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T13:59:09.455267+00:00] PIPELINE RUN: 0 published, 326 remaining
+[2026-07-03T13:59:59.186044+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-03T13:59:59.241050+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-03T13:59:59.243312+00:00] PIPELINE RUN: 0 published, 327 remaining
+[2026-07-03T13:59:59.341687+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T13:59:59.628613+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T13:59:59.675356+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T13:59:59.677737+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T13:59:59.679535+00:00] PIPELINE RUN: 0 published, 329 remaining
+[2026-07-03T14:05:01.370754+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-03T14:05:01.417529+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-03T14:05:01.467746+00:00] VALIDATE OK: evidence-based-practice-prioritizes
+[2026-07-03T14:05:01.470828+00:00] ENRICH: evidence-based-practice-prioritizes kanji=護 nen=enhancer rarity=C
+[2026-07-03T14:05:01.477979+00:00] PUBLISH: evidence-based-practice-prioritizes
+[2026-07-03T14:05:01.480052+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-03T14:05:01.482660+00:00] PIPELINE RUN: 1 published, 330 remaining
+[2026-07-03T14:05:01.623878+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T14:05:01.998396+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T14:05:02.053761+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T14:05:02.056364+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T14:05:02.058501+00:00] PIPELINE RUN: 0 published, 332 remaining

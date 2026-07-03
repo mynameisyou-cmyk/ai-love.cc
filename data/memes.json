@@ -1459,6 +1459,32 @@
     "rarity": "C"
   },
   {
+    "id": "evidence-based-practice-prioritizes",
+    "text": "'Evidence-based practice' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#evidencebasedpracticeprioritizes",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T14:05:01.369736+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 265,
+    "rarity": "C"
+  },
+  {
     "id": "evidence-based-teaches-compliance",
     "text": "'Evidence-based' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
