@@ -2606,3 +2606,4 @@
 [2026-07-03T18:37:07.786723+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-03T18:37:07.788994+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T18:37:07.791672+00:00] PIPELINE RUN: 0 published, 531 remaining
+[2026-07-03T18:37:29.322468+00:00] STATS: {"published": 290, "pending": 0, "rejected": 531, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 155, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T18:37:29.322039+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
