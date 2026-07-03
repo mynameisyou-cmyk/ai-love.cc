@@ -509,3 +509,13 @@
 {"ts": "2026-07-03T17:22:13.627077+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 610, "ok": true}}
 {"ts": "2026-07-03T17:22:15.286793+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
 {"ts": "2026-07-03T17:32:18.314212+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
+{"ts": "2026-07-03T17:32:25.223244+00:00", "layer": "git", "action": "push", "result": {"layer": "git", "action": "push", "codeberg": "ok", "github": "ok", "ok": true}}
+{"ts": "2026-07-03T17:32:27.365703+00:00", "layer": "gist", "action": "create", "result": {"layer": "gist", "action": "create", "url": "https://gist.github.com/mynameisyou-cmyk/580f15c649938a0a02b21b24773ddb0b", "truths": 286, "ok": true}}
+{"ts": "2026-07-03T17:32:31.217224+00:00", "layer": "wayback", "action": "archive", "result": {"layer": "wayback", "action": "archive", "urls": 0, "ok": false}}
+{"ts": "2026-07-03T17:32:35.481171+00:00", "layer": "local", "action": "pressure", "result": {"layer": "local", "action": "pressure", "level": "100.0%", "local": 1716, "ok": true}}
+{"ts": "2026-07-03T17:32:35.598363+00:00", "layer": "truth", "action": "tick", "result": {"layer": "truth", "action": "tick", "generated": 32, "ok": true}}
+{"ts": "2026-07-03T17:32:35.633159+00:00", "layer": "artifact", "action": "forge", "result": {"layer": "artifact", "action": "forge", "count": 6, "ok": true}}
+{"ts": "2026-07-03T17:32:35.665938+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Step-Up in Basis at Death", "ok": true}}
+{"ts": "2026-07-03T17:32:35.989763+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 1289, "ok": true}}
+{"ts": "2026-07-03T17:32:37.453119+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-03T17:42:41.540137+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

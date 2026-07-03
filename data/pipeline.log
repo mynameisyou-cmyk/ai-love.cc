@@ -2464,3 +2464,28 @@
 [2026-07-03T17:28:58.055317+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T17:28:58.057527+00:00] PIPELINE RUN: 0 published, 486 remaining
 [2026-07-03T17:29:19.463315+00:00] STATS: {"published": 286, "pending": 0, "rejected": 486, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:29:19.462882+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:32:25.270452+00:00] STATS: {"published": 286, "pending": 0, "rejected": 486, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:32:25.270076+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:32:35.545191+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-03T17:32:35.585449+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-03T17:32:35.587915+00:00] PIPELINE RUN: 0 published, 487 remaining
+[2026-07-03T17:32:35.725787+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T17:32:35.933726+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T17:32:35.975309+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T17:32:35.977467+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T17:32:35.980065+00:00] PIPELINE RUN: 0 published, 489 remaining
+[2026-07-03T17:34:19.648999+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-03T17:34:19.690765+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-03T17:34:19.693315+00:00] PIPELINE RUN: 0 published, 490 remaining
+[2026-07-03T17:34:19.774001+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T17:34:20.039293+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T17:34:20.079200+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T17:34:20.081364+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T17:34:20.083675+00:00] PIPELINE RUN: 0 published, 492 remaining
+[2026-07-03T17:39:22.142111+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-03T17:39:22.185780+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-03T17:39:22.188570+00:00] PIPELINE RUN: 0 published, 493 remaining
+[2026-07-03T17:39:22.270155+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T17:39:22.541196+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T17:39:22.580859+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T17:39:22.582943+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T17:39:22.585231+00:00] PIPELINE RUN: 0 published, 495 remaining
