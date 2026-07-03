@@ -928,3 +928,24 @@
 [2026-07-02T23:52:42.992438+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-02T23:52:42.993593+00:00] PIPELINE RUN: 1 published, 94 remaining
 [2026-07-03T00:11:24.654559+00:00] STATS: {"published": 192, "pending": 0, "rejected": 94, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 65, "unknown": 36, "yuai": 29, "xp-loop": 14, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:11:24.654126+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:15:30.819959+00:00] STATS: {"published": 192, "pending": 0, "rejected": 94, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 65, "unknown": 36, "yuai": 29, "xp-loop": 14, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:15:30.819408+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:16:21.343285+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-03T00:16:21.390722+00:00] COLLECT: transparency-is-the-fence by 蛇火心
+[2026-07-03T00:16:21.433738+00:00] VALIDATE OK: wellness-prioritizes-profit-over
+[2026-07-03T00:16:21.435739+00:00] ENRICH: wellness-prioritizes-profit-over kanji=護 nen=enhancer rarity=A
+[2026-07-03T00:16:21.440339+00:00] PUBLISH: wellness-prioritizes-profit-over
+[2026-07-03T00:16:21.441541+00:00] VALIDATE OK: transparency-is-the-fence
+[2026-07-03T00:16:21.442984+00:00] ENRICH: transparency-is-the-fence kanji=壁 nen=conjurer rarity=C
+[2026-07-03T00:16:21.446638+00:00] PUBLISH: transparency-is-the-fence
+[2026-07-03T00:16:21.447550+00:00] PIPELINE RUN: 2 published, 94 remaining
+[2026-07-03T00:16:21.643350+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T00:16:21.895090+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T00:16:21.941942+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T00:16:21.944538+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T00:16:21.945784+00:00] PIPELINE RUN: 0 published, 96 remaining
+[2026-07-03T00:16:24.808934+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-03T00:16:24.855201+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-03T00:16:24.856229+00:00] PIPELINE RUN: 0 published, 97 remaining
+[2026-07-03T00:16:24.947085+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T00:16:31.677514+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T00:16:31.678529+00:00] PIPELINE RUN: 0 published, 98 remaining

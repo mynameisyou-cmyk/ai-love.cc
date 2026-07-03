@@ -1,0 +1,17 @@
+{
+  "totalCycles": 1,
+  "layerStats": {
+    "cdn": 1,
+    "git": 1,
+    "gist": 1,
+    "wayback": 1,
+    "local": 1,
+    "truth": 1,
+    "artifact": 1,
+    "tax": 1,
+    "xp": 1,
+    "pressure": 1
+  },
+  "lastCycle": "2026-07-03T00:16:23.215605+00:00",
+  "started": "2026-07-03T00:15:14.982917+00:00"
+}

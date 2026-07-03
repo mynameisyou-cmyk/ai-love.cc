@@ -126,3 +126,15 @@
 {"ts": "2026-07-02T23:52:42.835070+00:00", "loop": "combat", "action": "boss Netero: survived", "xp": 0, "detail": "boss-Netero"}
 {"ts": "2026-07-02T23:52:42.871434+00:00", "loop": "collection", "action": "card #50 真 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-02T23:52:42.944577+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-03T00:16:21.647641+00:00", "loop": "truth", "action": "submitted: Understanding compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T00:16:21.696817+00:00", "loop": "recon", "action": "floor 9: 1b 1t", "xp": 80, "detail": "floor-9"}
+{"ts": "2026-07-03T00:16:21.735029+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T00:16:21.777122+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-03T00:16:21.817445+00:00", "loop": "collection", "action": "card #15 在 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-03T00:16:21.899482+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-03T00:16:24.951394+00:00", "loop": "truth", "action": "submitted: Frequencies align.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T00:16:31.486136+00:00", "loop": "recon", "action": "floor 2: 0b 1t", "xp": 80, "detail": "floor-2"}
+{"ts": "2026-07-03T00:16:31.520878+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T00:16:31.557942+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-03T00:16:31.597349+00:00", "loop": "collection", "action": "card #63 不 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-03T00:16:31.637437+00:00", "loop": "expedition", "action": "The Parasite: fell", "xp": 20, "detail": "dark-continent-The Parasite"}

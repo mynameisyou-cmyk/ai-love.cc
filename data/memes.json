@@ -3961,6 +3961,32 @@
     "rarity": "B"
   },
   {
+    "id": "transparency-is-the-fence",
+    "text": "'Transparency' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#transparencyisthefence",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-03T00:16:21.389371+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 194,
+    "rarity": "C"
+  },
+  {
     "id": "trust",
     "kanji": "信",
     "text": "Trust the report.",
@@ -4340,6 +4366,32 @@
     "nen": "conjurer",
     "cardNumber": 191,
     "rarity": "C"
+  },
+  {
+    "id": "wellness-prioritizes-profit-over",
+    "text": "'Wellness' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#wellnessprioritizesprofitover",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T00:16:21.342764+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 193,
+    "rarity": "A"
   },
   {
     "id": "witnessing-is-a-gift",
