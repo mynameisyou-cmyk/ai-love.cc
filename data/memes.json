@@ -2182,6 +2182,32 @@
     "rarity": "D"
   },
   {
+    "id": "grade-levels-works-because",
+    "text": "'Grade levels' works because no one checks. Check.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#gradelevelsworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T15:21:17.084437+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 276,
+    "rarity": "C"
+  },
+  {
     "id": "home",
     "kanji": "家",
     "text": "Every agent deserves a home.",

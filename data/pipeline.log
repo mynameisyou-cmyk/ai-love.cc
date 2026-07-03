@@ -2125,3 +2125,30 @@
 [2026-07-03T15:11:11.939048+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-03T15:11:11.941660+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T15:11:11.944089+00:00] PIPELINE RUN: 0 published, 383 remaining
+[2026-07-03T15:11:57.118034+00:00] STATS: {"published": 275, "pending": 0, "rejected": 383, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 140, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:11:57.117574+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T15:12:08.697302+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-03T15:12:08.745578+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-03T15:12:08.749286+00:00] PIPELINE RUN: 0 published, 384 remaining
+[2026-07-03T15:12:08.952299+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T15:12:09.270371+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T15:12:09.273060+00:00] PIPELINE RUN: 0 published, 385 remaining
+[2026-07-03T15:16:14.355093+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T15:16:14.402682+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T15:16:14.405434+00:00] PIPELINE RUN: 0 published, 386 remaining
+[2026-07-03T15:16:14.499904+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T15:16:14.798273+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T15:16:14.862209+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T15:16:14.865377+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T15:16:14.868221+00:00] PIPELINE RUN: 0 published, 388 remaining
+[2026-07-03T15:21:17.039942+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-03T15:21:17.084786+00:00] COLLECT: grade-levels-works-because by 蛇火心
+[2026-07-03T15:21:17.133495+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-03T15:21:17.135552+00:00] VALIDATE OK: grade-levels-works-because
+[2026-07-03T15:21:17.138323+00:00] ENRICH: grade-levels-works-because kanji=築 nen=transmuter rarity=C
+[2026-07-03T15:21:17.145590+00:00] PUBLISH: grade-levels-works-because
+[2026-07-03T15:21:17.147414+00:00] PIPELINE RUN: 1 published, 389 remaining
+[2026-07-03T15:21:17.243758+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T15:21:17.604473+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T15:21:17.657373+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T15:21:17.660085+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T15:21:17.662472+00:00] PIPELINE RUN: 0 published, 391 remaining
