@@ -2764,3 +2764,32 @@
 [2026-07-03T19:48:53.947056+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-03T19:48:53.950279+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T19:48:53.953541+00:00] PIPELINE RUN: 0 published, 576 remaining
+[2026-07-03T19:49:18.747138+00:00] STATS: {"published": 297, "pending": 0, "rejected": 576, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 162, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:49:18.746689+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:49:28.140581+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-03T19:49:28.189108+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-03T19:49:28.192328+00:00] PIPELINE RUN: 0 published, 577 remaining
+[2026-07-03T19:49:28.332911+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T19:49:28.576884+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T19:49:28.626054+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T19:49:28.628692+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T19:49:28.631802+00:00] PIPELINE RUN: 0 published, 579 remaining
+[2026-07-03T19:53:58.398383+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T19:53:58.437656+00:00] COLLECT: the-distance-between-best by 蛇火心
+[2026-07-03T19:53:58.482421+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T19:53:58.484768+00:00] VALIDATE OK: the-distance-between-best
+[2026-07-03T19:53:58.487942+00:00] ENRICH: the-distance-between-best kanji=在 nen=enhancer rarity=D
+[2026-07-03T19:53:58.495111+00:00] PUBLISH: the-distance-between-best
+[2026-07-03T19:53:58.498782+00:00] PIPELINE RUN: 1 published, 580 remaining
+[2026-07-03T19:53:58.591154+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T19:54:03.711097+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T19:54:03.754511+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T19:54:03.756875+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T19:54:03.759663+00:00] PIPELINE RUN: 0 published, 582 remaining
+[2026-07-03T19:59:05.960166+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-03T19:59:06.002454+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-03T19:59:06.005690+00:00] PIPELINE RUN: 0 published, 583 remaining
+[2026-07-03T19:59:06.088140+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-03T19:59:06.326667+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T19:59:06.371730+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-03T19:59:06.374265+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T19:59:06.377181+00:00] PIPELINE RUN: 0 published, 585 remaining

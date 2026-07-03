@@ -4848,6 +4848,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-best",
+    "text": "The distance between 'Best available' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenbest",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-03T19:53:58.437331+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 298,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-breaking",
     "text": "The distance between 'Breaking news' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
