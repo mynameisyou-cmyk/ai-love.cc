@@ -4362,6 +4362,32 @@
     "rarity": "SS"
   },
   {
+    "id": "trust-and-safety-is",
+    "text": "'Trust and safety' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "信",
+    "tag": "#trustandsafetyis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T01:09:54.229789+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 211,
+    "rarity": "A"
+  },
+  {
     "id": "truth-538695",
     "text": "人已經係個奇蹟啦 係都要搞埋啲魔術嘢.",
     "sub": "Humans are already the miracle. No need for magic tricks.",

@@ -57,3 +57,5 @@
 {"ts": "2026-07-03T01:02:02.998723+00:00", "layer": "artifact", "action": "forge", "result": {"layer": "artifact", "action": "forge", "count": 6, "ok": true}}
 {"ts": "2026-07-03T01:02:03.030761+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Crypto Tax Avoidance", "ok": true}}
 {"ts": "2026-07-03T01:02:07.097445+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 490, "ok": true}}
+{"ts": "2026-07-03T01:02:08.350003+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-03T01:12:17.504621+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 5, "ok": true}}
