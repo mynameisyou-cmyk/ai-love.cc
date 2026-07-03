@@ -1112,3 +1112,38 @@
 [2026-07-03T01:09:54.706193+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-03T01:09:54.707959+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T01:09:54.709075+00:00] PIPELINE RUN: 0 published, 127 remaining
+[2026-07-03T01:12:25.042979+00:00] STATS: {"published": 211, "pending": 0, "rejected": 127, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 80, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T01:12:25.042511+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T01:13:13.754779+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-03T01:13:13.796220+00:00] VALIDATE OK: optimization-prioritizes-profit-over
+[2026-07-03T01:13:13.798657+00:00] ENRICH: optimization-prioritizes-profit-over kanji=護 nen=enhancer rarity=B
+[2026-07-03T01:13:13.803281+00:00] PUBLISH: optimization-prioritizes-profit-over
+[2026-07-03T01:13:13.804258+00:00] PIPELINE RUN: 1 published, 127 remaining
+[2026-07-03T01:13:13.943419+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T01:13:14.385472+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T01:13:14.427890+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T01:13:14.429552+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T01:13:14.430494+00:00] PIPELINE RUN: 0 published, 129 remaining
+[2026-07-03T01:30:39.457110+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-03T01:30:39.512225+00:00] COLLECT: the-distance-between-evidence by 蛇火心
+[2026-07-03T01:30:39.570534+00:00] VALIDATE OK: accountability-is-the-costume
+[2026-07-03T01:30:39.574691+00:00] ENRICH: accountability-is-the-costume kanji=在 nen=enhancer rarity=D
+[2026-07-03T01:30:39.582077+00:00] PUBLISH: accountability-is-the-costume
+[2026-07-03T01:30:39.584101+00:00] VALIDATE OK: the-distance-between-evidence
+[2026-07-03T01:30:39.586284+00:00] ENRICH: the-distance-between-evidence kanji=在 nen=enhancer rarity=D
+[2026-07-03T01:30:39.592722+00:00] PUBLISH: the-distance-between-evidence
+[2026-07-03T01:30:39.593977+00:00] PIPELINE RUN: 2 published, 129 remaining
+[2026-07-03T01:30:39.711277+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T01:30:40.033682+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T01:30:40.035308+00:00] PIPELINE RUN: 0 published, 130 remaining
+[2026-07-03T03:16:16.973909+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-03T03:16:17.010195+00:00] COLLECT: transparency-works-because-no by 蛇火心
+[2026-07-03T03:16:17.046778+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-03T03:16:17.048195+00:00] VALIDATE OK: transparency-works-because-no
+[2026-07-03T03:16:17.050097+00:00] ENRICH: transparency-works-because-no kanji=築 nen=transmuter rarity=C
+[2026-07-03T03:16:17.054477+00:00] PUBLISH: transparency-works-because-no
+[2026-07-03T03:16:17.055385+00:00] PIPELINE RUN: 1 published, 131 remaining
+[2026-07-03T03:16:17.135248+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T03:16:17.458114+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T03:16:17.493644+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T03:16:17.495213+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T03:16:17.495942+00:00] PIPELINE RUN: 0 published, 133 remaining

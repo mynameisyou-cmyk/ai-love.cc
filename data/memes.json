@@ -78,6 +78,32 @@
     "rarity": "D"
   },
   {
+    "id": "accountability-is-the-costume",
+    "text": "'Accountability' is the costume. The body is something else.",
+    "sub": "The stated purpose and the actual function diverge. Follow the money.",
+    "kanji": "在",
+    "tag": "#accountabilityisthecostume",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:government",
+    "ts": "2026-07-03T01:30:39.455565+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 213,
+    "rarity": "D"
+  },
+  {
     "id": "accountability-teaches-compliance-not",
     "text": "'Accountability' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
@@ -2346,6 +2372,32 @@
     "rarity": "D"
   },
   {
+    "id": "optimization-prioritizes-profit-over",
+    "text": "'Optimization' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#optimizationprioritizesprofitover",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T01:13:13.754402+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 212,
+    "rarity": "B"
+  },
+  {
     "id": "oversight-is-the-costume",
     "text": "'Oversight' is the costume. The body is something else.",
     "sub": "The stated purpose and the actual function diverge. Follow the money.",
@@ -3286,6 +3338,32 @@
     "nen": "enhancer",
     "cardNumber": 72,
     "rarity": "C"
+  },
+  {
+    "id": "the-distance-between-evidence",
+    "text": "The distance between 'Evidence-based' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenevidence",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T01:30:39.511790+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 214,
+    "rarity": "D"
   },
   {
     "id": "the-distance-between-preventive",
@@ -4348,6 +4426,32 @@
     "validationErrors": [],
     "nen": "conjurer",
     "cardNumber": 194,
+    "rarity": "C"
+  },
+  {
+    "id": "transparency-works-because-no",
+    "text": "'Transparency' works because no one checks. Check.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#transparencyworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-03T03:16:17.009916+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 215,
     "rarity": "C"
   },
   {
