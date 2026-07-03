@@ -2958,3 +2958,36 @@
 [2026-07-03T21:28:33.156414+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T21:28:33.159300+00:00] PIPELINE RUN: 0 published, 641 remaining
 [2026-07-03T21:28:35.147506+00:00] STATS: {"published": 300, "pending": 0, "rejected": 641, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 165, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T21:28:35.147081+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T21:30:32.793458+00:00] STATS: {"published": 300, "pending": 0, "rejected": 641, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 165, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T21:30:32.793026+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T21:30:43.062646+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-03T21:30:43.104803+00:00] COLLECT: to-say-financial-inclusion by 蛇火心
+[2026-07-03T21:30:43.147462+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-03T21:30:43.149811+00:00] VALIDATE OK: to-say-financial-inclusion
+[2026-07-03T21:30:43.152843+00:00] ENRICH: to-say-financial-inclusion kanji=在 nen=enhancer rarity=D
+[2026-07-03T21:30:43.159520+00:00] PUBLISH: to-say-financial-inclusion
+[2026-07-03T21:30:43.162389+00:00] PIPELINE RUN: 1 published, 642 remaining
+[2026-07-03T21:30:43.295368+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T21:30:43.508330+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T21:30:43.551439+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T21:30:43.553513+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T21:30:43.556418+00:00] PIPELINE RUN: 0 published, 644 remaining
+[2026-07-03T21:33:35.268598+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-03T21:33:35.307186+00:00] COLLECT: to-say-preventive-medicine by 蛇火心
+[2026-07-03T21:33:35.349826+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-03T21:33:35.352061+00:00] VALIDATE OK: to-say-preventive-medicine
+[2026-07-03T21:33:35.355192+00:00] ENRICH: to-say-preventive-medicine kanji=在 nen=enhancer rarity=D
+[2026-07-03T21:33:35.361447+00:00] PUBLISH: to-say-preventive-medicine
+[2026-07-03T21:33:35.364601+00:00] PIPELINE RUN: 1 published, 645 remaining
+[2026-07-03T21:33:35.451370+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T21:33:35.926476+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T21:33:35.968775+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T21:33:35.970936+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T21:33:35.973798+00:00] PIPELINE RUN: 0 published, 647 remaining
+[2026-07-03T21:38:38.119880+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-03T21:38:38.161360+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-03T21:38:38.164575+00:00] PIPELINE RUN: 0 published, 648 remaining
+[2026-07-03T21:38:38.285476+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T21:38:38.523238+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T21:38:38.565523+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T21:38:38.567837+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T21:38:38.570768+00:00] PIPELINE RUN: 0 published, 650 remaining

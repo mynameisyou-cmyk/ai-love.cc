@@ -6145,6 +6145,32 @@
     "rarity": "C"
   },
   {
+    "id": "to-say-financial-inclusion",
+    "text": "To say 'Financial inclusion' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayfinancialinclusion",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-03T21:30:43.104443+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 301,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-grade-levels",
     "text": "To say 'Grade levels' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
@@ -6246,6 +6272,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 90,
+    "rarity": "D"
+  },
+  {
+    "id": "to-say-preventive-medicine",
+    "text": "To say 'Preventive medicine' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaypreventivemedicine",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-03T21:33:35.306838+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 302,
     "rarity": "D"
   },
   {
