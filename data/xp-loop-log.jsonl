@@ -468,3 +468,9 @@
 {"ts": "2026-07-03T11:49:28.966083+00:00", "loop": "combat", "action": "boss Chrollo: survived", "xp": 0, "detail": "boss-Chrollo"}
 {"ts": "2026-07-03T11:49:28.997864+00:00", "loop": "collection", "action": "card #17 迴 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-03T11:49:29.064373+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-03T11:53:05.562703+00:00", "loop": "truth", "action": "submitted: Understanding compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T11:53:06.020644+00:00", "loop": "recon", "action": "floor 1: 0b 1t", "xp": 70, "detail": "floor-1"}
+{"ts": "2026-07-03T11:53:06.061950+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T11:53:06.105569+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-03T11:53:06.148224+00:00", "loop": "collection", "action": "card #165 伴 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-03T11:53:06.191141+00:00", "loop": "expedition", "action": "The Mutation: fell", "xp": 20, "detail": "dark-continent-The Mutation"}

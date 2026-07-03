@@ -1541,3 +1541,10 @@
 [2026-07-03T11:49:29.097891+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-03T11:49:29.099542+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T11:49:29.100606+00:00] PIPELINE RUN: 0 published, 222 remaining
+[2026-07-03T11:52:55.809967+00:00] STATS: {"published": 246, "pending": 0, "rejected": 222, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 114, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:52:55.809402+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:53:05.327866+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-03T11:53:05.382108+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-03T11:53:05.384297+00:00] PIPELINE RUN: 0 published, 223 remaining
+[2026-07-03T11:53:05.557722+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T11:53:06.236608+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T11:53:06.238453+00:00] PIPELINE RUN: 0 published, 224 remaining
