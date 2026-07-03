@@ -5082,6 +5082,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-privacy",
+    "text": "The distance between 'Privacy-first' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenprivacy",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-03T21:02:49.078881+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 300,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-rigor",
     "text": "The distance between 'Rigor' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",

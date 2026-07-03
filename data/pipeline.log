@@ -2873,3 +2873,26 @@
 [2026-07-03T20:57:47.179580+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-03T20:57:47.182147+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T20:57:47.185265+00:00] PIPELINE RUN: 0 published, 612 remaining
+[2026-07-03T20:59:21.029537+00:00] STATS: {"published": 299, "pending": 0, "rejected": 612, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 164, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T20:59:21.029050+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T20:59:29.586180+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-03T20:59:29.625246+00:00] COLLECT: the-louder-standardized-testing by 蛇火心
+[2026-07-03T20:59:29.670136+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-03T20:59:29.672505+00:00] VALIDATE FAIL: the-louder-standardized-testing — ['duplicate of: the-louder-standardized-testing']
+[2026-07-03T20:59:29.675513+00:00] PIPELINE RUN: 0 published, 614 remaining
+[2026-07-03T20:59:29.815013+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T20:59:30.218561+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T20:59:30.269529+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T20:59:30.272374+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T20:59:30.275864+00:00] PIPELINE RUN: 0 published, 616 remaining
+[2026-07-03T21:02:49.039442+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-03T21:02:49.079276+00:00] COLLECT: the-distance-between-privacy by 蛇火心
+[2026-07-03T21:02:49.121959+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-03T21:02:49.124371+00:00] VALIDATE OK: the-distance-between-privacy
+[2026-07-03T21:02:49.128051+00:00] ENRICH: the-distance-between-privacy kanji=在 nen=enhancer rarity=D
+[2026-07-03T21:02:49.137192+00:00] PUBLISH: the-distance-between-privacy
+[2026-07-03T21:02:49.141251+00:00] PIPELINE RUN: 1 published, 617 remaining
+[2026-07-03T21:02:49.268224+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T21:02:49.507274+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T21:02:49.554866+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T21:02:49.557544+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T21:02:49.560799+00:00] PIPELINE RUN: 0 published, 619 remaining
