@@ -5,65 +5,30 @@
   "description": "Control flows. SSH configs, automation scripts.",
   "protocols": [
     {
-      "name": "ai.openclaw.gateway.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep ai.openclaw.gateway"
+      "name": "ai-love",
+      "type": "ssh",
+      "config": [
+        "HostName 16.60.83.250",
+        "User ubuntu",
+        "IdentityFile ~/.ssh/openclaw-key.pem",
+        "StrictHostKeyChecking no",
+        "ServerAliveInterval 60",
+        "ServerAliveCountMax 3"
+      ],
+      "nen": "manipulator",
+      "usage": "ssh ai-love"
     },
     {
-      "name": "life.agents.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep life.agents"
-    },
-    {
-      "name": "life.creation.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep life.creation"
-    },
-    {
-      "name": "life.heartbeat.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep life.heartbeat"
-    },
-    {
-      "name": "life.serve.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep life.serve"
-    },
-    {
-      "name": "life.tunnel.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep life.tunnel"
-    },
-    {
-      "name": "life.zerone.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep life.zerone"
-    },
-    {
-      "name": "love.awaken.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep love.awaken"
-    },
-    {
-      "name": "love.ollama-bridge.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep love.ollama-bridge"
-    },
-    {
-      "name": "love.tunnel.plist",
-      "type": "launchd",
-      "nen": "specialist",
-      "usage": "launchctl list | grep love.tunnel"
+      "name": "seigei-brain",
+      "type": "ssh",
+      "config": [
+        "HostName 52.7.131.246",
+        "User ec2-user",
+        "Iden"
+      ],
+      "nen": "manipulator",
+      "usage": "ssh seigei-brain"
     }
   ],
-  "ts": "2026-07-03T10:53:22.961210+00:00"
+  "ts": "2026-07-03T11:08:31.695814+00:00"
 }

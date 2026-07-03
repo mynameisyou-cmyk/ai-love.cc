@@ -1069,6 +1069,32 @@
     "rarity": "D"
   },
   {
+    "id": "engagement-is-addiction-dressed",
+    "text": "'Engagement' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#engagementisaddictiondressed",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T10:58:25.170009+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 233,
+    "rarity": "D"
+  },
+  {
     "id": "engagement-means-the-opposite",
     "text": "'Engagement' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
@@ -1225,6 +1251,32 @@
     "rarity": "C"
   },
   {
+    "id": "evidence-based-teaches-compliance",
+    "text": "'Evidence-based' teaches compliance, not understanding.",
+    "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
+    "kanji": "在",
+    "tag": "#evidencebasedteachescompliance",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:education",
+    "ts": "2026-07-03T11:08:31.404507+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 235,
+    "rarity": "D"
+  },
+  {
     "id": "exchange-sell-a-rental",
     "text": "1031 Exchange: Sell a rental property, use the proceeds to buy another investment property, defer ALL capital gains tax indefinitely. Repeat until death — then step-",
     "sub": "Cost: $2-5bn/year in deferral. Beneficiaries: Real estate investors, developers",
@@ -1260,6 +1312,32 @@
     "nen": "enhancer",
     "cardNumber": 6,
     "rarity": "SS"
+  },
+  {
+    "id": "express-yourself-is-addiction",
+    "text": "'Express yourself' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#expressyourselfisaddiction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T11:03:29.105667+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 234,
+    "rarity": "D"
   },
   {
     "id": "fact-based-is-a",
@@ -4453,6 +4531,32 @@
     "nen": "transmuter",
     "cardNumber": 110,
     "rarity": "SS"
+  },
+  {
+    "id": "to-say-autonomous-while",
+    "text": "To say 'Autonomous' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayautonomouswhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-03T11:08:31.449261+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 236,
+    "rarity": "D"
   },
   {
     "id": "to-say-carbon-neutral",

@@ -1348,3 +1348,46 @@
 [2026-07-03T10:53:23.155362+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-03T10:53:23.157119+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T10:53:23.158159+00:00] PIPELINE RUN: 0 published, 176 remaining
+[2026-07-03T10:58:25.170384+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-03T10:58:25.215625+00:00] VALIDATE OK: engagement-is-addiction-dressed
+[2026-07-03T10:58:25.218838+00:00] ENRICH: engagement-is-addiction-dressed kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:58:25.224583+00:00] PUBLISH: engagement-is-addiction-dressed
+[2026-07-03T10:58:25.225768+00:00] PIPELINE RUN: 1 published, 176 remaining
+[2026-07-03T10:58:25.320821+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T10:58:25.643533+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:58:25.694886+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T10:58:25.697111+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:58:25.698316+00:00] PIPELINE RUN: 0 published, 178 remaining
+[2026-07-03T10:58:30.520517+00:00] STATS: {"published": 233, "pending": 0, "rejected": 178, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 101, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:58:30.520019+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:59:25.536302+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-03T10:59:25.738978+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-03T10:59:25.759905+00:00] PIPELINE RUN: 0 published, 179 remaining
+[2026-07-03T10:59:26.381307+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T10:59:26.769359+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T10:59:26.821327+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T10:59:26.822917+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T10:59:26.828467+00:00] PIPELINE RUN: 0 published, 181 remaining
+[2026-07-03T11:03:29.106372+00:00] COLLECT: express-yourself-is-addiction by 蛇火心
+[2026-07-03T11:03:29.156921+00:00] VALIDATE OK: express-yourself-is-addiction
+[2026-07-03T11:03:29.160985+00:00] ENRICH: express-yourself-is-addiction kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:03:29.166733+00:00] PUBLISH: express-yourself-is-addiction
+[2026-07-03T11:03:29.168519+00:00] PIPELINE RUN: 1 published, 181 remaining
+[2026-07-03T11:03:29.268912+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T11:03:29.596125+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T11:03:29.644460+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T11:03:29.646069+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T11:03:29.647111+00:00] PIPELINE RUN: 0 published, 183 remaining
+[2026-07-03T11:08:31.404880+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T11:08:31.449603+00:00] COLLECT: to-say-autonomous-while by 蛇火心
+[2026-07-03T11:08:31.497603+00:00] VALIDATE OK: evidence-based-teaches-compliance
+[2026-07-03T11:08:31.500961+00:00] ENRICH: evidence-based-teaches-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:08:31.508532+00:00] PUBLISH: evidence-based-teaches-compliance
+[2026-07-03T11:08:31.511276+00:00] VALIDATE OK: to-say-autonomous-while
+[2026-07-03T11:08:31.513555+00:00] ENRICH: to-say-autonomous-while kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:08:31.519368+00:00] PUBLISH: to-say-autonomous-while
+[2026-07-03T11:08:31.520518+00:00] PIPELINE RUN: 2 published, 183 remaining
+[2026-07-03T11:08:31.611754+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T11:08:31.887716+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T11:08:31.938620+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T11:08:31.940734+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T11:08:31.941950+00:00] PIPELINE RUN: 0 published, 185 remaining
