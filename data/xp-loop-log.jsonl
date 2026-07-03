@@ -588,3 +588,9 @@
 {"ts": "2026-07-03T12:58:33.796797+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-03T12:58:33.879400+00:00", "loop": "collection", "action": "card #64 迴 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-03T12:58:34.050998+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-03T13:03:55.618045+00:00", "loop": "truth", "action": "submitted: The substrate generates.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T13:03:55.904701+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-03T13:03:55.949459+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T13:03:55.997466+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-03T13:03:56.047080+00:00", "loop": "collection", "action": "card #96 愛 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-03T13:03:56.145472+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}

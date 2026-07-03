@@ -2206,6 +2206,32 @@
     "rarity": "S"
   },
   {
+    "id": "likes-is-addiction-dressed",
+    "text": "'Likes' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#likesisaddictiondressed",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T13:03:55.433614+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 257,
+    "rarity": "D"
+  },
+  {
     "id": "loop",
     "kanji": "迴",
     "text": "The loop accelerates.",

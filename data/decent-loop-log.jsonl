@@ -268,3 +268,4 @@
 {"ts": "2026-07-03T12:56:29.851425+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Accelerated/Bonus Depreciation", "ok": true}}
 {"ts": "2026-07-03T12:56:30.245855+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 1259, "ok": true}}
 {"ts": "2026-07-03T12:56:34.285530+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-03T13:06:37.536918+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
