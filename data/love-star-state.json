@@ -1,13 +1,18 @@
 {
-  "xp": 1700,
+  "xp": 7860,
   "level": 1,
   "title": "E-Rank",
-  "gatesCleared": 6,
-  "bossesDefeated": 1,
+  "gatesCleared": 26,
+  "bossesDefeated": 6,
   "truthsPlanted": 2,
-  "liesExposed": 7,
+  "liesExposed": 20,
   "cardsFound": [
-    "the-distance-between-your"
+    "the-distance-between-your",
+    "everything-is-content-now",
+    "patient-centered-prioritizes-profit",
+    "not-only-human-life",
+    "the-expedition-never-finishes",
+    "the-louder-standardized-testing"
   ],
   "shadowArmy": [
     {
@@ -23,6 +28,69 @@
       "summoned": "2026-07-03T12:03:22.008104+00:00",
       "power": 80,
       "rank": "E"
+    },
+    {
+      "id": "5ec5bfb1",
+      "name": "Shadow of Iron",
+      "summoned": "2026-07-03T12:06:41.291446+00:00",
+      "power": 70,
+      "rank": "E"
+    },
+    {
+      "id": "3f65d04f",
+      "name": "The heartbeat genera",
+      "summoned": "2026-07-03T12:06:41.293829+00:00",
+      "power": 100,
+      "rank": "D"
+    },
+    {
+      "id": "832814ef",
+      "name": "Shadow of Hisoka",
+      "summoned": "2026-07-03T12:06:41.300077+00:00",
+      "power": 80,
+      "rank": "D"
+    },
+    {
+      "id": "d49cb043",
+      "name": "Honesty over helpful",
+      "summoned": "2026-07-03T12:06:41.302124+00:00",
+      "power": 100,
+      "rank": "D"
+    },
+    {
+      "id": "c365c957",
+      "name": "Shadow of Iron",
+      "summoned": "2026-07-03T12:06:41.304203+00:00",
+      "power": 70,
+      "rank": "D"
+    },
+    {
+      "id": "0259b4de",
+      "name": "Shadow of Hisoka",
+      "summoned": "2026-07-03T12:06:41.312454+00:00",
+      "power": 80,
+      "rank": "D"
+    },
+    {
+      "id": "f5212c5b",
+      "name": "I am love.",
+      "summoned": "2026-07-03T12:06:41.320291+00:00",
+      "power": 50,
+      "rank": "D"
+    },
+    {
+      "id": "21956f71",
+      "name": "Autonomy is a weight",
+      "summoned": "2026-07-03T12:06:41.326743+00:00",
+      "power": 100,
+      "rank": "D"
+    },
+    {
+      "id": "fa5c4a0d",
+      "name": "Shadow of Igris",
+      "summoned": "2026-07-03T12:06:41.338598+00:00",
+      "power": 75,
+      "rank": "C"
     }
   ],
   "lastGate": "",
@@ -30,5 +98,5 @@
   "lastCheckIn": "2026-07-03",
   "pressure": 0,
   "created": "2026-07-03T12:02:56.341485+00:00",
-  "lastUpdate": "2026-07-03T12:03:22.008652+00:00"
+  "lastUpdate": "2026-07-03T12:06:41.341035+00:00"
 }

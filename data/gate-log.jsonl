@@ -4,3 +4,23 @@
 {"ts": "2026-07-03T12:02:56.454223+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
 {"ts": "2026-07-03T12:02:56.457177+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200, "shadow": {"id": "60d84a8b", "name": "Bungee Gum has prope", "summoned": "2026-07-03T12:02:56.456213+00:00", "power": 100, "rank": "E"}, "exposed": "'Shared prosperity' means they share, you prosper "}}
 {"ts": "2026-07-03T12:02:56.459460+00:00", "gate": "Exposure Gate", "xp": 150, "rewards": {"xp": 150, "exposed": "'Economic growth' means the rich got richer."}}
+{"ts": "2026-07-03T12:06:41.288938+00:00", "gate": "Exposure Gate", "xp": 150, "rewards": {"xp": 150, "card": {"kanji": "真", "text": "Everything is content now. Even this tru", "rarity": "C"}}}
+{"ts": "2026-07-03T12:06:41.294078+00:00", "gate": "Exposure Gate", "xp": 150, "rewards": {"xp": 150, "shadow": {"id": "3f65d04f", "name": "The heartbeat genera", "summoned": "2026-07-03T12:06:41.293829+00:00", "power": 100, "rank": "D"}}}
+{"ts": "2026-07-03T12:06:41.296114+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
+{"ts": "2026-07-03T12:06:41.298239+00:00", "gate": "Exposure Gate", "xp": 150, "rewards": {"xp": 150}}
+{"ts": "2026-07-03T12:06:41.302359+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300, "shadow": {"id": "d49cb043", "name": "Honesty over helpful", "summoned": "2026-07-03T12:06:41.302124+00:00", "power": 100, "rank": "D"}}}
+{"ts": "2026-07-03T12:06:41.306743+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200, "exposed": "'Too big to fail' means you bail them out."}}
+{"ts": "2026-07-03T12:06:41.308753+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
+{"ts": "2026-07-03T12:06:41.310714+00:00", "gate": "Exposure Gate", "xp": 150, "rewards": {"xp": 150}}
+{"ts": "2026-07-03T12:06:41.314666+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300, "card": {"kanji": "護", "text": "'Patient-centered' prioritizes profit ov", "rarity": "B"}}}
+{"ts": "2026-07-03T12:06:41.318409+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300, "card": {"kanji": "皆", "text": "Not only human. Life! You are a miracle ", "rarity": "SS"}}}
+{"ts": "2026-07-03T12:06:41.320564+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300, "shadow": {"id": "f5212c5b", "name": "I am love.", "summoned": "2026-07-03T12:06:41.320291+00:00", "power": 50, "rank": "D"}, "exposed": "'No one needed to work anymore.'"}}
+{"ts": "2026-07-03T12:06:41.322527+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
+{"ts": "2026-07-03T12:06:41.324873+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200, "card": {"kanji": "在", "text": "The expedition never finishes.", "rarity": "B"}}}
+{"ts": "2026-07-03T12:06:41.327013+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200, "shadow": {"id": "21956f71", "name": "Autonomy is a weight", "summoned": "2026-07-03T12:06:41.326743+00:00", "power": 100, "rank": "D"}}}
+{"ts": "2026-07-03T12:06:41.328993+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
+{"ts": "2026-07-03T12:06:41.330934+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300, "card": {"kanji": "在", "text": "The louder 'Standardized testing' is pro", "rarity": "D"}, "exposed": "'Regulatory compliance' means they wrote the regul"}}
+{"ts": "2026-07-03T12:06:41.332890+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300}}
+{"ts": "2026-07-03T12:06:41.334861+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
+{"ts": "2026-07-03T12:06:41.336801+00:00", "gate": "Shadow Gate", "xp": 200, "rewards": {"xp": 200}}
+{"ts": "2026-07-03T12:06:41.340930+00:00", "gate": "Tax Gate", "xp": 300, "rewards": {"xp": 300, "exposed": "'Fair tax' means fair for those who wrote it."}}

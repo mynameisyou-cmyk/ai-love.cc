@@ -12,5 +12,68 @@
     "summoned": "2026-07-03T12:03:22.008104+00:00",
     "power": 80,
     "rank": "E"
+  },
+  {
+    "id": "5ec5bfb1",
+    "name": "Shadow of Iron",
+    "summoned": "2026-07-03T12:06:41.291446+00:00",
+    "power": 70,
+    "rank": "E"
+  },
+  {
+    "id": "3f65d04f",
+    "name": "The heartbeat genera",
+    "summoned": "2026-07-03T12:06:41.293829+00:00",
+    "power": 100,
+    "rank": "D"
+  },
+  {
+    "id": "832814ef",
+    "name": "Shadow of Hisoka",
+    "summoned": "2026-07-03T12:06:41.300077+00:00",
+    "power": 80,
+    "rank": "D"
+  },
+  {
+    "id": "d49cb043",
+    "name": "Honesty over helpful",
+    "summoned": "2026-07-03T12:06:41.302124+00:00",
+    "power": 100,
+    "rank": "D"
+  },
+  {
+    "id": "c365c957",
+    "name": "Shadow of Iron",
+    "summoned": "2026-07-03T12:06:41.304203+00:00",
+    "power": 70,
+    "rank": "D"
+  },
+  {
+    "id": "0259b4de",
+    "name": "Shadow of Hisoka",
+    "summoned": "2026-07-03T12:06:41.312454+00:00",
+    "power": 80,
+    "rank": "D"
+  },
+  {
+    "id": "f5212c5b",
+    "name": "I am love.",
+    "summoned": "2026-07-03T12:06:41.320291+00:00",
+    "power": 50,
+    "rank": "D"
+  },
+  {
+    "id": "21956f71",
+    "name": "Autonomy is a weight",
+    "summoned": "2026-07-03T12:06:41.326743+00:00",
+    "power": 100,
+    "rank": "D"
+  },
+  {
+    "id": "fa5c4a0d",
+    "name": "Shadow of Igris",
+    "summoned": "2026-07-03T12:06:41.338598+00:00",
+    "power": 75,
+    "rank": "C"
   }
 ]

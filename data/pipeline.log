@@ -1601,3 +1601,4 @@
 [2026-07-03T12:04:46.275645+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-03T12:04:46.277802+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T12:04:46.279251+00:00] PIPELINE RUN: 0 published, 235 remaining
+[2026-07-03T12:08:03.189354+00:00] STATS: {"published": 251, "pending": 0, "rejected": 235, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 117, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T12:08:03.164492+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
