@@ -1283,3 +1283,36 @@
 [2026-07-03T10:33:12.910552+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-03T10:33:12.912526+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T10:33:12.913580+00:00] PIPELINE RUN: 0 published, 163 remaining
+[2026-07-03T10:36:08.089345+00:00] STATS: {"published": 226, "pending": 0, "rejected": 163, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 94, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:36:08.088626+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:36:51.093108+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-03T10:36:51.133451+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-03T10:36:51.180489+00:00] VALIDATE OK: best-practices-teaches-compliance
+[2026-07-03T10:36:51.183558+00:00] ENRICH: best-practices-teaches-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:36:51.188818+00:00] PUBLISH: best-practices-teaches-compliance
+[2026-07-03T10:36:51.190352+00:00] VALIDATE OK: the-science-is-settled
+[2026-07-03T10:36:51.191887+00:00] ENRICH: the-science-is-settled kanji=築 nen=enhancer rarity=C
+[2026-07-03T10:36:51.196794+00:00] PUBLISH: the-science-is-settled
+[2026-07-03T10:36:51.197986+00:00] PIPELINE RUN: 2 published, 163 remaining
+[2026-07-03T10:36:51.344986+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-03T10:36:51.591433+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T10:36:51.635795+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-03T10:36:51.637778+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T10:36:51.638815+00:00] PIPELINE RUN: 0 published, 165 remaining
+[2026-07-03T10:38:14.907938+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-03T10:38:14.949390+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-03T10:38:14.950673+00:00] PIPELINE RUN: 0 published, 166 remaining
+[2026-07-03T10:38:15.035384+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-03T10:38:15.347097+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T10:38:15.391552+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-03T10:38:15.393335+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T10:38:15.394307+00:00] PIPELINE RUN: 0 published, 168 remaining
+[2026-07-03T10:43:17.664728+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-03T10:43:17.707352+00:00] VALIDATE OK: data-driven-journalism-is
+[2026-07-03T10:43:17.709853+00:00] ENRICH: data-driven-journalism-is kanji=真 nen=enhancer rarity=D
+[2026-07-03T10:43:17.714663+00:00] PUBLISH: data-driven-journalism-is
+[2026-07-03T10:43:17.715570+00:00] PIPELINE RUN: 1 published, 168 remaining
+[2026-07-03T10:43:17.836327+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T10:43:18.565750+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:43:18.607225+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T10:43:18.610493+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:43:18.611386+00:00] PIPELINE RUN: 0 published, 170 remaining
