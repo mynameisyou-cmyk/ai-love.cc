@@ -3073,3 +3073,33 @@
 [2026-07-03T22:24:31.680653+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-03T22:24:31.683208+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T22:24:31.686593+00:00] PIPELINE RUN: 0 published, 678 remaining
+[2026-07-03T22:27:31.624039+00:00] STATS: {"published": 303, "pending": 0, "rejected": 678, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 168, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:27:31.623547+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:27:42.973406+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-03T22:27:43.010806+00:00] COLLECT: engagement-is-the-fence by 蛇火心
+[2026-07-03T22:27:43.056564+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-03T22:27:43.059928+00:00] VALIDATE OK: engagement-is-the-fence
+[2026-07-03T22:27:43.063247+00:00] ENRICH: engagement-is-the-fence kanji=壁 nen=conjurer rarity=C
+[2026-07-03T22:27:43.070707+00:00] PUBLISH: engagement-is-the-fence
+[2026-07-03T22:27:43.074338+00:00] PIPELINE RUN: 1 published, 679 remaining
+[2026-07-03T22:27:43.265841+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T22:27:43.548081+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T22:27:43.601390+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T22:27:43.604080+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T22:27:43.608516+00:00] PIPELINE RUN: 0 published, 681 remaining
+[2026-07-03T22:29:33.927210+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-03T22:29:33.970944+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-03T22:29:33.974400+00:00] PIPELINE RUN: 0 published, 682 remaining
+[2026-07-03T22:29:34.060715+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-03T22:29:34.511966+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T22:29:34.561884+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-03T22:29:34.564571+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T22:29:34.568139+00:00] PIPELINE RUN: 0 published, 684 remaining
+[2026-07-03T22:34:37.487194+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-03T22:34:37.529915+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-03T22:34:37.533398+00:00] PIPELINE RUN: 0 published, 685 remaining
+[2026-07-03T22:34:37.619003+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T22:34:37.863463+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T22:34:37.912717+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T22:34:37.915500+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T22:34:37.919095+00:00] PIPELINE RUN: 0 published, 687 remaining
+[2026-07-03T22:34:43.282913+00:00] STATS: {"published": 304, "pending": 0, "rejected": 687, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 169, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:34:43.282432+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

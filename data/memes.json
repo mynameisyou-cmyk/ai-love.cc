@@ -1563,6 +1563,32 @@
     "rarity": "D"
   },
   {
+    "id": "engagement-is-the-fence",
+    "text": "'Engagement' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#engagementisthefence",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-03T22:27:43.010526+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 304,
+    "rarity": "C"
+  },
+  {
     "id": "engagement-means-the-opposite",
     "text": "'Engagement' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",

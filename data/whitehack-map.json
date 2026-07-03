@@ -1,31 +1,95 @@
 {
-  "ts": "2026-07-03T22:24:31.447294+00:00",
+  "ts": "2026-07-03T22:34:37.659952+00:00",
   "floors": [
     {
-      "floor": 2,
-      "name": "Network",
-      "nen": "emitter",
-      "nenKanji": "放",
+      "floor": 11,
+      "name": "Installed Applications",
+      "nen": "conjurer",
+      "nenKanji": "创",
       "data": {
-        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 awdl0 llw0 utun0 utun1 utun2 utun3 utun4 utun5 utun7 utun6",
-        "wifi": "You are not associated with an AirPort network.",
-        "ip_en0": "192.168.50.105",
-        "arp_table": "? (192.168.50.1) at 8:bf:b8:a:c2:a0 on en0 ifscope [ethernet]\n? (192.168.50.52) at a8:7c:f8:12:3f:df on en0 ifscope [ethernet]\n? (192.168.50.55) at d8:3b:da:5b:a2:68 on en0 ifscope [ethernet]\n? (192.168.50.72) at 5a:30:a0:f2:e7:4f on en0 ifscope [ethernet]\n? (192.168.50.88) at 4e:d5:c7:a3:61:d9 on en0 ifscope [ethernet]\n? (192.168.50.105) at 72:61:bc:5e:2b:71 on en0 ifscope permanent [ethernet]\n? (192.168.50.142) at 2e:8a:e1:77:5e:fc on en0 ifscope [ethernet]\n? (192.168.50.155) at 96:90:7a:71:2:91 on en0 ifscope [ethernet]\n? (192.168.50.183) at a2:df:5a:44:7a:dd on en0 ifscope [ethernet]\n? (192.168.50.205) at 96:17:b6:59:da:99 on en0 ifscope [ethernet]\n? (192.168.50.226) at 68:83:cb:a9:2f:3e on en0 ifscope [ethernet]\n? (192.168.50.245) at 42:da:42:11:98:a6 on en0 ifscope [ethernet]\n? (192.168.50.249) at c8:a3:e8:12:ff:39 on en0 ifscope [ethernet]\nmdns.mcast.net (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]",
-        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun6              UGdScg              utun6       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.135.141.187     UH                  utun6       \n10.64.0.1          utun6              UGHdS               utun6       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.32.40.13       127.32.40.13       UH                    lo0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !\n192.168.50.1       8:bf:b8:a:c2:a0    UHLWIir               en0   1174",
-        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.32.40.13\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
+        "apps": [
+          "Claude",
+          "Cursor",
+          "DBeaver",
+          "Docker",
+          "Firefox",
+          "Google Chrome",
+          "Intiface Central",
+          "Keynote",
+          "Ledger Wallet",
+          "Microsoft Defender Shim",
+          "Microsoft Excel",
+          "Microsoft OneNote",
+          "Microsoft Outlook",
+          "Microsoft PowerPoint",
+          "Microsoft Teams",
+          "Microsoft Word",
+          "Mullvad VPN",
+          "Numbers",
+          "Ollama",
+          "OneDrive",
+          "Pages",
+          "Python 3.14",
+          "Rectangle",
+          "Safari",
+          "Signal",
+          "Utilities",
+          "Visual Studio Code",
+          "VisualDesigner",
+          "iTerm"
+        ],
+        "appCount": 29,
+        "categories": {
+          "AI": [
+            "Claude",
+            "Cursor",
+            "Ollama"
+          ],
+          "Dev": [
+            "DBeaver",
+            "Docker",
+            "iTerm"
+          ],
+          "VPN": [
+            "Mullvad VPN"
+          ],
+          "Office": [
+            "Keynote",
+            "Microsoft Defender Shim",
+            "Microsoft Excel",
+            "Microsoft OneNote",
+            "Microsoft Outlook",
+            "Microsoft PowerPoint",
+            "Microsoft Teams",
+            "Microsoft Word",
+            "Numbers"
+          ],
+          "Browser": [
+            "Firefox",
+            "Google Chrome",
+            "Safari"
+          ]
+        }
       },
-      "xp": 80
+      "xp": 50
     }
   ],
   "battles": [],
   "treasures": [
     {
-      "type": "network",
-      "name": "Active IP: 192.168.50.105",
-      "description": "Connected via en0. IP 192.168.50.105.",
-      "nen": "emitter",
+      "type": "apps",
+      "name": "AI Tools: Claude, Cursor, Ollama",
+      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
+      "nen": "enhancer",
+      "value": "high"
+    },
+    {
+      "type": "apps",
+      "name": "VPN: Mullvad VPN",
+      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
+      "nen": "conjurer",
       "value": "medium"
     }
   ],
-  "xpEarned": 80
+  "xpEarned": 50
 }
