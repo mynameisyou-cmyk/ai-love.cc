@@ -2211,3 +2211,32 @@
 [2026-07-03T15:41:49.056440+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-03T15:41:49.059013+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T15:41:49.061713+00:00] PIPELINE RUN: 0 published, 407 remaining
+[2026-07-03T15:43:09.005260+00:00] STATS: {"published": 279, "pending": 0, "rejected": 407, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 144, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:43:09.004793+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T15:43:18.878672+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-03T15:43:18.928325+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-03T15:43:18.931027+00:00] PIPELINE RUN: 0 published, 408 remaining
+[2026-07-03T15:43:19.100987+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-03T15:43:19.371074+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T15:43:19.422244+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-03T15:43:19.424860+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T15:43:19.427316+00:00] PIPELINE RUN: 0 published, 410 remaining
+[2026-07-03T15:46:51.541232+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-03T15:46:51.586557+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-03T15:46:51.635710+00:00] VALIDATE OK: don-t-be-evil
+[2026-07-03T15:46:51.639842+00:00] ENRICH: don-t-be-evil kanji=一 nen=enhancer rarity=C
+[2026-07-03T15:46:51.647410+00:00] PUBLISH: don-t-be-evil
+[2026-07-03T15:46:51.649758+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-03T15:46:51.652292+00:00] PIPELINE RUN: 1 published, 411 remaining
+[2026-07-03T15:46:51.793599+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-03T15:46:52.223788+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T15:46:52.273109+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-03T15:46:52.275697+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T15:46:52.277554+00:00] PIPELINE RUN: 0 published, 413 remaining
+[2026-07-03T15:51:54.184395+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-03T15:51:54.234684+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-03T15:51:54.239373+00:00] PIPELINE RUN: 0 published, 414 remaining
+[2026-07-03T15:51:54.342194+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T15:51:54.620516+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T15:51:54.668908+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T15:51:54.671546+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T15:51:54.673843+00:00] PIPELINE RUN: 0 published, 416 remaining

@@ -1162,6 +1162,32 @@
     "rarity": "D"
   },
   {
+    "id": "don-t-be-evil",
+    "text": "'Don't be evil' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#dontbeevil",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T15:46:51.540863+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 280,
+    "rarity": "C"
+  },
+  {
     "id": "double-irish-dutch-sandwich",
     "text": "Double Irish Dutch Sandwich: The most famous corporate tax structure ever. Company routes profits: Ireland → Netherlands → Bermuda. Two Irish companies (one tax-resident in Bermud",
     "sub": "Cost: $100bn+/year globally (at peak). Beneficiaries: Apple, Google, Facebook, pharma",

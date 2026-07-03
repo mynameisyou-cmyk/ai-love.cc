@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-03T15:41:48.799864+00:00",
+  "ts": "2026-07-03T15:51:54.405627+00:00",
   "floors": [
     {
       "floor": 7,
@@ -7,7 +7,7 @@
       "nen": "enhancer",
       "nenKanji": "強",
       "data": {
-        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by caffeinate, powerd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
+        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by powerd, caffeinate)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
         "battery": "Now drawing from 'AC Power'\n -InternalBattery-0 (id=24641635)\t100%; charged; 0:00 remaining present: true"
       },
       "xp": 40
