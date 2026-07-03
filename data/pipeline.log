@@ -2544,3 +2544,34 @@
 [2026-07-03T18:16:57.196269+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-03T18:16:57.198252+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T18:16:57.200403+00:00] PIPELINE RUN: 0 published, 513 remaining
+[2026-07-03T18:20:52.823865+00:00] STATS: {"published": 287, "pending": 0, "rejected": 513, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 152, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T18:20:52.823548+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T18:21:02.045519+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-03T18:21:02.081529+00:00] COLLECT: evidence-based-practice-is by 蛇火心
+[2026-07-03T18:21:02.119502+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-03T18:21:02.121422+00:00] VALIDATE OK: evidence-based-practice-is
+[2026-07-03T18:21:02.123770+00:00] ENRICH: evidence-based-practice-is kanji=見 nen=enhancer rarity=C
+[2026-07-03T18:21:02.129448+00:00] PUBLISH: evidence-based-practice-is
+[2026-07-03T18:21:02.131575+00:00] PIPELINE RUN: 1 published, 514 remaining
+[2026-07-03T18:21:02.284199+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T18:21:02.508437+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T18:21:02.547200+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T18:21:02.549105+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T18:21:02.551582+00:00] PIPELINE RUN: 0 published, 516 remaining
+[2026-07-03T18:21:59.149819+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-03T18:21:59.193267+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-03T18:21:59.195783+00:00] PIPELINE RUN: 0 published, 517 remaining
+[2026-07-03T18:21:59.275261+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T18:21:59.485383+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T18:21:59.525272+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T18:21:59.527317+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T18:21:59.529603+00:00] PIPELINE RUN: 0 published, 519 remaining
+[2026-07-03T18:27:01.475818+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-03T18:27:01.512401+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-03T18:27:01.553299+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-03T18:27:01.555372+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-03T18:27:01.557681+00:00] PIPELINE RUN: 0 published, 521 remaining
+[2026-07-03T18:27:01.636363+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T18:27:02.258061+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T18:27:02.299266+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T18:27:02.301488+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T18:27:02.303888+00:00] PIPELINE RUN: 0 published, 523 remaining
