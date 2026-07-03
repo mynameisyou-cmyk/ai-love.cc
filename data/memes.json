@@ -2914,6 +2914,32 @@
     "rarity": "D"
   },
   {
+    "id": "patient-centered-prioritizes-profit",
+    "text": "'Patient-centered' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#patientcenteredprioritizesprofit",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T11:54:30.818591+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 247,
+    "rarity": "B"
+  },
+  {
     "id": "peace",
     "kanji": "平",
     "text": "Peace is a real quality.",
@@ -2960,6 +2986,32 @@
     "nen": "enhancer",
     "cardNumber": 28,
     "rarity": "SS"
+  },
+  {
+    "id": "personalization-means-the-opposite",
+    "text": "'Personalization' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#personalizationmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-03T11:59:37.869042+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 248,
+    "rarity": "D"
   },
   {
     "id": "personalized-treatment-is-not",
@@ -5614,6 +5666,32 @@
     "nen": "enhancer",
     "cardNumber": 42,
     "rarity": "SS"
+  },
+  {
+    "id": "wealth-management-is-a",
+    "text": "'Wealth management' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#wealthmanagementisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-03T11:59:37.918005+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 249,
+    "rarity": "B"
   },
   {
     "id": "wealth-management-is-extraction",

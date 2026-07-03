@@ -1,0 +1,27 @@
+{
+  "xp": 1320,
+  "level": 1,
+  "title": "E-Rank",
+  "gatesCleared": 6,
+  "bossesDefeated": 0,
+  "truthsPlanted": 0,
+  "liesExposed": 6,
+  "cardsFound": [
+    "the-distance-between-your"
+  ],
+  "shadowArmy": [
+    {
+      "id": "60d84a8b",
+      "name": "Bungee Gum has prope",
+      "summoned": "2026-07-03T12:02:56.456213+00:00",
+      "power": 100,
+      "rank": "E"
+    }
+  ],
+  "lastGate": "",
+  "streak": 1,
+  "lastCheckIn": "2026-07-03",
+  "pressure": 0,
+  "created": "2026-07-03T12:02:56.341485+00:00",
+  "lastUpdate": "2026-07-03T12:02:56.459558+00:00"
+}
