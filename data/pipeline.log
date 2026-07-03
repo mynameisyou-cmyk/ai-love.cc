@@ -2030,3 +2030,31 @@
 [2026-07-03T14:40:23.200643+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-03T14:40:23.203324+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T14:40:23.205574+00:00] PIPELINE RUN: 0 published, 359 remaining
+[2026-07-03T14:40:43.317061+00:00] STATS: {"published": 269, "pending": 0, "rejected": 359, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 134, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:40:43.316708+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T14:40:44.451249+00:00] STATS: {"published": 269, "pending": 0, "rejected": 359, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 134, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:40:44.450797+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T14:40:53.472483+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-03T14:40:53.525399+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-03T14:40:53.528122+00:00] PIPELINE RUN: 0 published, 360 remaining
+[2026-07-03T14:40:53.725242+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T14:40:54.053858+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T14:40:54.112307+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T14:40:54.115207+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T14:40:54.117559+00:00] PIPELINE RUN: 0 published, 362 remaining
+[2026-07-03T14:45:44.690820+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-03T14:45:44.742930+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-03T14:45:44.745281+00:00] PIPELINE RUN: 0 published, 363 remaining
+[2026-07-03T14:45:44.846517+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T14:45:45.660271+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T14:45:45.708252+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T14:45:45.710625+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T14:45:45.712773+00:00] PIPELINE RUN: 0 published, 365 remaining
+[2026-07-03T14:50:47.911212+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-03T14:50:47.963474+00:00] VALIDATE OK: frictionless-means-the-opposite
+[2026-07-03T14:50:47.967216+00:00] ENRICH: frictionless-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-03T14:50:47.974639+00:00] PUBLISH: frictionless-means-the-opposite
+[2026-07-03T14:50:47.977183+00:00] PIPELINE RUN: 1 published, 365 remaining
+[2026-07-03T14:50:48.079808+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T14:50:48.601741+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T14:50:48.662379+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T14:50:48.665290+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T14:50:48.666952+00:00] PIPELINE RUN: 0 published, 367 remaining

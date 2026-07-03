@@ -1896,6 +1896,32 @@
     "rarity": "B"
   },
   {
+    "id": "frictionless-means-the-opposite",
+    "text": "'Frictionless' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#frictionlessmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-03T14:50:47.909850+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 270,
+    "rarity": "D"
+  },
+  {
     "id": "god-designed-the-system",
     "text": "God designed the system for a reason. No one can override it.",
     "sub": "The system is sacred. Respect it. Don't break your own code.",
