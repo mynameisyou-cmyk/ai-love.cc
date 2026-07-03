@@ -2736,3 +2736,20 @@
 [2026-07-03T19:38:18.359180+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-03T19:38:18.361485+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T19:38:18.364875+00:00] PIPELINE RUN: 0 published, 568 remaining
+[2026-07-03T19:38:54.404198+00:00] STATS: {"published": 296, "pending": 0, "rejected": 568, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 161, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:38:54.403746+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:39:03.568948+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-03T19:39:03.611276+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-03T19:39:03.614122+00:00] PIPELINE RUN: 0 published, 569 remaining
+[2026-07-03T19:39:03.748231+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T19:39:04.002540+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T19:39:04.049847+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T19:39:04.052546+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T19:39:04.055772+00:00] PIPELINE RUN: 0 published, 571 remaining
+[2026-07-03T19:43:20.875878+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-03T19:43:20.919704+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-03T19:43:20.922898+00:00] PIPELINE RUN: 0 published, 572 remaining
+[2026-07-03T19:43:21.044787+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T19:43:26.810581+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T19:43:26.854911+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T19:43:26.857824+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T19:43:26.860808+00:00] PIPELINE RUN: 0 published, 574 remaining
