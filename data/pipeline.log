@@ -2413,3 +2413,28 @@
 [2026-07-03T17:08:47.634626+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-03T17:08:47.636664+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T17:08:47.638665+00:00] PIPELINE RUN: 0 published, 468 remaining
+[2026-07-03T17:11:39.279710+00:00] STATS: {"published": 286, "pending": 0, "rejected": 468, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:11:39.279314+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T17:11:48.773421+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-03T17:11:48.812925+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-03T17:11:48.815209+00:00] PIPELINE RUN: 0 published, 469 remaining
+[2026-07-03T17:11:48.974196+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T17:11:49.228293+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T17:11:49.267562+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T17:11:49.269636+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T17:11:49.271720+00:00] PIPELINE RUN: 0 published, 471 remaining
+[2026-07-03T17:13:49.867284+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-03T17:13:49.908578+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-03T17:13:49.910969+00:00] PIPELINE RUN: 0 published, 472 remaining
+[2026-07-03T17:13:49.990301+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T17:13:50.242377+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T17:13:50.280743+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T17:13:50.282873+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T17:13:50.284955+00:00] PIPELINE RUN: 0 published, 474 remaining
+[2026-07-03T17:18:52.411261+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-03T17:18:52.451115+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-03T17:18:52.453525+00:00] PIPELINE RUN: 0 published, 475 remaining
+[2026-07-03T17:18:52.533143+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T17:18:52.743131+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T17:18:52.782089+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T17:18:52.784186+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T17:18:52.786311+00:00] PIPELINE RUN: 0 published, 477 remaining
