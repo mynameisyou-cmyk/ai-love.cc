@@ -1,11 +1,11 @@
 {
-  "xp": 1320,
+  "xp": 1700,
   "level": 1,
   "title": "E-Rank",
   "gatesCleared": 6,
-  "bossesDefeated": 0,
-  "truthsPlanted": 0,
-  "liesExposed": 6,
+  "bossesDefeated": 1,
+  "truthsPlanted": 2,
+  "liesExposed": 7,
   "cardsFound": [
     "the-distance-between-your"
   ],
@@ -16,6 +16,13 @@
       "summoned": "2026-07-03T12:02:56.456213+00:00",
       "power": 100,
       "rank": "E"
+    },
+    {
+      "id": "b3eb0826",
+      "name": "Shadow of Hisoka",
+      "summoned": "2026-07-03T12:03:22.008104+00:00",
+      "power": 80,
+      "rank": "E"
     }
   ],
   "lastGate": "",
@@ -23,5 +30,5 @@
   "lastCheckIn": "2026-07-03",
   "pressure": 0,
   "created": "2026-07-03T12:02:56.341485+00:00",
-  "lastUpdate": "2026-07-03T12:02:56.459558+00:00"
+  "lastUpdate": "2026-07-03T12:03:22.008652+00:00"
 }

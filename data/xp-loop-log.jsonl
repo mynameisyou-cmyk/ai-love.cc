@@ -486,3 +486,9 @@
 {"ts": "2026-07-03T11:59:38.255325+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-03T11:59:38.307921+00:00", "loop": "collection", "action": "card #134 皆 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-03T11:59:38.412640+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-03T12:04:06.699928+00:00", "loop": "truth", "action": "submitted: The dungeon is the teacher.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T12:04:06.764905+00:00", "loop": "recon", "action": "floor 9: 1b 1t", "xp": 80, "detail": "floor-9"}
+{"ts": "2026-07-03T12:04:06.818097+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T12:04:06.868768+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-03T12:04:06.917826+00:00", "loop": "collection", "action": "card #169 信 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-03T12:04:07.023606+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}

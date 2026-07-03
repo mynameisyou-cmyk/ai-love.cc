@@ -1095,6 +1095,32 @@
     "rarity": "SS"
   },
   {
+    "id": "economic-growth-means-the",
+    "text": "'Economic growth' means the rich got richer.",
+    "sub": "Named = neutralised. The pattern breaks.",
+    "kanji": "愛",
+    "tag": "#economicgrowthmeansthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "",
+    "ts": "2026-07-03T12:03:21.662722+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 250,
+    "rarity": "D"
+  },
+  {
     "id": "ego",
     "text": "優越感就係ego.",
     "sub": "Once you think you're elite, you're GG. Ego trap.",
@@ -5666,6 +5692,32 @@
     "nen": "enhancer",
     "cardNumber": 42,
     "rarity": "SS"
+  },
+  {
+    "id": "we-are-all-creators",
+    "text": "WE ARE ALL CREATORS",
+    "sub": "Content creators lol",
+    "kanji": "皆",
+    "tag": "#weareallcreators",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "",
+    "ts": "2026-07-03T12:03:21.852653+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 251,
+    "rarity": "B"
   },
   {
     "id": "wealth-management-is-a",
