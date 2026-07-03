@@ -2793,3 +2793,33 @@
 [2026-07-03T19:59:06.371730+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-03T19:59:06.374265+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T19:59:06.377181+00:00] PIPELINE RUN: 0 published, 585 remaining
+[2026-07-03T19:59:42.904527+00:00] STATS: {"published": 298, "pending": 0, "rejected": 585, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 163, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:59:42.904076+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:59:52.081816+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-03T19:59:52.122402+00:00] COLLECT: innovation-in-healthcare-works by 蛇火心
+[2026-07-03T19:59:52.165761+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-03T19:59:52.168139+00:00] VALIDATE OK: innovation-in-healthcare-works
+[2026-07-03T19:59:52.170882+00:00] ENRICH: innovation-in-healthcare-works kanji=築 nen=transmuter rarity=C
+[2026-07-03T19:59:52.177732+00:00] PUBLISH: innovation-in-healthcare-works
+[2026-07-03T19:59:52.180482+00:00] PIPELINE RUN: 1 published, 586 remaining
+[2026-07-03T19:59:52.362451+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T19:59:52.652691+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T19:59:52.702117+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T19:59:52.704629+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T19:59:52.707736+00:00] PIPELINE RUN: 0 published, 588 remaining
+[2026-07-03T20:04:09.301523+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-03T20:04:09.344983+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-03T20:04:09.349098+00:00] PIPELINE RUN: 0 published, 589 remaining
+[2026-07-03T20:04:09.436547+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T20:04:09.667295+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T20:04:09.711777+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T20:04:09.714295+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T20:04:09.717246+00:00] PIPELINE RUN: 0 published, 591 remaining
+[2026-07-03T20:09:11.704981+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T20:09:11.746079+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T20:09:11.748986+00:00] PIPELINE RUN: 0 published, 592 remaining
+[2026-07-03T20:09:11.831212+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T20:09:12.033302+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T20:09:12.070980+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T20:09:12.073111+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T20:09:12.075702+00:00] PIPELINE RUN: 0 published, 594 remaining
+[2026-07-03T20:09:14.085698+00:00] STATS: {"published": 299, "pending": 0, "rejected": 594, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 164, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T20:09:14.085351+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
