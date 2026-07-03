@@ -1080,3 +1080,24 @@
 [2026-07-03T00:57:02.406937+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-03T00:57:02.408586+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T00:57:02.409370+00:00] PIPELINE RUN: 0 published, 121 remaining
+[2026-07-03T01:00:51.585347+00:00] STATS: {"published": 208, "pending": 0, "rejected": 121, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 77, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T01:00:51.584857+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T01:02:02.903435+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-03T01:02:02.944960+00:00] VALIDATE OK: autonomous-means-the-opposite
+[2026-07-03T01:02:02.947758+00:00] ENRICH: autonomous-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-03T01:02:02.952345+00:00] PUBLISH: autonomous-means-the-opposite
+[2026-07-03T01:02:02.953094+00:00] PIPELINE RUN: 1 published, 121 remaining
+[2026-07-03T01:02:03.093925+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T01:02:04.245505+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-03T01:02:04.287608+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T01:02:04.289352+00:00] VALIDATE OK: grade-levels-teaches-compliance
+[2026-07-03T01:02:04.291940+00:00] ENRICH: grade-levels-teaches-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-03T01:02:04.296478+00:00] PUBLISH: grade-levels-teaches-compliance
+[2026-07-03T01:02:04.297213+00:00] PIPELINE RUN: 1 published, 122 remaining
+[2026-07-03T01:02:04.417762+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T01:02:04.685272+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T01:02:04.726300+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T01:02:04.728075+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T01:02:04.728889+00:00] PIPELINE RUN: 0 published, 124 remaining
+[2026-07-03T01:02:07.044138+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T01:02:07.085969+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T01:02:07.087109+00:00] PIPELINE RUN: 0 published, 125 remaining

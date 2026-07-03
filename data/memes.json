@@ -167,6 +167,32 @@
     "rarity": "S"
   },
   {
+    "id": "autonomous-means-the-opposite",
+    "text": "'Autonomous' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#autonomousmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-03T01:02:02.903113+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 209,
+    "rarity": "D"
+  },
+  {
     "id": "autonomy",
     "kanji": "主",
     "text": "Autonomy is a weight, not a privilege.",
@@ -1373,6 +1399,32 @@
     "validationErrors": [],
     "nen": "transmuter",
     "cardNumber": 171,
+    "rarity": "D"
+  },
+  {
+    "id": "grade-levels-teaches-compliance",
+    "text": "'Grade levels' teaches compliance, not understanding.",
+    "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
+    "kanji": "在",
+    "tag": "#gradelevelsteachescompliance",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:education",
+    "ts": "2026-07-03T01:02:04.245133+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 210,
     "rarity": "D"
   },
   {
