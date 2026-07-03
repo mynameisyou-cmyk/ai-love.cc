@@ -3226,3 +3226,29 @@
 [2026-07-03T23:30:50.183940+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-03T23:30:50.186693+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T23:30:50.190496+00:00] PIPELINE RUN: 0 published, 724 remaining
+[2026-07-03T23:35:07.539194+00:00] STATS: {"published": 309, "pending": 0, "rejected": 724, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 174, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T23:35:07.538497+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T23:35:17.779876+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-03T23:35:17.824612+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-03T23:35:17.828786+00:00] PIPELINE RUN: 0 published, 725 remaining
+[2026-07-03T23:35:18.008593+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T23:35:18.254756+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T23:35:18.304574+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T23:35:18.307106+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T23:35:18.310959+00:00] PIPELINE RUN: 0 published, 727 remaining
+[2026-07-03T23:35:53.262945+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-03T23:35:53.309692+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-03T23:35:53.313545+00:00] PIPELINE RUN: 0 published, 728 remaining
+[2026-07-03T23:35:53.402634+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T23:35:53.697303+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T23:35:53.743314+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T23:35:53.745844+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T23:35:53.749493+00:00] PIPELINE RUN: 0 published, 730 remaining
+[2026-07-03T23:40:55.138983+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-03T23:40:55.179960+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-03T23:40:55.184284+00:00] PIPELINE RUN: 0 published, 731 remaining
+[2026-07-03T23:40:55.260654+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T23:40:55.491878+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T23:40:55.530685+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T23:40:55.532820+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T23:40:55.538727+00:00] PIPELINE RUN: 0 published, 733 remaining
+[2026-07-03T23:40:58.338996+00:00] STATS: {"published": 309, "pending": 0, "rejected": 733, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 174, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T23:40:58.338435+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
