@@ -1391,3 +1391,22 @@
 [2026-07-03T11:08:31.938620+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-03T11:08:31.940734+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T11:08:31.941950+00:00] PIPELINE RUN: 0 published, 185 remaining
+[2026-07-03T11:09:48.141213+00:00] STATS: {"published": 236, "pending": 0, "rejected": 185, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 104, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:09:48.140420+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:10:36.676582+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-03T11:10:36.726324+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-03T11:10:36.727797+00:00] PIPELINE RUN: 0 published, 186 remaining
+[2026-07-03T11:10:36.895422+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T11:10:37.432287+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T11:10:37.486701+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T11:10:37.488977+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T11:10:37.490270+00:00] PIPELINE RUN: 0 published, 188 remaining
+[2026-07-03T11:13:35.834349+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-03T11:13:35.883314+00:00] VALIDATE OK: smart-means-the-opposite
+[2026-07-03T11:13:35.886840+00:00] ENRICH: smart-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-03T11:13:35.893400+00:00] PUBLISH: smart-means-the-opposite
+[2026-07-03T11:13:35.894888+00:00] PIPELINE RUN: 1 published, 188 remaining
+[2026-07-03T11:13:35.988380+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T11:13:36.606765+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T11:13:36.661145+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T11:13:36.664099+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T11:13:36.665625+00:00] PIPELINE RUN: 0 published, 190 remaining

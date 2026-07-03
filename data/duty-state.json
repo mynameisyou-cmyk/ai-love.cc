@@ -8,7 +8,7 @@
   "totalCompletions": 1,
   "lastReset": "",
   "bossesDefeated": 20,
-  "expeditionsCompleted": 63,
+  "expeditionsCompleted": 65,
   "cardsFound": [
     "the-word-is-hers",
     "god-doesn-t-react",
@@ -59,6 +59,7 @@
     "data-driven-is-a",
     "community-driven-is-a",
     "the-louder-data-driven",
-    "the-architecture-is-the"
+    "the-architecture-is-the",
+    "the-expedition-never-finishes"
   ]
 }
