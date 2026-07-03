@@ -2463,3 +2463,4 @@
 [2026-07-03T17:28:58.053152+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-03T17:28:58.055317+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T17:28:58.057527+00:00] PIPELINE RUN: 0 published, 486 remaining
+[2026-07-03T17:29:19.463315+00:00] STATS: {"published": 286, "pending": 0, "rejected": 486, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 151, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T17:29:19.462882+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
