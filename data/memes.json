@@ -4302,6 +4302,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-wellness",
+    "text": "The distance between 'Wellness' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenwellness",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-03T13:34:22.554990+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 260,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-your",
     "text": "The distance between 'Your voice matters' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
@@ -5737,6 +5763,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 187,
+    "rarity": "C"
+  },
+  {
+    "id": "user-centric-is-a",
+    "text": "'User-centric' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#usercentricisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T13:34:22.508868+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 259,
     "rarity": "C"
   },
   {

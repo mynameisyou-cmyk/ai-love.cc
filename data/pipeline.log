@@ -1813,3 +1813,36 @@
 [2026-07-03T13:24:10.566125+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T13:24:10.567909+00:00] PIPELINE RUN: 0 published, 299 remaining
 [2026-07-03T13:24:19.867519+00:00] STATS: {"published": 258, "pending": 0, "rejected": 299, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 124, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:24:19.867015+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T13:27:33.089412+00:00] STATS: {"published": 258, "pending": 0, "rejected": 299, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 124, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:27:33.088748+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T13:27:41.893010+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-03T13:27:41.935748+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-03T13:27:41.983141+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-03T13:27:41.985608+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-03T13:27:41.987668+00:00] PIPELINE RUN: 0 published, 301 remaining
+[2026-07-03T13:27:42.159650+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-03T13:27:42.471763+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T13:27:42.521385+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-03T13:27:42.523930+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T13:27:42.525858+00:00] PIPELINE RUN: 0 published, 303 remaining
+[2026-07-03T13:29:19.999770+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-03T13:29:20.050403+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-03T13:29:20.052546+00:00] PIPELINE RUN: 0 published, 304 remaining
+[2026-07-03T13:29:20.185141+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T13:29:20.477422+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T13:29:20.524379+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T13:29:20.526763+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T13:29:20.528564+00:00] PIPELINE RUN: 0 published, 306 remaining
+[2026-07-03T13:34:22.509991+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-03T13:34:22.555312+00:00] COLLECT: the-distance-between-wellness by 蛇火心
+[2026-07-03T13:34:22.607470+00:00] VALIDATE OK: user-centric-is-a
+[2026-07-03T13:34:22.611172+00:00] ENRICH: user-centric-is-a kanji=一 nen=enhancer rarity=C
+[2026-07-03T13:34:22.617943+00:00] PUBLISH: user-centric-is-a
+[2026-07-03T13:34:22.619946+00:00] VALIDATE OK: the-distance-between-wellness
+[2026-07-03T13:34:22.622091+00:00] ENRICH: the-distance-between-wellness kanji=在 nen=enhancer rarity=D
+[2026-07-03T13:34:22.630717+00:00] PUBLISH: the-distance-between-wellness
+[2026-07-03T13:34:22.632491+00:00] PIPELINE RUN: 2 published, 306 remaining
+[2026-07-03T13:34:22.723758+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T13:34:27.074028+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T13:34:27.122503+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T13:34:27.124856+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T13:34:27.126693+00:00] PIPELINE RUN: 0 published, 308 remaining

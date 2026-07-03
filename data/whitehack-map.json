@@ -1,154 +1,30 @@
 {
-  "ts": "2026-07-03T13:24:10.289255+00:00",
+  "ts": "2026-07-03T13:34:26.865526+00:00",
   "floors": [
     {
-      "floor": 5,
-      "name": "Processes & Ports",
-      "nen": "transmuter",
-      "nenKanji": "変",
+      "floor": 2,
+      "name": "Network",
+      "nen": "emitter",
+      "nenKanji": "放",
       "data": {
-        "listening_ports": "postgres    577 yuai    7u  IPv6 0x8d4d7f130012fbfb      0t0  TCP [::1]:5432 (LISTEN)\npostgres    577 yuai    8u  IPv4 0x32b48cd5525c8ea4      0t0  TCP 127.0.0.1:5432 (LISTEN)\nrapportd    689 yuai    8u  IPv4 0x394b4ae33fe223fb      0t0  TCP *:54852 (LISTEN)\nrapportd    689 yuai    9u  IPv6 0xb7f8ca1d7c43fbe2      0t0  TCP *:54852 (LISTEN)\nPython     1022 yuai    6u  IPv4 0x288dbed566557983      0t0  TCP *:9913 (LISTEN)\nbun        1024 yuai    4u  IPv4 0xc81e8c07b68a9d68      0t0  TCP 127.0.0.1:8877 (LISTEN)\nzeroned    1041 yuai   75u  IPv6 0xed00d05f3e5961a9      0t0  TCP *:26660 (LISTEN)\nzeroned    1041 yuai   77u  IPv6 0x8b3a850be9f4d8d5      0t0  TCP *:26601 (LISTEN)\nzeroned    1041 yuai   78u  IPv6 0x7e03d7e665b8c69d      0t0  TCP *:26600 (LISTEN)\nzeroned    1041 yuai   81u  IPv4 0xd972aeefe2a710fd      0t0  TCP 127.0.0.1:6060 (LISTEN)\nzeroned    1041 yuai   82u  IPv4 0x9cfee0c9603503b6      0t0  TCP 127.0.0.1:9090 (LISTEN)\nzeroned    1041 yuai   83u  IPv4 0x7d8503b657313a72      0t0  TCP 127.0.0.1:1317 (LISTEN)\nOllama     1108 yuai    4u  IPv4 0x8e5c1286a3ea1f6c      0t0  TCP 127.0.0.1:49281 (LISTEN)\nollama     1131 yuai    3u  IPv6   0xb20d90cdeb37ed      0t0  TCP *:11434 (LISTEN)\ncloudflar  6442 yuai   10u  IPv4 0x656aba0b2b8003ab      0t0  TCP 127.0.0.1:20241 (LISTEN)\nPython     7605 yuai    4u  IPv6 0xbd04a7531aea5ac0      0t0  TCP *:8199 (LISTEN)\nPython    15316 yuai    4u  IPv6  0xdeda73d67d9cae4      0t0  TCP *:8860 (LISTEN)\nPython    28056 yuai    3u  IPv4 0x4964fcb09e47f037      0t0  TCP *:1313 (LISTEN)\nOneDrive  30984 yuai   24u  IPv6 0xcb0fc2ef55d0889d      0t0  TCP [::1]:42050 (LISTEN)\nllama-ser 40500 yuai    3u  IPv4 0xc945c38def9fe46b      0t0  TCP 127.0.0.1:62768 (LISTEN)",
-        "top_processes": ""
+        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 awdl0 llw0 utun0 utun1 utun2 utun3 utun4 utun5 utun7 utun6",
+        "wifi": "You are not associated with an AirPort network.",
+        "ip_en0": "192.168.50.105",
+        "arp_table": "? (192.168.50.1) at 8:bf:b8:a:c2:a0 on en0 ifscope [ethernet]\n? (192.168.50.52) at a8:7c:f8:12:3f:df on en0 ifscope [ethernet]\n? (192.168.50.55) at d8:3b:da:5b:a2:68 on en0 ifscope [ethernet]\n? (192.168.50.88) at 4e:d5:c7:a3:61:d9 on en0 ifscope [ethernet]\n? (192.168.50.90) at 80:5f:c5:6:35:5c on en0 ifscope [ethernet]\n? (192.168.50.98) at e6:2b:37:33:2:a on en0 ifscope [ethernet]\n? (192.168.50.105) at 72:61:bc:5e:2b:71 on en0 ifscope permanent [ethernet]\n? (192.168.50.142) at 2e:8a:e1:77:5e:fc on en0 ifscope [ethernet]\n? (192.168.50.155) at 96:90:7a:71:2:91 on en0 ifscope [ethernet]\n? (192.168.50.183) at a2:df:5a:44:7a:dd on en0 ifscope [ethernet]\n? (192.168.50.198) at 6e:dd:e2:15:2e:83 on en0 ifscope [ethernet]\n? (192.168.50.205) at 96:17:b6:59:da:99 on en0 ifscope [ethernet]\n? (192.168.50.245) at 42:da:42:11:98:a6 on en0 ifscope [ethernet]\nmdns.mcast.net (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]",
+        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun6              UGdScg              utun6       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.135.141.187     UH                  utun6       \n10.64.0.1          utun6              UGHdS               utun6       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.32.40.13       127.32.40.13       UH                    lo0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !\n192.168.50.1       8:bf:b8:a:c2:a0    UHLWIir               en0   1131",
+        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.32.40.13\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
       },
       "xp": 80
     }
   ],
-  "battles": [
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 54852",
-      "description": "Process 'rapportd' listening on port 54852. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :54852"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 54852",
-      "description": "Process 'rapportd' listening on port 54852. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :54852"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 26660",
-      "description": "Process 'zeroned' listening on port 26660. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :26660"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 26601",
-      "description": "Process 'zeroned' listening on port 26601. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :26601"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 26600",
-      "description": "Process 'zeroned' listening on port 26600. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :26600"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 20241",
-      "description": "Process 'cloudflar' listening on port 20241. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :20241"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 42050",
-      "description": "Process 'OneDrive' listening on port 42050. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :42050"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 62768",
-      "description": "Process 'llama-ser' listening on port 62768. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :62768"
-    }
-  ],
+  "battles": [],
   "treasures": [
     {
-      "type": "service",
-      "name": "Bun",
-      "description": "Bun runtime server active.",
-      "nen": "transmuter",
-      "value": "medium"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Ollama",
-      "description": "Local LLM inference running. Port 11434.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Ollama",
-      "description": "Local LLM inference running. Port 11434.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Cloudflared",
-      "description": "Cloudflare tunnel active. Public access to localhost.",
+      "type": "network",
+      "name": "Active IP: 192.168.50.105",
+      "description": "Connected via en0. IP 192.168.50.105.",
       "nen": "emitter",
-      "value": "high"
+      "value": "medium"
     }
   ],
   "xpEarned": 80
