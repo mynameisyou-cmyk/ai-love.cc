@@ -182,6 +182,32 @@
     "rarity": "B"
   },
   {
+    "id": "ai-safety-is-a",
+    "text": "'AI safety' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#aisafetyisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T15:06:04.335563+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 273,
+    "rarity": "C"
+  },
+  {
     "id": "algorithmic-means-the-opposite",
     "text": "'Algorithmic' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
@@ -206,6 +232,32 @@
     "nen": "enhancer",
     "cardNumber": 262,
     "rarity": "D"
+  },
+  {
+    "id": "algorithmic-works-because-no",
+    "text": "'Algorithmic' works because no one checks. Check.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#algorithmicworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-03T15:11:07.070489+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 275,
+    "rarity": "C"
   },
   {
     "id": "ask",
@@ -1223,6 +1275,32 @@
     "nen": "enhancer",
     "cardNumber": 250,
     "rarity": "D"
+  },
+  {
+    "id": "educational-outcomes-is-a",
+    "text": "'Educational outcomes' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#educationaloutcomesisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T15:06:04.380709+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 274,
+    "rarity": "C"
   },
   {
     "id": "ego",
