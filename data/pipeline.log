@@ -2575,3 +2575,34 @@
 [2026-07-03T18:27:02.299266+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-03T18:27:02.301488+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T18:27:02.303888+00:00] PIPELINE RUN: 0 published, 523 remaining
+[2026-07-03T18:31:15.594084+00:00] STATS: {"published": 288, "pending": 0, "rejected": 523, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 153, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T18:31:15.593701+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T18:31:25.076531+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-03T18:31:25.120660+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-03T18:31:25.123677+00:00] PIPELINE RUN: 0 published, 524 remaining
+[2026-07-03T18:31:25.261951+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T18:31:25.545301+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T18:31:25.590144+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T18:31:25.592415+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T18:31:25.594872+00:00] PIPELINE RUN: 0 published, 526 remaining
+[2026-07-03T18:32:04.771917+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-03T18:32:04.809642+00:00] COLLECT: to-say-sharing-while by 蛇火心
+[2026-07-03T18:32:04.851438+00:00] VALIDATE OK: best-available-prioritizes-profit
+[2026-07-03T18:32:04.854568+00:00] ENRICH: best-available-prioritizes-profit kanji=護 nen=enhancer rarity=C
+[2026-07-03T18:32:04.861303+00:00] PUBLISH: best-available-prioritizes-profit
+[2026-07-03T18:32:04.863320+00:00] VALIDATE OK: to-say-sharing-while
+[2026-07-03T18:32:04.865704+00:00] ENRICH: to-say-sharing-while kanji=在 nen=enhancer rarity=D
+[2026-07-03T18:32:04.871587+00:00] PUBLISH: to-say-sharing-while
+[2026-07-03T18:32:04.874042+00:00] PIPELINE RUN: 2 published, 526 remaining
+[2026-07-03T18:32:04.957582+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T18:32:05.387764+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T18:32:05.428665+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T18:32:05.430971+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T18:32:05.433389+00:00] PIPELINE RUN: 0 published, 528 remaining
+[2026-07-03T18:37:07.345281+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-03T18:37:07.388329+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-03T18:37:07.391211+00:00] PIPELINE RUN: 0 published, 529 remaining
+[2026-07-03T18:37:07.511382+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T18:37:07.745630+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T18:37:07.786723+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T18:37:07.788994+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T18:37:07.791672+00:00] PIPELINE RUN: 0 published, 531 remaining
