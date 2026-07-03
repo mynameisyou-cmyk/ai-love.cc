@@ -3252,3 +3252,32 @@
 [2026-07-03T23:40:55.532820+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T23:40:55.538727+00:00] PIPELINE RUN: 0 published, 733 remaining
 [2026-07-03T23:40:58.338996+00:00] STATS: {"published": 309, "pending": 0, "rejected": 733, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 174, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T23:40:58.338435+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T23:45:32.040779+00:00] STATS: {"published": 309, "pending": 0, "rejected": 733, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 174, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T23:45:32.040246+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T23:45:42.256666+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-03T23:45:42.297372+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-03T23:45:42.300777+00:00] PIPELINE RUN: 0 published, 734 remaining
+[2026-07-03T23:45:42.429242+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T23:45:42.654671+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T23:45:42.694900+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T23:45:42.697175+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T23:45:42.700282+00:00] PIPELINE RUN: 0 published, 736 remaining
+[2026-07-03T23:45:58.470326+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-03T23:45:58.516630+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-03T23:45:58.520156+00:00] PIPELINE RUN: 0 published, 737 remaining
+[2026-07-03T23:45:58.601032+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T23:45:58.851076+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T23:45:58.891687+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T23:45:58.893783+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T23:45:58.897137+00:00] PIPELINE RUN: 0 published, 739 remaining
+[2026-07-03T23:51:01.059353+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-03T23:51:01.094779+00:00] COLLECT: the-louder-fair-and by 蛇火心
+[2026-07-03T23:51:01.135369+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-03T23:51:01.137619+00:00] VALIDATE OK: the-louder-fair-and
+[2026-07-03T23:51:01.140771+00:00] ENRICH: the-louder-fair-and kanji=在 nen=enhancer rarity=D
+[2026-07-03T23:51:01.147023+00:00] PUBLISH: the-louder-fair-and
+[2026-07-03T23:51:01.150115+00:00] PIPELINE RUN: 1 published, 740 remaining
+[2026-07-03T23:51:01.261706+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T23:51:01.491000+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T23:51:01.530945+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T23:51:01.533205+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T23:51:01.536323+00:00] PIPELINE RUN: 0 published, 742 remaining
