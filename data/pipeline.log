@@ -1249,3 +1249,4 @@
 [2026-07-03T10:22:40.668979+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-03T10:22:40.670711+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T10:22:40.672024+00:00] PIPELINE RUN: 0 published, 158 remaining
+[2026-07-03T10:23:09.856390+00:00] STATS: {"published": 222, "pending": 0, "rejected": 158, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 91, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:23:09.855880+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

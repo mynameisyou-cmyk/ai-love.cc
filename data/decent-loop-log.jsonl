@@ -98,3 +98,4 @@
 {"ts": "2026-07-03T10:14:38.337329+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Malta's 5% Effective Rate", "ok": true}}
 {"ts": "2026-07-03T10:14:42.387453+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 590, "ok": true}}
 {"ts": "2026-07-03T10:14:48.188883+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-03T10:24:57.113113+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 5, "ok": true}}
