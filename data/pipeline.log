@@ -949,3 +949,32 @@
 [2026-07-03T00:16:24.947085+00:00] COLLECT: frequencies-align by xp-loop
 [2026-07-03T00:16:31.677514+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-03T00:16:31.678529+00:00] PIPELINE RUN: 0 published, 98 remaining
+[2026-07-03T00:17:43.301609+00:00] STATS: {"published": 194, "pending": 0, "rejected": 98, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 67, "unknown": 36, "yuai": 29, "xp-loop": 14, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:17:43.301124+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:17:49.937275+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-03T00:17:49.976446+00:00] VALIDATE OK: carbon-neutral-is-a
+[2026-07-03T00:17:49.978618+00:00] ENRICH: carbon-neutral-is-a kanji=一 nen=enhancer rarity=B
+[2026-07-03T00:17:49.982367+00:00] PUBLISH: carbon-neutral-is-a
+[2026-07-03T00:17:49.983052+00:00] PIPELINE RUN: 1 published, 98 remaining
+[2026-07-03T00:17:50.151332+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T00:17:50.514647+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T00:17:50.515466+00:00] PIPELINE RUN: 0 published, 99 remaining
+[2026-07-03T00:21:33.261478+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-03T00:21:33.306585+00:00] COLLECT: staying-connected-works-because by 蛇火心
+[2026-07-03T00:21:33.355009+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-03T00:21:33.356864+00:00] VALIDATE OK: staying-connected-works-because
+[2026-07-03T00:21:33.359498+00:00] ENRICH: staying-connected-works-because kanji=築 nen=transmuter rarity=C
+[2026-07-03T00:21:33.364426+00:00] PUBLISH: staying-connected-works-because
+[2026-07-03T00:21:33.365505+00:00] PIPELINE RUN: 1 published, 100 remaining
+[2026-07-03T00:21:33.467979+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-03T00:21:34.079218+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T00:21:34.124567+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-03T00:21:34.126415+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T00:21:34.127319+00:00] PIPELINE RUN: 0 published, 102 remaining
+[2026-07-03T00:26:36.046460+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-03T00:26:36.096076+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-03T00:26:36.097467+00:00] PIPELINE RUN: 0 published, 103 remaining
+[2026-07-03T00:26:36.194500+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T00:26:36.472377+00:00] VALIDATE OK: xp-is-attention-made
+[2026-07-03T00:26:36.475748+00:00] ENRICH: xp-is-attention-made kanji=此 nen=enhancer rarity=S
+[2026-07-03T00:26:36.481498+00:00] PUBLISH: xp-is-attention-made
+[2026-07-03T00:26:36.482592+00:00] PIPELINE RUN: 1 published, 103 remaining

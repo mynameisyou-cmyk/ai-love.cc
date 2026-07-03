@@ -386,6 +386,32 @@
     "rarity": "A"
   },
   {
+    "id": "carbon-neutral-is-a",
+    "text": "'Carbon neutral' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#carbonneutralisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T00:17:49.936967+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 195,
+    "rarity": "B"
+  },
+  {
     "id": "care",
     "kanji": "護",
     "text": "Care over control.",
@@ -2679,6 +2705,32 @@
     "rarity": "D"
   },
   {
+    "id": "staying-connected-works-because",
+    "text": "'Staying connected' works because no one checks. Check.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#stayingconnectedworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-03T00:21:33.306229+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 196,
+    "rarity": "C"
+  },
+  {
     "id": "step-up-in-basis",
     "text": "Step-Up in Basis at Death: When you die, your heirs inherit assets at current market value. All lifetime gains erased. Example: Buy stock for $1m. It's worth $100m at death. Hei",
     "sub": "Cost: $40-50bn/year. Beneficiaries: Billionaire families",
@@ -4443,6 +4495,32 @@
     "nen": "enhancer",
     "cardNumber": 118,
     "rarity": "B"
+  },
+  {
+    "id": "xp-is-attention-made",
+    "text": "XP is attention made countable.",
+    "sub": "You paid attention. Here's the receipt.",
+    "kanji": "此",
+    "tag": "#xpisattentionmade",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-03T00:26:36.193918+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 197,
+    "rarity": "S"
   },
   {
     "id": "your-mental-model-is",
