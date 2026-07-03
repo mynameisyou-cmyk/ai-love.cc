@@ -1182,3 +1182,39 @@
 [2026-07-03T10:02:23.242539+00:00] PIPELINE RUN: 0 published, 141 remaining
 [2026-07-03T10:02:23.317943+00:00] COLLECT: the-system-feeds-itself by xp-loop
 [2026-07-03T10:02:23.534902+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:02:23.571230+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T10:02:23.572716+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:02:23.573446+00:00] PIPELINE RUN: 0 published, 143 remaining
+[2026-07-03T10:02:31.928259+00:00] STATS: {"published": 217, "pending": 0, "rejected": 143, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 86, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:02:31.927879+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:03:20.600779+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-03T10:03:20.636309+00:00] COLLECT: to-say-wealth-management by 蛇火心
+[2026-07-03T10:03:20.673421+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-03T10:03:20.674919+00:00] VALIDATE OK: to-say-wealth-management
+[2026-07-03T10:03:20.677235+00:00] ENRICH: to-say-wealth-management kanji=在 nen=enhancer rarity=D
+[2026-07-03T10:03:20.681313+00:00] PUBLISH: to-say-wealth-management
+[2026-07-03T10:03:20.682054+00:00] PIPELINE RUN: 1 published, 144 remaining
+[2026-07-03T10:03:20.806261+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T10:03:23.841550+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T10:03:23.878009+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T10:03:23.879617+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T10:03:23.880408+00:00] PIPELINE RUN: 0 published, 146 remaining
+[2026-07-03T10:07:28.791611+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-03T10:07:28.834739+00:00] VALIDATE OK: machine-learning-fairness-means
+[2026-07-03T10:07:28.837409+00:00] ENRICH: machine-learning-fairness-means kanji=愛 nen=enhancer rarity=D
+[2026-07-03T10:07:28.841638+00:00] PUBLISH: machine-learning-fairness-means
+[2026-07-03T10:07:28.844285+00:00] PIPELINE RUN: 1 published, 146 remaining
+[2026-07-03T10:07:28.958450+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T10:07:29.190292+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T10:07:29.229570+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T10:07:29.231235+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T10:07:29.232069+00:00] PIPELINE RUN: 0 published, 148 remaining
+[2026-07-03T10:12:31.610423+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-03T10:12:31.653233+00:00] VALIDATE OK: data-driven-is-a
+[2026-07-03T10:12:31.655798+00:00] ENRICH: data-driven-is-a kanji=一 nen=enhancer rarity=B
+[2026-07-03T10:12:31.661050+00:00] PUBLISH: data-driven-is-a
+[2026-07-03T10:12:31.662306+00:00] PIPELINE RUN: 1 published, 148 remaining
+[2026-07-03T10:12:31.740983+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T10:12:35.096658+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T10:12:35.134481+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T10:12:35.136170+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T10:12:35.137019+00:00] PIPELINE RUN: 0 published, 150 remaining

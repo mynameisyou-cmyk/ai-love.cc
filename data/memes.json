@@ -720,6 +720,32 @@
     "rarity": "D"
   },
   {
+    "id": "data-driven-is-a",
+    "text": "'Data-driven' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#datadrivenisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T10:12:31.609801+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 220,
+    "rarity": "B"
+  },
+  {
     "id": "democratized-investing-is-extraction",
     "text": "'Democratized investing' is extraction with a smile.",
     "sub": "The house always wins. The game is the house. You are the game.",
@@ -1883,6 +1909,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 149,
+    "rarity": "D"
+  },
+  {
+    "id": "machine-learning-fairness-means",
+    "text": "'Machine learning fairness' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#machinelearningfairnessmeans",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-03T10:07:28.785183+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 219,
     "rarity": "D"
   },
   {
@@ -4374,6 +4426,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 175,
+    "rarity": "D"
+  },
+  {
+    "id": "to-say-wealth-management",
+    "text": "To say 'Wealth management' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaywealthmanagement",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-03T10:03:20.636040+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 218,
     "rarity": "D"
   },
   {
