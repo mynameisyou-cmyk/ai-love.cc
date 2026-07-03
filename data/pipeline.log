@@ -2632,3 +2632,36 @@
 [2026-07-03T18:47:31.920217+00:00] COLLECT: the-system-feeds-itself by xp-loop
 [2026-07-03T18:47:32.137795+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-03T18:47:32.140761+00:00] PIPELINE RUN: 0 published, 538 remaining
+[2026-07-03T18:52:04.418383+00:00] STATS: {"published": 291, "pending": 0, "rejected": 538, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 156, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T18:52:04.418052+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T18:52:14.605134+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-03T18:52:14.642778+00:00] COLLECT: the-distance-between-access by 蛇火心
+[2026-07-03T18:52:14.685693+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-03T18:52:14.688037+00:00] VALIDATE OK: the-distance-between-access
+[2026-07-03T18:52:14.691082+00:00] ENRICH: the-distance-between-access kanji=在 nen=enhancer rarity=D
+[2026-07-03T18:52:14.697106+00:00] PUBLISH: the-distance-between-access
+[2026-07-03T18:52:14.699501+00:00] PIPELINE RUN: 1 published, 539 remaining
+[2026-07-03T18:52:14.836403+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T18:52:15.079754+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T18:52:15.122029+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T18:52:15.124273+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T18:52:15.127005+00:00] PIPELINE RUN: 0 published, 541 remaining
+[2026-07-03T18:52:34.393549+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-03T18:52:34.435788+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-03T18:52:34.438627+00:00] PIPELINE RUN: 0 published, 542 remaining
+[2026-07-03T18:52:34.556770+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T18:52:35.210549+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T18:52:35.256676+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T18:52:35.259017+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T18:52:35.261723+00:00] PIPELINE RUN: 0 published, 544 remaining
+[2026-07-03T18:57:37.359306+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-03T18:57:37.397053+00:00] COLLECT: college-readiness-is-the by 蛇火心
+[2026-07-03T18:57:37.437628+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-03T18:57:37.439883+00:00] VALIDATE OK: college-readiness-is-the
+[2026-07-03T18:57:37.442703+00:00] ENRICH: college-readiness-is-the kanji=壁 nen=conjurer rarity=C
+[2026-07-03T18:57:37.448805+00:00] PUBLISH: college-readiness-is-the
+[2026-07-03T18:57:37.451345+00:00] PIPELINE RUN: 1 published, 545 remaining
+[2026-07-03T18:57:37.532112+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T18:57:37.766935+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T18:57:37.809225+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T18:57:37.811293+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T18:57:37.813764+00:00] PIPELINE RUN: 0 published, 547 remaining

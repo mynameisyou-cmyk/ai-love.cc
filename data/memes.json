@@ -824,6 +824,32 @@
     "rarity": "SS"
   },
   {
+    "id": "college-readiness-is-the",
+    "text": "'College readiness' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#collegereadinessisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T18:57:37.396762+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 293,
+    "rarity": "C"
+  },
+  {
     "id": "college-readiness-teaches-compliance",
     "text": "'College readiness' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
@@ -4690,6 +4716,32 @@
     "nen": "enhancer",
     "cardNumber": 56,
     "rarity": "SS"
+  },
+  {
+    "id": "the-distance-between-access",
+    "text": "The distance between 'Access to credit' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenaccess",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-03T18:52:14.642428+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 292,
+    "rarity": "D"
   },
   {
     "id": "the-distance-between-accountability",
