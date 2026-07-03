@@ -1657,3 +1657,16 @@
 [2026-07-03T12:28:15.382499+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-03T12:28:15.384780+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T12:28:15.386363+00:00] PIPELINE RUN: 0 published, 253 remaining
+[2026-07-03T12:33:17.238361+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-03T12:33:17.290610+00:00] COLLECT: grade-levels-is-the by 蛇火心
+[2026-07-03T12:33:17.348889+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-03T12:33:17.351561+00:00] VALIDATE OK: grade-levels-is-the
+[2026-07-03T12:33:17.355241+00:00] ENRICH: grade-levels-is-the kanji=壁 nen=conjurer rarity=C
+[2026-07-03T12:33:17.363183+00:00] PUBLISH: grade-levels-is-the
+[2026-07-03T12:33:17.365025+00:00] PIPELINE RUN: 1 published, 254 remaining
+[2026-07-03T12:33:17.468787+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T12:33:17.790420+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T12:33:17.852757+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T12:33:17.855585+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T12:33:17.857654+00:00] PIPELINE RUN: 0 published, 256 remaining
+[2026-07-03T12:33:21.048259+00:00] STATS: {"published": 253, "pending": 0, "rejected": 256, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 119, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T12:33:21.047731+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
