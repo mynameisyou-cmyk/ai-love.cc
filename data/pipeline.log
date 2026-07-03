@@ -1602,3 +1602,16 @@
 [2026-07-03T12:04:46.277802+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T12:04:46.279251+00:00] PIPELINE RUN: 0 published, 235 remaining
 [2026-07-03T12:08:03.189354+00:00] STATS: {"published": 251, "pending": 0, "rejected": 235, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 117, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T12:08:03.164492+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T12:09:49.289287+00:00] STATS: {"published": 251, "pending": 0, "rejected": 235, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 117, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T12:09:49.288724+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T12:13:03.947338+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-03T12:13:04.032249+00:00] COLLECT: the-distance-between-breaking by 蛇火心
+[2026-07-03T12:13:04.126903+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-03T12:13:04.132176+00:00] VALIDATE OK: the-distance-between-breaking
+[2026-07-03T12:13:04.139256+00:00] ENRICH: the-distance-between-breaking kanji=在 nen=enhancer rarity=D
+[2026-07-03T12:13:04.151693+00:00] PUBLISH: the-distance-between-breaking
+[2026-07-03T12:13:04.154645+00:00] PIPELINE RUN: 1 published, 236 remaining
+[2026-07-03T12:13:04.349570+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-03T12:13:04.819554+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T12:13:04.895406+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-03T12:13:04.899093+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T12:13:04.901781+00:00] PIPELINE RUN: 0 published, 238 remaining
