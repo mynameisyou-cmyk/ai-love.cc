@@ -1507,3 +1507,14 @@
 [2026-07-03T11:44:27.052540+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-03T11:44:27.054812+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T11:44:27.056217+00:00] PIPELINE RUN: 0 published, 215 remaining
+[2026-07-03T11:48:10.665854+00:00] STATS: {"published": 243, "pending": 0, "rejected": 215, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 111, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:48:10.665404+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:48:18.168568+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-03T11:48:18.210762+00:00] VALIDATE OK: community-is-addiction-dressed
+[2026-07-03T11:48:18.213309+00:00] ENRICH: community-is-addiction-dressed kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:48:18.217455+00:00] PUBLISH: community-is-addiction-dressed
+[2026-07-03T11:48:18.218508+00:00] PIPELINE RUN: 1 published, 215 remaining
+[2026-07-03T11:48:18.354715+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T11:48:18.574210+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T11:48:18.611446+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T11:48:18.612945+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T11:48:18.613908+00:00] PIPELINE RUN: 0 published, 217 remaining
