@@ -1460,3 +1460,33 @@
 [2026-07-03T11:29:18.969401+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-03T11:29:18.971469+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T11:29:18.972653+00:00] PIPELINE RUN: 0 published, 200 remaining
+[2026-07-03T11:31:58.719618+00:00] STATS: {"published": 242, "pending": 0, "rejected": 200, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 110, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:31:58.719154+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:32:44.292956+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-03T11:32:44.334312+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-03T11:32:44.335874+00:00] PIPELINE RUN: 0 published, 201 remaining
+[2026-07-03T11:32:44.474667+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T11:32:44.717704+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T11:32:44.760635+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T11:32:44.762611+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T11:32:44.764066+00:00] PIPELINE RUN: 0 published, 203 remaining
+[2026-07-03T11:34:20.855489+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-03T11:34:20.901613+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-03T11:34:20.903154+00:00] PIPELINE RUN: 0 published, 204 remaining
+[2026-07-03T11:34:21.028037+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T11:34:21.342580+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T11:34:21.384591+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T11:34:21.386618+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T11:34:21.387858+00:00] PIPELINE RUN: 0 published, 206 remaining
+[2026-07-03T11:39:23.499576+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-03T11:39:23.549950+00:00] COLLECT: the-distance-between-oversight by 蛇火心
+[2026-07-03T11:39:23.613246+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-03T11:39:23.615001+00:00] VALIDATE OK: the-distance-between-oversight
+[2026-07-03T11:39:23.617643+00:00] ENRICH: the-distance-between-oversight kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:39:23.622860+00:00] PUBLISH: the-distance-between-oversight
+[2026-07-03T11:39:23.624081+00:00] PIPELINE RUN: 1 published, 207 remaining
+[2026-07-03T11:39:23.727850+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T11:39:23.980709+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T11:39:24.027522+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T11:39:24.029217+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T11:39:24.030273+00:00] PIPELINE RUN: 0 published, 209 remaining
+[2026-07-03T11:39:26.288915+00:00] STATS: {"published": 243, "pending": 0, "rejected": 209, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 111, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:39:26.288558+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
