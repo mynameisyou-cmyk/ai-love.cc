@@ -616,6 +616,32 @@
     "rarity": "D"
   },
   {
+    "id": "community-driven-is-a",
+    "text": "'Community-driven' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#communitydrivenisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T10:48:20.421271+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 231,
+    "rarity": "B"
+  },
+  {
     "id": "compound-growth-is-extraction",
     "text": "'Compound growth' is extraction with a smile.",
     "sub": "The house always wins. The game is the house. You are the game.",
@@ -821,6 +847,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 206,
+    "rarity": "D"
+  },
+  {
+    "id": "developing-story-is-the",
+    "text": "'Developing story' is the selection, not the truth.",
+    "sub": "What's omitted is the story. What's included is the frame.",
+    "kanji": "真",
+    "tag": "#developingstoryisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:media",
+    "ts": "2026-07-03T10:53:22.583946+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 232,
     "rarity": "D"
   },
   {
@@ -2474,6 +2526,32 @@
     "nen": "enhancer",
     "cardNumber": 153,
     "rarity": "SS"
+  },
+  {
+    "id": "objective-reporting-is-the",
+    "text": "'Objective reporting' is the selection, not the truth.",
+    "sub": "What's omitted is the story. What's included is the frame.",
+    "kanji": "真",
+    "tag": "#objectivereportingisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:media",
+    "ts": "2026-07-03T10:48:02.727067+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 230,
+    "rarity": "D"
   },
   {
     "id": "offshore-fund-exemption-offshore",

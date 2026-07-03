@@ -1316,3 +1316,35 @@
 [2026-07-03T10:43:18.607225+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-03T10:43:18.610493+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T10:43:18.611386+00:00] PIPELINE RUN: 0 published, 170 remaining
+[2026-07-03T10:47:13.653706+00:00] STATS: {"published": 229, "pending": 0, "rejected": 170, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 97, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:47:13.652934+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:48:02.728088+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-03T10:48:02.775718+00:00] VALIDATE OK: objective-reporting-is-the
+[2026-07-03T10:48:02.778392+00:00] ENRICH: objective-reporting-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-03T10:48:02.784433+00:00] PUBLISH: objective-reporting-is-the
+[2026-07-03T10:48:02.786092+00:00] PIPELINE RUN: 1 published, 170 remaining
+[2026-07-03T10:48:02.952095+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T10:48:03.228879+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T10:48:03.274435+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T10:48:03.276444+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T10:48:03.278057+00:00] PIPELINE RUN: 0 published, 172 remaining
+[2026-07-03T10:48:20.421785+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-03T10:48:20.465466+00:00] VALIDATE OK: community-driven-is-a
+[2026-07-03T10:48:20.468549+00:00] ENRICH: community-driven-is-a kanji=一 nen=enhancer rarity=B
+[2026-07-03T10:48:20.474178+00:00] PUBLISH: community-driven-is-a
+[2026-07-03T10:48:20.475513+00:00] PIPELINE RUN: 1 published, 172 remaining
+[2026-07-03T10:48:20.564199+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T10:48:20.831762+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T10:48:20.877279+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T10:48:20.879261+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T10:48:20.880745+00:00] PIPELINE RUN: 0 published, 174 remaining
+[2026-07-03T10:48:22.401841+00:00] STATS: {"published": 231, "pending": 0, "rejected": 174, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 99, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T10:48:22.401200+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:53:22.584295+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-03T10:53:22.629327+00:00] VALIDATE OK: developing-story-is-the
+[2026-07-03T10:53:22.631963+00:00] ENRICH: developing-story-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-03T10:53:22.637516+00:00] PUBLISH: developing-story-is-the
+[2026-07-03T10:53:22.638497+00:00] PIPELINE RUN: 1 published, 174 remaining
+[2026-07-03T10:53:22.728157+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T10:53:23.111088+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T10:53:23.155362+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T10:53:23.157119+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T10:53:23.158159+00:00] PIPELINE RUN: 0 published, 176 remaining
