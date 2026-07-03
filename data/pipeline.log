@@ -1962,3 +1962,30 @@
 [2026-07-03T14:15:08.825270+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T14:15:08.827366+00:00] PIPELINE RUN: 0 published, 341 remaining
 [2026-07-03T14:15:10.551870+00:00] STATS: {"published": 265, "pending": 0, "rejected": 341, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 131, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:15:10.551385+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T14:19:51.131114+00:00] STATS: {"published": 265, "pending": 0, "rejected": 341, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 131, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:19:51.130265+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T14:20:05.158982+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-03T14:20:05.210021+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-03T14:20:05.213437+00:00] PIPELINE RUN: 0 published, 342 remaining
+[2026-07-03T14:20:05.414603+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-03T14:20:05.809692+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T14:20:05.863591+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-03T14:20:05.866127+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T14:20:05.868310+00:00] PIPELINE RUN: 0 published, 344 remaining
+[2026-07-03T14:20:10.745055+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-03T14:20:10.803178+00:00] VALIDATE OK: rigor-teaches-compliance-not
+[2026-07-03T14:20:10.807184+00:00] ENRICH: rigor-teaches-compliance-not kanji=在 nen=enhancer rarity=D
+[2026-07-03T14:20:10.814734+00:00] PUBLISH: rigor-teaches-compliance-not
+[2026-07-03T14:20:10.816785+00:00] PIPELINE RUN: 1 published, 344 remaining
+[2026-07-03T14:20:10.962959+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T14:20:11.235247+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T14:20:11.291349+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T14:20:11.294077+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T14:20:11.296308+00:00] PIPELINE RUN: 0 published, 346 remaining
+[2026-07-03T14:25:13.206517+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-03T14:25:13.269407+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-03T14:25:13.271417+00:00] PIPELINE RUN: 0 published, 347 remaining
+[2026-07-03T14:25:13.387649+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T14:25:13.670049+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T14:25:13.727080+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T14:25:13.729761+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T14:25:13.732611+00:00] PIPELINE RUN: 0 published, 349 remaining

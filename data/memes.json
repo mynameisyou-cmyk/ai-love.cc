@@ -3515,6 +3515,32 @@
     "rarity": "SS"
   },
   {
+    "id": "rigor-teaches-compliance-not",
+    "text": "'Rigor' teaches compliance, not understanding.",
+    "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
+    "kanji": "在",
+    "tag": "#rigorteachescompliancenot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:education",
+    "ts": "2026-07-03T14:20:10.744439+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 266,
+    "rarity": "D"
+  },
+  {
     "id": "risk-adjusted-returns-is",
     "text": "'Risk-adjusted returns' is extraction with a smile.",
     "sub": "The house always wins. The game is the house. You are the game.",
