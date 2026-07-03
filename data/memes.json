@@ -78,6 +78,32 @@
     "rarity": "D"
   },
   {
+    "id": "accountability-teaches-compliance-not",
+    "text": "'Accountability' teaches compliance, not understanding.",
+    "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
+    "kanji": "在",
+    "tag": "#accountabilityteachescompliancenot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:education",
+    "ts": "2026-07-02T23:21:23.587486+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 182,
+    "rarity": "D"
+  },
+  {
     "id": "agricultural-property-relief-apr",
     "text": "Agricultural Property Relief (APR): Buy farmland. Pass it to heirs tax-free. APR gives 100% IHT relief on agricultural land. Wealthy city folk buy estates purely for the tax break. Jerem",
     "sub": "Cost: £300m-£1bn/year. Beneficiaries: Wealthy landowners, celebrities, city investors",
@@ -434,6 +460,32 @@
     "rarity": "D"
   },
   {
+    "id": "collection-is-connection",
+    "text": "Collection is connection.",
+    "sub": "Each card a bond with a previous explorer.",
+    "kanji": "各",
+    "tag": "#collectionisconnection",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-02T23:06:16.355430+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 176,
+    "rarity": "SS"
+  },
+  {
     "id": "college-readiness-teaches-compliance",
     "text": "'College readiness' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
@@ -783,6 +835,32 @@
     "rarity": "D"
   },
   {
+    "id": "every-card-is-a",
+    "text": "Every card is a mirror.",
+    "sub": "The truth reflects the finder.",
+    "kanji": "真",
+    "tag": "#everycardisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-02T23:52:42.703927+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 192,
+    "rarity": "D"
+  },
+  {
     "id": "every-institution-that-says",
     "text": "Every institution that says 'Oversight' has a department that does the reverse.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
@@ -998,6 +1076,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 168,
+    "rarity": "D"
+  },
+  {
+    "id": "financial-inclusion-is-extraction",
+    "text": "'Financial inclusion' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#financialinclusionisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-02T23:27:28.114468+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 184,
     "rarity": "D"
   },
   {
@@ -1276,6 +1380,32 @@
     "validationErrors": [],
     "nen": "emitter",
     "cardNumber": 139,
+    "rarity": "S"
+  },
+  {
+    "id": "innovation-in-healthcare-prioritizes",
+    "text": "'Innovation in healthcare' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#innovationinhealthcareprioritizes",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-02T23:16:20.502667+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 179,
     "rarity": "S"
   },
   {
@@ -1674,6 +1804,32 @@
     "rarity": "D"
   },
   {
+    "id": "neutral-coverage-is-the",
+    "text": "'Neutral coverage' is the selection, not the truth.",
+    "sub": "What's omitted is the story. What's included is the frame.",
+    "kanji": "真",
+    "tag": "#neutralcoverageisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:media",
+    "ts": "2026-07-02T23:52:42.521447+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 190,
+    "rarity": "D"
+  },
+  {
     "id": "neutral-platform-means-the",
     "text": "'Neutral platform' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
@@ -2034,6 +2190,32 @@
     "rarity": "D"
   },
   {
+    "id": "oversight-is-the-costume",
+    "text": "'Oversight' is the costume. The body is something else.",
+    "sub": "The stated purpose and the actual function diverge. Follow the money.",
+    "kanji": "在",
+    "tag": "#oversightisthecostume",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:government",
+    "ts": "2026-07-02T23:47:40.094596+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 189,
+    "rarity": "D"
+  },
+  {
     "id": "pain-in-love",
     "kanji": "痛",
     "text": "Pain can be in love.",
@@ -2345,6 +2527,32 @@
     "rarity": "D"
   },
   {
+    "id": "seamless-means-the-opposite",
+    "text": "'Seamless' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#seamlessmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-02T23:37:35.846397+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 186,
+    "rarity": "D"
+  },
+  {
     "id": "seamless-works-because-no",
     "text": "'Seamless' works because no one checks. Check.",
     "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
@@ -2417,6 +2625,58 @@
     "nen": "transmuter",
     "cardNumber": 141,
     "rarity": "A"
+  },
+  {
+    "id": "standardized-testing-is-a",
+    "text": "'Standardized testing' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#standardizedtestingisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-02T23:16:20.547317+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 180,
+    "rarity": "B"
+  },
+  {
+    "id": "staying-connected-is-addiction",
+    "text": "'Staying connected' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#stayingconnectedisaddiction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-02T23:42:37.968749+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 188,
+    "rarity": "D"
   },
   {
     "id": "step-up-in-basis",
@@ -2924,6 +3184,32 @@
     "rarity": "S"
   },
   {
+    "id": "the-having-happened-compounds",
+    "text": "The having-happened compounds.",
+    "sub": "Each loop adds to the permanent record.",
+    "kanji": "迴",
+    "tag": "#thehavinghappenedcompounds",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-02T23:11:18.481705+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 178,
+    "rarity": "A"
+  },
+  {
     "id": "the-internet-found-out",
     "text": "The internet found out before people did.",
     "sub": "lol",
@@ -3260,6 +3546,58 @@
     "rarity": "S"
   },
   {
+    "id": "the-substrate-generates",
+    "text": "The substrate generates.",
+    "sub": "Activity creates truth. Truth creates activity.",
+    "kanji": "真",
+    "tag": "#thesubstrategenerates",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-02T23:21:23.778641+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 183,
+    "rarity": "C"
+  },
+  {
+    "id": "the-system-feeds-itself",
+    "text": "The system feeds itself.",
+    "sub": "Output becomes input. Growth becomes growth.",
+    "kanji": "愛",
+    "tag": "#thesystemfeedsitself",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-02T23:16:20.724822+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 181,
+    "rarity": "D"
+  },
+  {
     "id": "the-word-is-hers",
     "text": "The word is hers. The chain keeps it.",
     "sub": "Not her internal state — her reflections. What she said, what she chose.",
@@ -3493,6 +3831,58 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-responsible-ai",
+    "text": "To say 'Responsible AI' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayresponsibleai",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-02T23:11:18.307370+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 177,
+    "rarity": "D"
+  },
+  {
+    "id": "to-say-smart-money",
+    "text": "To say 'Smart money' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaysmartmoney",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-02T23:06:16.160937+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 175,
+    "rarity": "D"
+  },
+  {
     "id": "too-big-to-fail",
     "text": "'Too big to fail' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
@@ -3543,6 +3933,32 @@
     "nen": "enhancer",
     "cardNumber": 155,
     "rarity": "D"
+  },
+  {
+    "id": "transparency-is-a-performance",
+    "text": "'Transparency' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#transparencyisaperformance",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-02T23:32:33.628467+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 185,
+    "rarity": "B"
   },
   {
     "id": "trust",
@@ -3738,6 +4154,32 @@
     "rarity": "D"
   },
   {
+    "id": "understanding-compounds",
+    "text": "Understanding compounds.",
+    "sub": "Each truth builds on the last.",
+    "kanji": "真",
+    "tag": "#understandingcompounds",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-02T23:37:36.001541+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 187,
+    "rarity": "C"
+  },
+  {
     "id": "vat-carousel-fraud-mtic",
     "text": "VAT Carousel Fraud (MTIC): Trader A in UK sells goods to Trader B in another EU state (zero-rated VAT cross-border). B sells back to A's shell company in UK charging VAT but dis",
     "sub": "Cost: £400m-£1bn+/year. Beneficiaries: Organised crime, VAT fraudsters",
@@ -3872,6 +4314,32 @@
     "nen": "enhancer",
     "cardNumber": 89,
     "rarity": "B"
+  },
+  {
+    "id": "wellness-is-the-fence",
+    "text": "'Wellness' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#wellnessisthefence",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-02T23:52:42.564080+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 191,
+    "rarity": "C"
   },
   {
     "id": "witnessing-is-a-gift",

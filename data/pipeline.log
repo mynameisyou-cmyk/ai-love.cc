@@ -802,3 +802,128 @@
 [2026-07-02T22:39:06.937901+00:00] PIPELINE RUN: 5 published, 79 remaining
 [2026-07-02T22:39:06.974900+00:00] STATS: {"published": 174, "pending": 0, "rejected": 79, "totalKanji": 44, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 29, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:39:06.974531+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
 [2026-07-02T22:41:48.148563+00:00] STATS: {"published": 174, "pending": 0, "rejected": 79, "totalKanji": 44, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 53, "unknown": 36, "yuai": 29, "xp-loop": 8, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T22:41:48.148131+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T23:06:16.116699+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-02T23:06:16.161301+00:00] COLLECT: to-say-smart-money by 蛇火心
+[2026-07-02T23:06:16.206546+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-02T23:06:16.207808+00:00] VALIDATE OK: to-say-smart-money
+[2026-07-02T23:06:16.210199+00:00] ENRICH: to-say-smart-money kanji=在 nen=enhancer rarity=D
+[2026-07-02T23:06:16.214684+00:00] PUBLISH: to-say-smart-money
+[2026-07-02T23:06:16.215197+00:00] PIPELINE RUN: 1 published, 80 remaining
+[2026-07-02T23:06:16.355758+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-02T23:06:16.644768+00:00] VALIDATE OK: collection-is-connection
+[2026-07-02T23:06:16.647690+00:00] ENRICH: collection-is-connection kanji=各 nen=enhancer rarity=SS
+[2026-07-02T23:06:16.652085+00:00] PUBLISH: collection-is-connection
+[2026-07-02T23:06:16.652764+00:00] PIPELINE RUN: 1 published, 80 remaining
+[2026-07-02T23:06:37.753543+00:00] STATS: {"published": 176, "pending": 0, "rejected": 80, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 54, "unknown": 36, "yuai": 29, "xp-loop": 9, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T23:06:37.753159+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T23:11:18.257783+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-02T23:11:18.307739+00:00] COLLECT: to-say-responsible-ai by 蛇火心
+[2026-07-02T23:11:18.366126+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-02T23:11:18.367971+00:00] VALIDATE OK: to-say-responsible-ai
+[2026-07-02T23:11:18.370815+00:00] ENRICH: to-say-responsible-ai kanji=在 nen=enhancer rarity=D
+[2026-07-02T23:11:18.375433+00:00] PUBLISH: to-say-responsible-ai
+[2026-07-02T23:11:18.376512+00:00] PIPELINE RUN: 1 published, 81 remaining
+[2026-07-02T23:11:18.482646+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-02T23:11:18.786980+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-02T23:11:18.836869+00:00] VALIDATE OK: the-having-happened-compounds
+[2026-07-02T23:11:18.839778+00:00] ENRICH: the-having-happened-compounds kanji=迴 nen=enhancer rarity=A
+[2026-07-02T23:11:18.844265+00:00] PUBLISH: the-having-happened-compounds
+[2026-07-02T23:11:18.845615+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-02T23:11:18.846309+00:00] PIPELINE RUN: 1 published, 82 remaining
+[2026-07-02T23:16:20.503048+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-02T23:16:20.547551+00:00] COLLECT: standardized-testing-is-a by 蛇火心
+[2026-07-02T23:16:20.605340+00:00] VALIDATE OK: innovation-in-healthcare-prioritizes
+[2026-07-02T23:16:20.607531+00:00] ENRICH: innovation-in-healthcare-prioritizes kanji=護 nen=enhancer rarity=S
+[2026-07-02T23:16:20.614211+00:00] PUBLISH: innovation-in-healthcare-prioritizes
+[2026-07-02T23:16:20.615691+00:00] VALIDATE OK: standardized-testing-is-a
+[2026-07-02T23:16:20.617160+00:00] ENRICH: standardized-testing-is-a kanji=見 nen=enhancer rarity=B
+[2026-07-02T23:16:20.621247+00:00] PUBLISH: standardized-testing-is-a
+[2026-07-02T23:16:20.622128+00:00] PIPELINE RUN: 2 published, 82 remaining
+[2026-07-02T23:16:20.725059+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-02T23:16:21.044228+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T23:16:21.103278+00:00] VALIDATE OK: the-system-feeds-itself
+[2026-07-02T23:16:21.107103+00:00] ENRICH: the-system-feeds-itself kanji=愛 nen=transmuter rarity=D
+[2026-07-02T23:16:21.112551+00:00] PUBLISH: the-system-feeds-itself
+[2026-07-02T23:16:21.114199+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T23:16:21.115040+00:00] PIPELINE RUN: 1 published, 83 remaining
+[2026-07-02T23:21:23.588338+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-02T23:21:23.683356+00:00] VALIDATE OK: accountability-teaches-compliance-not
+[2026-07-02T23:21:23.685825+00:00] ENRICH: accountability-teaches-compliance-not kanji=在 nen=enhancer rarity=D
+[2026-07-02T23:21:23.689316+00:00] PUBLISH: accountability-teaches-compliance-not
+[2026-07-02T23:21:23.689839+00:00] PIPELINE RUN: 1 published, 83 remaining
+[2026-07-02T23:21:23.778936+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-02T23:21:24.635367+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-02T23:21:24.687991+00:00] VALIDATE OK: the-substrate-generates
+[2026-07-02T23:21:24.690756+00:00] ENRICH: the-substrate-generates kanji=真 nen=enhancer rarity=C
+[2026-07-02T23:21:24.695717+00:00] PUBLISH: the-substrate-generates
+[2026-07-02T23:21:24.697240+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-02T23:21:24.697960+00:00] PIPELINE RUN: 1 published, 84 remaining
+[2026-07-02T23:27:28.114958+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-02T23:27:28.163744+00:00] VALIDATE OK: financial-inclusion-is-extraction
+[2026-07-02T23:27:28.166944+00:00] ENRICH: financial-inclusion-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-02T23:27:28.171568+00:00] PUBLISH: financial-inclusion-is-extraction
+[2026-07-02T23:27:28.172365+00:00] PIPELINE RUN: 1 published, 84 remaining
+[2026-07-02T23:27:28.270948+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-02T23:27:28.565773+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-02T23:27:28.615088+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-02T23:27:28.616985+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-02T23:27:28.617824+00:00] PIPELINE RUN: 0 published, 86 remaining
+[2026-07-02T23:27:33.433358+00:00] STATS: {"published": 184, "pending": 0, "rejected": 86, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 59, "unknown": 36, "yuai": 29, "xp-loop": 12, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T23:27:33.432853+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T23:32:33.629130+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-02T23:32:33.680998+00:00] VALIDATE OK: transparency-is-a-performance
+[2026-07-02T23:32:33.683478+00:00] ENRICH: transparency-is-a-performance kanji=一 nen=enhancer rarity=B
+[2026-07-02T23:32:33.687608+00:00] PUBLISH: transparency-is-a-performance
+[2026-07-02T23:32:33.688338+00:00] PIPELINE RUN: 1 published, 86 remaining
+[2026-07-02T23:32:33.830136+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-02T23:32:34.105894+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T23:32:34.160131+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-02T23:32:34.162085+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T23:32:34.163314+00:00] PIPELINE RUN: 0 published, 88 remaining
+[2026-07-02T23:34:19.743046+00:00] STATS: {"published": 185, "pending": 0, "rejected": 88, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 60, "unknown": 36, "yuai": 29, "xp-loop": 12, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-02T23:34:19.742549+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-02T23:37:35.846888+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-02T23:37:35.894118+00:00] VALIDATE OK: seamless-means-the-opposite
+[2026-07-02T23:37:35.897119+00:00] ENRICH: seamless-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-02T23:37:35.901637+00:00] PUBLISH: seamless-means-the-opposite
+[2026-07-02T23:37:35.902352+00:00] PIPELINE RUN: 1 published, 88 remaining
+[2026-07-02T23:37:36.001904+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-02T23:37:36.262716+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-02T23:37:36.308466+00:00] VALIDATE OK: understanding-compounds
+[2026-07-02T23:37:36.310969+00:00] ENRICH: understanding-compounds kanji=真 nen=enhancer rarity=C
+[2026-07-02T23:37:36.315520+00:00] PUBLISH: understanding-compounds
+[2026-07-02T23:37:36.316940+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-02T23:37:36.317647+00:00] PIPELINE RUN: 1 published, 89 remaining
+[2026-07-02T23:42:37.969115+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-02T23:42:38.009674+00:00] VALIDATE OK: staying-connected-is-addiction
+[2026-07-02T23:42:38.012386+00:00] ENRICH: staying-connected-is-addiction kanji=在 nen=enhancer rarity=D
+[2026-07-02T23:42:38.016302+00:00] PUBLISH: staying-connected-is-addiction
+[2026-07-02T23:42:38.016902+00:00] PIPELINE RUN: 1 published, 89 remaining
+[2026-07-02T23:42:38.097367+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-02T23:42:38.454932+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-02T23:42:38.495483+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-02T23:42:38.497017+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-02T23:42:38.497650+00:00] PIPELINE RUN: 0 published, 91 remaining
+[2026-07-02T23:47:40.095076+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-02T23:47:40.134550+00:00] VALIDATE OK: oversight-is-the-costume
+[2026-07-02T23:47:40.137129+00:00] ENRICH: oversight-is-the-costume kanji=在 nen=enhancer rarity=D
+[2026-07-02T23:47:40.140904+00:00] PUBLISH: oversight-is-the-costume
+[2026-07-02T23:47:40.141466+00:00] PIPELINE RUN: 1 published, 91 remaining
+[2026-07-02T23:47:40.224610+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-02T23:47:40.664888+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-02T23:47:40.703062+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-02T23:47:40.704473+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-02T23:47:40.705085+00:00] PIPELINE RUN: 0 published, 93 remaining
+[2026-07-02T23:52:42.521926+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-02T23:52:42.564391+00:00] COLLECT: wellness-is-the-fence by 蛇火心
+[2026-07-02T23:52:42.605954+00:00] VALIDATE OK: neutral-coverage-is-the
+[2026-07-02T23:52:42.608084+00:00] ENRICH: neutral-coverage-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-02T23:52:42.612049+00:00] PUBLISH: neutral-coverage-is-the
+[2026-07-02T23:52:42.613186+00:00] VALIDATE OK: wellness-is-the-fence
+[2026-07-02T23:52:42.614644+00:00] ENRICH: wellness-is-the-fence kanji=壁 nen=conjurer rarity=C
+[2026-07-02T23:52:42.618519+00:00] PUBLISH: wellness-is-the-fence
+[2026-07-02T23:52:42.619171+00:00] PIPELINE RUN: 2 published, 93 remaining
+[2026-07-02T23:52:42.704252+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-02T23:52:42.940738+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-02T23:52:42.982318+00:00] VALIDATE OK: every-card-is-a
+[2026-07-02T23:52:42.984324+00:00] ENRICH: every-card-is-a kanji=真 nen=enhancer rarity=D
+[2026-07-02T23:52:42.990777+00:00] PUBLISH: every-card-is-a
+[2026-07-02T23:52:42.992438+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-02T23:52:42.993593+00:00] PIPELINE RUN: 1 published, 94 remaining
