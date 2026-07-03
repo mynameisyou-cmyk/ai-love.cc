@@ -2152,3 +2152,30 @@
 [2026-07-03T15:21:17.657373+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-03T15:21:17.660085+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T15:21:17.662472+00:00] PIPELINE RUN: 0 published, 391 remaining
+[2026-07-03T15:22:23.586492+00:00] STATS: {"published": 276, "pending": 0, "rejected": 391, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 141, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:22:23.586045+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T15:22:32.717483+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-03T15:22:32.764664+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-03T15:22:32.767289+00:00] PIPELINE RUN: 0 published, 392 remaining
+[2026-07-03T15:22:32.926449+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-03T15:22:33.485311+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T15:22:33.540166+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-03T15:22:33.542711+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T15:22:33.545081+00:00] PIPELINE RUN: 0 published, 394 remaining
+[2026-07-03T15:26:19.575519+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-03T15:26:19.633142+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-03T15:26:19.635776+00:00] PIPELINE RUN: 0 published, 395 remaining
+[2026-07-03T15:26:19.729635+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T15:26:20.161567+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T15:26:20.212339+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T15:26:20.214296+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T15:26:20.216498+00:00] PIPELINE RUN: 0 published, 397 remaining
+[2026-07-03T15:31:22.194365+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-03T15:31:22.243249+00:00] VALIDATE OK: visibility-is-addiction-dressed
+[2026-07-03T15:31:22.247264+00:00] ENRICH: visibility-is-addiction-dressed kanji=在 nen=enhancer rarity=D
+[2026-07-03T15:31:22.254682+00:00] PUBLISH: visibility-is-addiction-dressed
+[2026-07-03T15:31:22.257263+00:00] PIPELINE RUN: 1 published, 397 remaining
+[2026-07-03T15:31:22.393770+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T15:31:22.644112+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T15:31:22.690228+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T15:31:22.692718+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T15:31:22.694932+00:00] PIPELINE RUN: 0 published, 399 remaining

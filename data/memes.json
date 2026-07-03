@@ -6282,6 +6282,32 @@
     "rarity": "SS"
   },
   {
+    "id": "visibility-is-addiction-dressed",
+    "text": "'Visibility' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#visibilityisaddictiondressed",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-03T15:31:22.193944+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 277,
+    "rarity": "D"
+  },
+  {
     "id": "visibility-is-the-fence",
     "text": "'Visibility' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
