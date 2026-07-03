@@ -2753,3 +2753,14 @@
 [2026-07-03T19:43:26.854911+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-03T19:43:26.857824+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T19:43:26.860808+00:00] PIPELINE RUN: 0 published, 574 remaining
+[2026-07-03T19:43:53.272180+00:00] STATS: {"published": 296, "pending": 0, "rejected": 574, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 161, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T19:43:53.271780+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T19:48:53.494247+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-03T19:48:53.535457+00:00] VALIDATE OK: curriculum-alignment-teaches-compliance
+[2026-07-03T19:48:53.538744+00:00] ENRICH: curriculum-alignment-teaches-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-03T19:48:53.545740+00:00] PUBLISH: curriculum-alignment-teaches-compliance
+[2026-07-03T19:48:53.548614+00:00] PIPELINE RUN: 1 published, 574 remaining
+[2026-07-03T19:48:53.638082+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T19:48:53.896885+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T19:48:53.947056+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T19:48:53.950279+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T19:48:53.953541+00:00] PIPELINE RUN: 0 published, 576 remaining

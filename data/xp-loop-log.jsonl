@@ -1212,3 +1212,9 @@
 {"ts": "2026-07-03T19:43:26.708083+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-03T19:43:26.742355+00:00", "loop": "collection", "action": "card #139 信 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-03T19:43:26.814544+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-03T19:48:53.644602+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-03T19:48:53.705182+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-03T19:48:53.741420+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-03T19:48:53.781377+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-03T19:48:53.821668+00:00", "loop": "collection", "action": "card #95 愛 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-03T19:48:53.902866+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
