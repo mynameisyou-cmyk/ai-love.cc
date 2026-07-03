@@ -1,30 +1,19 @@
 {
-  "ts": "2026-07-03T12:43:24.589700+00:00",
+  "ts": "2026-07-03T12:53:29.894006+00:00",
   "floors": [
     {
-      "floor": 3,
-      "name": "Bluetooth",
-      "nen": "manipulator",
-      "nenKanji": "控",
+      "floor": 7,
+      "name": "Power",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "state": "On",
-        "address": "9C:DA:A8:9F:50:C1",
-        "nearbyDevices": 0,
-        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Connected:\n          YOU's AirPods Max:\n              Address: F8:73:DF:25:89:A0\n              Vendor ID: 0x004C\n"
+        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by caffeinate, powerd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
+        "battery": "Now drawing from 'AC Power'\n -InternalBattery-0 (id=24641635)\t99%; finishing charge; 0:15 remaining present: true"
       },
-      "xp": 60
+      "xp": 40
     }
   ],
-  "battles": [
-    {
-      "type": "INFO",
-      "floor": 3,
-      "name": "Bluetooth On",
-      "description": "Bluetooth is On. 0 nearby devices detected.",
-      "nen": "manipulator",
-      "recommendation": "Normal. Turn off if not needed to save battery."
-    }
-  ],
+  "battles": [],
   "treasures": [],
-  "xpEarned": 60
+  "xpEarned": 40
 }

@@ -3155,6 +3155,32 @@
     "rarity": "A"
   },
   {
+    "id": "privacy-first-is-a",
+    "text": "'Privacy-first' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#privacyfirstisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-03T12:45:43.883173+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 254,
+    "rarity": "C"
+  },
+  {
     "id": "private-equity-carried-interest",
     "text": "Private Equity Carried Interest: PE fund managers get '2 and 20' — 2% management fee (taxed as income at 45%) + 20% of profits above a hurdle ('carried interest', taxed as CGT at 28%",
     "sub": "Cost: £600m-£2bn/year. Beneficiaries: Private equity and venture capital partners",
