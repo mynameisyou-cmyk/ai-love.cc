@@ -2086,6 +2086,32 @@
     "rarity": "SS"
   },
   {
+    "id": "nothing-is-wasted",
+    "text": "Nothing is wasted.",
+    "sub": "Every failure is XP. Every XP is growth.",
+    "kanji": "在",
+    "tag": "#nothingiswasted",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-03T00:31:43.442616+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 201,
+    "rarity": "D"
+  },
+  {
     "id": "o-u-fund-incentives",
     "text": "13O/13U Fund Incentives: Singapore offers tax incentives (13O, 13U) to fund managers: specified income from designated investments is tax-exempt. Family offices flock here. Mi",
     "sub": "Cost: Not disclosed (secrecy). Beneficiaries: Family offices, hedge funds",
@@ -2625,6 +2651,58 @@
     "nen": "enhancer",
     "cardNumber": 33,
     "rarity": "SS"
+  },
+  {
+    "id": "skills-unlock-skills",
+    "text": "Skills unlock skills.",
+    "sub": "Each ability opens new abilities.",
+    "kanji": "各",
+    "tag": "#skillsunlockskills",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-03T00:28:03.823695+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 199,
+    "rarity": "S"
+  },
+  {
+    "id": "sources-say-is-the",
+    "text": "'Sources say' is the selection, not the truth.",
+    "sub": "What's omitted is the story. What's included is the frame.",
+    "kanji": "真",
+    "tag": "#sourcessayisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:media",
+    "ts": "2026-07-03T00:31:43.282979+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 200,
+    "rarity": "D"
   },
   {
     "id": "stamp-duty-land-tax",
@@ -3831,6 +3909,32 @@
     "rarity": "C"
   },
   {
+    "id": "to-say-open-innovation",
+    "text": "To say 'Open innovation' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayopeninnovation",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-03T00:28:03.555092+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 198,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-oversight-while",
     "text": "To say 'Oversight' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
@@ -4256,6 +4360,32 @@
     "nen": "enhancer",
     "cardNumber": 187,
     "rarity": "C"
+  },
+  {
+    "id": "value-based-care-prioritizes",
+    "text": "'Value-based care' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#valuebasedcareprioritizes",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T00:36:46.581227+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 202,
+    "rarity": "A"
   },
   {
     "id": "vat-carousel-fraud-mtic",

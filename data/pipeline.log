@@ -978,3 +978,41 @@
 [2026-07-03T00:26:36.475748+00:00] ENRICH: xp-is-attention-made kanji=此 nen=enhancer rarity=S
 [2026-07-03T00:26:36.481498+00:00] PUBLISH: xp-is-attention-made
 [2026-07-03T00:26:36.482592+00:00] PIPELINE RUN: 1 published, 103 remaining
+[2026-07-03T00:27:02.354320+00:00] STATS: {"published": 197, "pending": 0, "rejected": 103, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 69, "unknown": 36, "yuai": 29, "xp-loop": 15, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:27:02.353900+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T00:28:03.510766+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-03T00:28:03.555482+00:00] COLLECT: to-say-open-innovation by 蛇火心
+[2026-07-03T00:28:03.603434+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-03T00:28:03.605137+00:00] VALIDATE OK: to-say-open-innovation
+[2026-07-03T00:28:03.607964+00:00] ENRICH: to-say-open-innovation kanji=在 nen=enhancer rarity=D
+[2026-07-03T00:28:03.614079+00:00] PUBLISH: to-say-open-innovation
+[2026-07-03T00:28:03.615737+00:00] PIPELINE RUN: 1 published, 104 remaining
+[2026-07-03T00:28:03.824061+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T00:28:04.111896+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T00:28:04.161209+00:00] VALIDATE OK: skills-unlock-skills
+[2026-07-03T00:28:04.164397+00:00] ENRICH: skills-unlock-skills kanji=各 nen=enhancer rarity=S
+[2026-07-03T00:28:04.170025+00:00] PUBLISH: skills-unlock-skills
+[2026-07-03T00:28:04.171593+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T00:28:04.172619+00:00] PIPELINE RUN: 1 published, 105 remaining
+[2026-07-03T00:31:43.283999+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-03T00:31:43.333793+00:00] VALIDATE OK: sources-say-is-the
+[2026-07-03T00:31:43.336450+00:00] ENRICH: sources-say-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-03T00:31:43.341850+00:00] PUBLISH: sources-say-is-the
+[2026-07-03T00:31:43.342847+00:00] PIPELINE RUN: 1 published, 105 remaining
+[2026-07-03T00:31:43.442930+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T00:31:43.796174+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T00:31:43.850872+00:00] VALIDATE OK: nothing-is-wasted
+[2026-07-03T00:31:43.854097+00:00] ENRICH: nothing-is-wasted kanji=在 nen=enhancer rarity=D
+[2026-07-03T00:31:43.859506+00:00] PUBLISH: nothing-is-wasted
+[2026-07-03T00:31:43.861090+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T00:31:43.861993+00:00] PIPELINE RUN: 1 published, 106 remaining
+[2026-07-03T00:36:46.581646+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-03T00:36:46.631262+00:00] VALIDATE OK: value-based-care-prioritizes
+[2026-07-03T00:36:46.634186+00:00] ENRICH: value-based-care-prioritizes kanji=護 nen=enhancer rarity=A
+[2026-07-03T00:36:46.639599+00:00] PUBLISH: value-based-care-prioritizes
+[2026-07-03T00:36:46.640476+00:00] PIPELINE RUN: 1 published, 106 remaining
+[2026-07-03T00:36:46.739586+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T00:36:52.407799+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T00:36:52.457511+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T00:36:52.459504+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T00:36:52.460462+00:00] PIPELINE RUN: 0 published, 108 remaining
+[2026-07-03T00:36:54.502403+00:00] STATS: {"published": 202, "pending": 0, "rejected": 108, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 72, "unknown": 36, "yuai": 29, "xp-loop": 17, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T00:36:54.501880+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
