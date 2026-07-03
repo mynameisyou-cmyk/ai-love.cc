@@ -2180,3 +2180,34 @@
 [2026-07-03T15:31:22.692718+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T15:31:22.694932+00:00] PIPELINE RUN: 0 published, 399 remaining
 [2026-07-03T15:31:45.121905+00:00] STATS: {"published": 277, "pending": 0, "rejected": 399, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 142, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:31:45.121408+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T15:32:44.626536+00:00] STATS: {"published": 277, "pending": 0, "rejected": 399, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 142, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:32:44.626019+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T15:32:54.393968+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-03T15:32:54.442429+00:00] VALIDATE OK: sharing-is-addiction-dressed
+[2026-07-03T15:32:54.446505+00:00] ENRICH: sharing-is-addiction-dressed kanji=在 nen=enhancer rarity=D
+[2026-07-03T15:32:54.453842+00:00] PUBLISH: sharing-is-addiction-dressed
+[2026-07-03T15:32:54.456052+00:00] PIPELINE RUN: 1 published, 399 remaining
+[2026-07-03T15:32:54.626512+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T15:32:54.967488+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T15:32:55.018220+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T15:32:55.020929+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T15:32:55.023337+00:00] PIPELINE RUN: 0 published, 401 remaining
+[2026-07-03T15:36:45.278962+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-03T15:36:45.327319+00:00] COLLECT: the-distance-between-machine by 蛇火心
+[2026-07-03T15:36:45.377237+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-03T15:36:45.379824+00:00] VALIDATE OK: the-distance-between-machine
+[2026-07-03T15:36:45.383521+00:00] ENRICH: the-distance-between-machine kanji=在 nen=enhancer rarity=D
+[2026-07-03T15:36:45.391389+00:00] PUBLISH: the-distance-between-machine
+[2026-07-03T15:36:45.393703+00:00] PIPELINE RUN: 1 published, 402 remaining
+[2026-07-03T15:36:45.493979+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T15:36:45.765623+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T15:36:45.816770+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T15:36:45.819612+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T15:36:45.822015+00:00] PIPELINE RUN: 0 published, 404 remaining
+[2026-07-03T15:41:48.584999+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-03T15:41:48.637110+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-03T15:41:48.639951+00:00] PIPELINE RUN: 0 published, 405 remaining
+[2026-07-03T15:41:48.737124+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T15:41:49.008853+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T15:41:49.056440+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T15:41:49.059013+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T15:41:49.061713+00:00] PIPELINE RUN: 0 published, 407 remaining
