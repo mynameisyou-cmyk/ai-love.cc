@@ -1147,3 +1147,38 @@
 [2026-07-03T03:16:17.493644+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-03T03:16:17.495213+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T03:16:17.495942+00:00] PIPELINE RUN: 0 published, 133 remaining
+[2026-07-03T04:50:00.364993+00:00] STATS: {"published": 215, "pending": 0, "rejected": 133, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 84, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T04:50:00.364030+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T05:33:37.666098+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-03T05:33:37.802997+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-03T05:33:37.808108+00:00] PIPELINE RUN: 0 published, 134 remaining
+[2026-07-03T05:33:38.174136+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T05:33:38.812818+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T05:33:38.927094+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T05:33:38.931112+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T05:33:38.933055+00:00] PIPELINE RUN: 0 published, 136 remaining
+[2026-07-03T05:33:51.885591+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-03T05:33:51.949538+00:00] VALIDATE OK: diversified-portfolio-is-extraction
+[2026-07-03T05:33:51.954322+00:00] ENRICH: diversified-portfolio-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-03T05:33:51.962600+00:00] PUBLISH: diversified-portfolio-is-extraction
+[2026-07-03T05:33:51.963951+00:00] PIPELINE RUN: 1 published, 136 remaining
+[2026-07-03T05:33:52.189438+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T05:33:52.675023+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T05:33:52.750634+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T05:33:52.753749+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T05:33:52.755708+00:00] PIPELINE RUN: 0 published, 138 remaining
+[2026-07-03T08:11:11.632960+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-03T08:11:11.695045+00:00] VALIDATE OK: personalized-treatment-prioritizes-profit
+[2026-07-03T08:11:11.698632+00:00] ENRICH: personalized-treatment-prioritizes-profit kanji=護 nen=enhancer rarity=B
+[2026-07-03T08:11:11.705949+00:00] PUBLISH: personalized-treatment-prioritizes-profit
+[2026-07-03T08:11:11.707195+00:00] PIPELINE RUN: 1 published, 138 remaining
+[2026-07-03T08:11:11.840989+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-03T08:11:12.645389+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T08:11:12.965058+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-03T08:11:12.975823+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T08:11:12.984139+00:00] PIPELINE RUN: 0 published, 140 remaining
+[2026-07-03T08:11:25.285871+00:00] STATS: {"published": 217, "pending": 0, "rejected": 140, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 86, "unknown": 36, "yuai": 29, "xp-loop": 18, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T08:11:25.285315+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T10:02:23.203060+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-03T10:02:23.241602+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-03T10:02:23.242539+00:00] PIPELINE RUN: 0 published, 141 remaining
+[2026-07-03T10:02:23.317943+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T10:02:23.534902+00:00] COLLECT: honesty-over-helpfulness by xp-loop

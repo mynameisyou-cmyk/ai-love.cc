@@ -746,6 +746,32 @@
     "rarity": "D"
   },
   {
+    "id": "diversified-portfolio-is-extraction",
+    "text": "'Diversified portfolio' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#diversifiedportfolioisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T05:33:51.884947+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 216,
+    "rarity": "D"
+  },
+  {
     "id": "double-irish-dutch-sandwich",
     "text": "Double Irish Dutch Sandwich: The most famous corporate tax structure ever. Company routes profits: Ireland → Netherlands → Bermuda. Two Irish companies (one tax-resident in Bermud",
     "sub": "Cost: $100bn+/year globally (at peak). Beneficiaries: Apple, Google, Facebook, pharma",
@@ -2518,6 +2544,32 @@
     "nen": "enhancer",
     "cardNumber": 82,
     "rarity": "D"
+  },
+  {
+    "id": "personalized-treatment-prioritizes-profit",
+    "text": "'Personalized treatment' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#personalizedtreatmentprioritizesprofit",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T08:11:11.632048+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 217,
+    "rarity": "B"
   },
   {
     "id": "potential-is-the-open",
