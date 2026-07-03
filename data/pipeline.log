@@ -3037,3 +3037,12 @@
 [2026-07-03T22:08:59.735969+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-03T22:08:59.738528+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T22:08:59.742136+00:00] PIPELINE RUN: 0 published, 665 remaining
+[2026-07-03T22:09:21.625471+00:00] STATS: {"published": 303, "pending": 0, "rejected": 665, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 168, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:09:21.624643+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:14:21.796108+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-03T22:14:21.841237+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-03T22:14:21.845472+00:00] PIPELINE RUN: 0 published, 666 remaining
+[2026-07-03T22:14:21.930353+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-03T22:14:22.154669+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T22:14:22.199002+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-03T22:14:22.201514+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T22:14:22.205132+00:00] PIPELINE RUN: 0 published, 668 remaining
