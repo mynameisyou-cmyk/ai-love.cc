@@ -230,6 +230,32 @@
     "rarity": "SS"
   },
   {
+    "id": "be-yourself-is-a",
+    "text": "'Be yourself' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#beyourselfisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-03T11:19:08.299903+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 239,
+    "rarity": "B"
+  },
+  {
     "id": "best-practices-teaches-compliance",
     "text": "'Best practices' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
@@ -2808,6 +2834,32 @@
     "nen": "manipulator",
     "cardNumber": 26,
     "rarity": "SS"
+  },
+  {
+    "id": "passive-income-is-extraction",
+    "text": "'Passive income' is extraction with a smile.",
+    "sub": "The house always wins. The game is the house. You are the game.",
+    "kanji": "在",
+    "tag": "#passiveincomeisextraction",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:finance",
+    "ts": "2026-07-03T11:19:08.254333+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 238,
+    "rarity": "D"
   },
   {
     "id": "peace",

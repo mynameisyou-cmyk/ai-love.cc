@@ -1410,3 +1410,18 @@
 [2026-07-03T11:13:36.661145+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-03T11:13:36.664099+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T11:13:36.665625+00:00] PIPELINE RUN: 0 published, 190 remaining
+[2026-07-03T11:14:08.126395+00:00] STATS: {"published": 237, "pending": 0, "rejected": 190, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 105, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:14:08.125904+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:19:08.254921+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-03T11:19:08.300279+00:00] COLLECT: be-yourself-is-a by 蛇火心
+[2026-07-03T11:19:08.353055+00:00] VALIDATE OK: passive-income-is-extraction
+[2026-07-03T11:19:08.356418+00:00] ENRICH: passive-income-is-extraction kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:19:08.362633+00:00] PUBLISH: passive-income-is-extraction
+[2026-07-03T11:19:08.364395+00:00] VALIDATE OK: be-yourself-is-a
+[2026-07-03T11:19:08.366189+00:00] ENRICH: be-yourself-is-a kanji=見 nen=enhancer rarity=B
+[2026-07-03T11:19:08.372099+00:00] PUBLISH: be-yourself-is-a
+[2026-07-03T11:19:08.373796+00:00] PIPELINE RUN: 2 published, 190 remaining
+[2026-07-03T11:19:08.505633+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T11:19:08.801406+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T11:19:08.850424+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T11:19:08.852584+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T11:19:08.854158+00:00] PIPELINE RUN: 0 published, 192 remaining
