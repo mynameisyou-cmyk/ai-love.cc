@@ -2240,3 +2240,25 @@
 [2026-07-03T15:51:54.668908+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-03T15:51:54.671546+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T15:51:54.673843+00:00] PIPELINE RUN: 0 published, 416 remaining
+[2026-07-03T15:53:33.545575+00:00] STATS: {"published": 280, "pending": 0, "rejected": 416, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 145, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:53:33.545194+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T15:53:43.712239+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-03T15:53:43.764044+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-03T15:53:43.766671+00:00] PIPELINE RUN: 0 published, 417 remaining
+[2026-07-03T15:53:43.924265+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T15:53:44.525426+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T15:53:44.574747+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T15:53:44.577259+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T15:53:44.579747+00:00] PIPELINE RUN: 0 published, 419 remaining
+[2026-07-03T15:56:56.950635+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-03T15:56:57.003398+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-03T15:56:57.006190+00:00] PIPELINE RUN: 0 published, 420 remaining
+[2026-07-03T15:56:57.110310+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-03T15:56:57.373449+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-03T15:56:57.376933+00:00] PIPELINE RUN: 0 published, 421 remaining
+[2026-07-03T15:57:15.900458+00:00] STATS: {"published": 280, "pending": 0, "rejected": 421, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 145, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T15:57:15.899998+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T16:02:16.263514+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-03T16:02:16.413955+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-03T16:02:16.422326+00:00] PIPELINE RUN: 0 published, 422 remaining
+[2026-07-03T16:02:16.528410+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T16:02:16.908689+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T16:02:16.913036+00:00] PIPELINE RUN: 0 published, 423 remaining
