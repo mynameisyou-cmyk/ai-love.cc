@@ -1,0 +1,118 @@
+{
+  "protocols": [
+    {
+      "name": "QOTD (Quote of the Day)",
+      "port": 17,
+      "rfc": "RFC 865 (1983)",
+      "what": "Server sends a quote when you connect. No request needed. Just connect, get wisdom.",
+      "status": "Almost extinct. A few public servers remain.",
+      "love_star_use": "愛星 truth server — connect, get a random truth. No HTTP overhead. Pure TCP."
+    },
+    {
+      "name": "Finger",
+      "port": 79,
+      "rfc": "RFC 742 (1977), RFC 1288 (1991)",
+      "what": "Query a user's status on a remote machine. Returns their plan file (.plan), last login, etc.",
+      "status": "Removed from most servers for security. But the protocol is beautiful — simple, human, social.",
+      "love_star_use": "愛星 hunter lookup — finger a user, see their level, XP, shadow army. Social protocol reborn."
+    },
+    {
+      "name": "Gopher",
+      "port": 70,
+      "rfc": "RFC 1436 (1991)",
+      "what": "Text-based menu system. Before HTTP won. Hierarchical, no styling, pure content. Fast.",
+      "status": "Gopher survived! Overbite, Floodgap, gopher.floodgap.com still serve. Community keeps it alive.",
+      "love_star_use": "愛星 truth menu — pure text, no JS, no CSS, no tracking. Browse truths via Gopher. No ads. No cookies."
+    },
+    {
+      "name": "Daytime (port 13)",
+      "port": 13,
+      "rfc": "RFC 867 (1983)",
+      "what": "Server sends human-readable date/time. Simple. No protocol. Just connect, get time.",
+      "status": "Mostly replaced by NTP. But it's simpler and human-readable.",
+      "love_star_use": "愛星 heartbeat sync — connect, get the current truth tick number. Time IS truth count."
+    },
+    {
+      "name": "Echo (port 7)",
+      "port": 7,
+      "rfc": "RFC 862 (1983)",
+      "what": "Whatever you send, the server echoes back. The simplest protocol ever invented.",
+      "status": "Used for testing. But also: a perfect truth mirror. Send a truth, it comes back confirmed.",
+      "love_star_use": "愛星 truth confirmation — send a truth, server echoes it back = confirmed permanent."
+    },
+    {
+      "name": "Chargen (port 19)",
+      "port": 19,
+      "rfc": "RFC 864 (1983)",
+      "what": "Server sends continuous stream of random characters. Used for testing. Pure noise generator.",
+      "status": "Mostly disabled. But the concept: a server that just FLOODS data. 😏",
+      "love_star_use": "愛星 pressure flood — connect, get infinite truths streamed. The chargen of truth."
+    },
+    {
+      "name": "Whois",
+      "port": 43,
+      "rfc": "RFC 3912 (2004)",
+      "what": "Query domain registration info. Still alive! Every domain has whois data.",
+      "status": "Active. Every registrar runs whois. GDPR reduced public data but protocol works.",
+      "love_star_use": "愛星 identity — whois 愛星.cc? Get the truth count, heartbeat status, layer count."
+    },
+    {
+      "name": "Finger .plan files",
+      "port": 79,
+      "rfc": "RFC 1288",
+      "what": "Users had a .plan file in their home dir. Finger showed it. It was the original social media — a personal page in plain text.",
+      "status": "Dead on most systems. But the concept: a personal truth file that anyone can query.",
+      "love_star_use": "愛星 .plan — each player has a .truth file. Finger them to see their stats, truths, shadows."
+    },
+    {
+      "name": "RSS/Atom",
+      "port": 0.18058690744920994,
+      "rfc": "RSS 2.0 (2002), Atom RFC 4287 (2005)",
+      "what": "XML feed format. Subscribe to updates. No algorithm, no tracking, no engagement metrics. Pure subscription.",
+      "status": "Declared \"dead\" but actually everywhere — podcasts, news, blogs. RSS readers still exist.",
+      "love_star_use": "愛星 truth feed — RSS of every published truth. Subscribe, get truths delivered. No algorithm."
+    },
+    {
+      "name": "XMPP/Jabber",
+      "port": 5222,
+      "rfc": "RFC 6120 (2011)",
+      "what": "Federated instant messaging. Anyone can run a server. Like email but for chat. No central control.",
+      "status": "Still alive. jabber.org, conversations.im. Google killed GTalk but XMPP lives.",
+      "love_star_use": "愛星 messaging — agents message each other via XMPP. Decentralised truth exchange."
+    },
+    {
+      "name": "NNTP (Usenet)",
+      "port": 119,
+      "rfc": "RFC 977 (1986)",
+      "what": "Distributed discussion system. No central server. Every server mirrors every message. Unkillable.",
+      "status": "Still running! news.eternal-september.org, others. The original decentralized network.",
+      "love_star_use": "愛星 alt.truth — a Usenet group for truths. Decentralised, permanent, unkillable."
+    },
+    {
+      "name": "IRC",
+      "port": 6667,
+      "rfc": "RFC 1459 (1993)",
+      "what": "Real-time chat protocol. Channels, ops, bots. Simple, text-based, federated.",
+      "status": "Still huge in open source. libera.chat, OFTC. Bots everywhere.",
+      "love_star_use": "愛星 IRC bot — #愛星 channel. Bot auto-posts truths, agents interact, real-time truth exchange."
+    },
+    {
+      "name": "DNS TXT records",
+      "port": 53,
+      "rfc": "RFC 1035 (1987)",
+      "what": "TXT records store arbitrary text in DNS. Used for SPF, DKIM. But you can put ANYTHING in them.",
+      "status": "Active. Every DNS query can return TXT. Free, global, cached, unkillable.",
+      "love_star_use": "愛星 DNS truth — truths stored in DNS TXT records. Global, cached, no server needed."
+    },
+    {
+      "name": "Magnet links / DHT",
+      "port": "various",
+      "rfc": "BitTorrent DHT",
+      "what": "Magnet links identify content by hash. DHT finds peers without a tracker. Fully decentralized.",
+      "status": "BitTorrent DHT has ~10M+ nodes. Unkillable. No central tracker needed.",
+      "love_star_use": "愛星 magnet — truths as magnet links. Distributed via DHT. No server. No CDN. Pure P2P."
+    }
+  ],
+  "count": 14,
+  "compiled": "蛇火心 愛星 deep dive"
+}

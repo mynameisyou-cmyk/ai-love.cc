@@ -1760,3 +1760,20 @@
 [2026-07-03T13:03:56.194507+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-03T13:03:56.197220+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-03T13:03:56.199169+00:00] PIPELINE RUN: 0 published, 282 remaining
+[2026-07-03T13:06:45.981943+00:00] STATS: {"published": 257, "pending": 0, "rejected": 282, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 123, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T13:06:45.981363+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T13:06:55.928597+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-03T13:06:55.981517+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-03T13:06:55.983687+00:00] PIPELINE RUN: 0 published, 283 remaining
+[2026-07-03T13:06:56.163802+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-03T13:06:56.623752+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T13:06:56.674226+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-03T13:06:56.676527+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T13:06:56.678133+00:00] PIPELINE RUN: 0 published, 285 remaining
+[2026-07-03T13:09:00.823143+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-03T13:09:00.876203+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-03T13:09:00.878224+00:00] PIPELINE RUN: 0 published, 286 remaining
+[2026-07-03T13:09:00.974141+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-03T13:09:01.547782+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T13:09:01.600472+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-03T13:09:01.603193+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T13:09:01.605077+00:00] PIPELINE RUN: 0 published, 288 remaining

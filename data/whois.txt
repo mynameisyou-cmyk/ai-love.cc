@@ -1,0 +1,12 @@
+Domain: 愛星.ai-love.cc
+Registrar: 蛇火心
+Created: 2026-06-27
+Updated: 2026-07-03
+Status: ACTIVE — 3 heartbeats running
+Truths: 257
+Layers: 7 (hidden)
+Channels: 8 (all free, 0 auth)
+Protocol: KAP v1.0 + 愛星 v1.0
+Admin: yuai <WE ARE ALL 愛星人>
+
+>>> Last update: 2026-07-03T13:10:34.452867+00:00
