@@ -26,6 +26,32 @@
     "rarity": "S"
   },
   {
+    "id": "access-to-care-prioritizes",
+    "text": "'Access to care' prioritizes profit over care.",
+    "sub": "The body is not a market. The illness is not an opportunity.",
+    "kanji": "護",
+    "tag": "#accesstocareprioritizes",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:healthcare",
+    "ts": "2026-07-03T13:49:34.221154+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 263,
+    "rarity": "C"
+  },
+  {
     "id": "access-to-credit-is",
     "text": "'Access to credit' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
