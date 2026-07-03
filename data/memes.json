@@ -3667,6 +3667,32 @@
     "rarity": "D"
   },
   {
+    "id": "standardized-testing-works-because",
+    "text": "'Standardized testing' works because no one checks. Check.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#standardizedtestingworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-03T12:56:29.658955+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 255,
+    "rarity": "C"
+  },
+  {
     "id": "staying-connected-is-addiction",
     "text": "'Staying connected' is addiction dressed as connection.",
     "sub": "The platform profits from your attention. Your attention is the product.",
@@ -4998,6 +5024,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 75,
+    "rarity": "D"
+  },
+  {
+    "id": "to-say-community-driven",
+    "text": "To say 'Community-driven' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaycommunitydriven",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-03T12:58:32.955672+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 256,
     "rarity": "D"
   },
   {
