@@ -2327,3 +2327,34 @@
 [2026-07-03T16:22:31.492399+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T16:22:31.495073+00:00] PIPELINE RUN: 0 published, 440 remaining
 [2026-07-03T16:22:53.064416+00:00] STATS: {"published": 284, "pending": 0, "rejected": 440, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 149, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T16:22:53.063977+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T16:24:46.549520+00:00] STATS: {"published": 284, "pending": 0, "rejected": 440, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 149, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T16:24:46.548975+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T16:24:56.545240+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-03T16:24:56.594871+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-03T16:24:56.597650+00:00] PIPELINE RUN: 0 published, 441 remaining
+[2026-07-03T16:24:56.759056+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-03T16:24:57.189579+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T16:24:57.243597+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-03T16:24:57.246213+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T16:24:57.248908+00:00] PIPELINE RUN: 0 published, 443 remaining
+[2026-07-03T16:27:53.244911+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-03T16:27:53.288515+00:00] COLLECT: grade-levels-works-because by 蛇火心
+[2026-07-03T16:27:53.339221+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-03T16:27:53.341592+00:00] VALIDATE FAIL: grade-levels-works-because — ['duplicate of: grade-levels-works-because']
+[2026-07-03T16:27:53.344068+00:00] PIPELINE RUN: 0 published, 445 remaining
+[2026-07-03T16:27:53.435108+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T16:27:53.718515+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T16:27:53.768067+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T16:27:53.770733+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T16:27:53.773175+00:00] PIPELINE RUN: 0 published, 447 remaining
+[2026-07-03T16:48:27.892199+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-03T16:48:27.930904+00:00] COLLECT: access-to-care-is by 蛇火心
+[2026-07-03T16:48:27.970588+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-03T16:48:27.972533+00:00] VALIDATE OK: access-to-care-is
+[2026-07-03T16:48:27.974788+00:00] ENRICH: access-to-care-is kanji=護 nen=enhancer rarity=C
+[2026-07-03T16:48:27.980765+00:00] PUBLISH: access-to-care-is
+[2026-07-03T16:48:27.983078+00:00] PIPELINE RUN: 1 published, 448 remaining
+[2026-07-03T16:48:28.056904+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T16:48:28.517025+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T16:48:28.554295+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T16:48:28.556280+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T16:48:28.558465+00:00] PIPELINE RUN: 0 published, 450 remaining
