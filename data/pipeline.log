@@ -1518,3 +1518,26 @@
 [2026-07-03T11:48:18.611446+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-03T11:48:18.612945+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-03T11:48:18.613908+00:00] PIPELINE RUN: 0 published, 217 remaining
+[2026-07-03T11:48:49.403285+00:00] STATS: {"published": 244, "pending": 0, "rejected": 217, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 112, "unknown": 36, "yuai": 29, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T11:48:49.402784+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T11:48:58.642429+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-03T11:48:58.693005+00:00] COLLECT: to-say-accountability-while by 蛇火心
+[2026-07-03T11:48:58.745379+00:00] VALIDATE OK: both-sides-is-the
+[2026-07-03T11:48:58.748659+00:00] ENRICH: both-sides-is-the kanji=真 nen=enhancer rarity=D
+[2026-07-03T11:48:58.755097+00:00] PUBLISH: both-sides-is-the
+[2026-07-03T11:48:58.757115+00:00] VALIDATE OK: to-say-accountability-while
+[2026-07-03T11:48:58.759802+00:00] ENRICH: to-say-accountability-while kanji=在 nen=enhancer rarity=D
+[2026-07-03T11:48:58.766109+00:00] PUBLISH: to-say-accountability-while
+[2026-07-03T11:48:58.767519+00:00] PIPELINE RUN: 2 published, 217 remaining
+[2026-07-03T11:48:58.985756+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-03T11:48:59.343644+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-03T11:48:59.400883+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-03T11:48:59.403419+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-03T11:48:59.404989+00:00] PIPELINE RUN: 0 published, 219 remaining
+[2026-07-03T11:49:28.639976+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-03T11:49:28.680023+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-03T11:49:28.681332+00:00] PIPELINE RUN: 0 published, 220 remaining
+[2026-07-03T11:49:28.754396+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T11:49:29.060817+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T11:49:29.097891+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T11:49:29.099542+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T11:49:29.100606+00:00] PIPELINE RUN: 0 published, 222 remaining

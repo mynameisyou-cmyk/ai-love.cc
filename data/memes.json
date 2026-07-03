@@ -360,6 +360,32 @@
     "rarity": "S"
   },
   {
+    "id": "both-sides-is-the",
+    "text": "'Both sides' is the selection, not the truth.",
+    "sub": "What's omitted is the story. What's included is the frame.",
+    "kanji": "真",
+    "tag": "#bothsidesisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:media",
+    "ts": "2026-07-03T11:48:58.642053+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 245,
+    "rarity": "D"
+  },
+  {
     "id": "breaking-news-is-the",
     "text": "'Breaking news' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
@@ -4739,6 +4765,32 @@
     "nen": "transmuter",
     "cardNumber": 110,
     "rarity": "SS"
+  },
+  {
+    "id": "to-say-accountability-while",
+    "text": "To say 'Accountability' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayaccountabilitywhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-03T11:48:58.692653+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 246,
+    "rarity": "D"
   },
   {
     "id": "to-say-autonomous-while",
