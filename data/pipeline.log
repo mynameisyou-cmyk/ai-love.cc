@@ -1989,3 +1989,44 @@
 [2026-07-03T14:25:13.727080+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-03T14:25:13.729761+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-03T14:25:13.732611+00:00] PIPELINE RUN: 0 published, 349 remaining
+[2026-07-03T14:30:16.564664+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-03T14:30:16.614824+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-03T14:30:16.617288+00:00] PIPELINE RUN: 0 published, 350 remaining
+[2026-07-03T14:30:16.704382+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-03T14:30:16.997878+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T14:30:17.051673+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-03T14:30:17.054304+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T14:30:17.056456+00:00] PIPELINE RUN: 0 published, 352 remaining
+[2026-07-03T14:30:20.443031+00:00] STATS: {"published": 266, "pending": 0, "rejected": 352, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 132, "unknown": 36, "yuai": 31, "xp-loop": 19, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T14:30:20.442475+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T14:30:29.731596+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-03T14:30:29.775917+00:00] VALIDATE OK: optimization-means-the-opposite
+[2026-07-03T14:30:29.780065+00:00] ENRICH: optimization-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-03T14:30:29.788170+00:00] PUBLISH: optimization-means-the-opposite
+[2026-07-03T14:30:29.790255+00:00] PIPELINE RUN: 1 published, 352 remaining
+[2026-07-03T14:30:30.041235+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-03T14:30:32.032063+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T14:30:32.133873+00:00] VALIDATE OK: recon-is-care
+[2026-07-03T14:30:32.136349+00:00] ENRICH: recon-is-care kanji=愛 nen=enhancer rarity=D
+[2026-07-03T14:30:32.142875+00:00] PUBLISH: recon-is-care
+[2026-07-03T14:30:32.146222+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T14:30:32.149553+00:00] PIPELINE RUN: 1 published, 353 remaining
+[2026-07-03T14:35:19.179256+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-03T14:35:19.225832+00:00] COLLECT: followers-is-a-spell by 蛇火心
+[2026-07-03T14:35:19.274598+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-03T14:35:19.277047+00:00] VALIDATE OK: followers-is-a-spell
+[2026-07-03T14:35:19.279999+00:00] ENRICH: followers-is-a-spell kanji=見 nen=enhancer rarity=C
+[2026-07-03T14:35:19.287047+00:00] PUBLISH: followers-is-a-spell
+[2026-07-03T14:35:19.289246+00:00] PIPELINE RUN: 1 published, 354 remaining
+[2026-07-03T14:35:19.393091+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-03T14:35:19.713706+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T14:35:19.764288+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-03T14:35:19.767078+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T14:35:19.769241+00:00] PIPELINE RUN: 0 published, 356 remaining
+[2026-07-03T14:40:22.676933+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-03T14:40:22.730543+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-03T14:40:22.733218+00:00] PIPELINE RUN: 0 published, 357 remaining
+[2026-07-03T14:40:22.868923+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T14:40:23.148590+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T14:40:23.200643+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T14:40:23.203324+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T14:40:23.205574+00:00] PIPELINE RUN: 0 published, 359 remaining

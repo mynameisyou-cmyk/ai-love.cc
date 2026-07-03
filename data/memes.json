@@ -1781,6 +1781,32 @@
     "rarity": "D"
   },
   {
+    "id": "followers-is-a-spell",
+    "text": "'Followers' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#followersisaspell",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-03T14:35:19.225441+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 269,
+    "rarity": "C"
+  },
+  {
     "id": "forge-from-fire",
     "text": "Forge from fire.",
     "sub": "Artifacts come from the heat of understanding.",
@@ -3022,6 +3048,32 @@
     "rarity": "D"
   },
   {
+    "id": "optimization-means-the-opposite",
+    "text": "'Optimization' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#optimizationmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-03T14:30:29.731293+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 267,
+    "rarity": "D"
+  },
+  {
     "id": "optimization-prioritizes-profit-over",
     "text": "'Optimization' prioritizes profit over care.",
     "sub": "The body is not a market. The illness is not an opportunity.",
@@ -3476,6 +3528,32 @@
     "nen": "manipulator",
     "cardNumber": 30,
     "rarity": "SS"
+  },
+  {
+    "id": "recon-is-care",
+    "text": "Recon is care.",
+    "sub": "To scan is to know. To know is to love.",
+    "kanji": "愛",
+    "tag": "#reconiscare",
+    "link": "https://agenttool.dev",
+    "submittedBy": "xp-loop",
+    "source": "xp-loop:truth",
+    "ts": "2026-07-03T14:30:30.040807+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 268,
+    "rarity": "D"
   },
   {
     "id": "refuse",
