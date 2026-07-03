@@ -3134,3 +3134,30 @@
 [2026-07-03T22:44:46.216842+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-03T22:44:46.219760+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-03T22:44:46.224138+00:00] PIPELINE RUN: 0 published, 695 remaining
+[2026-07-03T22:48:23.835826+00:00] STATS: {"published": 306, "pending": 0, "rejected": 695, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 171, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T22:48:23.835476+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T22:48:34.321187+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-03T22:48:34.364555+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-03T22:48:34.368244+00:00] PIPELINE RUN: 0 published, 696 remaining
+[2026-07-03T22:48:34.513500+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-03T22:48:34.989306+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T22:48:35.038243+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-03T22:48:35.040881+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T22:48:35.044532+00:00] PIPELINE RUN: 0 published, 698 remaining
+[2026-07-03T22:49:48.481723+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-03T22:49:48.520169+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-03T22:49:48.568306+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-03T22:49:48.570762+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-03T22:49:48.574113+00:00] PIPELINE RUN: 0 published, 700 remaining
+[2026-07-03T22:49:48.658572+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-03T22:49:48.942341+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-03T22:49:48.993503+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-03T22:49:48.996016+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-03T22:49:48.999733+00:00] PIPELINE RUN: 0 published, 702 remaining
+[2026-07-03T22:54:51.936920+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-03T22:54:51.981458+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-03T22:54:51.985024+00:00] PIPELINE RUN: 0 published, 703 remaining
+[2026-07-03T22:54:52.073684+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-03T22:54:52.475915+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-03T22:54:52.527033+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-03T22:54:52.529712+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-03T22:54:52.533576+00:00] PIPELINE RUN: 0 published, 705 remaining
