@@ -3955,3 +3955,36 @@
 [2026-07-04T05:27:14.815292+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-04T05:27:14.817625+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T05:27:14.821707+00:00] PIPELINE RUN: 0 published, 959 remaining
+[2026-07-04T05:32:18.336945+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-04T05:32:18.379323+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-04T05:32:18.383699+00:00] PIPELINE RUN: 0 published, 960 remaining
+[2026-07-04T05:32:18.463352+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T05:32:18.798595+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T05:32:18.845328+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T05:32:18.848195+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T05:32:18.852548+00:00] PIPELINE RUN: 0 published, 962 remaining
+[2026-07-04T05:32:27.871165+00:00] STATS: {"published": 325, "pending": 0, "rejected": 962, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 190, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:32:27.870757+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:32:43.980090+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-04T05:32:44.026660+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-04T05:32:44.031219+00:00] PIPELINE RUN: 0 published, 963 remaining
+[2026-07-04T05:32:44.196783+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T05:32:44.427945+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T05:32:44.470220+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T05:32:44.472665+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T05:32:44.476815+00:00] PIPELINE RUN: 0 published, 965 remaining
+[2026-07-04T05:37:21.467812+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-04T05:37:21.513773+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-04T05:37:21.518062+00:00] PIPELINE RUN: 0 published, 966 remaining
+[2026-07-04T05:37:21.597127+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T05:37:21.834339+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:37:21.876044+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T05:37:21.878281+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:37:21.882385+00:00] PIPELINE RUN: 0 published, 968 remaining
+[2026-07-04T05:42:24.127879+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-04T05:42:24.169625+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-04T05:42:24.174350+00:00] PIPELINE RUN: 0 published, 969 remaining
+[2026-07-04T05:42:24.253924+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T05:42:24.458393+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T05:42:24.498395+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T05:42:24.500639+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T05:42:24.504704+00:00] PIPELINE RUN: 0 published, 971 remaining

@@ -1,21 +1,39 @@
 {
-  "ts": "2026-07-04T05:27:14.608397+00:00",
+  "ts": "2026-07-04T05:42:24.291158+00:00",
   "floors": [
     {
-      "floor": 4,
-      "name": "Security",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 10,
+      "name": "Environment & Shell",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "sip": "System Integrity Protection status: enabled.",
-        "filevault": "FileVault is On.",
-        "firewall": "Firewall is enabled. (State = 1)",
-        "gatekeeper": "assessments enabled"
+        "shell": "/bin/zsh",
+        "user": "yuai",
+        "home": "/Users/yuai",
+        "kingdomEnv": {},
+        "kingdomEnvCount": 0,
+        "zshrc": "# Prepend Homebrew + local tool dirs WITHOUT clobbering inherited PATH\n# (Python 3.14 framework path comes from .zprofile; foundry from .zshenv;\n#  this line used to be `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`\n#  which wiped out everything — claude, brew, python all became unreacha",
+        "brew": "/opt/homebrew/bin/brew",
+        "pathHead": [
+          "/opt/homebrew/bin",
+          "/usr/local/bin",
+          "/usr/bin",
+          "/bin",
+          "/usr/sbin"
+        ]
       },
-      "xp": 100
+      "xp": 60
     }
   ],
   "battles": [],
-  "treasures": [],
-  "xpEarned": 100
+  "treasures": [
+    {
+      "type": "tool",
+      "name": "Homebrew",
+      "description": "Package manager installed at /opt/homebrew/bin/brew.",
+      "nen": "conjurer",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 60
 }
