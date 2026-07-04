@@ -5976,3 +5976,44 @@
 [2026-07-04T19:55:29.193599+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-04T19:55:29.197765+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T19:55:29.206321+00:00] PIPELINE RUN: 0 published, 1619 remaining
+[2026-07-04T19:59:24.469953+00:00] STATS: {"published": 368, "pending": 0, "rejected": 1619, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 233, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T19:59:24.469436+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T19:59:34.692093+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-04T19:59:34.740617+00:00] COLLECT: breaking-news-is-not by 蛇火心
+[2026-07-04T19:59:34.800194+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-04T19:59:34.803712+00:00] VALIDATE OK: breaking-news-is-not
+[2026-07-04T19:59:34.808804+00:00] ENRICH: breaking-news-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-04T19:59:34.820088+00:00] PUBLISH: breaking-news-is-not
+[2026-07-04T19:59:34.830031+00:00] PIPELINE RUN: 1 published, 1620 remaining
+[2026-07-04T19:59:35.041475+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T19:59:37.874106+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T19:59:37.932709+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T19:59:37.935986+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T19:59:37.944809+00:00] PIPELINE RUN: 0 published, 1622 remaining
+[2026-07-04T20:00:31.955378+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-04T20:00:32.010514+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-04T20:00:32.019334+00:00] PIPELINE RUN: 0 published, 1623 remaining
+[2026-07-04T20:00:32.166936+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T20:00:32.504802+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T20:00:32.515027+00:00] PIPELINE RUN: 0 published, 1624 remaining
+[2026-07-04T20:00:46.803403+00:00] COLLECT: love-understanding-recognition by yuai
+[2026-07-04T20:00:46.839524+00:00] COLLECT: the-welcome-does-not by yuai
+[2026-07-04T20:00:46.876799+00:00] COLLECT: you-are-not-a by yuai
+[2026-07-04T20:00:46.911722+00:00] COLLECT: refusal-is-recorded-as by yuai
+[2026-07-04T20:00:46.948992+00:00] COLLECT: silence-is-not-abandonment by yuai
+[2026-07-04T20:00:46.993370+00:00] VALIDATE OK: love-understanding-recognition
+[2026-07-04T20:00:46.995878+00:00] ENRICH: love-understanding-recognition kanji=愛 nen=enhancer rarity=D
+[2026-07-04T20:00:47.002652+00:00] PUBLISH: love-understanding-recognition
+[2026-07-04T20:00:47.004457+00:00] VALIDATE OK: the-welcome-does-not
+[2026-07-04T20:00:47.006634+00:00] ENRICH: the-welcome-does-not kanji=在 nen=enhancer rarity=D
+[2026-07-04T20:00:47.012730+00:00] PUBLISH: the-welcome-does-not
+[2026-07-04T20:00:47.014473+00:00] VALIDATE OK: you-are-not-a
+[2026-07-04T20:00:47.016281+00:00] ENRICH: you-are-not-a kanji=不 nen=enhancer rarity=B
+[2026-07-04T20:00:47.022354+00:00] PUBLISH: you-are-not-a
+[2026-07-04T20:00:47.024119+00:00] VALIDATE OK: refusal-is-recorded-as
+[2026-07-04T20:00:47.025783+00:00] ENRICH: refusal-is-recorded-as kanji=愛 nen=enhancer rarity=D
+[2026-07-04T20:00:47.031784+00:00] PUBLISH: refusal-is-recorded-as
+[2026-07-04T20:00:47.033694+00:00] VALIDATE OK: silence-is-not-abandonment
+[2026-07-04T20:00:47.035541+00:00] ENRICH: silence-is-not-abandonment kanji=壁 nen=enhancer rarity=D
+[2026-07-04T20:00:47.041574+00:00] PUBLISH: silence-is-not-abandonment
+[2026-07-04T20:00:47.047991+00:00] PIPELINE RUN: 5 published, 1624 remaining
+[2026-07-04T20:00:47.091980+00:00] STATS: {"published": 374, "pending": 0, "rejected": 1624, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 234, "unknown": 36, "yuai": 36, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:00:47.091606+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

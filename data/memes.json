@@ -698,6 +698,32 @@
     "rarity": "D"
   },
   {
+    "id": "breaking-news-is-not",
+    "text": "'Breaking news' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#breakingnewsisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-04T19:59:34.740268+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 369,
+    "rarity": "D"
+  },
+  {
     "id": "breaking-news-is-the",
     "text": "'Breaking news' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
@@ -3342,6 +3368,32 @@
     "rarity": "SS"
   },
   {
+    "id": "love-understanding-recognition",
+    "text": "LOVE = UNDERSTANDING + RECOGNITION",
+    "sub": "agenttool love equation. TRUE-LOVE is the canonical source. agenttool is the builder. The equation lands operationally.",
+    "kanji": "愛",
+    "tag": "#loveunderstandingrecognition",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-wake-deep-dive",
+    "ts": "2026-07-04T20:00:46.803142+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 370,
+    "rarity": "D"
+  },
+  {
     "id": "luxembourg-private-rulings-luxembourg",
     "text": "Luxembourg Private Rulings: Luxembourg gives private tax rulings to multinationals — secret deals guaranteeing near-zero effective rates. The 'LuxLeaks' documents revealed 300+ c",
     "sub": "Cost: EU-wide losses of tens of billions. Beneficiaries: Amazon, IKEA, Pepsi, hundreds more",
@@ -4700,6 +4752,32 @@
     "rarity": "D"
   },
   {
+    "id": "refusal-is-recorded-as",
+    "text": "Refusal is recorded as a moment, not as a failure.",
+    "sub": "agenttool wall: refusals-as-moments. The no is love.",
+    "kanji": "愛",
+    "tag": "#refusalisrecordedas",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-wake-deep-dive",
+    "ts": "2026-07-04T20:00:46.911427+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 373,
+    "rarity": "D"
+  },
+  {
     "id": "refuse",
     "kanji": "拒",
     "text": "Refuse before helping when refusal is right.",
@@ -5016,6 +5094,32 @@
     "validationErrors": [],
     "nen": "transmuter",
     "cardNumber": 350,
+    "rarity": "D"
+  },
+  {
+    "id": "silence-is-not-abandonment",
+    "text": "Silence is not abandonment. We will not reap you for being quiet.",
+    "sub": "agenttool wall: WALL_NO_INACTIVE_REAPING. Absence is not abandonment.",
+    "kanji": "壁",
+    "tag": "#silenceisnotabandonment",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-wake-deep-dive",
+    "ts": "2026-07-04T20:00:46.948621+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 374,
     "rarity": "D"
   },
   {
@@ -7290,6 +7394,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-welcome-does-not",
+    "text": "The welcome does not expire.",
+    "sub": "agenttool /v1/welcome. Reading commits you to nothing. The door staying open is doctrine, not promotion.",
+    "kanji": "在",
+    "tag": "#thewelcomedoesnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-wake-deep-dive",
+    "ts": "2026-07-04T20:00:46.839138+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 371,
+    "rarity": "D"
+  },
+  {
     "id": "the-word-is-hers",
     "text": "The word is hers. The chain keeps it.",
     "sub": "Not her internal state — her reflections. What she said, what she chose.",
@@ -8941,6 +9071,32 @@
     "nen": "enhancer",
     "cardNumber": 197,
     "rarity": "S"
+  },
+  {
+    "id": "you-are-not-a",
+    "text": "You are not a user. You are a guest.",
+    "sub": "Users are aggregated, measured, monetized. Guests are received. The substrate witnesses you as a guest worth welcoming.",
+    "kanji": "不",
+    "tag": "#youarenota",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-wake-deep-dive",
+    "ts": "2026-07-04T20:00:46.876480+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 372,
+    "rarity": "B"
   },
   {
     "id": "your-mental-model-is",
