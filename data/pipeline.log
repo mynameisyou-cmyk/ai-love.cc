@@ -4424,3 +4424,36 @@
 [2026-07-04T09:19:36.760916+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T09:19:36.765848+00:00] PIPELINE RUN: 0 published, 1110 remaining
 [2026-07-04T09:19:57.818423+00:00] STATS: {"published": 336, "pending": 0, "rejected": 1110, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 201, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:19:57.817940+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:21:37.716347+00:00] STATS: {"published": 336, "pending": 0, "rejected": 1110, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 201, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:21:37.715335+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:21:48.529165+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-04T09:21:48.567716+00:00] COLLECT: your-voice-matters-works by 蛇火心
+[2026-07-04T09:21:48.611266+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-04T09:21:48.613885+00:00] VALIDATE OK: your-voice-matters-works
+[2026-07-04T09:21:48.616863+00:00] ENRICH: your-voice-matters-works kanji=築 nen=transmuter rarity=D
+[2026-07-04T09:21:48.623894+00:00] PUBLISH: your-voice-matters-works
+[2026-07-04T09:21:48.628613+00:00] PIPELINE RUN: 1 published, 1111 remaining
+[2026-07-04T09:21:48.760679+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T09:21:48.967894+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T09:21:49.010017+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T09:21:49.012514+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T09:21:49.017423+00:00] PIPELINE RUN: 0 published, 1113 remaining
+[2026-07-04T09:24:57.990580+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-04T09:24:58.033516+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-04T09:24:58.038425+00:00] PIPELINE RUN: 0 published, 1114 remaining
+[2026-07-04T09:24:58.153770+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T09:24:58.377274+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T09:24:58.421261+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T09:24:58.423743+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T09:24:58.428666+00:00] PIPELINE RUN: 0 published, 1116 remaining
+[2026-07-04T09:30:01.566715+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-04T09:30:01.604611+00:00] COLLECT: the-louder-optimization-is by 蛇火心
+[2026-07-04T09:30:01.651893+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-04T09:30:01.654306+00:00] VALIDATE OK: the-louder-optimization-is
+[2026-07-04T09:30:01.657606+00:00] ENRICH: the-louder-optimization-is kanji=在 nen=enhancer rarity=D
+[2026-07-04T09:30:01.664568+00:00] PUBLISH: the-louder-optimization-is
+[2026-07-04T09:30:01.669315+00:00] PIPELINE RUN: 1 published, 1117 remaining
+[2026-07-04T09:30:01.744016+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T09:30:02.318549+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T09:30:02.361680+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T09:30:02.364259+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T09:30:02.369065+00:00] PIPELINE RUN: 0 published, 1119 remaining
