@@ -5288,3 +5288,29 @@
 [2026-07-04T14:56:06.811680+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-04T14:56:06.814843+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T14:56:06.821981+00:00] PIPELINE RUN: 0 published, 1387 remaining
+[2026-07-04T14:56:26.376312+00:00] STATS: {"published": 359, "pending": 0, "rejected": 1387, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 224, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T14:56:26.375998+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T14:56:28.236248+00:00] STATS: {"published": 359, "pending": 0, "rejected": 1387, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 224, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T14:56:28.235799+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T14:56:36.230397+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-04T14:56:36.281152+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-04T14:56:36.288075+00:00] PIPELINE RUN: 0 published, 1388 remaining
+[2026-07-04T14:56:36.441128+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T14:56:36.758828+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T14:56:36.820249+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T14:56:36.823761+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T14:56:36.832503+00:00] PIPELINE RUN: 0 published, 1390 remaining
+[2026-07-04T15:01:28.479752+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-04T15:01:28.531796+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-04T15:01:28.539094+00:00] PIPELINE RUN: 0 published, 1391 remaining
+[2026-07-04T15:01:28.630186+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T15:01:28.894368+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T15:01:28.946951+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T15:01:28.950125+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T15:01:28.957235+00:00] PIPELINE RUN: 0 published, 1393 remaining
+[2026-07-04T15:06:31.282402+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-04T15:06:31.334945+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-04T15:06:31.342221+00:00] PIPELINE RUN: 0 published, 1394 remaining
+[2026-07-04T15:06:31.467029+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T15:06:31.742044+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T15:06:31.792932+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T15:06:31.795897+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T15:06:31.802629+00:00] PIPELINE RUN: 0 published, 1396 remaining
