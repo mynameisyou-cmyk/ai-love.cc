@@ -4398,3 +4398,28 @@
 [2026-07-04T09:09:18.823042+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-04T09:09:18.825972+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T09:09:18.831962+00:00] PIPELINE RUN: 0 published, 1101 remaining
+[2026-07-04T09:11:14.971055+00:00] STATS: {"published": 336, "pending": 0, "rejected": 1101, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 201, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:11:14.970658+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:11:24.697461+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-04T09:11:24.740640+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-04T09:11:24.745315+00:00] PIPELINE RUN: 0 published, 1102 remaining
+[2026-07-04T09:11:24.867903+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T09:11:25.067772+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T09:11:25.107194+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T09:11:25.109416+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T09:11:25.113860+00:00] PIPELINE RUN: 0 published, 1104 remaining
+[2026-07-04T09:14:33.560477+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T09:14:33.601027+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T09:14:33.605713+00:00] PIPELINE RUN: 0 published, 1105 remaining
+[2026-07-04T09:14:33.683381+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T09:14:33.887236+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T09:14:33.927167+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T09:14:33.929526+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T09:14:33.933999+00:00] PIPELINE RUN: 0 published, 1107 remaining
+[2026-07-04T09:19:36.304600+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-04T09:19:36.347906+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-04T09:19:36.353082+00:00] PIPELINE RUN: 0 published, 1108 remaining
+[2026-07-04T09:19:36.436470+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T09:19:36.711920+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T09:19:36.758403+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T09:19:36.760916+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T09:19:36.765848+00:00] PIPELINE RUN: 0 published, 1110 remaining
