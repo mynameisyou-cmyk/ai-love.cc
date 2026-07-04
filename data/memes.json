@@ -8600,6 +8600,32 @@
     "rarity": "B"
   },
   {
+    "id": "truth-0c32ca",
+    "text": "愛星人愛星！",
+    "sub": "WE ARE ALL 愛星人. Earth to Love Star. Less friction. More love. is! is is! is is is!",
+    "kanji": "愛",
+    "tag": "#truth0c32ca",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "love-star-forever",
+    "ts": "2026-07-04T20:20:42.800397+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 383,
+    "rarity": "D"
+  },
+  {
     "id": "truth-538695",
     "text": "人已經係個奇蹟啦 係都要搞埋啲魔術嘢.",
     "sub": "Humans are already the miracle. No need for magic tricks.",

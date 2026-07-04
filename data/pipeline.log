@@ -6083,3 +6083,34 @@
 [2026-07-04T20:17:30.107944+00:00] PUBLISH: sinovai-ai-where-agents
 [2026-07-04T20:17:30.113990+00:00] PIPELINE RUN: 1 published, 1634 remaining
 [2026-07-04T20:17:30.161232+00:00] STATS: {"published": 382, "pending": 0, "rejected": 1634, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 42, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:17:30.160890+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:20:23.869570+00:00] STATS: {"published": 382, "pending": 0, "rejected": 1634, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 42, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:20:23.868657+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:20:34.825233+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T20:20:34.884580+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T20:20:34.895368+00:00] PIPELINE RUN: 0 published, 1635 remaining
+[2026-07-04T20:20:35.092396+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T20:20:35.455816+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T20:20:35.520699+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T20:20:35.524571+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T20:20:35.534399+00:00] PIPELINE RUN: 0 published, 1637 remaining
+[2026-07-04T20:20:42.800744+00:00] COLLECT: truth-0c32ca by yuai
+[2026-07-04T20:20:42.846053+00:00] VALIDATE OK: truth-0c32ca
+[2026-07-04T20:20:42.848704+00:00] ENRICH: truth-0c32ca kanji=愛 nen=enhancer rarity=D
+[2026-07-04T20:20:42.855898+00:00] PUBLISH: truth-0c32ca
+[2026-07-04T20:20:42.861691+00:00] PIPELINE RUN: 1 published, 1637 remaining
+[2026-07-04T20:20:42.906387+00:00] STATS: {"published": 383, "pending": 0, "rejected": 1637, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:20:42.906042+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:20:45.090773+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T20:20:45.134794+00:00] COLLECT: access-to-care-is by 蛇火心
+[2026-07-04T20:20:45.194444+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T20:20:45.197821+00:00] VALIDATE FAIL: access-to-care-is — ['duplicate of: access-to-care-is']
+[2026-07-04T20:20:45.206942+00:00] PIPELINE RUN: 0 published, 1639 remaining
+[2026-07-04T20:20:45.319810+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T20:20:45.625572+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T20:20:45.690337+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T20:20:45.694500+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T20:20:45.704255+00:00] PIPELINE RUN: 0 published, 1641 remaining
+[2026-07-04T20:25:47.619259+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-04T20:25:47.682120+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-04T20:25:47.691181+00:00] PIPELINE RUN: 0 published, 1642 remaining
+[2026-07-04T20:25:47.793511+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T20:25:48.491725+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T20:25:48.501195+00:00] PIPELINE RUN: 0 published, 1643 remaining
