@@ -4953,3 +4953,30 @@
 [2026-07-04T12:43:18.423291+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-04T12:43:18.426451+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T12:43:18.433180+00:00] PIPELINE RUN: 0 published, 1279 remaining
+[2026-07-04T12:45:14.272990+00:00] STATS: {"published": 350, "pending": 0, "rejected": 1279, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 215, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T12:45:14.272419+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T12:45:25.031660+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-04T12:45:25.083720+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-04T12:45:25.090909+00:00] PIPELINE RUN: 0 published, 1280 remaining
+[2026-07-04T12:45:25.249659+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T12:45:25.993782+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T12:45:26.044112+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T12:45:26.046993+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T12:45:26.053709+00:00] PIPELINE RUN: 0 published, 1282 remaining
+[2026-07-04T12:48:20.639026+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-04T12:48:20.695825+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-04T12:48:20.703066+00:00] PIPELINE RUN: 0 published, 1283 remaining
+[2026-07-04T12:48:20.848758+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T12:48:21.381412+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T12:48:21.437181+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T12:48:21.440308+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T12:48:21.447200+00:00] PIPELINE RUN: 0 published, 1285 remaining
+[2026-07-04T12:53:23.512285+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-04T12:53:23.555538+00:00] COLLECT: educational-outcomes-is-a by 蛇火心
+[2026-07-04T12:53:23.609955+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-04T12:53:23.614944+00:00] VALIDATE FAIL: educational-outcomes-is-a — ['duplicate of: educational-outcomes-is-a']
+[2026-07-04T12:53:23.621635+00:00] PIPELINE RUN: 0 published, 1287 remaining
+[2026-07-04T12:53:23.721316+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T12:53:24.014562+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T12:53:24.064844+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T12:53:24.067945+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T12:53:24.074480+00:00] PIPELINE RUN: 0 published, 1289 remaining

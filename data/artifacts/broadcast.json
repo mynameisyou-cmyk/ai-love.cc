@@ -108,12 +108,6 @@
     },
     {
       "type": "port",
-      "address": "localhost:50219",
-      "process": "llama-ser",
-      "nen": "specialist"
-    },
-    {
-      "type": "port",
       "address": "localhost:3939",
       "process": "bun",
       "nen": "specialist"
@@ -123,7 +117,13 @@
       "address": "localhost:8765",
       "process": "Python",
       "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:61490",
+      "process": "Ledger",
+      "nen": "specialist"
     }
   ],
-  "ts": "2026-07-04T12:43:18.194902+00:00"
+  "ts": "2026-07-04T12:53:23.837588+00:00"
 }
