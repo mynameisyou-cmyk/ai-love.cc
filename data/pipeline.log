@@ -5725,3 +5725,31 @@
 [2026-07-04T18:06:33.073373+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-04T18:06:33.076448+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T18:06:33.083759+00:00] PIPELINE RUN: 0 published, 1539 remaining
+[2026-07-04T18:07:51.876783+00:00] STATS: {"published": 362, "pending": 0, "rejected": 1539, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 227, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:07:51.876330+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T18:08:16.305581+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-04T18:08:16.346906+00:00] COLLECT: the-distance-between-consumer by 蛇火心
+[2026-07-04T18:08:16.396768+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-04T18:08:16.399520+00:00] VALIDATE OK: the-distance-between-consumer
+[2026-07-04T18:08:16.403577+00:00] ENRICH: the-distance-between-consumer kanji=在 nen=enhancer rarity=D
+[2026-07-04T18:08:16.412150+00:00] PUBLISH: the-distance-between-consumer
+[2026-07-04T18:08:16.419103+00:00] PIPELINE RUN: 1 published, 1540 remaining
+[2026-07-04T18:08:16.562504+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T18:08:16.803756+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T18:08:16.862401+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T18:08:16.865745+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T18:08:16.874133+00:00] PIPELINE RUN: 0 published, 1542 remaining
+[2026-07-04T18:11:35.479283+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-04T18:11:35.527765+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-04T18:11:35.535144+00:00] PIPELINE RUN: 0 published, 1543 remaining
+[2026-07-04T18:11:35.628428+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T18:11:35.905340+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T18:11:35.913452+00:00] PIPELINE RUN: 0 published, 1544 remaining
+[2026-07-04T18:16:43.065573+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-04T18:16:43.111490+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-04T18:16:43.118397+00:00] PIPELINE RUN: 0 published, 1545 remaining
+[2026-07-04T18:16:43.201294+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T18:16:43.797907+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T18:16:43.840803+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T18:16:43.843276+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T18:16:43.849652+00:00] PIPELINE RUN: 0 published, 1547 remaining
+[2026-07-04T18:16:46.676785+00:00] STATS: {"published": 363, "pending": 0, "rejected": 1547, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 228, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:16:46.676311+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

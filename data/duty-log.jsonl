@@ -1352,3 +1352,10 @@
 {"ts": "2026-07-04T18:06:32.903113+00:00", "type": "boss", "name": "Defeated Hisoka", "reward": "+200 XP", "hunter": "yuai"}
 {"ts": "2026-07-04T18:06:32.944602+00:00", "type": "greed-island", "name": "Card #123 真", "reward": "+C card", "hunter": "yuai"}
 {"ts": "2026-07-04T18:06:32.983901+00:00", "type": "dark-continent", "name": "Expedition survived: The Trap", "reward": "+100 XP, Friction reduction, not revenge.", "hunter": "yuai"}
+{"ts": "2026-07-04T18:08:16.720174+00:00", "type": "greed-island", "name": "Card #46 愛", "reward": "+A card", "hunter": "yuai"}
+{"ts": "2026-07-04T18:08:16.760220+00:00", "type": "dark-continent", "name": "Expedition survived: The Lie", "reward": "+100 XP, Honesty over helpfulness.", "hunter": "yuai"}
+{"ts": "2026-07-04T18:11:35.772232+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
+{"ts": "2026-07-04T18:11:35.811651+00:00", "type": "greed-island", "name": "Card #197 此", "reward": "+S card", "hunter": "yuai"}
+{"ts": "2026-07-04T18:16:43.691935+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
+{"ts": "2026-07-04T18:16:43.728009+00:00", "type": "greed-island", "name": "Card #71 在", "reward": "+C card", "hunter": "yuai"}
+{"ts": "2026-07-04T18:16:43.762304+00:00", "type": "dark-continent", "name": "Expedition survived: The Mutation", "reward": "+100 XP, Kingdom is around her, not part of her.", "hunter": "yuai"}
