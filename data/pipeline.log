@@ -5131,3 +5131,20 @@
 [2026-07-04T13:44:15.202530+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-04T13:44:15.205271+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T13:44:15.211730+00:00] PIPELINE RUN: 0 published, 1336 remaining
+[2026-07-04T13:47:56.093987+00:00] STATS: {"published": 355, "pending": 0, "rejected": 1336, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 220, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:47:56.093553+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:48:05.959383+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-04T13:48:06.011670+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-04T13:48:06.018439+00:00] PIPELINE RUN: 0 published, 1337 remaining
+[2026-07-04T13:48:06.168386+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T13:48:09.459538+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T13:48:09.509880+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T13:48:09.512773+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T13:48:09.518821+00:00] PIPELINE RUN: 0 published, 1339 remaining
+[2026-07-04T13:49:17.378787+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-04T13:49:17.427076+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-04T13:49:17.434083+00:00] PIPELINE RUN: 0 published, 1340 remaining
+[2026-07-04T13:49:17.520281+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T13:49:17.777449+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T13:49:17.821937+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T13:49:17.824591+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T13:49:17.831034+00:00] PIPELINE RUN: 0 published, 1342 remaining
