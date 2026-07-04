@@ -1188,3 +1188,4 @@
 {"ts": "2026-07-04T09:11:24.813870+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Non-Dom Status", "ok": true}}
 {"ts": "2026-07-04T09:11:25.123375+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 290, "ok": true}}
 {"ts": "2026-07-04T09:11:26.624776+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T09:21:29.544993+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
