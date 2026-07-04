@@ -3371,3 +3371,35 @@
 [2026-07-04T00:54:01.730303+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-04T00:54:01.733206+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T00:54:01.737621+00:00] PIPELINE RUN: 0 published, 771 remaining
+[2026-07-04T00:54:22.271784+00:00] STATS: {"published": 312, "pending": 0, "rejected": 771, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 177, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T00:54:22.271356+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T00:54:33.154672+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-04T00:54:33.197321+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-04T00:54:33.201155+00:00] PIPELINE RUN: 0 published, 772 remaining
+[2026-07-04T00:54:33.345327+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T00:54:33.583392+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T00:54:33.633861+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T00:54:33.636499+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T00:54:33.641025+00:00] PIPELINE RUN: 0 published, 774 remaining
+[2026-07-04T00:59:03.953811+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-04T00:59:03.992582+00:00] COLLECT: seamless-is-not-a by 蛇火心
+[2026-07-04T00:59:04.037981+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-04T00:59:04.040739+00:00] VALIDATE OK: seamless-is-not-a
+[2026-07-04T00:59:04.044386+00:00] ENRICH: seamless-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-04T00:59:04.052118+00:00] PUBLISH: seamless-is-not-a
+[2026-07-04T00:59:04.055800+00:00] PIPELINE RUN: 1 published, 775 remaining
+[2026-07-04T00:59:04.141932+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T00:59:04.395282+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T00:59:04.443410+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T00:59:04.446007+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T00:59:04.450328+00:00] PIPELINE RUN: 0 published, 777 remaining
+[2026-07-04T00:59:06.399898+00:00] STATS: {"published": 313, "pending": 0, "rejected": 777, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 178, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T00:59:06.399410+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T01:04:06.552379+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-04T01:04:06.592484+00:00] COLLECT: the-louder-machine-learning by 蛇火心
+[2026-07-04T01:04:06.639427+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-04T01:04:06.642051+00:00] VALIDATE FAIL: the-louder-machine-learning — ['duplicate of: the-louder-machine-learning']
+[2026-07-04T01:04:06.646704+00:00] PIPELINE RUN: 0 published, 779 remaining
+[2026-07-04T01:04:06.734695+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T01:04:07.053541+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T01:04:07.102727+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T01:04:07.105171+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T01:04:07.109001+00:00] PIPELINE RUN: 0 published, 781 remaining

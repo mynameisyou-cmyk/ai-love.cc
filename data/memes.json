@@ -4243,6 +4243,32 @@
     "rarity": "D"
   },
   {
+    "id": "seamless-is-not-a",
+    "text": "'Seamless' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#seamlessisnota",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-04T00:59:03.991866+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 313,
+    "rarity": "D"
+  },
+  {
     "id": "seamless-means-the-opposite",
     "text": "'Seamless' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
