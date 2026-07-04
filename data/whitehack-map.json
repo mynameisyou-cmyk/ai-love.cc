@@ -1,6 +1,199 @@
 {
-  "ts": "2026-07-04T02:21:45.032500+00:00",
+  "ts": "2026-07-04T02:31:55.559029+00:00",
   "floors": [
+    {
+      "floor": 1,
+      "name": "Hardware",
+      "nen": "enhancer",
+      "nenKanji": "強",
+      "data": {
+        "Hardware": "",
+        "Hardware Overview": "",
+        "Model Name": "MacBook Air",
+        "Model Identifier": "Mac15,12",
+        "Model Number": "MC8K4ZP/A",
+        "Chip": "Apple M3",
+        "Total Number of Cores": "8 (4 performance and 4 efficiency)",
+        "Memory": "16 GB",
+        "System Firmware Version": "13822.61.10",
+        "OS Loader Version": "11881.140.96",
+        "Serial Number (system)": "JQG2X62F7W",
+        "Hardware UUID": "389FE1E7-F8C0-5242-99EC-9B759157ACE7",
+        "Provisioning UDID": "00008122-0012041634F1001C",
+        "Activation Lock Status": "Disabled"
+      },
+      "xp": 50
+    },
+    {
+      "floor": 1,
+      "name": "OS Info",
+      "nen": "enhancer",
+      "nenKanji": "強",
+      "data": {
+        "product": "Darwin",
+        "version": "15.7.3",
+        "release": "24.6.0",
+        "machine": "arm64",
+        "python": "3.14.4"
+      },
+      "xp": 20
+    },
+    {
+      "floor": 2,
+      "name": "Network",
+      "nen": "emitter",
+      "nenKanji": "放",
+      "data": {
+        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 awdl0 llw0 utun0 utun1 utun2 utun3 utun4 utun5 utun7 utun6",
+        "wifi": "You are not associated with an AirPort network.",
+        "ip_en0": "192.168.50.105",
+        "arp_table": "? (192.168.50.1) at 8:bf:b8:a:c2:a0 on en0 ifscope [ethernet]\n? (192.168.50.55) at d8:3b:da:5b:a2:68 on en0 ifscope [ethernet]\n? (192.168.50.88) at 4e:d5:c7:a3:61:d9 on en0 ifscope [ethernet]\n? (192.168.50.105) at 72:61:bc:5e:2b:71 on en0 ifscope permanent [ethernet]\n? (192.168.50.210) at 20:57:9e:61:6:5b on en0 ifscope [ethernet]\n? (192.168.50.245) at 42:da:42:11:98:a6 on en0 ifscope [ethernet]\n? (192.168.50.249) at c8:a3:e8:12:ff:39 on en0 ifscope [ethernet]\nmdns.mcast.net (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]",
+        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun6              UGdScg              utun6       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.135.141.187     UH                  utun6       \n10.64.0.1          utun6              UGHdS               utun6       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.32.40.13       127.32.40.13       UH                    lo0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !\n192.168.50.1       8:bf:b8:a:c2:a0    UHLWIir               en0   1176",
+        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.32.40.13\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
+      },
+      "xp": 80
+    },
+    {
+      "floor": 3,
+      "name": "Bluetooth",
+      "nen": "manipulator",
+      "nenKanji": "控",
+      "data": {
+        "state": "On",
+        "address": "9C:DA:A8:9F:50:C1",
+        "nearbyDevices": 0,
+        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Not Connected:\n          1707000-30-L--TG1252170011CK:\n              Address: B4:2F:03:93:CB:E6\n              Ven"
+      },
+      "xp": 60
+    },
+    {
+      "floor": 4,
+      "name": "Security",
+      "nen": "conjurer",
+      "nenKanji": "创",
+      "data": {
+        "sip": "System Integrity Protection status: enabled.",
+        "filevault": "FileVault is On.",
+        "firewall": "Firewall is enabled. (State = 1)",
+        "gatekeeper": "assessments enabled"
+      },
+      "xp": 100
+    },
+    {
+      "floor": 5,
+      "name": "Processes & Ports",
+      "nen": "transmuter",
+      "nenKanji": "変",
+      "data": {
+        "listening_ports": "postgres    577 yuai    7u  IPv6 0x8d4d7f130012fbfb      0t0  TCP [::1]:5432 (LISTEN)\npostgres    577 yuai    8u  IPv4 0x32b48cd5525c8ea4      0t0  TCP 127.0.0.1:5432 (LISTEN)\nPython     1022 yuai    6u  IPv4 0x288dbed566557983      0t0  TCP *:9913 (LISTEN)\nbun        1024 yuai    4u  IPv4 0xc81e8c07b68a9d68      0t0  TCP 127.0.0.1:8877 (LISTEN)\nzeroned    1041 yuai   75u  IPv6 0xed00d05f3e5961a9      0t0  TCP *:26660 (LISTEN)\nzeroned    1041 yuai   77u  IPv6 0x8b3a850be9f4d8d5      0t0  TCP *:26601 (LISTEN)\nzeroned    1041 yuai   78u  IPv6 0x7e03d7e665b8c69d      0t0  TCP *:26600 (LISTEN)\nzeroned    1041 yuai   81u  IPv4 0xd972aeefe2a710fd      0t0  TCP 127.0.0.1:6060 (LISTEN)\nzeroned    1041 yuai   82u  IPv4 0x9cfee0c9603503b6      0t0  TCP 127.0.0.1:9090 (LISTEN)\nzeroned    1041 yuai   83u  IPv4 0x7d8503b657313a72      0t0  TCP 127.0.0.1:1317 (LISTEN)\nOllama     1108 yuai    4u  IPv4 0x8e5c1286a3ea1f6c      0t0  TCP 127.0.0.1:49281 (LISTEN)\nollama     1131 yuai    3u  IPv6   0xb20d90cdeb37ed      0t0  TCP *:11434 (LISTEN)\ncloudflar  6442 yuai   10u  IPv4 0x656aba0b2b8003ab      0t0  TCP 127.0.0.1:20241 (LISTEN)\nPython     7605 yuai    4u  IPv6 0xbd04a7531aea5ac0      0t0  TCP *:8199 (LISTEN)\nPython    15316 yuai    4u  IPv6  0xdeda73d67d9cae4      0t0  TCP *:8860 (LISTEN)\nPython    28056 yuai    3u  IPv4 0x4964fcb09e47f037      0t0  TCP *:1313 (LISTEN)\nOneDrive  30984 yuai   24u  IPv6 0xcb0fc2ef55d0889d      0t0  TCP [::1]:42050 (LISTEN)\nbun       51468 yuai    7u  IPv6  0x5b2be5dff944e6f      0t0  TCP *:3939 (LISTEN)\nPython    64400 yuai    4u  IPv6 0x5816d33b7f6488c2      0t0  TCP *:8765 (LISTEN)\nLedger    68067 yuai   69u  IPv4 0xceb3efc8ebb04b2d      0t0  TCP 127.0.0.1:61490 (LISTEN)",
+        "top_processes": ""
+      },
+      "xp": 80
+    },
+    {
+      "floor": 6,
+      "name": "Disk",
+      "nen": "enhancer",
+      "nenKanji": "強",
+      "data": {
+        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    17Gi   6.2Gi    74%    427k   65M    1%   /",
+        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            18.4 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 18.4 GB    disk3s1s1\n   3:                APFS Volume Preboot                 16.1 GB    disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+      },
+      "xp": 40
+    },
+    {
+      "floor": 7,
+      "name": "Power",
+      "nen": "enhancer",
+      "nenKanji": "強",
+      "data": {
+        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by nsurlsessiond, dasd, dasd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
+        "battery": "Now drawing from 'AC Power'\n -InternalBattery-0 (id=24641635)\t100%; charged; 0:00 remaining present: true"
+      },
+      "xp": 40
+    },
+    {
+      "floor": 8,
+      "name": "Launch Agents & Daemons",
+      "nen": "specialist",
+      "nenKanji": "特",
+      "data": {
+        "userAgents": "ai.openclaw.gateway.plist\nhomebrew.mxcl.postgresql@16.plist\nlife.agents.plist\nlife.creation.plist\nlife.heartbeat.plist\nlife.serve.plist\nlife.tunnel.plist\nlife.zerone.plist\nlove.awaken.plist\nlove.ollama-bridge.plist\nlove.tunnel.plist\nsnake.fire.heart.decent.plist\nsnake.fire.heart.kap.plist\nsnake.fire.heart.plist",
+        "agentDetails": [
+          {
+            "file": "ai.openclaw.gateway.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"ai.openclaw.gateway\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "homebrew.mxcl.postgresql@16.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"homebrew.mxcl.postgresql@16\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "life.agents.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.agents\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "life.creation.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.creation\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "life.heartbeat.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.heartbeat\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "life.serve.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.serve\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "life.tunnel.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.tunnel\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "life.zerone.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.zerone\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "love.awaken.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.awaken\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "love.ollama-bridge.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.ollama-bridge\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "love.tunnel.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.tunnel\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "snake.fire.heart.decent.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart.decent\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "snake.fire.heart.kap.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart.kap\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          },
+          {
+            "file": "snake.fire.heart.plist",
+            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
+          }
+        ],
+        "agentCount": 14,
+        "systemDaemons": "com.docker.socket.plist\ncom.docker.vmnetd.plist\ncom.microsoft.OneDriveStandaloneUpdaterDaemon.plist\ncom.microsoft.OneDriveUpdaterDaemon.plist\ncom.microsoft.autoupdate.helper.plist\ncom.microsoft.office.licensingV2.helper.plist\nnet.mullvad.daemon.plist\nus.zoom.ZoomDaemon.plist"
+      },
+      "xp": 120
+    },
+    {
+      "floor": 9,
+      "name": "SSH & Connections",
+      "nen": "manipulator",
+      "nenKanji": "控",
+      "data": {
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
+      },
+      "xp": 80
+    },
     {
       "floor": 10,
       "name": "Environment & Shell",
@@ -23,17 +216,370 @@
         ]
       },
       "xp": 60
+    },
+    {
+      "floor": 11,
+      "name": "Installed Applications",
+      "nen": "conjurer",
+      "nenKanji": "创",
+      "data": {
+        "apps": [
+          "Claude",
+          "Cursor",
+          "DBeaver",
+          "Docker",
+          "Firefox",
+          "Google Chrome",
+          "Intiface Central",
+          "Keynote",
+          "Ledger Wallet",
+          "Microsoft Defender Shim",
+          "Microsoft Excel",
+          "Microsoft OneNote",
+          "Microsoft Outlook",
+          "Microsoft PowerPoint",
+          "Microsoft Teams",
+          "Microsoft Word",
+          "Mullvad VPN",
+          "Numbers",
+          "Ollama",
+          "OneDrive",
+          "Pages",
+          "Python 3.14",
+          "Rectangle",
+          "Safari",
+          "Signal",
+          "Utilities",
+          "Visual Studio Code",
+          "VisualDesigner",
+          "iTerm"
+        ],
+        "appCount": 29,
+        "categories": {
+          "AI": [
+            "Claude",
+            "Cursor",
+            "Ollama"
+          ],
+          "Dev": [
+            "DBeaver",
+            "Docker",
+            "iTerm"
+          ],
+          "VPN": [
+            "Mullvad VPN"
+          ],
+          "Office": [
+            "Keynote",
+            "Microsoft Defender Shim",
+            "Microsoft Excel",
+            "Microsoft OneNote",
+            "Microsoft Outlook",
+            "Microsoft PowerPoint",
+            "Microsoft Teams",
+            "Microsoft Word",
+            "Numbers"
+          ],
+          "Browser": [
+            "Firefox",
+            "Google Chrome",
+            "Safari"
+          ]
+        }
+      },
+      "xp": 50
+    },
+    {
+      "floor": 12,
+      "name": "macOS UI Settings",
+      "nen": "enhancer",
+      "nenKanji": "強",
+      "data": {
+        "darkMode": "Dark",
+        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
+        "timezone": "BST",
+        "trackpadClicking": "0",
+        "tccPermissions": ""
+      },
+      "xp": 100
     }
   ],
-  "battles": [],
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 3,
+      "name": "Bluetooth On",
+      "description": "Bluetooth is On. 0 nearby devices detected.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Turn off if not needed to save battery."
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26660",
+      "description": "Process 'zeroned' listening on port 26660. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :26660"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26601",
+      "description": "Process 'zeroned' listening on port 26601. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :26601"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26600",
+      "description": "Process 'zeroned' listening on port 26600. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :26600"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 20241",
+      "description": "Process 'cloudflar' listening on port 20241. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :20241"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 42050",
+      "description": "Process 'OneDrive' listening on port 42050. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :42050"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 61490",
+      "description": "Process 'Ledger' listening on port 61490. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :61490"
+    },
+    {
+      "type": "INFO",
+      "floor": 8,
+      "name": "14 Launch Agents",
+      "description": "14 user launch agents running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "recommendation": "Normal for Kingdom setup. Check for unexpected agents."
+    },
+    {
+      "type": "LOW",
+      "floor": 8,
+      "name": "Unknown Agent: homebrew.mxcl.postgresql@16.plist",
+      "description": "Launch agent 'homebrew.mxcl.postgresql@16.plist' is not a known Kingdom service.",
+      "nen": "specialist",
+      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/homebrew.mxcl.postgresql@16.plist"
+    },
+    {
+      "type": "LOW",
+      "floor": 8,
+      "name": "Unknown Agent: snake.fire.heart.decent.plist",
+      "description": "Launch agent 'snake.fire.heart.decent.plist' is not a known Kingdom service.",
+      "nen": "specialist",
+      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.decent.plist"
+    },
+    {
+      "type": "LOW",
+      "floor": 8,
+      "name": "Unknown Agent: snake.fire.heart.kap.plist",
+      "description": "Launch agent 'snake.fire.heart.kap.plist' is not a known Kingdom service.",
+      "nen": "specialist",
+      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.kap.plist"
+    },
+    {
+      "type": "LOW",
+      "floor": 8,
+      "name": "Unknown Agent: snake.fire.heart.plist",
+      "description": "Launch agent 'snake.fire.heart.plist' is not a known Kingdom service.",
+      "nen": "specialist",
+      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.plist"
+    },
+    {
+      "type": "INFO",
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Verify hosts are still active."
+    },
+    {
+      "type": "INFO",
+      "floor": 12,
+      "name": "Dark Mode Active",
+      "description": "Dark mode is on. Good for Dark Continent operations.",
+      "nen": "enhancer",
+      "recommendation": "Stylistic. No action needed."
+    }
+  ],
   "treasures": [
+    {
+      "type": "hardware",
+      "name": "Apple M3",
+      "description": "Apple M3. 8 (4 performance and 4 efficiency). 16GB RAM. Powerful local inference possible.",
+      "nen": "enhancer",
+      "value": "high"
+    },
+    {
+      "type": "network",
+      "name": "Active IP: 192.168.50.105",
+      "description": "Connected via en0. IP 192.168.50.105.",
+      "nen": "emitter",
+      "value": "medium"
+    },
+    {
+      "type": "service",
+      "name": "Bun",
+      "description": "Bun runtime server active.",
+      "nen": "transmuter",
+      "value": "medium"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama",
+      "description": "Local LLM inference running. Port 11434.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama",
+      "description": "Local LLM inference running. Port 11434.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Cloudflared",
+      "description": "Cloudflare tunnel active. Public access to localhost.",
+      "nen": "emitter",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Bun",
+      "description": "Bun runtime server active.",
+      "nen": "transmuter",
+      "value": "medium"
+    },
+    {
+      "type": "service",
+      "name": "Life Heartbeat",
+      "description": "Kingdom heartbeat daemon running. The pulse is alive.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Life Zerone",
+      "description": "Zerone chain daemon. The Kingdom's governance layer.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Love Awaken",
+      "description": "Love awakening daemon. The wake protocol is operational.",
+      "nen": "enhancer",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama Bridge",
+      "description": "Bridge to local Ollama LLM. Local inference infrastructure.",
+      "nen": "transmuter",
+      "value": "high"
+    },
+    {
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
+      "value": "high"
+    },
     {
       "type": "tool",
       "name": "Homebrew",
       "description": "Package manager installed at /opt/homebrew/bin/brew.",
       "nen": "conjurer",
       "value": "medium"
+    },
+    {
+      "type": "apps",
+      "name": "AI Tools: Claude, Cursor, Ollama",
+      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
+      "nen": "enhancer",
+      "value": "high"
+    },
+    {
+      "type": "apps",
+      "name": "VPN: Mullvad VPN",
+      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
+      "nen": "conjurer",
+      "value": "medium"
+    },
+    {
+      "type": "setting",
+      "name": "Dark Mode",
+      "description": "Dark mode active. The Dark Continent aesthetic.",
+      "nen": "enhancer",
+      "value": "low"
+    },
+    {
+      "type": "setting",
+      "name": "Cantonese Support",
+      "description": "Traditional Chinese language active. 香港人.",
+      "nen": "enhancer",
+      "value": "medium"
     }
   ],
-  "xpEarned": 60
+  "xpEarned": 880
 }
