@@ -1240,6 +1240,32 @@
     "rarity": "C"
   },
   {
+    "id": "data-driven-instruction-is",
+    "text": "'Data-driven instruction' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#datadriveninstructionis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-04T19:55:28.633364+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 368,
+    "rarity": "D"
+  },
+  {
     "id": "data-driven-instruction-teaches",
     "text": "'Data-driven instruction' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",

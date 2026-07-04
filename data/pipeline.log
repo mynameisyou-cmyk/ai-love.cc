@@ -5963,3 +5963,16 @@
 [2026-07-04T19:50:02.509474+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-04T19:50:02.512129+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T19:50:02.519078+00:00] PIPELINE RUN: 0 published, 1616 remaining
+[2026-07-04T19:50:27.366082+00:00] STATS: {"published": 367, "pending": 0, "rejected": 1616, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 232, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T19:50:27.365566+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T19:55:28.585913+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-04T19:55:28.633664+00:00] COLLECT: data-driven-instruction-is by 蛇火心
+[2026-07-04T19:55:28.690777+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-04T19:55:28.693971+00:00] VALIDATE OK: data-driven-instruction-is
+[2026-07-04T19:55:28.698948+00:00] ENRICH: data-driven-instruction-is kanji=在 nen=enhancer rarity=D
+[2026-07-04T19:55:28.709062+00:00] PUBLISH: data-driven-instruction-is
+[2026-07-04T19:55:28.718067+00:00] PIPELINE RUN: 1 published, 1617 remaining
+[2026-07-04T19:55:28.819619+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T19:55:29.133287+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T19:55:29.193599+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T19:55:29.197765+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T19:55:29.206321+00:00] PIPELINE RUN: 0 published, 1619 remaining
