@@ -5102,3 +5102,32 @@
 [2026-07-04T13:34:10.658068+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-04T13:34:10.660906+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T13:34:10.666882+00:00] PIPELINE RUN: 0 published, 1327 remaining
+[2026-07-04T13:37:31.258175+00:00] STATS: {"published": 354, "pending": 0, "rejected": 1327, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 219, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:37:31.257760+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:37:40.970979+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-04T13:37:41.019358+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-04T13:37:41.025823+00:00] PIPELINE RUN: 0 published, 1328 remaining
+[2026-07-04T13:37:41.170945+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T13:37:41.454993+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T13:37:41.501037+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T13:37:41.503644+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T13:37:41.509972+00:00] PIPELINE RUN: 0 published, 1330 remaining
+[2026-07-04T13:39:12.492839+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-04T13:39:12.533173+00:00] COLLECT: to-say-innovation-in by 蛇火心
+[2026-07-04T13:39:12.580998+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-04T13:39:12.583873+00:00] VALIDATE OK: to-say-innovation-in
+[2026-07-04T13:39:12.587440+00:00] ENRICH: to-say-innovation-in kanji=在 nen=enhancer rarity=D
+[2026-07-04T13:39:12.595573+00:00] PUBLISH: to-say-innovation-in
+[2026-07-04T13:39:12.601414+00:00] PIPELINE RUN: 1 published, 1331 remaining
+[2026-07-04T13:39:12.723111+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T13:39:12.997951+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T13:39:13.043446+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T13:39:13.046352+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T13:39:13.052740+00:00] PIPELINE RUN: 0 published, 1333 remaining
+[2026-07-04T13:44:14.792589+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T13:44:14.840084+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T13:44:14.846642+00:00] PIPELINE RUN: 0 published, 1334 remaining
+[2026-07-04T13:44:14.932468+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T13:44:15.156706+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T13:44:15.202530+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T13:44:15.205271+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T13:44:15.211730+00:00] PIPELINE RUN: 0 published, 1336 remaining
