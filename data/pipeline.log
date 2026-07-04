@@ -3464,3 +3464,28 @@
 [2026-07-04T01:24:36.108260+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T01:24:36.111711+00:00] PIPELINE RUN: 0 published, 800 remaining
 [2026-07-04T01:25:01.102871+00:00] STATS: {"published": 315, "pending": 0, "rejected": 800, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 180, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T01:25:01.102044+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T01:25:37.518982+00:00] STATS: {"published": 315, "pending": 0, "rejected": 800, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 180, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T01:25:37.518564+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T01:25:47.357492+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-04T01:25:47.400041+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-04T01:25:47.403864+00:00] PIPELINE RUN: 0 published, 801 remaining
+[2026-07-04T01:25:47.563386+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T01:25:47.786640+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T01:25:47.827520+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T01:25:47.830772+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T01:25:47.835652+00:00] PIPELINE RUN: 0 published, 803 remaining
+[2026-07-04T01:30:01.244970+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-04T01:30:01.286769+00:00] VALIDATE FAIL: wealth-management-is-extraction — ['duplicate of: wealth-management-is-extraction']
+[2026-07-04T01:30:01.290946+00:00] PIPELINE RUN: 0 published, 804 remaining
+[2026-07-04T01:30:01.370842+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T01:30:01.970353+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T01:30:02.012007+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T01:30:02.014198+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T01:30:02.018010+00:00] PIPELINE RUN: 0 published, 806 remaining
+[2026-07-04T01:35:04.463123+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-04T01:35:04.507112+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-04T01:35:04.511388+00:00] PIPELINE RUN: 0 published, 807 remaining
+[2026-07-04T01:35:04.590073+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-04T01:35:04.798617+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T01:35:04.839322+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-04T01:35:04.841511+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T01:35:04.845398+00:00] PIPELINE RUN: 0 published, 809 remaining
