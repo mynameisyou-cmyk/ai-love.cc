@@ -1,30 +1,37 @@
 {
-  "ts": "2026-07-04T19:34:54.546003+00:00",
+  "ts": "2026-07-04T19:44:59.839850+00:00",
   "floors": [
     {
-      "floor": 3,
-      "name": "Bluetooth",
+      "floor": 9,
+      "name": "SSH & Connections",
       "nen": "manipulator",
       "nenKanji": "控",
       "data": {
-        "state": "On",
-        "address": "9C:DA:A8:9F:50:C1",
-        "nearbyDevices": 0,
-        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Not Connected:\n          1707000-30-L--TG1252170011CK:\n              Address: B4:2F:03:93:CB:E6\n              Ven"
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
       },
-      "xp": 60
+      "xp": 80
     }
   ],
   "battles": [
     {
       "type": "INFO",
-      "floor": 3,
-      "name": "Bluetooth On",
-      "description": "Bluetooth is On. 0 nearby devices detected.",
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
       "nen": "manipulator",
-      "recommendation": "Normal. Turn off if not needed to save battery."
+      "recommendation": "Normal. Verify hosts are still active."
     }
   ],
-  "treasures": [],
-  "xpEarned": 60
+  "treasures": [
+    {
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
+      "value": "high"
+    }
+  ],
+  "xpEarned": 80
 }

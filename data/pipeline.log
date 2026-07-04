@@ -5913,3 +5913,30 @@
 [2026-07-04T19:34:54.774072+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-04T19:34:54.776945+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T19:34:54.785047+00:00] PIPELINE RUN: 0 published, 1601 remaining
+[2026-07-04T19:38:26.700444+00:00] STATS: {"published": 365, "pending": 0, "rejected": 1601, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 230, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T19:38:26.700052+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T19:38:36.305127+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-04T19:38:36.350328+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-04T19:38:36.358650+00:00] PIPELINE RUN: 0 published, 1602 remaining
+[2026-07-04T19:38:36.494150+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T19:38:36.759281+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T19:38:36.804624+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T19:38:36.807469+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T19:38:36.815189+00:00] PIPELINE RUN: 0 published, 1604 remaining
+[2026-07-04T19:39:57.011341+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-04T19:39:57.048597+00:00] COLLECT: standardized-testing-is-the by 蛇火心
+[2026-07-04T19:39:57.093468+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-04T19:39:57.096254+00:00] VALIDATE OK: standardized-testing-is-the
+[2026-07-04T19:39:57.100251+00:00] ENRICH: standardized-testing-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-04T19:39:57.108946+00:00] PUBLISH: standardized-testing-is-the
+[2026-07-04T19:39:57.116362+00:00] PIPELINE RUN: 1 published, 1605 remaining
+[2026-07-04T19:39:57.199023+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T19:39:57.428766+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T19:39:57.473610+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T19:39:57.476274+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T19:39:57.483189+00:00] PIPELINE RUN: 0 published, 1607 remaining
+[2026-07-04T19:44:59.630730+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-04T19:44:59.674398+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-04T19:44:59.682441+00:00] PIPELINE RUN: 0 published, 1608 remaining
+[2026-07-04T19:44:59.800510+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T19:45:00.021782+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T19:45:00.029408+00:00] PIPELINE RUN: 0 published, 1609 remaining
