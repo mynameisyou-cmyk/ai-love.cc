@@ -848,3 +848,4 @@
 {"ts": "2026-07-04T01:15:24.679087+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Dutch CV/BV Conduit", "ok": true}}
 {"ts": "2026-07-04T01:15:24.987555+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 430, "ok": true}}
 {"ts": "2026-07-04T01:15:27.199960+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T01:25:30.624687+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
