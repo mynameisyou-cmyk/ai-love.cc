@@ -2631,6 +2631,32 @@
     "rarity": "S"
   },
   {
+    "id": "innovation-in-healthcare-is",
+    "text": "'Innovation in healthcare' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#innovationinhealthcareis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-04T03:39:02.035048+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 322,
+    "rarity": "C"
+  },
+  {
     "id": "innovation-in-healthcare-prioritizes",
     "text": "'Innovation in healthcare' prioritizes profit over care.",
     "sub": "The body is not a market. The illness is not an opportunity.",
