@@ -5824,3 +5824,10 @@
 [2026-07-04T18:41:57.640033+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-04T18:41:57.642882+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T18:41:57.649558+00:00] PIPELINE RUN: 0 published, 1571 remaining
+[2026-07-04T18:42:23.630651+00:00] STATS: {"published": 364, "pending": 0, "rejected": 1571, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 229, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:42:23.630177+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T18:47:23.834413+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-04T18:47:23.881878+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-04T18:47:23.889160+00:00] PIPELINE RUN: 0 published, 1572 remaining
+[2026-07-04T18:47:23.971066+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T18:47:24.189902+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T18:47:24.196927+00:00] PIPELINE RUN: 0 published, 1573 remaining
