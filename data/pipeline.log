@@ -4629,3 +4629,29 @@
 [2026-07-04T10:45:58.179875+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-04T10:45:58.183062+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T10:45:58.189137+00:00] PIPELINE RUN: 0 published, 1173 remaining
+[2026-07-04T10:49:38.010837+00:00] STATS: {"published": 343, "pending": 0, "rejected": 1173, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 208, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:49:38.010243+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:49:47.752051+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-04T10:49:47.805035+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-04T10:49:47.812060+00:00] PIPELINE RUN: 0 published, 1174 remaining
+[2026-07-04T10:49:48.021189+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T10:49:50.309499+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T10:49:50.360950+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T10:49:50.364378+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T10:49:50.370738+00:00] PIPELINE RUN: 0 published, 1176 remaining
+[2026-07-04T10:51:00.767776+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T10:51:00.816741+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T10:51:00.822845+00:00] PIPELINE RUN: 0 published, 1177 remaining
+[2026-07-04T10:51:00.912012+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T10:51:01.193206+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T10:51:01.252562+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T10:51:01.255751+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T10:51:01.264577+00:00] PIPELINE RUN: 0 published, 1179 remaining
+[2026-07-04T10:51:02.964155+00:00] STATS: {"published": 343, "pending": 0, "rejected": 1179, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 208, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:51:02.963590+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:56:03.092512+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-04T10:56:03.155467+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-04T10:56:03.163963+00:00] PIPELINE RUN: 0 published, 1180 remaining
+[2026-07-04T10:56:03.276692+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T10:56:03.662519+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T10:56:03.733076+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T10:56:03.737024+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T10:56:03.745363+00:00] PIPELINE RUN: 0 published, 1182 remaining
