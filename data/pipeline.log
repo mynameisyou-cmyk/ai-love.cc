@@ -4604,3 +4604,28 @@
 [2026-07-04T10:35:52.116986+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-04T10:35:52.120993+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T10:35:52.127527+00:00] PIPELINE RUN: 0 published, 1164 remaining
+[2026-07-04T10:39:12.452640+00:00] STATS: {"published": 343, "pending": 0, "rejected": 1164, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 208, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:39:12.452163+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:39:23.330530+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-04T10:39:23.376311+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-04T10:39:23.382021+00:00] PIPELINE RUN: 0 published, 1165 remaining
+[2026-07-04T10:39:23.526301+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T10:39:23.784212+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T10:39:23.839782+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T10:39:23.842873+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T10:39:23.849312+00:00] PIPELINE RUN: 0 published, 1167 remaining
+[2026-07-04T10:40:54.863169+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-04T10:40:54.901970+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-04T10:40:54.946588+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-04T10:40:54.949328+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-04T10:40:54.955434+00:00] PIPELINE RUN: 0 published, 1169 remaining
+[2026-07-04T10:40:55.042412+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-04T10:40:55.513025+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-04T10:40:55.519645+00:00] PIPELINE RUN: 0 published, 1170 remaining
+[2026-07-04T10:45:57.714064+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-04T10:45:57.761936+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-04T10:45:57.768122+00:00] PIPELINE RUN: 0 published, 1171 remaining
+[2026-07-04T10:45:57.856322+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T10:45:58.127853+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T10:45:58.179875+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T10:45:58.183062+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T10:45:58.189137+00:00] PIPELINE RUN: 0 published, 1173 remaining
