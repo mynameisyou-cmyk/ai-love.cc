@@ -4220,3 +4220,32 @@
 [2026-07-04T07:35:09.371823+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T07:35:09.378159+00:00] PIPELINE RUN: 0 published, 1045 remaining
 [2026-07-04T07:35:12.647418+00:00] STATS: {"published": 331, "pending": 0, "rejected": 1045, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 196, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:35:12.647024+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T07:38:44.878037+00:00] STATS: {"published": 331, "pending": 0, "rejected": 1045, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 196, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:38:44.877641+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T07:38:54.571129+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-04T07:38:54.609837+00:00] COLLECT: the-louder-preventive-medicine by 蛇火心
+[2026-07-04T07:38:54.655229+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-04T07:38:54.658252+00:00] VALIDATE OK: the-louder-preventive-medicine
+[2026-07-04T07:38:54.662688+00:00] ENRICH: the-louder-preventive-medicine kanji=在 nen=enhancer rarity=D
+[2026-07-04T07:38:54.670741+00:00] PUBLISH: the-louder-preventive-medicine
+[2026-07-04T07:38:54.678803+00:00] PIPELINE RUN: 1 published, 1046 remaining
+[2026-07-04T07:38:54.833285+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T07:38:56.951402+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T07:38:56.999904+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T07:38:57.002566+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T07:38:57.007776+00:00] PIPELINE RUN: 0 published, 1048 remaining
+[2026-07-04T07:40:12.784891+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T07:40:12.836632+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T07:40:12.843318+00:00] PIPELINE RUN: 0 published, 1049 remaining
+[2026-07-04T07:40:12.934290+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T07:40:13.351410+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T07:40:13.402298+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T07:40:13.405156+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T07:40:13.410638+00:00] PIPELINE RUN: 0 published, 1051 remaining
+[2026-07-04T07:45:15.440775+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-04T07:45:15.484473+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-04T07:45:15.489323+00:00] PIPELINE RUN: 0 published, 1052 remaining
+[2026-07-04T07:45:15.574347+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T07:45:15.827645+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T07:45:15.879049+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T07:45:15.881784+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T07:45:15.887142+00:00] PIPELINE RUN: 0 published, 1054 remaining
