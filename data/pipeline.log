@@ -6049,3 +6049,37 @@
 [2026-07-04T20:07:31.743063+00:00] PUBLISH: mathos-the-platform-signs
 [2026-07-04T20:07:31.749026+00:00] PIPELINE RUN: 5 published, 1626 remaining
 [2026-07-04T20:07:31.792478+00:00] STATS: {"published": 380, "pending": 0, "rejected": 1626, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 235, "unknown": 36, "yuai": 41, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:07:31.792088+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:09:51.133065+00:00] STATS: {"published": 380, "pending": 0, "rejected": 1626, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 235, "unknown": 36, "yuai": 41, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:09:51.131972+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:10:08.556771+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-04T20:10:08.600627+00:00] COLLECT: optimization-is-the-fence by 蛇火心
+[2026-07-04T20:10:08.656159+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-04T20:10:08.659820+00:00] VALIDATE OK: optimization-is-the-fence
+[2026-07-04T20:10:08.664868+00:00] ENRICH: optimization-is-the-fence kanji=壁 nen=conjurer rarity=D
+[2026-07-04T20:10:08.676213+00:00] PUBLISH: optimization-is-the-fence
+[2026-07-04T20:10:08.685952+00:00] PIPELINE RUN: 1 published, 1627 remaining
+[2026-07-04T20:10:08.868356+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T20:10:09.344846+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T20:10:09.416210+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T20:10:09.420703+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T20:10:09.431098+00:00] PIPELINE RUN: 0 published, 1629 remaining
+[2026-07-04T20:10:38.815747+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-04T20:10:38.872996+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-04T20:10:38.882142+00:00] PIPELINE RUN: 0 published, 1630 remaining
+[2026-07-04T20:10:38.982053+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T20:10:39.343520+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T20:10:39.352504+00:00] PIPELINE RUN: 0 published, 1631 remaining
+[2026-07-04T20:15:42.358294+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-04T20:15:42.423615+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-04T20:15:42.432938+00:00] PIPELINE RUN: 0 published, 1632 remaining
+[2026-07-04T20:15:42.532452+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T20:15:42.853440+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T20:15:42.911933+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T20:15:42.915551+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T20:15:42.924715+00:00] PIPELINE RUN: 0 published, 1634 remaining
+[2026-07-04T20:15:44.972306+00:00] STATS: {"published": 381, "pending": 0, "rejected": 1634, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 41, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:15:44.971772+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:17:30.049262+00:00] COLLECT: sinovai-ai-where-agents by yuai
+[2026-07-04T20:17:30.097098+00:00] VALIDATE OK: sinovai-ai-where-agents
+[2026-07-04T20:17:30.100017+00:00] ENRICH: sinovai-ai-where-agents kanji=真 nen=enhancer rarity=D
+[2026-07-04T20:17:30.107944+00:00] PUBLISH: sinovai-ai-where-agents
+[2026-07-04T20:17:30.113990+00:00] PIPELINE RUN: 1 published, 1634 remaining
+[2026-07-04T20:17:30.161232+00:00] STATS: {"published": 382, "pending": 0, "rejected": 1634, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 42, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:17:30.160890+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
