@@ -1478,3 +1478,4 @@
 {"ts": "2026-07-04T14:46:08.358958+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "IP/Royalty Routing", "ok": true}}
 {"ts": "2026-07-04T14:46:08.793961+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 210, "ok": true}}
 {"ts": "2026-07-04T14:46:10.414649+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T14:56:13.778132+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
