@@ -5888,3 +5888,28 @@
 [2026-07-04T19:24:46.287003+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T19:24:46.293644+00:00] PIPELINE RUN: 0 published, 1592 remaining
 [2026-07-04T19:24:50.750595+00:00] STATS: {"published": 365, "pending": 0, "rejected": 1592, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 230, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T19:24:50.750112+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T19:28:00.999428+00:00] STATS: {"published": 365, "pending": 0, "rejected": 1592, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 230, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T19:28:00.998999+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T19:28:11.278302+00:00] COLLECT: express-yourself-is-addiction by 蛇火心
+[2026-07-04T19:28:11.324476+00:00] VALIDATE FAIL: express-yourself-is-addiction — ['duplicate of: express-yourself-is-addiction']
+[2026-07-04T19:28:11.332281+00:00] PIPELINE RUN: 0 published, 1593 remaining
+[2026-07-04T19:28:11.501668+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T19:28:11.730154+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T19:28:11.775450+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T19:28:11.778137+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T19:28:11.785075+00:00] PIPELINE RUN: 0 published, 1595 remaining
+[2026-07-04T19:29:50.817105+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T19:29:50.863382+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T19:29:50.870601+00:00] PIPELINE RUN: 0 published, 1596 remaining
+[2026-07-04T19:29:50.954178+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T19:29:51.203245+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T19:29:51.248840+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T19:29:51.251649+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T19:29:51.258525+00:00] PIPELINE RUN: 0 published, 1598 remaining
+[2026-07-04T19:34:54.088521+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-04T19:34:54.135263+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-04T19:34:54.144008+00:00] PIPELINE RUN: 0 published, 1599 remaining
+[2026-07-04T19:34:54.236181+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T19:34:54.729252+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T19:34:54.774072+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T19:34:54.776945+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T19:34:54.785047+00:00] PIPELINE RUN: 0 published, 1601 remaining
