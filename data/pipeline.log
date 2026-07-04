@@ -4457,3 +4457,32 @@
 [2026-07-04T09:30:02.361680+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-04T09:30:02.364259+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T09:30:02.369065+00:00] PIPELINE RUN: 0 published, 1119 remaining
+[2026-07-04T09:32:03.600789+00:00] STATS: {"published": 338, "pending": 0, "rejected": 1119, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 203, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:32:03.600321+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:32:12.762485+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-04T09:32:12.800127+00:00] COLLECT: trust-and-safety-works by 蛇火心
+[2026-07-04T09:32:12.846883+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-04T09:32:12.849331+00:00] VALIDATE OK: trust-and-safety-works
+[2026-07-04T09:32:12.852130+00:00] ENRICH: trust-and-safety-works kanji=信 nen=transmuter rarity=B
+[2026-07-04T09:32:12.859283+00:00] PUBLISH: trust-and-safety-works
+[2026-07-04T09:32:12.864368+00:00] PIPELINE RUN: 1 published, 1120 remaining
+[2026-07-04T09:32:12.997575+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T09:32:13.261715+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T09:32:13.310838+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T09:32:13.313269+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T09:32:13.318190+00:00] PIPELINE RUN: 0 published, 1122 remaining
+[2026-07-04T09:35:05.105719+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-04T09:35:05.150482+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-04T09:35:05.155595+00:00] PIPELINE RUN: 0 published, 1123 remaining
+[2026-07-04T09:35:05.244180+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T09:35:05.506495+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T09:35:05.549794+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T09:35:05.552273+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T09:35:05.557315+00:00] PIPELINE RUN: 0 published, 1125 remaining
+[2026-07-04T09:40:08.122182+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-04T09:40:08.167596+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-04T09:40:08.173120+00:00] PIPELINE RUN: 0 published, 1126 remaining
+[2026-07-04T09:40:08.258269+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T09:40:08.819683+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T09:40:08.863398+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T09:40:08.865847+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T09:40:08.870897+00:00] PIPELINE RUN: 0 published, 1128 remaining

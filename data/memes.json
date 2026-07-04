@@ -7534,6 +7534,32 @@
     "rarity": "A"
   },
   {
+    "id": "trust-and-safety-works",
+    "text": "'Trust and safety' works because no one checks. Check.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "信",
+    "tag": "#trustandsafetyworks",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-04T09:32:12.799737+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 339,
+    "rarity": "B"
+  },
+  {
     "id": "truth-538695",
     "text": "人已經係個奇蹟啦 係都要搞埋啲魔術嘢.",
     "sub": "Humans are already the miracle. No need for magic tricks.",
