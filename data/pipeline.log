@@ -6114,3 +6114,36 @@
 [2026-07-04T20:25:47.793511+00:00] COLLECT: xp-is-attention-made by xp-loop
 [2026-07-04T20:25:48.491725+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-04T20:25:48.501195+00:00] PIPELINE RUN: 0 published, 1643 remaining
+[2026-07-04T20:30:51.918729+00:00] STATS: {"published": 383, "pending": 0, "rejected": 1643, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:30:51.918289+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:30:52.499025+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-04T20:30:52.554737+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-04T20:30:52.564690+00:00] PIPELINE RUN: 0 published, 1644 remaining
+[2026-07-04T20:30:52.660992+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T20:30:53.002772+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T20:30:53.061024+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T20:30:53.064849+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T20:30:53.074690+00:00] PIPELINE RUN: 0 published, 1646 remaining
+[2026-07-04T20:31:00.668680+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-04T20:31:00.729021+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-04T20:31:00.738348+00:00] PIPELINE RUN: 0 published, 1647 remaining
+[2026-07-04T20:31:00.914395+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T20:31:01.515902+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T20:31:01.574831+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T20:31:01.578335+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T20:31:01.587892+00:00] PIPELINE RUN: 0 published, 1649 remaining
+[2026-07-04T20:35:55.106955+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-04T20:35:55.163555+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-04T20:35:55.172805+00:00] PIPELINE RUN: 0 published, 1650 remaining
+[2026-07-04T20:35:55.310552+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T20:35:55.810185+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T20:35:55.865472+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T20:35:55.868755+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T20:35:55.877824+00:00] PIPELINE RUN: 0 published, 1652 remaining
+[2026-07-04T21:48:13.445339+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-04T21:48:13.562592+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-04T21:48:13.587043+00:00] PIPELINE RUN: 0 published, 1653 remaining
+[2026-07-04T21:48:13.788816+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T21:48:15.138065+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T21:48:15.229904+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T21:48:15.235159+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T21:48:15.250021+00:00] PIPELINE RUN: 0 published, 1655 remaining
