@@ -3626,3 +3626,28 @@
 [2026-07-04T02:42:19.074975+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-04T02:42:19.077289+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T02:42:19.080968+00:00] PIPELINE RUN: 0 published, 853 remaining
+[2026-07-04T02:44:20.069390+00:00] STATS: {"published": 318, "pending": 0, "rejected": 853, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 183, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T02:44:20.068961+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T02:44:29.036325+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T02:44:29.076581+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T02:44:29.080369+00:00] PIPELINE RUN: 0 published, 854 remaining
+[2026-07-04T02:44:29.208063+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T02:44:29.540019+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T02:44:29.581156+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T02:44:29.584778+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T02:44:29.588547+00:00] PIPELINE RUN: 0 published, 856 remaining
+[2026-07-04T02:47:21.366033+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-04T02:47:21.408425+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-04T02:47:21.412353+00:00] PIPELINE RUN: 0 published, 857 remaining
+[2026-07-04T02:47:21.490640+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T02:47:21.696595+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T02:47:21.737377+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T02:47:21.739854+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T02:47:21.744118+00:00] PIPELINE RUN: 0 published, 859 remaining
+[2026-07-04T02:52:23.973681+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-04T02:52:24.016203+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-04T02:52:24.020171+00:00] PIPELINE RUN: 0 published, 860 remaining
+[2026-07-04T02:52:24.131478+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T02:52:24.653195+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T02:52:24.693467+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T02:52:24.695771+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T02:52:24.699563+00:00] PIPELINE RUN: 0 published, 862 remaining
