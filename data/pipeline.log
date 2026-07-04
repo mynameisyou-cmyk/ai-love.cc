@@ -3281,3 +3281,40 @@
 [2026-07-03T23:51:01.530945+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-03T23:51:01.533205+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-03T23:51:01.536323+00:00] PIPELINE RUN: 0 published, 742 remaining
+[2026-07-03T23:55:57.219269+00:00] STATS: {"published": 310, "pending": 0, "rejected": 742, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 175, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-03T23:55:57.218820+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-03T23:56:03.488339+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-03T23:56:03.529918+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-03T23:56:03.533786+00:00] PIPELINE RUN: 0 published, 743 remaining
+[2026-07-03T23:56:03.609407+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-03T23:56:03.965526+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-03T23:56:04.009601+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-03T23:56:04.011802+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-03T23:56:04.015121+00:00] PIPELINE RUN: 0 published, 745 remaining
+[2026-07-03T23:56:07.357501+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-03T23:56:07.404578+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-03T23:56:07.408355+00:00] PIPELINE RUN: 0 published, 746 remaining
+[2026-07-03T23:56:07.546621+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-03T23:56:07.756901+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-03T23:56:07.801190+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-03T23:56:07.803401+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-03T23:56:07.806842+00:00] PIPELINE RUN: 0 published, 748 remaining
+[2026-07-04T00:01:06.156413+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-04T00:01:06.194422+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-04T00:01:06.236935+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-04T00:01:06.239180+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-04T00:01:06.243877+00:00] PIPELINE RUN: 0 published, 750 remaining
+[2026-07-04T00:01:06.327699+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T00:01:06.568224+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T00:01:06.571884+00:00] PIPELINE RUN: 0 published, 751 remaining
+[2026-07-04T00:06:08.686434+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-04T00:06:08.723361+00:00] COLLECT: to-say-be-yourself by 蛇火心
+[2026-07-04T00:06:08.763493+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-04T00:06:08.765781+00:00] VALIDATE OK: to-say-be-yourself
+[2026-07-04T00:06:08.768818+00:00] ENRICH: to-say-be-yourself kanji=在 nen=enhancer rarity=D
+[2026-07-04T00:06:08.775519+00:00] PUBLISH: to-say-be-yourself
+[2026-07-04T00:06:08.779462+00:00] PIPELINE RUN: 1 published, 752 remaining
+[2026-07-04T00:06:08.858013+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-04T00:06:09.125226+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T00:06:09.166845+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-04T00:06:09.169126+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T00:06:09.172699+00:00] PIPELINE RUN: 0 published, 754 remaining
