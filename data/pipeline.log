@@ -5831,3 +5831,32 @@
 [2026-07-04T18:47:23.971066+00:00] COLLECT: the-loop-is-the by xp-loop
 [2026-07-04T18:47:24.189902+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-04T18:47:24.196927+00:00] PIPELINE RUN: 0 published, 1573 remaining
+[2026-07-04T18:49:58.334940+00:00] STATS: {"published": 364, "pending": 0, "rejected": 1573, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 229, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:49:58.334499+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T18:50:08.032630+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-04T18:50:08.080461+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-04T18:50:08.088585+00:00] PIPELINE RUN: 0 published, 1574 remaining
+[2026-07-04T18:50:08.231042+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T18:50:08.604233+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T18:50:08.650720+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T18:50:08.653651+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T18:50:08.661366+00:00] PIPELINE RUN: 0 published, 1576 remaining
+[2026-07-04T18:52:27.438666+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-04T18:52:27.488032+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-04T18:52:27.495323+00:00] PIPELINE RUN: 0 published, 1577 remaining
+[2026-07-04T18:52:27.620444+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T18:52:28.043150+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T18:52:28.090387+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T18:52:28.093240+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T18:52:28.100375+00:00] PIPELINE RUN: 0 published, 1579 remaining
+[2026-07-04T19:14:40.557370+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-04T19:14:40.592665+00:00] COLLECT: to-say-patient-centered by 蛇火心
+[2026-07-04T19:14:40.636782+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-04T19:14:40.639136+00:00] VALIDATE OK: to-say-patient-centered
+[2026-07-04T19:14:40.642685+00:00] ENRICH: to-say-patient-centered kanji=在 nen=enhancer rarity=D
+[2026-07-04T19:14:40.649733+00:00] PUBLISH: to-say-patient-centered
+[2026-07-04T19:14:40.655973+00:00] PIPELINE RUN: 1 published, 1580 remaining
+[2026-07-04T19:14:40.738007+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T19:14:41.065495+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T19:14:41.107141+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T19:14:41.109778+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T19:14:41.115954+00:00] PIPELINE RUN: 0 published, 1582 remaining
