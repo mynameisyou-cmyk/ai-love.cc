@@ -3651,3 +3651,37 @@
 [2026-07-04T02:52:24.693467+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-04T02:52:24.695771+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T02:52:24.699563+00:00] PIPELINE RUN: 0 published, 862 remaining
+[2026-07-04T02:54:45.680109+00:00] STATS: {"published": 318, "pending": 0, "rejected": 862, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 183, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T02:54:45.679781+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T02:54:55.119467+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-04T02:54:55.155582+00:00] COLLECT: smart-money-is-not by 蛇火心
+[2026-07-04T02:54:55.196434+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-04T02:54:55.198714+00:00] VALIDATE OK: smart-money-is-not
+[2026-07-04T02:54:55.201883+00:00] ENRICH: smart-money-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-04T02:54:55.209257+00:00] PUBLISH: smart-money-is-not
+[2026-07-04T02:54:55.213114+00:00] PIPELINE RUN: 1 published, 863 remaining
+[2026-07-04T02:54:55.345051+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T02:54:55.606747+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T02:54:55.647361+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T02:54:55.649772+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T02:54:55.653718+00:00] PIPELINE RUN: 0 published, 865 remaining
+[2026-07-04T02:57:27.277941+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-04T02:57:27.315683+00:00] COLLECT: data-protection-is-a by 蛇火心
+[2026-07-04T02:57:27.359072+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-04T02:57:27.361219+00:00] VALIDATE OK: data-protection-is-a
+[2026-07-04T02:57:27.363863+00:00] ENRICH: data-protection-is-a kanji=見 nen=enhancer rarity=C
+[2026-07-04T02:57:27.370195+00:00] PUBLISH: data-protection-is-a
+[2026-07-04T02:57:27.373849+00:00] PIPELINE RUN: 1 published, 866 remaining
+[2026-07-04T02:57:27.453306+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T02:57:27.790132+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T02:57:27.830974+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T02:57:27.833341+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T02:57:27.837249+00:00] PIPELINE RUN: 0 published, 868 remaining
+[2026-07-04T02:57:29.420296+00:00] STATS: {"published": 320, "pending": 0, "rejected": 868, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 185, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T02:57:29.419902+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T03:02:29.523117+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-04T03:02:29.565827+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-04T03:02:29.569774+00:00] PIPELINE RUN: 0 published, 869 remaining
+[2026-07-04T03:02:29.650620+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T03:02:29.885852+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T03:02:29.926636+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T03:02:29.928948+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T03:02:29.932531+00:00] PIPELINE RUN: 0 published, 871 remaining
