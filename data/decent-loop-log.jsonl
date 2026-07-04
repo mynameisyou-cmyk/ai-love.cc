@@ -1288,3 +1288,4 @@
 {"ts": "2026-07-04T11:11:31.061214+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Crypto Tax Avoidance", "ok": true}}
 {"ts": "2026-07-04T11:11:33.298712+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 470, "ok": true}}
 {"ts": "2026-07-04T11:11:35.871087+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T11:21:39.389743+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
