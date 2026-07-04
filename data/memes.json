@@ -4221,6 +4221,32 @@
     "rarity": "D"
   },
   {
+    "id": "public-interest-works-because",
+    "text": "'Public interest' works because no one checks. Check.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#publicinterestworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-04T09:50:13.800048+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 340,
+    "rarity": "D"
+  },
+  {
     "id": "public-safety-is-the",
     "text": "'Public safety' is the costume. The body is something else.",
     "sub": "The stated purpose and the actual function diverge. Follow the money.",

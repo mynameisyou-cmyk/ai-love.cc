@@ -4486,3 +4486,33 @@
 [2026-07-04T09:40:08.863398+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-04T09:40:08.865847+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T09:40:08.870897+00:00] PIPELINE RUN: 0 published, 1128 remaining
+[2026-07-04T09:42:27.155385+00:00] STATS: {"published": 339, "pending": 0, "rejected": 1128, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 204, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:42:27.154985+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:42:36.639235+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-04T09:42:36.682363+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-04T09:42:36.688497+00:00] PIPELINE RUN: 0 published, 1129 remaining
+[2026-07-04T09:42:36.855444+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T09:42:37.069951+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T09:42:37.115256+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T09:42:37.117660+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T09:42:37.122590+00:00] PIPELINE RUN: 0 published, 1131 remaining
+[2026-07-04T09:45:10.899659+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-04T09:45:10.944157+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-04T09:45:10.949498+00:00] PIPELINE RUN: 0 published, 1132 remaining
+[2026-07-04T09:45:11.029083+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-04T09:45:11.245805+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T09:45:11.288776+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-04T09:45:11.291314+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T09:45:11.295994+00:00] PIPELINE RUN: 0 published, 1134 remaining
+[2026-07-04T09:45:13.610549+00:00] STATS: {"published": 339, "pending": 0, "rejected": 1134, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 204, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:45:13.610163+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:50:13.761784+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-04T09:50:13.800346+00:00] COLLECT: public-interest-works-because by 蛇火心
+[2026-07-04T09:50:13.845364+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-04T09:50:13.847861+00:00] VALIDATE OK: public-interest-works-because
+[2026-07-04T09:50:13.850839+00:00] ENRICH: public-interest-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-04T09:50:13.858602+00:00] PUBLISH: public-interest-works-because
+[2026-07-04T09:50:13.864288+00:00] PIPELINE RUN: 1 published, 1135 remaining
+[2026-07-04T09:50:13.952308+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T09:50:14.166347+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T09:50:14.210454+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T09:50:14.212986+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T09:50:14.218422+00:00] PIPELINE RUN: 0 published, 1137 remaining
