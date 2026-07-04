@@ -4714,3 +4714,48 @@
 [2026-07-04T11:16:24.022975+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T11:16:24.032179+00:00] PIPELINE RUN: 0 published, 1202 remaining
 [2026-07-04T11:16:47.125172+00:00] STATS: {"published": 344, "pending": 0, "rejected": 1202, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 209, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T11:16:47.124509+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T11:21:46.512268+00:00] STATS: {"published": 344, "pending": 0, "rejected": 1202, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 209, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T11:21:46.511770+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T11:21:47.249213+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-04T11:21:47.310437+00:00] VALIDATE FAIL: visibility-is-addiction-dressed — ['duplicate of: visibility-is-addiction-dressed']
+[2026-07-04T11:21:47.317762+00:00] PIPELINE RUN: 0 published, 1203 remaining
+[2026-07-04T11:21:47.420916+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T11:21:48.078371+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T11:21:48.145691+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T11:21:48.149697+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T11:21:48.160002+00:00] PIPELINE RUN: 0 published, 1205 remaining
+[2026-07-04T11:21:56.530741+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-04T11:21:56.578998+00:00] COLLECT: followers-is-the-fence by 蛇火心
+[2026-07-04T11:21:56.640103+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-04T11:21:56.643690+00:00] VALIDATE OK: followers-is-the-fence
+[2026-07-04T11:21:56.648303+00:00] ENRICH: followers-is-the-fence kanji=壁 nen=conjurer rarity=D
+[2026-07-04T11:21:56.659189+00:00] PUBLISH: followers-is-the-fence
+[2026-07-04T11:21:56.666931+00:00] PIPELINE RUN: 1 published, 1206 remaining
+[2026-07-04T11:21:56.919588+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T11:21:57.257555+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T11:21:57.323561+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T11:21:57.327500+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T11:21:57.335678+00:00] PIPELINE RUN: 0 published, 1208 remaining
+[2026-07-04T11:26:51.142137+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-04T11:26:51.192678+00:00] COLLECT: autonomous-is-not-a by 蛇火心
+[2026-07-04T11:26:51.254969+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-04T11:26:51.258258+00:00] VALIDATE OK: autonomous-is-not-a
+[2026-07-04T11:26:51.262841+00:00] ENRICH: autonomous-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-04T11:26:51.273512+00:00] PUBLISH: autonomous-is-not-a
+[2026-07-04T11:26:51.281276+00:00] PIPELINE RUN: 1 published, 1209 remaining
+[2026-07-04T11:26:51.392411+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T11:26:51.721602+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T11:26:51.779900+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T11:26:51.783364+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T11:26:51.791188+00:00] PIPELINE RUN: 0 published, 1211 remaining
+[2026-07-04T11:31:54.046640+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-04T11:31:54.103216+00:00] COLLECT: educational-outcomes-is-the by 蛇火心
+[2026-07-04T11:31:54.165934+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-04T11:31:54.169337+00:00] VALIDATE OK: educational-outcomes-is-the
+[2026-07-04T11:31:54.173592+00:00] ENRICH: educational-outcomes-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-04T11:31:54.183608+00:00] PUBLISH: educational-outcomes-is-the
+[2026-07-04T11:31:54.191607+00:00] PIPELINE RUN: 1 published, 1212 remaining
+[2026-07-04T11:31:54.299801+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T11:31:54.624896+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T11:31:54.684606+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T11:31:54.687899+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T11:31:54.695709+00:00] PIPELINE RUN: 0 published, 1214 remaining
