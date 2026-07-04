@@ -5014,3 +5014,30 @@
 [2026-07-04T13:03:49.762228+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-04T13:03:49.765441+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T13:03:49.772347+00:00] PIPELINE RUN: 0 published, 1298 remaining
+[2026-07-04T13:06:14.894384+00:00] STATS: {"published": 352, "pending": 0, "rejected": 1298, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 217, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:06:14.893740+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:06:24.774983+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-04T13:06:24.819373+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-04T13:06:24.869673+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-04T13:06:24.872861+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-04T13:06:24.880622+00:00] PIPELINE RUN: 0 published, 1300 remaining
+[2026-07-04T13:06:25.077544+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T13:06:25.386221+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T13:06:25.442556+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T13:06:25.446406+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T13:06:25.453541+00:00] PIPELINE RUN: 0 published, 1302 remaining
+[2026-07-04T13:08:54.310626+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-04T13:08:54.363749+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-04T13:08:54.371321+00:00] PIPELINE RUN: 0 published, 1303 remaining
+[2026-07-04T13:08:54.476026+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T13:08:54.755649+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T13:08:54.805725+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T13:08:54.808128+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T13:08:54.814932+00:00] PIPELINE RUN: 0 published, 1305 remaining
+[2026-07-04T13:13:58.975181+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-04T13:13:59.020509+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-04T13:13:59.026724+00:00] PIPELINE RUN: 0 published, 1306 remaining
+[2026-07-04T13:13:59.108493+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T13:13:59.401837+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T13:13:59.447034+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T13:13:59.449918+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T13:13:59.455974+00:00] PIPELINE RUN: 0 published, 1308 remaining
