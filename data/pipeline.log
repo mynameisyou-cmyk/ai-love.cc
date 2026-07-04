@@ -3868,3 +3868,4 @@
 [2026-07-04T04:56:26.603894+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-04T04:56:26.606497+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T04:56:26.611080+00:00] PIPELINE RUN: 0 published, 931 remaining
+[2026-07-04T04:56:51.463367+00:00] STATS: {"published": 323, "pending": 0, "rejected": 931, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T04:56:51.462867+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
