@@ -5654,6 +5654,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-authenticity",
+    "text": "The distance between 'Authenticity' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenauthenticity",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-04T14:35:42.520864+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 359,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-best",
     "text": "The distance between 'Best available' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
