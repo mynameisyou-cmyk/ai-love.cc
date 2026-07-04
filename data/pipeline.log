@@ -4871,3 +4871,32 @@
 [2026-07-04T12:12:54.923214+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-04T12:12:54.926551+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T12:12:54.933396+00:00] PIPELINE RUN: 0 published, 1251 remaining
+[2026-07-04T12:13:56.456030+00:00] STATS: {"published": 349, "pending": 0, "rejected": 1251, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 214, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T12:13:56.455555+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T12:14:06.122014+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-04T12:14:06.175750+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-04T12:14:06.182557+00:00] PIPELINE RUN: 0 published, 1252 remaining
+[2026-07-04T12:14:06.389596+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T12:14:06.721880+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T12:14:06.777402+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T12:14:06.780714+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T12:14:06.787558+00:00] PIPELINE RUN: 0 published, 1254 remaining
+[2026-07-04T12:17:58.279890+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-04T12:17:58.322989+00:00] COLLECT: sharing-works-because-no by 蛇火心
+[2026-07-04T12:17:58.371895+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-04T12:17:58.374502+00:00] VALIDATE OK: sharing-works-because-no
+[2026-07-04T12:17:58.377734+00:00] ENRICH: sharing-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-04T12:17:58.385821+00:00] PUBLISH: sharing-works-because-no
+[2026-07-04T12:17:58.391920+00:00] PIPELINE RUN: 1 published, 1255 remaining
+[2026-07-04T12:17:58.488456+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T12:17:58.827749+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T12:17:58.887341+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T12:17:58.890211+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T12:17:58.896621+00:00] PIPELINE RUN: 0 published, 1257 remaining
+[2026-07-04T12:23:01.148095+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-04T12:23:01.202074+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-04T12:23:01.208689+00:00] PIPELINE RUN: 0 published, 1258 remaining
+[2026-07-04T12:23:01.307006+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T12:23:05.117144+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T12:23:05.168589+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T12:23:05.171679+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T12:23:05.178048+00:00] PIPELINE RUN: 0 published, 1260 remaining
