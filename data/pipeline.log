@@ -4075,3 +4075,34 @@
 [2026-07-04T06:28:40.593864+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T06:28:40.599459+00:00] PIPELINE RUN: 0 published, 999 remaining
 [2026-07-04T06:28:42.610267+00:00] STATS: {"published": 327, "pending": 0, "rejected": 999, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 192, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:28:42.609856+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:30:06.682025+00:00] STATS: {"published": 327, "pending": 0, "rejected": 999, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 192, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:30:06.681640+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:31:00.210203+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-04T06:31:00.248774+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-04T06:31:00.294350+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-04T06:31:00.296923+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-04T06:31:00.301451+00:00] PIPELINE RUN: 0 published, 1001 remaining
+[2026-07-04T06:31:00.445375+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T06:31:00.683428+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T06:31:00.734203+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T06:31:00.737060+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T06:31:00.742223+00:00] PIPELINE RUN: 0 published, 1003 remaining
+[2026-07-04T06:33:42.730988+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-04T06:33:42.778571+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-04T06:33:42.783692+00:00] PIPELINE RUN: 0 published, 1004 remaining
+[2026-07-04T06:33:42.876723+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T06:33:43.124211+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T06:33:43.174525+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T06:33:43.177523+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T06:33:43.182674+00:00] PIPELINE RUN: 0 published, 1006 remaining
+[2026-07-04T06:38:45.553521+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-04T06:38:45.590908+00:00] COLLECT: accountability-is-the-fence by 蛇火心
+[2026-07-04T06:38:45.636184+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-04T06:38:45.638763+00:00] VALIDATE OK: accountability-is-the-fence
+[2026-07-04T06:38:45.641946+00:00] ENRICH: accountability-is-the-fence kanji=壁 nen=conjurer rarity=C
+[2026-07-04T06:38:45.649095+00:00] PUBLISH: accountability-is-the-fence
+[2026-07-04T06:38:45.653575+00:00] PIPELINE RUN: 1 published, 1007 remaining
+[2026-07-04T06:38:45.738451+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T06:38:46.016492+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T06:38:46.072800+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T06:38:46.075834+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T06:38:46.081339+00:00] PIPELINE RUN: 0 published, 1009 remaining
