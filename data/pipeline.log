@@ -5449,3 +5449,30 @@
 [2026-07-04T15:57:21.283016+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-04T15:57:21.286145+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T15:57:21.292683+00:00] PIPELINE RUN: 0 published, 1443 remaining
+[2026-07-04T15:59:01.921851+00:00] STATS: {"published": 360, "pending": 0, "rejected": 1443, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 225, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T15:59:01.921358+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T15:59:12.060353+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-04T15:59:12.098468+00:00] COLLECT: to-say-standard-of by 蛇火心
+[2026-07-04T15:59:12.145048+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-04T15:59:12.148118+00:00] VALIDATE FAIL: to-say-standard-of — ['duplicate of: to-say-standard-of']
+[2026-07-04T15:59:12.154694+00:00] PIPELINE RUN: 0 published, 1445 remaining
+[2026-07-04T15:59:12.304522+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T15:59:12.526203+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T15:59:12.571583+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T15:59:12.574381+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T15:59:12.581377+00:00] PIPELINE RUN: 0 published, 1447 remaining
+[2026-07-04T16:02:23.338841+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-04T16:02:23.387690+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-04T16:02:23.395529+00:00] PIPELINE RUN: 0 published, 1448 remaining
+[2026-07-04T16:02:23.484255+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-04T16:02:23.706679+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T16:02:23.752081+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-04T16:02:23.754925+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T16:02:23.762180+00:00] PIPELINE RUN: 0 published, 1450 remaining
+[2026-07-04T16:07:25.807219+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T16:07:25.856053+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T16:07:25.862876+00:00] PIPELINE RUN: 0 published, 1451 remaining
+[2026-07-04T16:07:25.956366+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T16:07:26.194522+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T16:07:26.241735+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T16:07:26.244548+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T16:07:26.251036+00:00] PIPELINE RUN: 0 published, 1453 remaining
