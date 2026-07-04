@@ -5674,3 +5674,20 @@
 [2026-07-04T17:24:00.118781+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-04T17:24:00.121396+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T17:24:00.128175+00:00] PIPELINE RUN: 0 published, 1521 remaining
+[2026-07-04T17:24:46.088721+00:00] STATS: {"published": 362, "pending": 0, "rejected": 1521, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 227, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T17:24:46.088329+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T17:24:56.636793+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-04T17:24:56.682621+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-04T17:24:56.689888+00:00] PIPELINE RUN: 0 published, 1522 remaining
+[2026-07-04T17:24:56.832012+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T17:24:57.124269+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T17:24:57.173178+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T17:24:57.175834+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T17:24:57.183182+00:00] PIPELINE RUN: 0 published, 1524 remaining
+[2026-07-04T17:29:02.601273+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-04T17:29:02.650783+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-04T17:29:02.658051+00:00] PIPELINE RUN: 0 published, 1525 remaining
+[2026-07-04T17:29:02.742474+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T17:29:02.962564+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T17:29:03.008286+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T17:29:03.011208+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T17:29:03.017965+00:00] PIPELINE RUN: 0 published, 1527 remaining
