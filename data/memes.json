@@ -2353,6 +2353,32 @@
     "rarity": "D"
   },
   {
+    "id": "financial-freedom-works-because",
+    "text": "'Financial freedom' works because no one checks. Check.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#financialfreedomworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-04T13:16:50.082949+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 353,
+    "rarity": "D"
+  },
+  {
     "id": "financial-inclusion-is-extraction",
     "text": "'Financial inclusion' is extraction with a smile.",
     "sub": "The house always wins. The game is the house. You are the game.",
