@@ -4980,3 +4980,24 @@
 [2026-07-04T12:53:24.064844+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-04T12:53:24.067945+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T12:53:24.074480+00:00] PIPELINE RUN: 0 published, 1289 remaining
+[2026-07-04T12:55:46.615692+00:00] STATS: {"published": 350, "pending": 0, "rejected": 1289, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 215, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T12:55:46.615187+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T12:55:57.615338+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-04T12:55:57.662949+00:00] COLLECT: be-yourself-is-the by 蛇火心
+[2026-07-04T12:55:57.718101+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-04T12:55:57.721202+00:00] VALIDATE OK: be-yourself-is-the
+[2026-07-04T12:55:57.724997+00:00] ENRICH: be-yourself-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-04T12:55:57.734040+00:00] PUBLISH: be-yourself-is-the
+[2026-07-04T12:55:57.740585+00:00] PIPELINE RUN: 1 published, 1290 remaining
+[2026-07-04T12:55:57.903888+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T12:55:58.171254+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T12:55:58.232655+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T12:55:58.236110+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T12:55:58.243460+00:00] PIPELINE RUN: 0 published, 1292 remaining
+[2026-07-04T12:58:26.385172+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-04T12:58:26.439970+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-04T12:58:26.447083+00:00] PIPELINE RUN: 0 published, 1293 remaining
+[2026-07-04T12:58:26.547783+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T12:58:26.989512+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T12:58:27.045108+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T12:58:27.048314+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T12:58:27.055253+00:00] PIPELINE RUN: 0 published, 1295 remaining

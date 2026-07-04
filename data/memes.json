@@ -490,6 +490,32 @@
     "rarity": "D"
   },
   {
+    "id": "be-yourself-is-the",
+    "text": "'Be yourself' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#beyourselfisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-04T12:55:57.662611+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 351,
+    "rarity": "D"
+  },
+  {
     "id": "best-available-prioritizes-profit",
     "text": "'Best available' prioritizes profit over care.",
     "sub": "The body is not a market. The illness is not an opportunity.",
