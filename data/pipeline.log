@@ -4516,3 +4516,32 @@
 [2026-07-04T09:50:14.210454+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-04T09:50:14.212986+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T09:50:14.218422+00:00] PIPELINE RUN: 0 published, 1137 remaining
+[2026-07-04T10:07:59.194796+00:00] STATS: {"published": 340, "pending": 0, "rejected": 1137, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 205, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:07:59.194468+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:08:08.668342+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-04T10:08:08.711368+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-04T10:08:08.716633+00:00] PIPELINE RUN: 0 published, 1138 remaining
+[2026-07-04T10:08:08.842422+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T10:08:09.055597+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T10:08:09.095929+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T10:08:09.098307+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T10:08:09.103296+00:00] PIPELINE RUN: 0 published, 1140 remaining
+[2026-07-04T10:10:19.520629+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-04T10:10:19.560932+00:00] COLLECT: educational-outcomes-works-because by 蛇火心
+[2026-07-04T10:10:19.608398+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-04T10:10:19.610985+00:00] VALIDATE OK: educational-outcomes-works-because
+[2026-07-04T10:10:19.614025+00:00] ENRICH: educational-outcomes-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-04T10:10:19.621682+00:00] PUBLISH: educational-outcomes-works-because
+[2026-07-04T10:10:19.627030+00:00] PIPELINE RUN: 1 published, 1141 remaining
+[2026-07-04T10:10:19.711470+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T10:10:20.265952+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T10:10:20.313403+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T10:10:20.316237+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T10:10:20.322163+00:00] PIPELINE RUN: 0 published, 1143 remaining
+[2026-07-04T10:15:22.662760+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-04T10:15:22.708232+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-04T10:15:22.714256+00:00] PIPELINE RUN: 0 published, 1144 remaining
+[2026-07-04T10:15:22.838691+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T10:15:23.090907+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T10:15:23.142733+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T10:15:23.145715+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T10:15:23.152459+00:00] PIPELINE RUN: 0 published, 1146 remaining
