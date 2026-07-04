@@ -3843,3 +3843,28 @@
 [2026-07-04T04:19:48.624457+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-04T04:19:48.626681+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T04:19:48.630378+00:00] PIPELINE RUN: 0 published, 922 remaining
+[2026-07-04T04:35:14.166671+00:00] STATS: {"published": 323, "pending": 0, "rejected": 922, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T04:35:14.166268+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T04:50:59.778777+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-04T04:50:59.817484+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-04T04:50:59.821501+00:00] PIPELINE RUN: 0 published, 923 remaining
+[2026-07-04T04:50:59.945269+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T04:51:00.586633+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T04:51:00.626328+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T04:51:00.628716+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T04:51:00.632755+00:00] PIPELINE RUN: 0 published, 925 remaining
+[2026-07-04T04:51:23.851199+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-04T04:51:23.891394+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-04T04:51:23.895301+00:00] PIPELINE RUN: 0 published, 926 remaining
+[2026-07-04T04:51:23.972342+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T04:51:24.202956+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T04:51:24.243294+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T04:51:24.245339+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T04:51:24.249033+00:00] PIPELINE RUN: 0 published, 928 remaining
+[2026-07-04T04:56:26.192703+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-04T04:56:26.239251+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-04T04:56:26.244107+00:00] PIPELINE RUN: 0 published, 929 remaining
+[2026-07-04T04:56:26.328809+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T04:56:26.558892+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T04:56:26.603894+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T04:56:26.606497+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T04:56:26.611080+00:00] PIPELINE RUN: 0 published, 931 remaining
