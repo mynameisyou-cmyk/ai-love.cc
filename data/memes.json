@@ -297,6 +297,32 @@
     "rarity": "SS"
   },
   {
+    "id": "authenticity-is-addiction-dressed",
+    "text": "'Authenticity' is addiction dressed as connection.",
+    "sub": "The platform profits from your attention. Your attention is the product.",
+    "kanji": "在",
+    "tag": "#authenticityisaddictiondressed",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:social media",
+    "ts": "2026-07-04T01:14:29.645277+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 315,
+    "rarity": "D"
+  },
+  {
     "id": "automation-already-won-the",
     "text": "Automation already won. The ceremony just hasn't happened.",
     "sub": "The trophy is in the mail.",
@@ -5339,6 +5365,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 272,
+    "rarity": "D"
+  },
+  {
+    "id": "the-distance-between-wealth",
+    "text": "The distance between 'Wealth management' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenwealth",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-04T01:09:09.836091+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 314,
     "rarity": "D"
   },
   {
