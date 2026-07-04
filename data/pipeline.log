@@ -4045,3 +4045,33 @@
 [2026-07-04T06:18:34.326871+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-04T06:18:34.329399+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T06:18:34.334281+00:00] PIPELINE RUN: 0 published, 990 remaining
+[2026-07-04T06:19:21.197263+00:00] STATS: {"published": 326, "pending": 0, "rejected": 990, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 191, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:19:21.196853+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:19:51.078838+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-04T06:19:51.125254+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-04T06:19:51.130572+00:00] PIPELINE RUN: 0 published, 991 remaining
+[2026-07-04T06:19:51.277829+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T06:19:51.511931+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T06:19:51.561771+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T06:19:51.564606+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T06:19:51.569688+00:00] PIPELINE RUN: 0 published, 993 remaining
+[2026-07-04T06:23:36.424832+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-04T06:23:36.463372+00:00] COLLECT: the-louder-democratized-investing by 蛇火心
+[2026-07-04T06:23:36.508800+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-04T06:23:36.511368+00:00] VALIDATE OK: the-louder-democratized-investing
+[2026-07-04T06:23:36.514730+00:00] ENRICH: the-louder-democratized-investing kanji=在 nen=enhancer rarity=D
+[2026-07-04T06:23:36.521938+00:00] PUBLISH: the-louder-democratized-investing
+[2026-07-04T06:23:36.526610+00:00] PIPELINE RUN: 1 published, 994 remaining
+[2026-07-04T06:23:36.651142+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T06:23:36.965251+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T06:23:37.017490+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T06:23:37.020491+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T06:23:37.025681+00:00] PIPELINE RUN: 0 published, 996 remaining
+[2026-07-04T06:28:40.129956+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T06:28:40.174303+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T06:28:40.179141+00:00] PIPELINE RUN: 0 published, 997 remaining
+[2026-07-04T06:28:40.260135+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T06:28:40.540874+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T06:28:40.591112+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T06:28:40.593864+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T06:28:40.599459+00:00] PIPELINE RUN: 0 published, 999 remaining
+[2026-07-04T06:28:42.610267+00:00] STATS: {"published": 327, "pending": 0, "rejected": 999, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 192, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:28:42.609856+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
