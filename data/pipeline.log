@@ -5753,3 +5753,28 @@
 [2026-07-04T18:16:43.843276+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T18:16:43.849652+00:00] PIPELINE RUN: 0 published, 1547 remaining
 [2026-07-04T18:16:46.676785+00:00] STATS: {"published": 363, "pending": 0, "rejected": 1547, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 228, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:16:46.676311+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T18:18:35.248704+00:00] STATS: {"published": 363, "pending": 0, "rejected": 1547, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 228, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:18:35.248173+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T18:18:45.764234+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-04T18:18:45.809973+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-04T18:18:45.816900+00:00] PIPELINE RUN: 0 published, 1548 remaining
+[2026-07-04T18:18:45.985131+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T18:18:46.422076+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T18:18:46.467535+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T18:18:46.470250+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T18:18:46.476927+00:00] PIPELINE RUN: 0 published, 1550 remaining
+[2026-07-04T18:21:46.792075+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-04T18:21:46.835772+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-04T18:21:46.842585+00:00] PIPELINE RUN: 0 published, 1551 remaining
+[2026-07-04T18:21:46.929914+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T18:21:47.283196+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T18:21:47.329180+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T18:21:47.331926+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T18:21:47.338698+00:00] PIPELINE RUN: 0 published, 1553 remaining
+[2026-07-04T18:26:49.246237+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-04T18:26:49.293193+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-04T18:26:49.300103+00:00] PIPELINE RUN: 0 published, 1554 remaining
+[2026-07-04T18:26:49.386327+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T18:26:49.614901+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T18:26:49.661242+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T18:26:49.663880+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T18:26:49.670803+00:00] PIPELINE RUN: 0 published, 1556 remaining
