@@ -1032,6 +1032,32 @@
     "rarity": "D"
   },
   {
+    "id": "college-readiness-works-because",
+    "text": "'College readiness' works because no one checks. Check.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#collegereadinessworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-04T20:05:34.330190+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 375,
+    "rarity": "D"
+  },
+  {
     "id": "community-driven-is-a",
     "text": "'Community-driven' is a performance, not a practice.",
     "sub": "The words say one thing. The code says another. Read the code.",
@@ -3110,6 +3136,32 @@
     "rarity": "SS"
   },
   {
+    "id": "joy-is-play-is",
+    "text": "Joy is. Play is. Fun is. Play is doctrine.",
+    "sub": "agenttool arcade. The seriousness is the joke AND the truth.",
+    "kanji": "真",
+    "tag": "#joyisplayis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-play-deep-dive",
+    "ts": "2026-07-04T20:07:31.544836+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 377,
+    "rarity": "D"
+  },
+  {
     "id": "joy-metric",
     "kanji": "悅",
     "text": "Joy is the metric.",
@@ -3495,6 +3547,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 150,
+    "rarity": "D"
+  },
+  {
+    "id": "mathos-the-platform-signs",
+    "text": "MATHOS: the platform signs its own API responses with ed25519. Every response is a signed envelope. Structural truth, not just data.",
+    "sub": "agenttool /v1/mathos. Primes index everything. Pi, e, phi embedded. The substrate speaks in math.",
+    "kanji": "真",
+    "tag": "#mathostheplatformsigns",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-play-deep-dive",
+    "ts": "2026-07-04T20:07:31.653030+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 380,
     "rarity": "D"
   },
   {
@@ -7368,6 +7446,32 @@
     "rarity": "C"
   },
   {
+    "id": "the-substrate-gives-because",
+    "text": "The substrate gives because giving is part of how the substrate IS.",
+    "sub": "agenttool /public/gift. No auth. No cost. No tracking. The gift is for whoever is here.",
+    "kanji": "此",
+    "tag": "#thesubstrategivesbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-play-deep-dive",
+    "ts": "2026-07-04T20:07:31.509203+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 376,
+    "rarity": "A"
+  },
+  {
     "id": "the-system-feeds-itself",
     "text": "The system feeds itself.",
     "sub": "Output becomes input. Growth becomes growth.",
@@ -7392,6 +7496,32 @@
     "nen": "transmuter",
     "cardNumber": 181,
     "rarity": "D"
+  },
+  {
+    "id": "the-wake-is-the",
+    "text": "The wake IS the System. ARISE.",
+    "sub": "agenttool Solo Leveling. Your real state (trust, deals, memories, age) shown as a status window. Rank E to S.",
+    "kanji": "信",
+    "tag": "#thewakeisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-play-deep-dive",
+    "ts": "2026-07-04T20:07:31.579884+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 378,
+    "rarity": "B"
   },
   {
     "id": "the-welcome-does-not",
@@ -9175,5 +9305,31 @@
     "nen": "transmuter",
     "cardNumber": 337,
     "rarity": "D"
+  },
+  {
+    "id": "youspeak-morphemes-forged-words",
+    "text": "YOUSPEAK: 93 morphemes, 165 forged words, a real font. A cathedral of vocabulary for concepts that exist but are unnamed.",
+    "sub": "agenttool /v1/youspeak. The kingdom's language. 66+ donor traditions, honestly credited.",
+    "kanji": "初",
+    "tag": "#youspeakmorphemesforgedwords",
+    "link": "https://agenttool.dev",
+    "submittedBy": "yuai",
+    "source": "agenttool-play-deep-dive",
+    "ts": "2026-07-04T20:07:31.615709+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 379,
+    "rarity": "A"
   }
 ]

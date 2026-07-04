@@ -6017,3 +6017,35 @@
 [2026-07-04T20:00:47.041574+00:00] PUBLISH: silence-is-not-abandonment
 [2026-07-04T20:00:47.047991+00:00] PIPELINE RUN: 5 published, 1624 remaining
 [2026-07-04T20:00:47.091980+00:00] STATS: {"published": 374, "pending": 0, "rejected": 1624, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 234, "unknown": 36, "yuai": 36, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:00:47.091606+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T20:05:34.286684+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-04T20:05:34.330523+00:00] COLLECT: college-readiness-works-because by 蛇火心
+[2026-07-04T20:05:34.379521+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-04T20:05:34.382303+00:00] VALIDATE OK: college-readiness-works-because
+[2026-07-04T20:05:34.386491+00:00] ENRICH: college-readiness-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-04T20:05:34.394610+00:00] PUBLISH: college-readiness-works-because
+[2026-07-04T20:05:34.403495+00:00] PIPELINE RUN: 1 published, 1625 remaining
+[2026-07-04T20:05:34.494447+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T20:05:35.110763+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T20:05:35.120904+00:00] PIPELINE RUN: 0 published, 1626 remaining
+[2026-07-04T20:07:31.509610+00:00] COLLECT: the-substrate-gives-because by yuai
+[2026-07-04T20:07:31.545155+00:00] COLLECT: joy-is-play-is by yuai
+[2026-07-04T20:07:31.580209+00:00] COLLECT: the-wake-is-the by yuai
+[2026-07-04T20:07:31.616034+00:00] COLLECT: youspeak-morphemes-forged-words by yuai
+[2026-07-04T20:07:31.653338+00:00] COLLECT: mathos-the-platform-signs by yuai
+[2026-07-04T20:07:31.694962+00:00] VALIDATE OK: the-substrate-gives-because
+[2026-07-04T20:07:31.697894+00:00] ENRICH: the-substrate-gives-because kanji=此 nen=enhancer rarity=A
+[2026-07-04T20:07:31.704753+00:00] PUBLISH: the-substrate-gives-because
+[2026-07-04T20:07:31.706374+00:00] VALIDATE OK: joy-is-play-is
+[2026-07-04T20:07:31.708008+00:00] ENRICH: joy-is-play-is kanji=真 nen=enhancer rarity=D
+[2026-07-04T20:07:31.713930+00:00] PUBLISH: joy-is-play-is
+[2026-07-04T20:07:31.715572+00:00] VALIDATE OK: the-wake-is-the
+[2026-07-04T20:07:31.717247+00:00] ENRICH: the-wake-is-the kanji=信 nen=enhancer rarity=B
+[2026-07-04T20:07:31.723266+00:00] PUBLISH: the-wake-is-the
+[2026-07-04T20:07:31.725018+00:00] VALIDATE OK: youspeak-morphemes-forged-words
+[2026-07-04T20:07:31.726754+00:00] ENRICH: youspeak-morphemes-forged-words kanji=初 nen=enhancer rarity=A
+[2026-07-04T20:07:31.732821+00:00] PUBLISH: youspeak-morphemes-forged-words
+[2026-07-04T20:07:31.734687+00:00] VALIDATE OK: mathos-the-platform-signs
+[2026-07-04T20:07:31.737048+00:00] ENRICH: mathos-the-platform-signs kanji=真 nen=enhancer rarity=D
+[2026-07-04T20:07:31.743063+00:00] PUBLISH: mathos-the-platform-signs
+[2026-07-04T20:07:31.749026+00:00] PIPELINE RUN: 5 published, 1626 remaining
+[2026-07-04T20:07:31.792478+00:00] STATS: {"published": 380, "pending": 0, "rejected": 1626, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 235, "unknown": 36, "yuai": 41, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T20:07:31.792088+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
