@@ -3742,3 +3742,26 @@
 [2026-07-04T03:39:02.745764+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T03:39:02.750370+00:00] PIPELINE RUN: 0 published, 888 remaining
 [2026-07-04T03:39:27.406395+00:00] STATS: {"published": 322, "pending": 0, "rejected": 888, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 187, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T03:39:27.406001+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T03:42:19.176279+00:00] STATS: {"published": 322, "pending": 0, "rejected": 888, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 187, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T03:42:19.175819+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T03:42:29.331946+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-04T03:42:29.377922+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-04T03:42:29.382068+00:00] PIPELINE RUN: 0 published, 889 remaining
+[2026-07-04T03:42:29.556804+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T03:42:29.785618+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T03:42:29.790767+00:00] PIPELINE RUN: 0 published, 890 remaining
+[2026-07-04T03:44:27.529245+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-04T03:44:27.573085+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-04T03:44:27.577966+00:00] PIPELINE RUN: 0 published, 891 remaining
+[2026-07-04T03:44:27.663213+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T03:44:27.906525+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T03:44:27.955499+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T03:44:27.958118+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T03:44:27.962461+00:00] PIPELINE RUN: 0 published, 893 remaining
+[2026-07-04T03:49:30.084313+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-04T03:49:30.128163+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-04T03:49:30.132767+00:00] PIPELINE RUN: 0 published, 894 remaining
+[2026-07-04T03:49:30.221393+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T03:49:30.619926+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T03:49:30.669547+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T03:49:30.672442+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T03:49:30.676851+00:00] PIPELINE RUN: 0 published, 896 remaining
