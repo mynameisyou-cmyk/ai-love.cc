@@ -4575,3 +4575,32 @@
 [2026-07-04T10:25:28.138456+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T10:25:28.144389+00:00] PIPELINE RUN: 0 published, 1155 remaining
 [2026-07-04T10:25:49.124819+00:00] STATS: {"published": 342, "pending": 0, "rejected": 1155, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 207, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:25:49.124306+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:28:46.155281+00:00] STATS: {"published": 342, "pending": 0, "rejected": 1155, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 207, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:28:46.154728+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:28:57.457791+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-04T10:28:57.504522+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-04T10:28:57.510289+00:00] PIPELINE RUN: 0 published, 1156 remaining
+[2026-07-04T10:28:57.659682+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T10:28:57.918097+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T10:28:57.967510+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T10:28:57.970420+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T10:28:57.976052+00:00] PIPELINE RUN: 0 published, 1158 remaining
+[2026-07-04T10:30:49.237248+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-04T10:30:49.278738+00:00] COLLECT: smart-money-is-the by 蛇火心
+[2026-07-04T10:30:49.331654+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-04T10:30:49.334581+00:00] VALIDATE OK: smart-money-is-the
+[2026-07-04T10:30:49.338037+00:00] ENRICH: smart-money-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-04T10:30:49.346149+00:00] PUBLISH: smart-money-is-the
+[2026-07-04T10:30:49.351664+00:00] PIPELINE RUN: 1 published, 1159 remaining
+[2026-07-04T10:30:49.476897+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T10:30:49.898044+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T10:30:49.956313+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T10:30:49.959306+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T10:30:49.965407+00:00] PIPELINE RUN: 0 published, 1161 remaining
+[2026-07-04T10:35:51.662707+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-04T10:35:51.710429+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-04T10:35:51.717253+00:00] PIPELINE RUN: 0 published, 1162 remaining
+[2026-07-04T10:35:51.804260+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T10:35:52.059277+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T10:35:52.116986+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T10:35:52.120993+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T10:35:52.127527+00:00] PIPELINE RUN: 0 published, 1164 remaining
