@@ -5691,3 +5691,12 @@
 [2026-07-04T17:29:03.008286+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-04T17:29:03.011208+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T17:29:03.017965+00:00] PIPELINE RUN: 0 published, 1527 remaining
+[2026-07-04T17:29:25.891668+00:00] STATS: {"published": 362, "pending": 0, "rejected": 1527, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 227, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T17:29:25.891236+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T17:56:21.522436+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-04T17:56:21.568081+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-04T17:56:21.575381+00:00] PIPELINE RUN: 0 published, 1528 remaining
+[2026-07-04T17:56:21.657858+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T17:56:21.953337+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T17:56:22.006064+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T17:56:22.009444+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T17:56:22.017595+00:00] PIPELINE RUN: 0 published, 1530 remaining

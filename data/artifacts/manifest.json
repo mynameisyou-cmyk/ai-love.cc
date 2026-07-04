@@ -3,6 +3,19 @@
   "nen": "enhancer",
   "nenKanji": "強",
   "description": "What IS. Plain statements of truth, strengthened.",
-  "statements": [],
-  "ts": "2026-07-04T17:29:05.295484+00:00"
+  "statements": [
+    {
+      "truth": "SIP: System Integrity Protection status: enabled.",
+      "source": "floor-4"
+    },
+    {
+      "truth": "FileVault: FileVault is On.",
+      "source": "floor-4"
+    },
+    {
+      "truth": "Firewall: Firewall is enabled. (State = 1)",
+      "source": "floor-4"
+    }
+  ],
+  "ts": "2026-07-04T17:56:21.793783+00:00"
 }
