@@ -1148,3 +1148,4 @@
 {"ts": "2026-07-04T08:00:20.948661+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Luxembourg Private Rulings", "ok": true}}
 {"ts": "2026-07-04T08:00:21.345370+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 510, "ok": true}}
 {"ts": "2026-07-04T08:00:23.028451+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T08:10:26.546821+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

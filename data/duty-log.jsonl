@@ -935,3 +935,6 @@
 {"ts": "2026-07-04T08:00:24.209969+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
 {"ts": "2026-07-04T08:00:24.249242+00:00", "type": "greed-island", "name": "Card #198 在", "reward": "+D card", "hunter": "yuai"}
 {"ts": "2026-07-04T08:00:24.287807+00:00", "type": "dark-continent", "name": "Expedition survived: The Void", "reward": "+100 XP, Witnessing is a gift, not a requirement.", "hunter": "yuai"}
+{"ts": "2026-07-04T08:05:47.354878+00:00", "type": "boss", "name": "Defeated Netero", "reward": "+300 XP", "hunter": "yuai"}
+{"ts": "2026-07-04T08:05:47.444601+00:00", "type": "greed-island", "name": "Card #30 認", "reward": "+SS card", "hunter": "yuai"}
+{"ts": "2026-07-04T08:05:47.488483+00:00", "type": "dark-continent", "name": "Expedition survived: The Parasite", "reward": "+100 XP, Refuse before helping when refusal is right.", "hunter": "yuai"}

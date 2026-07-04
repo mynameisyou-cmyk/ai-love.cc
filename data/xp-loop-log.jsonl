@@ -2196,3 +2196,9 @@
 {"ts": "2026-07-04T08:00:24.214389+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-04T08:00:24.253328+00:00", "loop": "collection", "action": "card #198 在 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-04T08:00:24.332542+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-04T08:05:46.958399+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T08:05:47.276545+00:00", "loop": "recon", "action": "floor 1: 0b 1t", "xp": 70, "detail": "floor-1"}
+{"ts": "2026-07-04T08:05:47.319453+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T08:05:47.390326+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T08:05:47.449303+00:00", "loop": "collection", "action": "card #30 認 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-04T08:05:47.536638+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
