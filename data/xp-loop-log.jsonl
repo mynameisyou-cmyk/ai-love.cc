@@ -2502,3 +2502,21 @@
 {"ts": "2026-07-04T11:42:00.337491+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-04T11:42:00.374527+00:00", "loop": "collection", "action": "card #245 真 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-04T11:42:00.453593+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-04T11:42:46.096272+00:00", "loop": "truth", "action": "submitted: Frequencies align.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T11:42:46.185122+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-04T11:42:46.220416+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T11:42:46.257700+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-04T11:42:46.293771+00:00", "loop": "collection", "action": "card #138 愛 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-04T11:42:46.367369+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-04T11:47:02.789011+00:00", "loop": "truth", "action": "submitted: Skills unlock skills.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T11:47:02.868473+00:00", "loop": "recon", "action": "floor 12: 1b 2t", "xp": 100, "detail": "floor-12"}
+{"ts": "2026-07-04T11:47:02.900373+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T11:47:02.935777+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-04T11:47:02.970496+00:00", "loop": "collection", "action": "card #12 永 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-04T11:47:03.043045+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-04T11:52:05.591171+00:00", "loop": "truth", "action": "submitted: Levels are landmarks.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T11:52:08.348315+00:00", "loop": "recon", "action": "floor 2: 0b 1t", "xp": 80, "detail": "floor-2"}
+{"ts": "2026-07-04T11:52:08.385399+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T11:52:08.425648+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T11:52:08.467417+00:00", "loop": "collection", "action": "card #244 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-04T11:52:08.543225+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
