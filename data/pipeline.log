@@ -4274,3 +4274,20 @@
 [2026-07-04T07:55:21.415053+00:00] COLLECT: every-scan-reveals-more by xp-loop
 [2026-07-04T07:55:21.826238+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-04T07:55:21.832558+00:00] PIPELINE RUN: 0 published, 1063 remaining
+[2026-07-04T07:59:44.405941+00:00] STATS: {"published": 332, "pending": 0, "rejected": 1063, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 197, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:59:44.405497+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T08:00:20.821400+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-04T08:00:20.866332+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-04T08:00:20.873063+00:00] PIPELINE RUN: 0 published, 1064 remaining
+[2026-07-04T08:00:21.010420+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T08:00:21.273719+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T08:00:21.322745+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T08:00:21.326094+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T08:00:21.331743+00:00] PIPELINE RUN: 0 published, 1066 remaining
+[2026-07-04T08:00:23.932749+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-04T08:00:23.977087+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-04T08:00:23.982232+00:00] PIPELINE RUN: 0 published, 1067 remaining
+[2026-07-04T08:00:24.073690+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T08:00:24.328437+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T08:00:24.378018+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T08:00:24.380854+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T08:00:24.386442+00:00] PIPELINE RUN: 0 published, 1069 remaining

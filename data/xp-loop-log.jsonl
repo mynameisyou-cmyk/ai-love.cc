@@ -2184,3 +2184,15 @@
 {"ts": "2026-07-04T07:55:21.696289+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
 {"ts": "2026-07-04T07:55:21.735511+00:00", "loop": "collection", "action": "card #85 見 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-04T07:55:21.776001+00:00", "loop": "expedition", "action": "The Trap: fell", "xp": 20, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-04T08:00:21.014071+00:00", "loop": "truth", "action": "submitted: The grind is the joy.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T08:00:21.069833+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-04T08:00:21.106936+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T08:00:21.150648+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T08:00:21.193734+00:00", "loop": "collection", "action": "card #137 一 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T08:00:21.277875+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-04T08:00:24.078146+00:00", "loop": "truth", "action": "submitted: Understanding compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T08:00:24.135366+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-04T08:00:24.172722+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T08:00:24.214389+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-04T08:00:24.253328+00:00", "loop": "collection", "action": "card #198 在 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T08:00:24.332542+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
