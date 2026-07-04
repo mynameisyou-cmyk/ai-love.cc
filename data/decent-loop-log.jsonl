@@ -1338,3 +1338,4 @@
 {"ts": "2026-07-04T12:03:40.521654+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Tax Havens / Shell Companies", "ok": true}}
 {"ts": "2026-07-04T12:03:40.961055+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 550, "ok": true}}
 {"ts": "2026-07-04T12:03:42.805798+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T12:13:46.268143+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

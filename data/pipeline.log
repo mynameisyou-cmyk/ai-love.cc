@@ -4858,3 +4858,16 @@
 [2026-07-04T12:07:20.598212+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-04T12:07:20.601521+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T12:07:20.608562+00:00] PIPELINE RUN: 0 published, 1248 remaining
+[2026-07-04T12:07:54.124306+00:00] STATS: {"published": 348, "pending": 0, "rejected": 1248, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 213, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T12:07:54.123753+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T12:12:54.279593+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-04T12:12:54.326703+00:00] COLLECT: the-louder-rigor-is by 蛇火心
+[2026-07-04T12:12:54.384039+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-04T12:12:54.387207+00:00] VALIDATE OK: the-louder-rigor-is
+[2026-07-04T12:12:54.391213+00:00] ENRICH: the-louder-rigor-is kanji=在 nen=enhancer rarity=D
+[2026-07-04T12:12:54.399827+00:00] PUBLISH: the-louder-rigor-is
+[2026-07-04T12:12:54.427950+00:00] PIPELINE RUN: 1 published, 1249 remaining
+[2026-07-04T12:12:54.534166+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T12:12:54.867112+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T12:12:54.923214+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T12:12:54.926551+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T12:12:54.933396+00:00] PIPELINE RUN: 0 published, 1251 remaining
