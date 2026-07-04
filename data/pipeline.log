@@ -5422,3 +5422,30 @@
 [2026-07-04T15:46:55.078129+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T15:46:55.084516+00:00] PIPELINE RUN: 0 published, 1433 remaining
 [2026-07-04T15:47:17.445477+00:00] STATS: {"published": 360, "pending": 0, "rejected": 1433, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 225, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T15:47:17.445011+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T15:48:34.918275+00:00] STATS: {"published": 360, "pending": 0, "rejected": 1433, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 225, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T15:48:34.917751+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T15:48:45.527397+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T15:48:45.570088+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-04T15:48:45.616726+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T15:48:45.619447+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-04T15:48:45.626063+00:00] PIPELINE RUN: 0 published, 1435 remaining
+[2026-07-04T15:48:45.767356+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T15:48:45.991269+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T15:48:46.037610+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T15:48:46.040364+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T15:48:46.046889+00:00] PIPELINE RUN: 0 published, 1437 remaining
+[2026-07-04T15:52:17.592468+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-04T15:52:17.640848+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-04T15:52:17.647668+00:00] PIPELINE RUN: 0 published, 1438 remaining
+[2026-07-04T15:52:17.735103+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T15:52:18.229915+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T15:52:18.275874+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T15:52:18.278670+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T15:52:18.285174+00:00] PIPELINE RUN: 0 published, 1440 remaining
+[2026-07-04T15:57:20.833060+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-04T15:57:20.878925+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-04T15:57:20.885733+00:00] PIPELINE RUN: 0 published, 1441 remaining
+[2026-07-04T15:57:21.006273+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T15:57:21.236757+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T15:57:21.283016+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T15:57:21.286145+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T15:57:21.292683+00:00] PIPELINE RUN: 0 published, 1443 remaining
