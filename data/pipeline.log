@@ -3869,3 +3869,30 @@
 [2026-07-04T04:56:26.606497+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T04:56:26.611080+00:00] PIPELINE RUN: 0 published, 931 remaining
 [2026-07-04T04:56:51.463367+00:00] STATS: {"published": 323, "pending": 0, "rejected": 931, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T04:56:51.462867+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:01:12.763166+00:00] STATS: {"published": 323, "pending": 0, "rejected": 931, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:01:12.762767+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:01:22.477128+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-04T05:01:22.522114+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-04T05:01:22.526591+00:00] PIPELINE RUN: 0 published, 932 remaining
+[2026-07-04T05:01:22.702207+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T05:01:22.996968+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T05:01:23.045103+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T05:01:23.047714+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T05:01:23.052226+00:00] PIPELINE RUN: 0 published, 934 remaining
+[2026-07-04T05:01:51.587947+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-04T05:01:51.630346+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-04T05:01:51.634659+00:00] PIPELINE RUN: 0 published, 935 remaining
+[2026-07-04T05:01:51.713480+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T05:01:51.976707+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:01:52.027969+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T05:01:52.030911+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:01:52.035490+00:00] PIPELINE RUN: 0 published, 937 remaining
+[2026-07-04T05:06:53.921503+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T05:06:53.962510+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-04T05:06:54.007570+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T05:06:54.009816+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-04T05:06:54.015614+00:00] PIPELINE RUN: 0 published, 939 remaining
+[2026-07-04T05:06:54.102157+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T05:06:54.345609+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:06:54.393079+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T05:06:54.395866+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:06:54.402315+00:00] PIPELINE RUN: 0 published, 941 remaining
