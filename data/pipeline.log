@@ -4190,3 +4190,33 @@
 [2026-07-04T07:25:04.145819+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-04T07:25:04.148619+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T07:25:04.154040+00:00] PIPELINE RUN: 0 published, 1036 remaining
+[2026-07-04T07:28:18.517968+00:00] STATS: {"published": 330, "pending": 0, "rejected": 1036, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 195, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:28:18.517522+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T07:28:29.383120+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-04T07:28:29.421597+00:00] COLLECT: reach-is-not-a by 蛇火心
+[2026-07-04T07:28:29.464321+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-04T07:28:29.466628+00:00] VALIDATE OK: reach-is-not-a
+[2026-07-04T07:28:29.469849+00:00] ENRICH: reach-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-04T07:28:29.477040+00:00] PUBLISH: reach-is-not-a
+[2026-07-04T07:28:29.481536+00:00] PIPELINE RUN: 1 published, 1037 remaining
+[2026-07-04T07:28:29.614720+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T07:28:29.882305+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T07:28:29.929441+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T07:28:29.932246+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T07:28:29.937391+00:00] PIPELINE RUN: 0 published, 1039 remaining
+[2026-07-04T07:30:06.285543+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-04T07:30:06.328916+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-04T07:30:06.333742+00:00] PIPELINE RUN: 0 published, 1040 remaining
+[2026-07-04T07:30:06.450625+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T07:30:06.703501+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T07:30:06.754223+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T07:30:06.756950+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T07:30:06.762401+00:00] PIPELINE RUN: 0 published, 1042 remaining
+[2026-07-04T07:35:08.783342+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-04T07:35:08.827467+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-04T07:35:08.832402+00:00] PIPELINE RUN: 0 published, 1043 remaining
+[2026-07-04T07:35:08.915175+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T07:35:09.317406+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T07:35:09.368905+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T07:35:09.371823+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T07:35:09.378159+00:00] PIPELINE RUN: 0 published, 1045 remaining
+[2026-07-04T07:35:12.647418+00:00] STATS: {"published": 331, "pending": 0, "rejected": 1045, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 196, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:35:12.647024+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
