@@ -3346,3 +3346,28 @@
 [2026-07-04T00:16:37.944714+00:00] COLLECT: skills-unlock-skills by xp-loop
 [2026-07-04T00:16:38.286664+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-04T00:16:38.290324+00:00] PIPELINE RUN: 0 published, 762 remaining
+[2026-07-04T00:16:53.468004+00:00] STATS: {"published": 312, "pending": 0, "rejected": 762, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 177, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T00:16:53.467611+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T00:17:03.248747+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-04T00:17:03.292303+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-04T00:17:03.295927+00:00] PIPELINE RUN: 0 published, 763 remaining
+[2026-07-04T00:17:03.425548+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T00:17:03.626178+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T00:17:03.666495+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T00:17:03.668991+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T00:17:03.672276+00:00] PIPELINE RUN: 0 published, 765 remaining
+[2026-07-04T00:21:41.400496+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-04T00:21:41.445206+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-04T00:21:41.448862+00:00] PIPELINE RUN: 0 published, 766 remaining
+[2026-07-04T00:21:41.533426+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T00:21:41.748289+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T00:33:36.033849+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T00:33:36.036092+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T00:33:36.039492+00:00] PIPELINE RUN: 0 published, 768 remaining
+[2026-07-04T00:54:01.278582+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-04T00:54:01.323737+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-04T00:54:01.328171+00:00] PIPELINE RUN: 0 published, 769 remaining
+[2026-07-04T00:54:01.448395+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T00:54:01.682075+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T00:54:01.730303+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T00:54:01.733206+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T00:54:01.737621+00:00] PIPELINE RUN: 0 published, 771 remaining
