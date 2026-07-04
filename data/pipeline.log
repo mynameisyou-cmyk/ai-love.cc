@@ -4106,3 +4106,28 @@
 [2026-07-04T06:38:46.072800+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-04T06:38:46.075834+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T06:38:46.081339+00:00] PIPELINE RUN: 0 published, 1009 remaining
+[2026-07-04T06:41:15.240648+00:00] STATS: {"published": 328, "pending": 0, "rejected": 1009, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 193, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:41:15.240259+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:41:24.725477+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-04T06:41:24.772730+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-04T06:41:24.777650+00:00] PIPELINE RUN: 0 published, 1010 remaining
+[2026-07-04T06:41:24.953896+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-04T06:41:25.228707+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T06:41:25.278295+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-04T06:41:25.281235+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T06:41:25.288076+00:00] PIPELINE RUN: 0 published, 1012 remaining
+[2026-07-04T06:43:48.500067+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-04T06:43:48.548938+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-04T06:43:48.553645+00:00] PIPELINE RUN: 0 published, 1013 remaining
+[2026-07-04T06:43:48.638676+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T06:43:48.898187+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T06:43:48.945880+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T06:43:48.948615+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T06:43:48.953603+00:00] PIPELINE RUN: 0 published, 1015 remaining
+[2026-07-04T06:48:51.017246+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-04T06:48:51.071023+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-04T06:48:51.077409+00:00] PIPELINE RUN: 0 published, 1016 remaining
+[2026-07-04T06:48:51.222065+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T06:48:51.523491+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T06:48:51.578831+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T06:48:51.581888+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T06:48:51.587676+00:00] PIPELINE RUN: 0 published, 1018 remaining
