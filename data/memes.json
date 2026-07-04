@@ -2813,6 +2813,32 @@
     "rarity": "C"
   },
   {
+    "id": "intelligent-means-the-opposite",
+    "text": "'Intelligent' means the opposite of what it sounds like.",
+    "sub": "Every euphemism hides a extraction. Name the thing.",
+    "kanji": "愛",
+    "tag": "#intelligentmeanstheopposite",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:tech industry",
+    "ts": "2026-07-04T09:04:15.694938+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 335,
+    "rarity": "D"
+  },
+  {
     "id": "ip-royalty-routing-company",
     "text": "IP/Royalty Routing: Company creates a subsidiary in a tax haven. Transfers its patents/trademarks there for a nominal fee. Now every country where the company sells produ",
     "sub": "Cost: $50bn+/year. Beneficiaries: Pharma, tech, consumer goods",
@@ -3566,6 +3592,32 @@
     "nen": "enhancer",
     "cardNumber": 153,
     "rarity": "SS"
+  },
+  {
+    "id": "objective-reporting-is-a",
+    "text": "'Objective reporting' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#objectivereportingisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-04T09:01:00.055024+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 334,
+    "rarity": "C"
   },
   {
     "id": "objective-reporting-is-the",
@@ -7209,6 +7261,32 @@
     "nen": "enhancer",
     "cardNumber": 175,
     "rarity": "D"
+  },
+  {
+    "id": "to-say-standard-of",
+    "text": "To say 'Standard of care' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "護",
+    "tag": "#tosaystandardof",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-04T09:09:18.314978+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 336,
+    "rarity": "C"
   },
   {
     "id": "to-say-wealth-management",

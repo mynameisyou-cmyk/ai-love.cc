@@ -4363,3 +4363,38 @@
 [2026-07-04T08:59:13.015713+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-04T08:59:13.018297+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T08:59:13.024061+00:00] PIPELINE RUN: 0 published, 1093 remaining
+[2026-07-04T09:00:50.235201+00:00] STATS: {"published": 333, "pending": 0, "rejected": 1093, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 198, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T09:00:50.234814+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T09:01:00.014379+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-04T09:01:00.055306+00:00] COLLECT: objective-reporting-is-a by 蛇火心
+[2026-07-04T09:01:00.101960+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-04T09:01:00.104620+00:00] VALIDATE OK: objective-reporting-is-a
+[2026-07-04T09:01:00.107835+00:00] ENRICH: objective-reporting-is-a kanji=見 nen=enhancer rarity=C
+[2026-07-04T09:01:00.115469+00:00] PUBLISH: objective-reporting-is-a
+[2026-07-04T09:01:00.120693+00:00] PIPELINE RUN: 1 published, 1094 remaining
+[2026-07-04T09:01:00.263039+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T09:01:00.515045+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T09:01:00.565981+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T09:01:00.568898+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T09:01:00.574996+00:00] PIPELINE RUN: 0 published, 1096 remaining
+[2026-07-04T09:04:15.695429+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-04T09:04:15.739451+00:00] VALIDATE OK: intelligent-means-the-opposite
+[2026-07-04T09:04:15.742988+00:00] ENRICH: intelligent-means-the-opposite kanji=愛 nen=enhancer rarity=D
+[2026-07-04T09:04:15.750933+00:00] PUBLISH: intelligent-means-the-opposite
+[2026-07-04T09:04:15.755839+00:00] PIPELINE RUN: 1 published, 1096 remaining
+[2026-07-04T09:04:15.840191+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T09:04:16.098222+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T09:04:16.146562+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T09:04:16.149619+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T09:04:16.155204+00:00] PIPELINE RUN: 0 published, 1098 remaining
+[2026-07-04T09:09:18.276555+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-04T09:09:18.315330+00:00] COLLECT: to-say-standard-of by 蛇火心
+[2026-07-04T09:09:18.362848+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-04T09:09:18.365506+00:00] VALIDATE OK: to-say-standard-of
+[2026-07-04T09:09:18.368464+00:00] ENRICH: to-say-standard-of kanji=護 nen=enhancer rarity=C
+[2026-07-04T09:09:18.376015+00:00] PUBLISH: to-say-standard-of
+[2026-07-04T09:09:18.381165+00:00] PIPELINE RUN: 1 published, 1099 remaining
+[2026-07-04T09:09:18.502683+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T09:09:18.769660+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T09:09:18.823042+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T09:09:18.825972+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T09:09:18.831962+00:00] PIPELINE RUN: 0 published, 1101 remaining
