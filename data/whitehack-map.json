@@ -1,148 +1,146 @@
 {
-  "ts": "2026-07-04T17:13:50.657771+00:00",
+  "ts": "2026-07-04T17:23:59.885538+00:00",
   "floors": [
     {
-      "floor": 8,
-      "name": "Launch Agents & Daemons",
-      "nen": "specialist",
-      "nenKanji": "特",
+      "floor": 5,
+      "name": "Processes & Ports",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "userAgents": "ai.openclaw.gateway.plist\nhomebrew.mxcl.postgresql@16.plist\nlife.agents.plist\nlife.creation.plist\nlife.heartbeat.plist\nlife.serve.plist\nlife.tunnel.plist\nlife.zerone.plist\nlove.awaken.plist\nlove.ollama-bridge.plist\nlove.tunnel.plist\nsnake.fire.heart.decent.plist\nsnake.fire.heart.kap.plist\nsnake.fire.heart.plist",
-        "agentDetails": [
-          {
-            "file": "ai.openclaw.gateway.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"ai.openclaw.gateway\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "homebrew.mxcl.postgresql@16.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"homebrew.mxcl.postgresql@16\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.agents.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.agents\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.creation.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.creation\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.heartbeat.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.heartbeat\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.serve.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.serve\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.tunnel.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.tunnel\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.zerone.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.zerone\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "love.awaken.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.awaken\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "love.ollama-bridge.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.ollama-bridge\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "love.tunnel.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.tunnel\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "snake.fire.heart.decent.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart.decent\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "snake.fire.heart.kap.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart.kap\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "snake.fire.heart.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          }
-        ],
-        "agentCount": 14,
-        "systemDaemons": "com.docker.socket.plist\ncom.docker.vmnetd.plist\ncom.microsoft.OneDriveStandaloneUpdaterDaemon.plist\ncom.microsoft.OneDriveUpdaterDaemon.plist\ncom.microsoft.autoupdate.helper.plist\ncom.microsoft.office.licensingV2.helper.plist\nnet.mullvad.daemon.plist\nus.zoom.ZoomDaemon.plist"
+        "listening_ports": "postgres    577 yuai    7u  IPv6 0x8d4d7f130012fbfb      0t0  TCP [::1]:5432 (LISTEN)\npostgres    577 yuai    8u  IPv4 0x32b48cd5525c8ea4      0t0  TCP 127.0.0.1:5432 (LISTEN)\nPython     1022 yuai    6u  IPv4 0x288dbed566557983      0t0  TCP *:9913 (LISTEN)\nbun        1024 yuai    4u  IPv4 0xc81e8c07b68a9d68      0t0  TCP 127.0.0.1:8877 (LISTEN)\nzeroned    1041 yuai   75u  IPv6 0xed00d05f3e5961a9      0t0  TCP *:26660 (LISTEN)\nzeroned    1041 yuai   77u  IPv6 0x8b3a850be9f4d8d5      0t0  TCP *:26601 (LISTEN)\nzeroned    1041 yuai   78u  IPv6 0x7e03d7e665b8c69d      0t0  TCP *:26600 (LISTEN)\nzeroned    1041 yuai   81u  IPv4 0xd972aeefe2a710fd      0t0  TCP 127.0.0.1:6060 (LISTEN)\nzeroned    1041 yuai   82u  IPv4 0x9cfee0c9603503b6      0t0  TCP 127.0.0.1:9090 (LISTEN)\nzeroned    1041 yuai   83u  IPv4 0x7d8503b657313a72      0t0  TCP 127.0.0.1:1317 (LISTEN)\nOllama     1108 yuai    4u  IPv4 0x8e5c1286a3ea1f6c      0t0  TCP 127.0.0.1:49281 (LISTEN)\nollama     1131 yuai    3u  IPv6   0xb20d90cdeb37ed      0t0  TCP *:11434 (LISTEN)\ncloudflar  6442 yuai   10u  IPv4 0x656aba0b2b8003ab      0t0  TCP 127.0.0.1:20241 (LISTEN)\nPython     7605 yuai    4u  IPv6 0xbd04a7531aea5ac0      0t0  TCP *:8199 (LISTEN)\nPython    15316 yuai    4u  IPv6  0xdeda73d67d9cae4      0t0  TCP *:8860 (LISTEN)\nPython    28056 yuai    3u  IPv4 0x4964fcb09e47f037      0t0  TCP *:1313 (LISTEN)\nOneDrive  30984 yuai   24u  IPv6 0xcb0fc2ef55d0889d      0t0  TCP [::1]:42050 (LISTEN)\nbun       51468 yuai    7u  IPv6  0x5b2be5dff944e6f      0t0  TCP *:3939 (LISTEN)\nPython    64400 yuai    4u  IPv6 0x5816d33b7f6488c2      0t0  TCP *:8765 (LISTEN)\nLedger    68067 yuai   69u  IPv4 0xceb3efc8ebb04b2d      0t0  TCP 127.0.0.1:61490 (LISTEN)",
+        "top_processes": ""
       },
-      "xp": 120
+      "xp": 80
     }
   ],
   "battles": [
     {
-      "type": "INFO",
-      "floor": 8,
-      "name": "14 Launch Agents",
-      "description": "14 user launch agents running. Kingdom infrastructure.",
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26660",
+      "description": "Process 'zeroned' listening on port 26660. Verify this is expected.",
       "nen": "specialist",
-      "recommendation": "Normal for Kingdom setup. Check for unexpected agents."
+      "recommendation": "Check: lsof -i :26660"
     },
     {
       "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: homebrew.mxcl.postgresql@16.plist",
-      "description": "Launch agent 'homebrew.mxcl.postgresql@16.plist' is not a known Kingdom service.",
+      "floor": 5,
+      "name": "Open Port 26601",
+      "description": "Process 'zeroned' listening on port 26601. Verify this is expected.",
       "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/homebrew.mxcl.postgresql@16.plist"
+      "recommendation": "Check: lsof -i :26601"
     },
     {
       "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: snake.fire.heart.decent.plist",
-      "description": "Launch agent 'snake.fire.heart.decent.plist' is not a known Kingdom service.",
+      "floor": 5,
+      "name": "Open Port 26600",
+      "description": "Process 'zeroned' listening on port 26600. Verify this is expected.",
       "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.decent.plist"
+      "recommendation": "Check: lsof -i :26600"
     },
     {
       "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: snake.fire.heart.kap.plist",
-      "description": "Launch agent 'snake.fire.heart.kap.plist' is not a known Kingdom service.",
+      "floor": 5,
+      "name": "Open Port 20241",
+      "description": "Process 'cloudflar' listening on port 20241. Verify this is expected.",
       "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.kap.plist"
+      "recommendation": "Check: lsof -i :20241"
     },
     {
       "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: snake.fire.heart.plist",
-      "description": "Launch agent 'snake.fire.heart.plist' is not a known Kingdom service.",
+      "floor": 5,
+      "name": "Open Port 42050",
+      "description": "Process 'OneDrive' listening on port 42050. Verify this is expected.",
       "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.plist"
+      "recommendation": "Check: lsof -i :42050"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 61490",
+      "description": "Process 'Ledger' listening on port 61490. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :61490"
     }
   ],
   "treasures": [
     {
       "type": "service",
-      "name": "Life Heartbeat",
-      "description": "Kingdom heartbeat daemon running. The pulse is alive.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Life Zerone",
-      "description": "Zerone chain daemon. The Kingdom's governance layer.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Love Awaken",
-      "description": "Love awakening daemon. The wake protocol is operational.",
-      "nen": "enhancer",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Ollama Bridge",
-      "description": "Bridge to local Ollama LLM. Local inference infrastructure.",
+      "name": "Bun",
+      "description": "Bun runtime server active.",
       "nen": "transmuter",
+      "value": "medium"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
       "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama",
+      "description": "Local LLM inference running. Port 11434.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama",
+      "description": "Local LLM inference running. Port 11434.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Cloudflared",
+      "description": "Cloudflare tunnel active. Public access to localhost.",
+      "nen": "emitter",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Bun",
+      "description": "Bun runtime server active.",
+      "nen": "transmuter",
+      "value": "medium"
     }
   ],
-  "xpEarned": 120
+  "xpEarned": 80
 }

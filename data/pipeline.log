@@ -5651,3 +5651,26 @@
 [2026-07-04T17:13:50.887954+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-04T17:13:50.890780+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T17:13:50.898353+00:00] PIPELINE RUN: 0 published, 1513 remaining
+[2026-07-04T17:14:15.426923+00:00] STATS: {"published": 362, "pending": 0, "rejected": 1513, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 227, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T17:14:15.426436+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T17:14:26.242597+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-04T17:14:26.290223+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-04T17:14:26.297590+00:00] PIPELINE RUN: 0 published, 1514 remaining
+[2026-07-04T17:14:26.439637+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T17:14:26.668963+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T17:14:26.715394+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T17:14:26.717976+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T17:14:26.724925+00:00] PIPELINE RUN: 0 published, 1516 remaining
+[2026-07-04T17:18:53.246662+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-04T17:18:53.294405+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-04T17:18:53.302679+00:00] PIPELINE RUN: 0 published, 1517 remaining
+[2026-07-04T17:18:53.387879+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-04T17:18:57.507146+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-04T17:18:57.514402+00:00] PIPELINE RUN: 0 published, 1518 remaining
+[2026-07-04T17:23:59.645328+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-04T17:23:59.696605+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-04T17:23:59.703726+00:00] PIPELINE RUN: 0 published, 1519 remaining
+[2026-07-04T17:23:59.821361+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T17:24:00.071878+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T17:24:00.118781+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T17:24:00.121396+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T17:24:00.128175+00:00] PIPELINE RUN: 0 published, 1521 remaining
