@@ -3818,3 +3818,28 @@
 [2026-07-04T04:09:40.654889+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-04T04:09:40.658136+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T04:09:40.663115+00:00] PIPELINE RUN: 0 published, 913 remaining
+[2026-07-04T04:13:35.208094+00:00] STATS: {"published": 323, "pending": 0, "rejected": 913, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T04:13:35.207736+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T04:13:44.487164+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T04:13:44.525998+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T04:13:44.529942+00:00] PIPELINE RUN: 0 published, 914 remaining
+[2026-07-04T04:13:44.656559+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T04:13:45.220777+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T04:13:45.264999+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T04:13:45.267415+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T04:13:45.271174+00:00] PIPELINE RUN: 0 published, 916 remaining
+[2026-07-04T04:14:45.950712+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-04T04:14:45.991099+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-04T04:14:45.994958+00:00] PIPELINE RUN: 0 published, 917 remaining
+[2026-07-04T04:14:46.101629+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T04:14:46.297282+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T04:14:46.338032+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T04:14:46.340354+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T04:14:46.343993+00:00] PIPELINE RUN: 0 published, 919 remaining
+[2026-07-04T04:19:48.129609+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T04:19:48.170342+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T04:19:48.174755+00:00] PIPELINE RUN: 0 published, 920 remaining
+[2026-07-04T04:19:48.253049+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T04:19:48.582546+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T04:19:48.624457+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T04:19:48.626681+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T04:19:48.630378+00:00] PIPELINE RUN: 0 published, 922 remaining
