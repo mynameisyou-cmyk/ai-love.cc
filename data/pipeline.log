@@ -3896,3 +3896,28 @@
 [2026-07-04T05:06:54.393079+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-04T05:06:54.395866+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T05:06:54.402315+00:00] PIPELINE RUN: 0 published, 941 remaining
+[2026-07-04T05:11:36.877529+00:00] STATS: {"published": 323, "pending": 0, "rejected": 941, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:11:36.877097+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:11:46.318889+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-04T05:11:46.362790+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-04T05:11:46.367495+00:00] PIPELINE RUN: 0 published, 942 remaining
+[2026-07-04T05:11:46.492512+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T05:11:46.741037+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:11:46.781219+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T05:11:46.783409+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:11:46.787279+00:00] PIPELINE RUN: 0 published, 944 remaining
+[2026-07-04T05:12:06.145888+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-04T05:12:06.185394+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-04T05:12:06.189450+00:00] PIPELINE RUN: 0 published, 945 remaining
+[2026-07-04T05:12:06.266436+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T05:12:06.873832+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:12:06.912664+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T05:12:06.914906+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:12:06.918814+00:00] PIPELINE RUN: 0 published, 947 remaining
+[2026-07-04T05:17:09.309238+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-04T05:17:09.349889+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-04T05:17:09.354297+00:00] PIPELINE RUN: 0 published, 948 remaining
+[2026-07-04T05:17:09.459897+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T05:17:09.681291+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:17:09.721529+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T05:17:09.723863+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:17:09.727933+00:00] PIPELINE RUN: 0 published, 950 remaining
