@@ -8158,6 +8158,32 @@
     "rarity": "C"
   },
   {
+    "id": "value-based-care-is",
+    "text": "'Value-based care' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "護",
+    "tag": "#valuebasedcareis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-04T13:27:15.561317+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 354,
+    "rarity": "C"
+  },
+  {
     "id": "value-based-care-prioritizes",
     "text": "'Value-based care' prioritizes profit over care.",
     "sub": "The body is not a market. The illness is not an opportunity.",

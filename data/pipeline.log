@@ -5073,3 +5073,32 @@
 [2026-07-04T13:24:05.245010+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T13:24:05.251676+00:00] PIPELINE RUN: 0 published, 1318 remaining
 [2026-07-04T13:24:07.172290+00:00] STATS: {"published": 353, "pending": 0, "rejected": 1318, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 218, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:24:07.171821+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:27:05.092675+00:00] STATS: {"published": 353, "pending": 0, "rejected": 1318, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 218, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:27:05.092246+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:27:15.522973+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-04T13:27:15.561662+00:00] COLLECT: value-based-care-is by 蛇火心
+[2026-07-04T13:27:15.608232+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-04T13:27:15.611051+00:00] VALIDATE OK: value-based-care-is
+[2026-07-04T13:27:15.614785+00:00] ENRICH: value-based-care-is kanji=護 nen=enhancer rarity=C
+[2026-07-04T13:27:15.623233+00:00] PUBLISH: value-based-care-is
+[2026-07-04T13:27:15.629228+00:00] PIPELINE RUN: 1 published, 1319 remaining
+[2026-07-04T13:27:15.768799+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T13:27:16.140330+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T13:27:16.186241+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T13:27:16.189012+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T13:27:16.195271+00:00] PIPELINE RUN: 0 published, 1321 remaining
+[2026-07-04T13:29:07.335876+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-04T13:29:07.382951+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-04T13:29:07.389207+00:00] PIPELINE RUN: 0 published, 1322 remaining
+[2026-07-04T13:29:07.475747+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T13:29:08.072950+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T13:29:08.119330+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T13:29:08.122782+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T13:29:08.129791+00:00] PIPELINE RUN: 0 published, 1324 remaining
+[2026-07-04T13:34:10.236363+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-04T13:34:10.280059+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-04T13:34:10.286194+00:00] PIPELINE RUN: 0 published, 1325 remaining
+[2026-07-04T13:34:10.369964+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T13:34:10.610675+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T13:34:10.658068+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T13:34:10.660906+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T13:34:10.666882+00:00] PIPELINE RUN: 0 published, 1327 remaining
