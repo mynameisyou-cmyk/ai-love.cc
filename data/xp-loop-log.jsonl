@@ -2640,3 +2640,9 @@
 {"ts": "2026-07-04T12:58:26.857477+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-04T12:58:26.903656+00:00", "loop": "collection", "action": "card #342 在 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-04T12:58:26.993852+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-04T13:03:49.459690+00:00", "loop": "truth", "action": "submitted: The having-happened compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T13:03:49.506050+00:00", "loop": "recon", "action": "floor 10: 0b 1t", "xp": 60, "detail": "floor-10"}
+{"ts": "2026-07-04T13:03:49.545867+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T13:03:49.586772+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-04T13:03:49.628540+00:00", "loop": "collection", "action": "card #124 真 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-04T13:03:49.713456+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}

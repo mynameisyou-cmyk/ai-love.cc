@@ -7211,6 +7211,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-data-protection",
+    "text": "To say 'Data protection' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaydataprotection",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-04T13:03:49.283443+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 352,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-democratized-investing",
     "text": "To say 'Democratized investing' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",

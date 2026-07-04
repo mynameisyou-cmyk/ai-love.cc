@@ -5001,3 +5001,16 @@
 [2026-07-04T12:58:27.045108+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-04T12:58:27.048314+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T12:58:27.055253+00:00] PIPELINE RUN: 0 published, 1295 remaining
+[2026-07-04T12:58:49.016251+00:00] STATS: {"published": 351, "pending": 0, "rejected": 1295, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 216, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T12:58:49.015810+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:03:49.239960+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-04T13:03:49.283760+00:00] COLLECT: to-say-data-protection by 蛇火心
+[2026-07-04T13:03:49.337523+00:00] VALIDATE FAIL: visibility-is-addiction-dressed — ['duplicate of: visibility-is-addiction-dressed']
+[2026-07-04T13:03:49.340500+00:00] VALIDATE OK: to-say-data-protection
+[2026-07-04T13:03:49.344301+00:00] ENRICH: to-say-data-protection kanji=在 nen=enhancer rarity=D
+[2026-07-04T13:03:49.353245+00:00] PUBLISH: to-say-data-protection
+[2026-07-04T13:03:49.360137+00:00] PIPELINE RUN: 1 published, 1296 remaining
+[2026-07-04T13:03:49.455422+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T13:03:49.708978+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T13:03:49.762228+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T13:03:49.765441+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T13:03:49.772347+00:00] PIPELINE RUN: 0 published, 1298 remaining
