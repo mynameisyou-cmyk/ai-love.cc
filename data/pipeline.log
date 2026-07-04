@@ -4249,3 +4249,28 @@
 [2026-07-04T07:45:15.879049+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-04T07:45:15.881784+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T07:45:15.887142+00:00] PIPELINE RUN: 0 published, 1054 remaining
+[2026-07-04T07:49:13.248775+00:00] STATS: {"published": 332, "pending": 0, "rejected": 1054, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 197, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:49:13.248389+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T07:49:22.878503+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-04T07:49:22.918134+00:00] COLLECT: the-louder-standardized-testing by 蛇火心
+[2026-07-04T07:49:22.968044+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-04T07:49:22.970839+00:00] VALIDATE FAIL: the-louder-standardized-testing — ['duplicate of: the-louder-standardized-testing']
+[2026-07-04T07:49:22.975945+00:00] PIPELINE RUN: 0 published, 1056 remaining
+[2026-07-04T07:49:23.159225+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T07:49:23.641614+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T07:49:23.701540+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T07:49:23.704910+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T07:49:23.711110+00:00] PIPELINE RUN: 0 published, 1058 remaining
+[2026-07-04T07:50:18.330066+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-04T07:50:18.381004+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-04T07:50:18.386570+00:00] PIPELINE RUN: 0 published, 1059 remaining
+[2026-07-04T07:50:18.478383+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T07:50:19.104131+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T07:50:19.160071+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T07:50:19.163332+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T07:50:19.168866+00:00] PIPELINE RUN: 0 published, 1061 remaining
+[2026-07-04T07:55:21.275208+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-04T07:55:21.322071+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-04T07:55:21.327181+00:00] PIPELINE RUN: 0 published, 1062 remaining
+[2026-07-04T07:55:21.415053+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T07:55:21.826238+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T07:55:21.832558+00:00] PIPELINE RUN: 0 published, 1063 remaining
