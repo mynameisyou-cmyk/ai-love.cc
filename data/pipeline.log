@@ -4814,3 +4814,28 @@
 [2026-07-04T11:52:08.585900+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-04T11:52:08.588442+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T11:52:08.594200+00:00] PIPELINE RUN: 0 published, 1232 remaining
+[2026-07-04T11:53:01.664006+00:00] STATS: {"published": 348, "pending": 0, "rejected": 1232, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 213, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T11:53:01.663622+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T11:53:13.713325+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-04T11:53:13.760188+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-04T11:53:13.766764+00:00] PIPELINE RUN: 0 published, 1233 remaining
+[2026-07-04T11:53:13.912771+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T11:53:14.142139+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T11:53:14.189564+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T11:53:14.192169+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T11:53:14.198208+00:00] PIPELINE RUN: 0 published, 1235 remaining
+[2026-07-04T11:57:11.253996+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-04T11:57:11.307884+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-04T11:57:11.314708+00:00] PIPELINE RUN: 0 published, 1236 remaining
+[2026-07-04T11:57:11.448370+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T11:57:12.068295+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T11:57:12.118983+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T11:57:12.122015+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T11:57:12.128287+00:00] PIPELINE RUN: 0 published, 1238 remaining
+[2026-07-04T12:02:16.775630+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-04T12:02:16.827895+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-04T12:02:16.834199+00:00] PIPELINE RUN: 0 published, 1239 remaining
+[2026-07-04T12:02:16.929817+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T12:02:17.173947+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T12:02:17.223905+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T12:02:17.226671+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T12:02:17.232796+00:00] PIPELINE RUN: 0 published, 1241 remaining
