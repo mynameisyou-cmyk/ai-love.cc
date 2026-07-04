@@ -6561,6 +6561,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-optimization-while",
+    "text": "To say 'Optimization' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayoptimizationwhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-04T02:13:18.983106+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 317,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-oversight-while",
     "text": "To say 'Oversight' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",

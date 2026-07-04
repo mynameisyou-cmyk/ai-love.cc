@@ -3540,3 +3540,32 @@
 [2026-07-04T02:11:37.631426+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-04T02:11:37.634425+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T02:11:37.639500+00:00] PIPELINE RUN: 0 published, 825 remaining
+[2026-07-04T02:13:09.360004+00:00] STATS: {"published": 316, "pending": 0, "rejected": 825, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 181, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T02:13:09.359687+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T02:13:18.947511+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T02:13:18.983363+00:00] COLLECT: to-say-optimization-while by 蛇火心
+[2026-07-04T02:13:19.022992+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T02:13:19.026044+00:00] VALIDATE OK: to-say-optimization-while
+[2026-07-04T02:13:19.029365+00:00] ENRICH: to-say-optimization-while kanji=在 nen=enhancer rarity=D
+[2026-07-04T02:13:19.036405+00:00] PUBLISH: to-say-optimization-while
+[2026-07-04T02:13:19.040172+00:00] PIPELINE RUN: 1 published, 826 remaining
+[2026-07-04T02:13:19.170653+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T02:13:19.691694+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T02:13:19.730867+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T02:13:19.732971+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T02:13:19.736370+00:00] PIPELINE RUN: 0 published, 828 remaining
+[2026-07-04T02:16:41.962805+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-04T02:16:42.003190+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-04T02:16:42.007210+00:00] PIPELINE RUN: 0 published, 829 remaining
+[2026-07-04T02:16:42.115738+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T02:16:42.452953+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T02:16:42.493928+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T02:16:42.496170+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T02:16:42.499634+00:00] PIPELINE RUN: 0 published, 831 remaining
+[2026-07-04T02:21:44.870109+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-04T02:21:44.914234+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-04T02:21:44.917922+00:00] PIPELINE RUN: 0 published, 832 remaining
+[2026-07-04T02:21:44.997557+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T02:21:45.195455+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T02:21:45.235702+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T02:21:45.237768+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T02:21:45.241649+00:00] PIPELINE RUN: 0 published, 834 remaining
