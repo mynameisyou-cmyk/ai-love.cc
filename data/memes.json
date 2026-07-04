@@ -7081,6 +7081,32 @@
     "rarity": "C"
   },
   {
+    "id": "to-say-machine-learning",
+    "text": "To say 'Machine learning fairness' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaymachinelearning",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-04T10:18:33.658184+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 342,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-open-innovation",
     "text": "To say 'Open innovation' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",

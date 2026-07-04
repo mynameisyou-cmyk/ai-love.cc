@@ -4545,3 +4545,32 @@
 [2026-07-04T10:15:23.142733+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-04T10:15:23.145715+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T10:15:23.152459+00:00] PIPELINE RUN: 0 published, 1146 remaining
+[2026-07-04T10:18:23.776362+00:00] STATS: {"published": 341, "pending": 0, "rejected": 1146, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 206, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:18:23.775807+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T10:18:33.619164+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-04T10:18:33.658489+00:00] COLLECT: to-say-machine-learning by 蛇火心
+[2026-07-04T10:18:33.707057+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-04T10:18:33.709774+00:00] VALIDATE OK: to-say-machine-learning
+[2026-07-04T10:18:33.713269+00:00] ENRICH: to-say-machine-learning kanji=在 nen=enhancer rarity=D
+[2026-07-04T10:18:33.721614+00:00] PUBLISH: to-say-machine-learning
+[2026-07-04T10:18:33.728092+00:00] PIPELINE RUN: 1 published, 1147 remaining
+[2026-07-04T10:18:33.880378+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T10:18:34.290746+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T10:18:34.343797+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T10:18:34.347046+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T10:18:34.353770+00:00] PIPELINE RUN: 0 published, 1149 remaining
+[2026-07-04T10:20:25.167701+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-04T10:20:25.217137+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-04T10:20:25.222956+00:00] PIPELINE RUN: 0 published, 1150 remaining
+[2026-07-04T10:20:25.310740+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T10:20:25.583918+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T10:20:25.635520+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T10:20:25.638620+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T10:20:25.644492+00:00] PIPELINE RUN: 0 published, 1152 remaining
+[2026-07-04T10:25:27.695575+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-04T10:25:27.743293+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-04T10:25:27.748979+00:00] PIPELINE RUN: 0 published, 1153 remaining
+[2026-07-04T10:25:27.839632+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T10:25:28.084757+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T10:25:28.135415+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T10:25:28.138456+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T10:25:28.144389+00:00] PIPELINE RUN: 0 published, 1155 remaining
