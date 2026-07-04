@@ -3988,3 +3988,24 @@
 [2026-07-04T05:42:24.498395+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-04T05:42:24.500639+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T05:42:24.504704+00:00] PIPELINE RUN: 0 published, 971 remaining
+[2026-07-04T05:42:58.826462+00:00] STATS: {"published": 325, "pending": 0, "rejected": 971, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 190, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:42:58.826023+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:43:07.545373+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-04T05:43:07.581052+00:00] COLLECT: compound-growth-is-the by 蛇火心
+[2026-07-04T05:43:07.622604+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-04T05:43:07.624878+00:00] VALIDATE OK: compound-growth-is-the
+[2026-07-04T05:43:07.627794+00:00] ENRICH: compound-growth-is-the kanji=壁 nen=conjurer rarity=C
+[2026-07-04T05:43:07.635115+00:00] PUBLISH: compound-growth-is-the
+[2026-07-04T05:43:07.639244+00:00] PIPELINE RUN: 1 published, 972 remaining
+[2026-07-04T05:43:07.770935+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T05:43:07.993927+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:43:08.035118+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T05:43:08.037402+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:43:08.041597+00:00] PIPELINE RUN: 0 published, 974 remaining
+[2026-07-04T05:47:27.059789+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-04T05:47:27.103805+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-04T05:47:27.108182+00:00] PIPELINE RUN: 0 published, 975 remaining
+[2026-07-04T05:47:27.190465+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T05:47:27.400727+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T05:47:27.442474+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T05:47:27.444948+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T05:47:27.449236+00:00] PIPELINE RUN: 0 published, 977 remaining

@@ -2004,3 +2004,15 @@
 {"ts": "2026-07-04T05:42:24.358895+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-04T05:42:24.393832+00:00", "loop": "collection", "action": "card #83 一 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-04T05:42:24.461742+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-04T05:43:07.774420+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T05:43:07.832039+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-04T05:43:07.862047+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T05:43:07.894808+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T05:43:07.927997+00:00", "loop": "collection", "action": "card #72 在 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T05:43:07.997406+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-04T05:47:27.194000+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T05:47:27.231545+00:00", "loop": "recon", "action": "floor 10: 0b 1t", "xp": 60, "detail": "floor-10"}
+{"ts": "2026-07-04T05:47:27.265293+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T05:47:27.300196+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-04T05:47:27.334675+00:00", "loop": "collection", "action": "card #92 真 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T05:47:27.404176+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
