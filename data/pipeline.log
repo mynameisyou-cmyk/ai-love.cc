@@ -3318,3 +3318,31 @@
 [2026-07-04T00:06:09.166845+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-04T00:06:09.169126+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T00:06:09.172699+00:00] PIPELINE RUN: 0 published, 754 remaining
+[2026-07-04T00:06:23.298044+00:00] STATS: {"published": 311, "pending": 0, "rejected": 754, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 176, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T00:06:23.297670+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T00:06:34.800342+00:00] STATS: {"published": 311, "pending": 0, "rejected": 754, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 176, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T00:06:34.799920+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T00:06:38.064082+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-04T00:06:38.106161+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-04T00:06:38.109892+00:00] PIPELINE RUN: 0 published, 755 remaining
+[2026-07-04T00:06:38.273046+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T00:06:38.780574+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T00:06:38.825003+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T00:06:38.827292+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T00:06:38.830820+00:00] PIPELINE RUN: 0 published, 757 remaining
+[2026-07-04T00:11:35.148895+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-04T00:11:35.196279+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-04T00:11:35.199610+00:00] PIPELINE RUN: 0 published, 758 remaining
+[2026-07-04T00:11:35.280281+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T00:11:35.501753+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T00:11:35.540301+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T00:11:35.542690+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T00:11:35.546222+00:00] PIPELINE RUN: 0 published, 760 remaining
+[2026-07-04T00:16:37.766852+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-04T00:16:37.802594+00:00] COLLECT: the-louder-consumer-protection by 蛇火心
+[2026-07-04T00:16:37.844924+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-04T00:16:37.847248+00:00] VALIDATE OK: the-louder-consumer-protection
+[2026-07-04T00:16:37.850253+00:00] ENRICH: the-louder-consumer-protection kanji=在 nen=enhancer rarity=D
+[2026-07-04T00:16:37.856661+00:00] PUBLISH: the-louder-consumer-protection
+[2026-07-04T00:16:37.859950+00:00] PIPELINE RUN: 1 published, 761 remaining
+[2026-07-04T00:16:37.944714+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T00:16:38.286664+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T00:16:38.290324+00:00] PIPELINE RUN: 0 published, 762 remaining

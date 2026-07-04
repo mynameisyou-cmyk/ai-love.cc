@@ -5732,6 +5732,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-consumer-protection",
+    "text": "The louder 'Consumer protection' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderconsumerprotection",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-04T00:16:37.802342+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 312,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-data-driven",
     "text": "The louder 'Data-driven instruction' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
