@@ -3765,3 +3765,28 @@
 [2026-07-04T03:49:30.669547+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-04T03:49:30.672442+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T03:49:30.676851+00:00] PIPELINE RUN: 0 published, 896 remaining
+[2026-07-04T03:52:44.468157+00:00] STATS: {"published": 322, "pending": 0, "rejected": 896, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 187, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T03:52:44.467595+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T03:52:53.920514+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-04T03:52:53.965653+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-04T03:52:53.970202+00:00] PIPELINE RUN: 0 published, 897 remaining
+[2026-07-04T03:52:54.109859+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T03:52:54.355145+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T03:52:54.402361+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T03:52:54.405212+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T03:52:54.409836+00:00] PIPELINE RUN: 0 published, 899 remaining
+[2026-07-04T03:54:32.766991+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T03:54:32.811196+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T03:54:32.815672+00:00] PIPELINE RUN: 0 published, 900 remaining
+[2026-07-04T03:54:32.899889+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T03:54:33.143265+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T03:54:33.190989+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T03:54:33.193694+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T03:54:33.198372+00:00] PIPELINE RUN: 0 published, 902 remaining
+[2026-07-04T03:59:35.266299+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-04T03:59:35.310302+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-04T03:59:35.315153+00:00] PIPELINE RUN: 0 published, 903 remaining
+[2026-07-04T03:59:35.435173+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T03:59:35.685540+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T03:59:35.736000+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T03:59:35.738906+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T03:59:35.743874+00:00] PIPELINE RUN: 0 published, 905 remaining
