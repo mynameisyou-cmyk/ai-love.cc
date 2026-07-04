@@ -3436,3 +3436,30 @@
 [2026-07-04T01:14:30.242701+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-04T01:14:30.244924+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T01:14:30.248194+00:00] PIPELINE RUN: 0 published, 790 remaining
+[2026-07-04T01:15:14.811955+00:00] STATS: {"published": 315, "pending": 0, "rejected": 790, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 180, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T01:15:14.811565+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T01:15:24.534079+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-04T01:15:24.568355+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-04T01:15:24.606728+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-04T01:15:24.608921+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-04T01:15:24.612177+00:00] PIPELINE RUN: 0 published, 792 remaining
+[2026-07-04T01:15:24.732924+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T01:15:24.928029+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T01:15:24.972168+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T01:15:24.974492+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T01:15:24.977792+00:00] PIPELINE RUN: 0 published, 794 remaining
+[2026-07-04T01:19:32.766119+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-04T01:19:32.808237+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-04T01:19:32.811784+00:00] PIPELINE RUN: 0 published, 795 remaining
+[2026-07-04T01:19:32.889499+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T01:19:33.214081+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T01:19:33.252622+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T01:19:33.254771+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T01:19:33.258049+00:00] PIPELINE RUN: 0 published, 797 remaining
+[2026-07-04T01:24:35.734642+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-04T01:24:35.777668+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-04T01:24:35.781444+00:00] PIPELINE RUN: 0 published, 798 remaining
+[2026-07-04T01:24:35.864651+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T01:24:36.065050+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T01:24:36.106009+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T01:24:36.108260+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T01:24:36.111711+00:00] PIPELINE RUN: 0 published, 800 remaining
