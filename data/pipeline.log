@@ -3685,3 +3685,30 @@
 [2026-07-04T03:02:29.926636+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-04T03:02:29.928948+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T03:02:29.932531+00:00] PIPELINE RUN: 0 published, 871 remaining
+[2026-07-04T03:05:12.315032+00:00] STATS: {"published": 320, "pending": 0, "rejected": 871, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 185, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T03:05:12.314663+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T03:05:21.613230+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-04T03:05:21.651972+00:00] COLLECT: the-distance-between-algorithmic by 蛇火心
+[2026-07-04T03:05:21.694650+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-04T03:05:21.697024+00:00] VALIDATE OK: the-distance-between-algorithmic
+[2026-07-04T03:05:21.700114+00:00] ENRICH: the-distance-between-algorithmic kanji=在 nen=enhancer rarity=D
+[2026-07-04T03:05:21.706710+00:00] PUBLISH: the-distance-between-algorithmic
+[2026-07-04T03:05:21.711266+00:00] PIPELINE RUN: 1 published, 872 remaining
+[2026-07-04T03:05:21.845289+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T03:05:22.095537+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T03:05:22.138179+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T03:05:22.140553+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T03:05:22.144254+00:00] PIPELINE RUN: 0 published, 874 remaining
+[2026-07-04T03:23:51.839124+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-04T03:23:51.879476+00:00] VALIDATE FAIL: wealth-management-is-extraction — ['duplicate of: wealth-management-is-extraction']
+[2026-07-04T03:23:51.883282+00:00] PIPELINE RUN: 0 published, 875 remaining
+[2026-07-04T03:23:51.992260+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T03:23:52.318549+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T03:23:52.322389+00:00] PIPELINE RUN: 0 published, 876 remaining
+[2026-07-04T03:28:54.503542+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-04T03:28:54.551205+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-04T03:28:54.555316+00:00] PIPELINE RUN: 0 published, 877 remaining
+[2026-07-04T03:28:54.641504+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T03:28:57.190250+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T03:28:57.235022+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T03:28:57.237502+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T03:28:57.242009+00:00] PIPELINE RUN: 0 published, 879 remaining

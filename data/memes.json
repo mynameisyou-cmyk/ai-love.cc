@@ -5108,6 +5108,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-algorithmic",
+    "text": "The distance between 'Algorithmic' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenalgorithmic",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-04T03:05:21.651415+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 321,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-best",
     "text": "The distance between 'Best available' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
