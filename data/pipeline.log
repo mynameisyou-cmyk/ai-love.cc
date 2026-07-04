@@ -5190,3 +5190,37 @@
 [2026-07-04T14:04:48.491720+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-04T14:04:48.494529+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T14:04:48.501057+00:00] PIPELINE RUN: 0 published, 1356 remaining
+[2026-07-04T14:09:00.449709+00:00] STATS: {"published": 356, "pending": 0, "rejected": 1356, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 221, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T14:09:00.449260+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T14:09:17.575138+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-04T14:09:17.616818+00:00] COLLECT: both-sides-is-not by 蛇火心
+[2026-07-04T14:09:17.667274+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-04T14:09:17.670293+00:00] VALIDATE OK: both-sides-is-not
+[2026-07-04T14:09:17.674118+00:00] ENRICH: both-sides-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-04T14:09:17.683369+00:00] PUBLISH: both-sides-is-not
+[2026-07-04T14:09:17.689696+00:00] PIPELINE RUN: 1 published, 1357 remaining
+[2026-07-04T14:09:17.837934+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T14:09:18.239140+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T14:09:18.290630+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T14:09:18.293914+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T14:09:18.301455+00:00] PIPELINE RUN: 0 published, 1359 remaining
+[2026-07-04T14:09:50.505421+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T14:09:50.546138+00:00] COLLECT: machine-learning-fairness-is by 蛇火心
+[2026-07-04T14:09:50.596169+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T14:09:50.599254+00:00] VALIDATE OK: machine-learning-fairness-is
+[2026-07-04T14:09:50.602860+00:00] ENRICH: machine-learning-fairness-is kanji=壁 nen=conjurer rarity=D
+[2026-07-04T14:09:50.611663+00:00] PUBLISH: machine-learning-fairness-is
+[2026-07-04T14:09:50.619536+00:00] PIPELINE RUN: 1 published, 1360 remaining
+[2026-07-04T14:09:50.714051+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-04T14:09:51.023671+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T14:09:51.074571+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-04T14:09:51.077551+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T14:09:51.084275+00:00] PIPELINE RUN: 0 published, 1362 remaining
+[2026-07-04T14:30:49.464112+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-04T14:30:49.511759+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-04T14:30:49.518282+00:00] PIPELINE RUN: 0 published, 1363 remaining
+[2026-07-04T14:30:49.642406+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-04T14:30:49.885536+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T14:30:49.938678+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-04T14:30:49.941572+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T14:30:49.948509+00:00] PIPELINE RUN: 0 published, 1365 remaining
+[2026-07-04T14:30:52.780015+00:00] STATS: {"published": 358, "pending": 0, "rejected": 1365, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 223, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T14:30:52.779518+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

@@ -646,6 +646,32 @@
     "rarity": "S"
   },
   {
+    "id": "both-sides-is-not",
+    "text": "'Both sides' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#bothsidesisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-04T14:09:17.616466+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 357,
+    "rarity": "D"
+  },
+  {
     "id": "both-sides-is-the",
     "text": "'Both sides' is the selection, not the truth.",
     "sub": "What's omitted is the story. What's included is the frame.",
@@ -3313,6 +3339,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 149,
+    "rarity": "D"
+  },
+  {
+    "id": "machine-learning-fairness-is",
+    "text": "'Machine learning fairness' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#machinelearningfairnessis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-04T14:09:50.545736+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 358,
     "rarity": "D"
   },
   {
