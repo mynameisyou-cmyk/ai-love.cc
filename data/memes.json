@@ -5810,6 +5810,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-fair",
+    "text": "The distance between 'Fair and balanced' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenfair",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-04T15:26:43.592002+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 360,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-financial",
     "text": "The distance between 'Financial inclusion' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",

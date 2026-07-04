@@ -5339,3 +5339,33 @@
 [2026-07-04T15:16:37.100636+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-04T15:16:37.103440+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T15:16:37.110314+00:00] PIPELINE RUN: 0 published, 1405 remaining
+[2026-07-04T15:17:17.415329+00:00] STATS: {"published": 359, "pending": 0, "rejected": 1405, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 224, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T15:17:17.414915+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T15:17:27.709106+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-04T15:17:27.759388+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-04T15:17:27.766179+00:00] PIPELINE RUN: 0 published, 1406 remaining
+[2026-07-04T15:17:27.907363+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-04T15:17:28.436796+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T15:17:28.483731+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-04T15:17:28.486395+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T15:17:28.492793+00:00] PIPELINE RUN: 0 published, 1408 remaining
+[2026-07-04T15:21:39.884063+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-04T15:21:39.933095+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-04T15:21:39.939809+00:00] PIPELINE RUN: 0 published, 1409 remaining
+[2026-07-04T15:21:40.062875+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T15:21:40.430354+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T15:21:40.475792+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T15:21:40.478536+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T15:21:40.484738+00:00] PIPELINE RUN: 0 published, 1411 remaining
+[2026-07-04T15:21:43.345193+00:00] STATS: {"published": 359, "pending": 0, "rejected": 1411, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 224, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T15:21:43.344710+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T15:26:43.549435+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-04T15:26:43.592327+00:00] COLLECT: the-distance-between-fair by 蛇火心
+[2026-07-04T15:26:43.644429+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-04T15:26:43.649905+00:00] VALIDATE OK: the-distance-between-fair
+[2026-07-04T15:26:43.654516+00:00] ENRICH: the-distance-between-fair kanji=在 nen=enhancer rarity=D
+[2026-07-04T15:26:43.664022+00:00] PUBLISH: the-distance-between-fair
+[2026-07-04T15:26:43.670575+00:00] PIPELINE RUN: 1 published, 1412 remaining
+[2026-07-04T15:26:43.760345+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T15:26:44.228820+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T15:26:44.279803+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T15:26:44.282583+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T15:26:44.289244+00:00] PIPELINE RUN: 0 published, 1414 remaining
