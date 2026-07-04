@@ -2106,3 +2106,9 @@
 {"ts": "2026-07-04T06:53:54.315084+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
 {"ts": "2026-07-04T06:53:54.355545+00:00", "loop": "collection", "action": "card #144 皆 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-04T06:53:54.436839+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-04T06:59:11.638416+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T06:59:11.709465+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-04T06:59:11.745184+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T06:59:11.785088+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-04T06:59:11.828091+00:00", "loop": "collection", "action": "card #158 初 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T06:59:11.907521+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}

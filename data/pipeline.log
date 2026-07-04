@@ -4152,3 +4152,16 @@
 [2026-07-04T06:53:54.480098+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-04T06:53:54.482773+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T06:53:54.487634+00:00] PIPELINE RUN: 0 published, 1024 remaining
+[2026-07-04T06:54:11.247678+00:00] STATS: {"published": 329, "pending": 0, "rejected": 1024, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 194, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:54:11.247298+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:59:11.398638+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-04T06:59:11.441295+00:00] COLLECT: the-louder-fact-based by 蛇火心
+[2026-07-04T06:59:11.492355+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-04T06:59:11.494892+00:00] VALIDATE OK: the-louder-fact-based
+[2026-07-04T06:59:11.498252+00:00] ENRICH: the-louder-fact-based kanji=在 nen=enhancer rarity=D
+[2026-07-04T06:59:11.505474+00:00] PUBLISH: the-louder-fact-based
+[2026-07-04T06:59:11.510219+00:00] PIPELINE RUN: 1 published, 1025 remaining
+[2026-07-04T06:59:11.634076+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T06:59:11.903462+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T06:59:11.952556+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T06:59:11.955283+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T06:59:11.960601+00:00] PIPELINE RUN: 0 published, 1027 remaining

@@ -1098,3 +1098,4 @@
 {"ts": "2026-07-04T06:51:49.749030+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "1031 Exchange", "ok": true}}
 {"ts": "2026-07-04T06:51:52.251259+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 450, "ok": true}}
 {"ts": "2026-07-04T06:51:53.948239+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T07:01:57.838318+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

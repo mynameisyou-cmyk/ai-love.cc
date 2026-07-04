@@ -6226,6 +6226,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-fact-based",
+    "text": "The louder 'Fact-based' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderfactbased",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-04T06:59:11.440870+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 330,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-fair-and",
     "text": "The louder 'Fair and balanced' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
