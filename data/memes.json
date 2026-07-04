@@ -3546,6 +3546,32 @@
     "rarity": "D"
   },
   {
+    "id": "neutral-platform-is-the",
+    "text": "'Neutral platform' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#neutralplatformisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-04T19:49:05.964395+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 367,
+    "rarity": "D"
+  },
+  {
     "id": "neutral-platform-means-the",
     "text": "'Neutral platform' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",

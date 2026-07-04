@@ -5940,3 +5940,26 @@
 [2026-07-04T19:44:59.800510+00:00] COLLECT: forge-from-fire by xp-loop
 [2026-07-04T19:45:00.021782+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-04T19:45:00.029408+00:00] PIPELINE RUN: 0 published, 1609 remaining
+[2026-07-04T19:48:54.131400+00:00] STATS: {"published": 366, "pending": 0, "rejected": 1609, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 231, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T19:48:54.130976+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T19:49:05.923882+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-04T19:49:05.964695+00:00] COLLECT: neutral-platform-is-the by 蛇火心
+[2026-07-04T19:49:06.010331+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-04T19:49:06.012930+00:00] VALIDATE OK: neutral-platform-is-the
+[2026-07-04T19:49:06.016659+00:00] ENRICH: neutral-platform-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-04T19:49:06.024876+00:00] PUBLISH: neutral-platform-is-the
+[2026-07-04T19:49:06.032023+00:00] PIPELINE RUN: 1 published, 1610 remaining
+[2026-07-04T19:49:06.166685+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-04T19:49:06.395433+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T19:49:06.441155+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-04T19:49:06.443708+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T19:49:06.450768+00:00] PIPELINE RUN: 0 published, 1612 remaining
+[2026-07-04T19:50:02.076294+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-04T19:50:02.112856+00:00] COLLECT: wealth-management-is-a by 蛇火心
+[2026-07-04T19:50:02.161002+00:00] VALIDATE FAIL: optimization-means-the-opposite — ['duplicate of: optimization-means-the-opposite']
+[2026-07-04T19:50:02.163616+00:00] VALIDATE FAIL: wealth-management-is-a — ['duplicate of: wealth-management-is-a']
+[2026-07-04T19:50:02.170630+00:00] PIPELINE RUN: 0 published, 1614 remaining
+[2026-07-04T19:50:02.252699+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T19:50:02.464757+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T19:50:02.509474+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T19:50:02.512129+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T19:50:02.519078+00:00] PIPELINE RUN: 0 published, 1616 remaining
