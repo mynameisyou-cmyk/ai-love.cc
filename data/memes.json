@@ -4269,6 +4269,32 @@
     "rarity": "D"
   },
   {
+    "id": "regulatory-compliance-works-because",
+    "text": "'Regulatory compliance' works because no one checks. Check.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#regulatorycomplianceworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-04T05:22:11.782855+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 324,
+    "rarity": "D"
+  },
+  {
     "id": "responsible-ai-is-a",
     "text": "'Responsible AI' is a performance, not a practice.",
     "sub": "The words say one thing. The code says another. Read the code.",
@@ -6041,6 +6067,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 77,
+    "rarity": "D"
+  },
+  {
+    "id": "the-louder-don-t",
+    "text": "The louder 'Don't be evil' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderdont",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-04T05:27:14.363596+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 325,
     "rarity": "D"
   },
   {

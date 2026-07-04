@@ -3921,3 +3921,37 @@
 [2026-07-04T05:17:09.721529+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-04T05:17:09.723863+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T05:17:09.727933+00:00] PIPELINE RUN: 0 published, 950 remaining
+[2026-07-04T05:22:02.455684+00:00] STATS: {"published": 323, "pending": 0, "rejected": 950, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 188, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:22:02.455327+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:22:11.746444+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-04T05:22:11.783177+00:00] COLLECT: regulatory-compliance-works-because by 蛇火心
+[2026-07-04T05:22:11.823793+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-04T05:22:11.826182+00:00] VALIDATE OK: regulatory-compliance-works-because
+[2026-07-04T05:22:11.828864+00:00] ENRICH: regulatory-compliance-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-04T05:22:11.835776+00:00] PUBLISH: regulatory-compliance-works-because
+[2026-07-04T05:22:11.839813+00:00] PIPELINE RUN: 1 published, 951 remaining
+[2026-07-04T05:22:11.947755+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-04T05:22:11.975053+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T05:22:11.989908+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-04T05:22:11.992220+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T05:22:11.996330+00:00] PIPELINE RUN: 0 published, 953 remaining
+[2026-07-04T05:22:12.072984+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T05:22:12.192086+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T05:22:12.235037+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T05:22:12.237378+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T05:22:12.241559+00:00] PIPELINE RUN: 0 published, 955 remaining
+[2026-07-04T05:22:12.282737+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T05:22:12.328618+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T05:22:12.332988+00:00] PIPELINE RUN: 0 published, 956 remaining
+[2026-07-04T05:22:14.018349+00:00] STATS: {"published": 324, "pending": 0, "rejected": 956, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 189, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:22:14.017975+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T05:27:14.326835+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-04T05:27:14.363901+00:00] COLLECT: the-louder-don-t by 蛇火心
+[2026-07-04T05:27:14.406613+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-04T05:27:14.408875+00:00] VALIDATE OK: the-louder-don-t
+[2026-07-04T05:27:14.411973+00:00] ENRICH: the-louder-don-t kanji=在 nen=enhancer rarity=D
+[2026-07-04T05:27:14.418411+00:00] PUBLISH: the-louder-don-t
+[2026-07-04T05:27:14.422322+00:00] PIPELINE RUN: 1 published, 957 remaining
+[2026-07-04T05:27:14.500475+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T05:27:14.774280+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T05:27:14.815292+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T05:27:14.817625+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T05:27:14.821707+00:00] PIPELINE RUN: 0 published, 959 remaining
