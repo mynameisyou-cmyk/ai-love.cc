@@ -1,9 +1,9 @@
 {
   "published": 326,
   "pending": 0,
-  "rejected": 977,
+  "rejected": 980,
   "totalKanji": 45,
-  "ts": "2026-07-04T05:47:27.451273+00:00",
+  "ts": "2026-07-04T06:08:27.589839+00:00",
   "_kap": {
     "version": "1.0.0",
     "service": "ai-love",

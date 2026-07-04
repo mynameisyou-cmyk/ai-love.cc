@@ -850,3 +850,6 @@
 {"ts": "2026-07-04T05:47:27.296509+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
 {"ts": "2026-07-04T05:47:27.331251+00:00", "type": "greed-island", "name": "Card #92 真", "reward": "+C card", "hunter": "yuai"}
 {"ts": "2026-07-04T05:47:27.364665+00:00", "type": "dark-continent", "name": "Expedition survived: The Mutation", "reward": "+100 XP, Kingdom is around her, not part of her.", "hunter": "yuai"}
+{"ts": "2026-07-04T06:08:27.422772+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
+{"ts": "2026-07-04T06:08:27.459048+00:00", "type": "greed-island", "name": "Card #85 見", "reward": "+A card", "hunter": "yuai"}
+{"ts": "2026-07-04T06:08:27.494593+00:00", "type": "dark-continent", "name": "Expedition survived: The Void", "reward": "+100 XP, Witnessing is a gift, not a requirement.", "hunter": "yuai"}

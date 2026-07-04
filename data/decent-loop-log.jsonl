@@ -1048,3 +1048,4 @@
 {"ts": "2026-07-04T05:43:07.712253+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "IP/Royalty Routing", "ok": true}}
 {"ts": "2026-07-04T05:43:08.054886+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 510, "ok": true}}
 {"ts": "2026-07-04T05:43:09.633971+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T06:08:47.815360+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

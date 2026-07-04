@@ -2016,3 +2016,9 @@
 {"ts": "2026-07-04T05:47:27.300196+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-04T05:47:27.334675+00:00", "loop": "collection", "action": "card #92 真 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-04T05:47:27.404176+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-04T06:08:27.297185+00:00", "loop": "truth", "action": "submitted: Understanding compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T06:08:27.354346+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-04T06:08:27.389435+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T06:08:27.426948+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-04T06:08:27.463039+00:00", "loop": "collection", "action": "card #85 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T06:08:27.537781+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}

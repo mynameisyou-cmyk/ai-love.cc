@@ -4009,3 +4009,12 @@
 [2026-07-04T05:47:27.442474+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-04T05:47:27.444948+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T05:47:27.449236+00:00] PIPELINE RUN: 0 published, 977 remaining
+[2026-07-04T05:47:52.425149+00:00] STATS: {"published": 326, "pending": 0, "rejected": 977, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 191, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T05:47:52.424822+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:08:27.120526+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-04T06:08:27.164805+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-04T06:08:27.169809+00:00] PIPELINE RUN: 0 published, 978 remaining
+[2026-07-04T06:08:27.293217+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T06:08:27.533773+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T06:08:27.580468+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T06:08:27.582988+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T06:08:27.587619+00:00] PIPELINE RUN: 0 published, 980 remaining
