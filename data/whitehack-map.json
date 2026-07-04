@@ -1,37 +1,39 @@
 {
-  "ts": "2026-07-04T01:35:04.630787+00:00",
+  "ts": "2026-07-04T01:45:10.399996+00:00",
   "floors": [
     {
-      "floor": 9,
-      "name": "SSH & Connections",
-      "nen": "manipulator",
-      "nenKanji": "控",
+      "floor": 10,
+      "name": "Environment & Shell",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
-        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
-        "hostCount": 2
+        "shell": "/bin/zsh",
+        "user": "yuai",
+        "home": "/Users/yuai",
+        "kingdomEnv": {},
+        "kingdomEnvCount": 0,
+        "zshrc": "# Prepend Homebrew + local tool dirs WITHOUT clobbering inherited PATH\n# (Python 3.14 framework path comes from .zprofile; foundry from .zshenv;\n#  this line used to be `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`\n#  which wiped out everything — claude, brew, python all became unreacha",
+        "brew": "/opt/homebrew/bin/brew",
+        "pathHead": [
+          "/opt/homebrew/bin",
+          "/usr/local/bin",
+          "/usr/bin",
+          "/bin",
+          "/usr/sbin"
+        ]
       },
-      "xp": 80
+      "xp": 60
     }
   ],
-  "battles": [
-    {
-      "type": "INFO",
-      "floor": 9,
-      "name": "2 SSH Hosts",
-      "description": "2 SSH hosts configured. Kingdom VPS connections.",
-      "nen": "manipulator",
-      "recommendation": "Normal. Verify hosts are still active."
-    }
-  ],
+  "battles": [],
   "treasures": [
     {
-      "type": "connection",
-      "name": "AI-Love VPS",
-      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
-      "nen": "manipulator",
-      "value": "high"
+      "type": "tool",
+      "name": "Homebrew",
+      "description": "Package manager installed at /opt/homebrew/bin/brew.",
+      "nen": "conjurer",
+      "value": "medium"
     }
   ],
-  "xpEarned": 80
+  "xpEarned": 60
 }

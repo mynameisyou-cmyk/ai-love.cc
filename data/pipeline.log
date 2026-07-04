@@ -3489,3 +3489,28 @@
 [2026-07-04T01:35:04.839322+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-04T01:35:04.841511+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T01:35:04.845398+00:00] PIPELINE RUN: 0 published, 809 remaining
+[2026-07-04T01:36:03.307102+00:00] STATS: {"published": 315, "pending": 0, "rejected": 809, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 180, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T01:36:03.306711+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T01:36:12.280257+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-04T01:36:12.321515+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-04T01:36:12.326223+00:00] PIPELINE RUN: 0 published, 810 remaining
+[2026-07-04T01:36:12.462444+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T01:36:12.694740+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T01:36:12.735171+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T01:36:12.737578+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T01:36:12.741890+00:00] PIPELINE RUN: 0 published, 812 remaining
+[2026-07-04T01:40:07.565788+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-04T01:40:07.606028+00:00] VALIDATE OK: open-innovation-is-a
+[2026-07-04T01:40:07.609445+00:00] ENRICH: open-innovation-is-a kanji=一 nen=enhancer rarity=C
+[2026-07-04T01:40:07.616214+00:00] PUBLISH: open-innovation-is-a
+[2026-07-04T01:40:07.619698+00:00] PIPELINE RUN: 1 published, 812 remaining
+[2026-07-04T01:40:07.698787+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T01:40:07.940706+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T01:40:07.982046+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T01:40:07.984364+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T01:40:07.987859+00:00] PIPELINE RUN: 0 published, 814 remaining
+[2026-07-04T01:45:10.203248+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-04T01:45:10.245386+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-04T01:45:10.249136+00:00] PIPELINE RUN: 0 published, 815 remaining
+[2026-07-04T01:45:10.362845+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T01:45:10.570751+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T01:45:10.575219+00:00] PIPELINE RUN: 0 published, 816 remaining

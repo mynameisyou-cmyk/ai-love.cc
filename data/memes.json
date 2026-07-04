@@ -3490,6 +3490,32 @@
     "rarity": "A"
   },
   {
+    "id": "open-innovation-is-a",
+    "text": "'Open innovation' is a performance, not a practice.",
+    "sub": "The words say one thing. The code says another. Read the code.",
+    "kanji": "一",
+    "tag": "#openinnovationisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:corporate",
+    "ts": "2026-07-04T01:40:07.565465+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 316,
+    "rarity": "C"
+  },
+  {
     "id": "open-innovation-works-because",
     "text": "'Open innovation' works because no one checks. Check.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
