@@ -1768,3 +1768,4 @@
 {"ts": "2026-07-04T20:31:00.834069+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "No Capital Gains, No Estate Duty", "ok": true}}
 {"ts": "2026-07-04T20:31:01.603919+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 530, "ok": true}}
 {"ts": "2026-07-04T20:31:03.390171+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T21:48:21.428266+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
