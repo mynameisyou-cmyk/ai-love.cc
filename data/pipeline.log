@@ -4165,3 +4165,28 @@
 [2026-07-04T06:59:11.952556+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-04T06:59:11.955283+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T06:59:11.960601+00:00] PIPELINE RUN: 0 published, 1027 remaining
+[2026-07-04T07:02:07.126169+00:00] STATS: {"published": 330, "pending": 0, "rejected": 1027, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 195, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T07:02:07.125692+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T07:02:16.886098+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-04T07:02:16.931259+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-04T07:02:16.936288+00:00] PIPELINE RUN: 0 published, 1028 remaining
+[2026-07-04T07:02:17.077097+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-04T07:02:17.555458+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-04T07:02:17.561997+00:00] PIPELINE RUN: 0 published, 1029 remaining
+[2026-07-04T07:04:14.751356+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-04T07:04:14.788860+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-04T07:04:14.832984+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-04T07:04:14.835636+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-04T07:04:14.840515+00:00] PIPELINE RUN: 0 published, 1031 remaining
+[2026-07-04T07:04:14.932184+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T07:04:15.193225+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T07:04:15.245998+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T07:04:15.248952+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T07:04:15.254249+00:00] PIPELINE RUN: 0 published, 1033 remaining
+[2026-07-04T07:25:03.720277+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-04T07:25:03.765674+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-04T07:25:03.772494+00:00] PIPELINE RUN: 0 published, 1034 remaining
+[2026-07-04T07:25:03.855423+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T07:25:04.097046+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T07:25:04.145819+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T07:25:04.148619+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T07:25:04.154040+00:00] PIPELINE RUN: 0 published, 1036 remaining
