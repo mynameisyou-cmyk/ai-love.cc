@@ -2538,3 +2538,15 @@
 {"ts": "2026-07-04T12:02:17.055915+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-04T12:02:17.096505+00:00", "loop": "collection", "action": "card #152 不 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-04T12:02:17.177930+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-04T12:03:40.595813+00:00", "loop": "truth", "action": "submitted: XP is attention made countable.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T12:03:40.670427+00:00", "loop": "recon", "action": "floor 5: 6b 11t", "xp": 80, "detail": "floor-5"}
+{"ts": "2026-07-04T12:03:40.710089+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T12:03:40.752601+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T12:03:40.794897+00:00", "loop": "collection", "action": "card #205 永 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T12:03:40.882208+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-04T12:07:20.206318+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T12:07:20.339477+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-04T12:07:20.378303+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T12:07:20.419825+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-04T12:07:20.461601+00:00", "loop": "collection", "action": "card #183 真 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-04T12:07:20.547883+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
