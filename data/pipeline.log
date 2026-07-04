@@ -5148,3 +5148,14 @@
 [2026-07-04T13:49:17.821937+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-04T13:49:17.824591+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T13:49:17.831034+00:00] PIPELINE RUN: 0 published, 1342 remaining
+[2026-07-04T13:49:36.799905+00:00] STATS: {"published": 355, "pending": 0, "rejected": 1342, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 220, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:49:36.799450+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:54:36.893037+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-04T13:54:36.936231+00:00] COLLECT: to-say-democratized-investing by 蛇火心
+[2026-07-04T13:54:36.988935+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-04T13:54:36.991775+00:00] VALIDATE FAIL: to-say-democratized-investing — ['duplicate of: to-say-democratized-investing']
+[2026-07-04T13:54:36.998527+00:00] PIPELINE RUN: 0 published, 1344 remaining
+[2026-07-04T13:54:37.084799+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T13:54:37.364037+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T13:54:37.412810+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T13:54:37.415570+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T13:54:37.421970+00:00] PIPELINE RUN: 0 published, 1346 remaining
