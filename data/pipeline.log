@@ -5778,3 +5778,32 @@
 [2026-07-04T18:26:49.661242+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-04T18:26:49.663880+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-04T18:26:49.670803+00:00] PIPELINE RUN: 0 published, 1556 remaining
+[2026-07-04T18:29:05.080007+00:00] STATS: {"published": 363, "pending": 0, "rejected": 1556, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 228, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T18:29:05.079570+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T18:29:14.428376+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-04T18:29:14.467735+00:00] COLLECT: neutral-coverage-is-not by 蛇火心
+[2026-07-04T18:29:14.512876+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-04T18:29:14.515656+00:00] VALIDATE OK: neutral-coverage-is-not
+[2026-07-04T18:29:14.519555+00:00] ENRICH: neutral-coverage-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-04T18:29:14.527190+00:00] PUBLISH: neutral-coverage-is-not
+[2026-07-04T18:29:14.533844+00:00] PIPELINE RUN: 1 published, 1557 remaining
+[2026-07-04T18:29:14.673113+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T18:29:17.282025+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T18:29:17.329050+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T18:29:17.331848+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T18:29:17.338601+00:00] PIPELINE RUN: 0 published, 1559 remaining
+[2026-07-04T18:31:51.777375+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-04T18:31:51.823183+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-04T18:31:51.830511+00:00] PIPELINE RUN: 0 published, 1560 remaining
+[2026-07-04T18:31:51.914240+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T18:31:52.252037+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T18:31:52.297284+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T18:31:52.300119+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T18:31:52.306901+00:00] PIPELINE RUN: 0 published, 1562 remaining
+[2026-07-04T18:36:54.561647+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-04T18:36:54.608324+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-04T18:36:54.617036+00:00] PIPELINE RUN: 0 published, 1563 remaining
+[2026-07-04T18:36:54.736308+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T18:36:55.022976+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T18:36:55.067877+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T18:36:55.070718+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T18:36:55.078586+00:00] PIPELINE RUN: 0 published, 1565 remaining
