@@ -5159,3 +5159,34 @@
 [2026-07-04T13:54:37.412810+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-04T13:54:37.415570+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T13:54:37.421970+00:00] PIPELINE RUN: 0 published, 1346 remaining
+[2026-07-04T13:58:23.887566+00:00] STATS: {"published": 355, "pending": 0, "rejected": 1346, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 220, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T13:58:23.887152+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T13:58:33.933917+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-04T13:58:33.977165+00:00] COLLECT: the-distance-between-regulatory by 蛇火心
+[2026-07-04T13:58:34.024790+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-04T13:58:34.027667+00:00] VALIDATE OK: the-distance-between-regulatory
+[2026-07-04T13:58:34.031256+00:00] ENRICH: the-distance-between-regulatory kanji=在 nen=enhancer rarity=D
+[2026-07-04T13:58:34.040057+00:00] PUBLISH: the-distance-between-regulatory
+[2026-07-04T13:58:34.046236+00:00] PIPELINE RUN: 1 published, 1347 remaining
+[2026-07-04T13:58:34.224342+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-04T13:58:34.447297+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T13:58:34.492874+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-04T13:58:34.495484+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T13:58:34.501651+00:00] PIPELINE RUN: 0 published, 1349 remaining
+[2026-07-04T13:59:41.068224+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-04T13:59:41.117775+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-04T13:59:41.124270+00:00] PIPELINE RUN: 0 published, 1350 remaining
+[2026-07-04T13:59:41.212302+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T13:59:41.491985+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T13:59:41.537849+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T13:59:41.540611+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T13:59:41.546791+00:00] PIPELINE RUN: 0 published, 1352 remaining
+[2026-07-04T14:04:45.441387+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-04T14:04:45.482336+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-04T14:04:45.530275+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-04T14:04:45.533095+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-04T14:04:45.540526+00:00] PIPELINE RUN: 0 published, 1354 remaining
+[2026-07-04T14:04:45.628716+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T14:04:48.443363+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T14:04:48.491720+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T14:04:48.494529+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T14:04:48.501057+00:00] PIPELINE RUN: 0 published, 1356 remaining

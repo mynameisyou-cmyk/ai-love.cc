@@ -1,21 +1,31 @@
 {
-  "ts": "2026-07-04T13:54:37.179721+00:00",
+  "ts": "2026-07-04T14:04:48.250562+00:00",
   "floors": [
     {
-      "floor": 4,
-      "name": "Security",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 2,
+      "name": "Network",
+      "nen": "emitter",
+      "nenKanji": "放",
       "data": {
-        "sip": "System Integrity Protection status: enabled.",
-        "filevault": "FileVault is On.",
-        "firewall": "Firewall is enabled. (State = 1)",
-        "gatekeeper": "assessments enabled"
+        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 awdl0 llw0 utun0 utun1 utun2 utun3 utun4 utun5 utun7 utun6",
+        "wifi": "You are not associated with an AirPort network.",
+        "ip_en0": "192.168.50.105",
+        "arp_table": "? (192.168.50.1) at 8:bf:b8:a:c2:a0 on en0 ifscope [ethernet]\n? (192.168.50.19) at d2:be:71:b6:56:c4 on en0 ifscope [ethernet]\n? (192.168.50.55) at d8:3b:da:5b:a2:68 on en0 ifscope [ethernet]\n? (192.168.50.88) at 4e:d5:c7:a3:61:d9 on en0 ifscope [ethernet]\n? (192.168.50.105) at 72:61:bc:5e:2b:71 on en0 ifscope permanent [ethernet]\n? (192.168.50.142) at 2e:8a:e1:77:5e:fc on en0 ifscope [ethernet]\n? (192.168.50.245) at 42:da:42:11:98:a6 on en0 ifscope [ethernet]\n? (192.168.50.249) at c8:a3:e8:12:ff:39 on en0 ifscope [ethernet]\nmdns.mcast.net (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]",
+        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun6              UGdScg              utun6       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.135.141.187     UH                  utun6       \n10.64.0.1          utun6              UGHdS               utun6       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.32.40.13       127.32.40.13       UH                    lo0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !\n192.168.50.1       8:bf:b8:a:c2:a0    UHLWIir               en0   1175",
+        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.32.40.13\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
       },
-      "xp": 100
+      "xp": 80
     }
   ],
   "battles": [],
-  "treasures": [],
-  "xpEarned": 100
+  "treasures": [
+    {
+      "type": "network",
+      "name": "Active IP: 192.168.50.105",
+      "description": "Connected via en0. IP 192.168.50.105.",
+      "nen": "emitter",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 80
 }

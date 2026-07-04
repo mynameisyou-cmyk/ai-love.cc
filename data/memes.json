@@ -5914,6 +5914,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-regulatory",
+    "text": "The distance between 'Regulatory compliance' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenregulatory",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-04T13:58:33.976843+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 356,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-rigor",
     "text": "The distance between 'Rigor' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
