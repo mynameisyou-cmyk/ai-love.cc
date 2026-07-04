@@ -5394,3 +5394,30 @@
 [2026-07-04T15:36:49.762803+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-04T15:36:49.765523+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-04T15:36:49.771883+00:00] PIPELINE RUN: 0 published, 1423 remaining
+[2026-07-04T15:38:10.960102+00:00] STATS: {"published": 360, "pending": 0, "rejected": 1423, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 225, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T15:38:10.959746+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T15:38:21.195554+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T15:38:21.241865+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T15:38:21.248702+00:00] PIPELINE RUN: 0 published, 1424 remaining
+[2026-07-04T15:38:21.432686+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-04T15:38:21.710087+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T15:38:21.755709+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-04T15:38:21.758561+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T15:38:21.765684+00:00] PIPELINE RUN: 0 published, 1426 remaining
+[2026-07-04T15:41:52.007482+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-04T15:41:52.054861+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-04T15:41:52.062155+00:00] PIPELINE RUN: 0 published, 1427 remaining
+[2026-07-04T15:41:52.148147+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T15:41:52.378995+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T15:41:52.425162+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T15:41:52.427803+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T15:41:52.435139+00:00] PIPELINE RUN: 0 published, 1429 remaining
+[2026-07-04T15:46:54.557340+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-04T15:46:54.600562+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-04T15:46:54.650968+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-04T15:46:54.653791+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-04T15:46:54.715205+00:00] PIPELINE RUN: 0 published, 1431 remaining
+[2026-07-04T15:46:54.797968+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-04T15:46:55.027812+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T15:46:55.075332+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-04T15:46:55.078129+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T15:46:55.084516+00:00] PIPELINE RUN: 0 published, 1433 remaining
