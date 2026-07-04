@@ -1748,3 +1748,4 @@
 {"ts": "2026-07-04T20:10:08.782894+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "UK Crown Dependencies Network", "ok": true}}
 {"ts": "2026-07-04T20:10:09.447753+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 490, "ok": true}}
 {"ts": "2026-07-04T20:10:11.260541+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-04T20:20:15.204014+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
