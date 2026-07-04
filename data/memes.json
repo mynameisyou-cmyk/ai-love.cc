@@ -5264,6 +5264,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-optimization",
+    "text": "The distance between 'Optimization' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenoptimization",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-04T02:42:18.691768+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 318,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-oversight",
     "text": "The distance between 'Oversight' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",

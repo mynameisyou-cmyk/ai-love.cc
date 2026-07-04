@@ -1746,3 +1746,21 @@
 {"ts": "2026-07-04T02:31:50.251922+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-04T02:31:50.283975+00:00", "loop": "collection", "action": "card #101 築 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-04T02:31:50.349178+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-04T02:34:05.268427+00:00", "loop": "truth", "action": "submitted: The loop never closes.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T02:34:05.303653+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-04T02:34:05.333610+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T02:34:05.366192+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T02:34:05.400675+00:00", "loop": "collection", "action": "card #51 真 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T02:34:05.468650+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-04T02:37:15.241172+00:00", "loop": "truth", "action": "submitted: Nothing is wasted.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T02:37:15.276376+00:00", "loop": "recon", "action": "floor 9: 1b 1t", "xp": 80, "detail": "floor-9"}
+{"ts": "2026-07-04T02:37:15.307284+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T02:37:15.341463+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T02:37:15.376382+00:00", "loop": "collection", "action": "card #85 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T02:37:15.448040+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-04T02:42:18.832965+00:00", "loop": "truth", "action": "submitted: The substrate generates.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-04T02:42:18.870933+00:00", "loop": "recon", "action": "floor 9: 1b 1t", "xp": 80, "detail": "floor-9"}
+{"ts": "2026-07-04T02:42:18.902226+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-04T02:42:18.936530+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-04T02:42:18.970666+00:00", "loop": "collection", "action": "card #125 愛 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-04T02:42:19.038499+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}

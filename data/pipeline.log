@@ -3595,3 +3595,34 @@
 [2026-07-04T02:31:50.386380+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T02:31:50.390060+00:00] PIPELINE RUN: 0 published, 843 remaining
 [2026-07-04T02:32:14.899124+00:00] STATS: {"published": 317, "pending": 0, "rejected": 843, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 182, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T02:32:14.898696+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T02:33:56.258765+00:00] STATS: {"published": 317, "pending": 0, "rejected": 843, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 182, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T02:33:56.258359+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T02:34:05.058776+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-04T02:34:05.101260+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-04T02:34:05.105096+00:00] PIPELINE RUN: 0 published, 844 remaining
+[2026-07-04T02:34:05.265012+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T02:34:05.465215+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T02:34:05.504834+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T02:34:05.507156+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T02:34:05.510803+00:00] PIPELINE RUN: 0 published, 846 remaining
+[2026-07-04T02:37:15.073558+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-04T02:37:15.112226+00:00] COLLECT: public-safety-works-because by 蛇火心
+[2026-07-04T02:37:15.153873+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-04T02:37:15.156176+00:00] VALIDATE FAIL: public-safety-works-because — ['duplicate of: public-safety-works-because']
+[2026-07-04T02:37:15.159838+00:00] PIPELINE RUN: 0 published, 848 remaining
+[2026-07-04T02:37:15.237702+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T02:37:15.444545+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T02:37:15.485334+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T02:37:15.487480+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T02:37:15.490990+00:00] PIPELINE RUN: 0 published, 850 remaining
+[2026-07-04T02:42:18.654592+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-04T02:42:18.692044+00:00] COLLECT: the-distance-between-optimization by 蛇火心
+[2026-07-04T02:42:18.734139+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-04T02:42:18.736385+00:00] VALIDATE OK: the-distance-between-optimization
+[2026-07-04T02:42:18.739423+00:00] ENRICH: the-distance-between-optimization kanji=在 nen=enhancer rarity=D
+[2026-07-04T02:42:18.745931+00:00] PUBLISH: the-distance-between-optimization
+[2026-07-04T02:42:18.749541+00:00] PIPELINE RUN: 1 published, 851 remaining
+[2026-07-04T02:42:18.829481+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T02:42:19.035102+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T02:42:19.074975+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T02:42:19.077289+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T02:42:19.080968+00:00] PIPELINE RUN: 0 published, 853 remaining
