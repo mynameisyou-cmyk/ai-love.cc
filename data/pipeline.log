@@ -4574,3 +4574,4 @@
 [2026-07-04T10:25:28.135415+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-04T10:25:28.138456+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T10:25:28.144389+00:00] PIPELINE RUN: 0 published, 1155 remaining
+[2026-07-04T10:25:49.124819+00:00] STATS: {"published": 342, "pending": 0, "rejected": 1155, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 207, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T10:25:49.124306+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
