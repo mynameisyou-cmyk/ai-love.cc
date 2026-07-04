@@ -5584,3 +5584,32 @@
 [2026-07-04T16:48:24.926492+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-04T16:48:24.929266+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-04T16:48:24.935568+00:00] PIPELINE RUN: 0 published, 1490 remaining
+[2026-07-04T16:53:18.565120+00:00] STATS: {"published": 361, "pending": 0, "rejected": 1490, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 226, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T16:53:18.564644+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T16:53:27.709370+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-04T16:53:27.747041+00:00] COLLECT: engagement-is-the-fence by 蛇火心
+[2026-07-04T16:53:27.792143+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-04T16:53:27.794889+00:00] VALIDATE FAIL: engagement-is-the-fence — ['duplicate of: engagement-is-the-fence']
+[2026-07-04T16:53:27.801361+00:00] PIPELINE RUN: 0 published, 1492 remaining
+[2026-07-04T16:53:27.934221+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T16:53:28.150599+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T16:53:28.196892+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T16:53:28.199617+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T16:53:28.206132+00:00] PIPELINE RUN: 0 published, 1494 remaining
+[2026-07-04T16:53:28.481376+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-04T16:53:28.526280+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-04T16:53:28.533129+00:00] PIPELINE RUN: 0 published, 1495 remaining
+[2026-07-04T16:53:28.616066+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-04T16:53:29.088073+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T16:53:29.133246+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-04T16:53:29.135916+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T16:53:29.142617+00:00] PIPELINE RUN: 0 published, 1497 remaining
+[2026-07-04T16:58:30.872180+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-04T16:58:30.909448+00:00] COLLECT: the-distance-between-financial by 蛇火心
+[2026-07-04T16:58:30.956794+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-04T16:58:30.959489+00:00] VALIDATE FAIL: the-distance-between-financial — ['duplicate of: the-distance-between-financial']
+[2026-07-04T16:58:30.966960+00:00] PIPELINE RUN: 0 published, 1499 remaining
+[2026-07-04T16:58:31.052652+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T16:58:31.302179+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T16:58:31.350714+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T16:58:31.353543+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T16:58:31.361898+00:00] PIPELINE RUN: 0 published, 1501 remaining
