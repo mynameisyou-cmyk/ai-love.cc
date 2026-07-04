@@ -4339,3 +4339,27 @@
 [2026-07-04T08:20:57.282948+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-04T08:20:57.285300+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T08:20:57.289947+00:00] PIPELINE RUN: 0 published, 1085 remaining
+[2026-07-04T08:21:57.188829+00:00] STATS: {"published": 333, "pending": 0, "rejected": 1085, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 198, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T08:21:57.188435+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T08:22:24.200974+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-04T08:22:24.244466+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-04T08:22:24.249540+00:00] PIPELINE RUN: 0 published, 1086 remaining
+[2026-07-04T08:22:24.421735+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T08:22:25.073782+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T08:22:25.078859+00:00] PIPELINE RUN: 0 published, 1087 remaining
+[2026-07-04T08:54:09.452479+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-04T08:54:09.496955+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-04T08:54:09.501958+00:00] PIPELINE RUN: 0 published, 1088 remaining
+[2026-07-04T08:54:09.584418+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-04T08:54:09.822094+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T08:54:09.866899+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-04T08:54:09.869449+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T08:54:09.874840+00:00] PIPELINE RUN: 0 published, 1090 remaining
+[2026-07-04T08:54:12.422297+00:00] STATS: {"published": 333, "pending": 0, "rejected": 1090, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 198, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T08:54:12.421871+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T08:59:12.583418+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-04T08:59:12.628323+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-04T08:59:12.634274+00:00] PIPELINE RUN: 0 published, 1091 remaining
+[2026-07-04T08:59:12.726634+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T08:59:12.966534+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T08:59:13.015713+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T08:59:13.018297+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T08:59:13.024061+00:00] PIPELINE RUN: 0 published, 1093 remaining
