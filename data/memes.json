@@ -2275,6 +2275,32 @@
     "rarity": "D"
   },
   {
+    "id": "financial-inclusion-is-the",
+    "text": "'Financial inclusion' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#financialinclusionisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-04T06:51:49.608061+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 329,
+    "rarity": "D"
+  },
+  {
     "id": "followers-is-a-spell",
     "text": "'Followers' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",

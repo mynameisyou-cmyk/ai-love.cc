@@ -4131,3 +4131,24 @@
 [2026-07-04T06:48:51.578831+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-04T06:48:51.581888+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T06:48:51.587676+00:00] PIPELINE RUN: 0 published, 1018 remaining
+[2026-07-04T06:51:39.658924+00:00] STATS: {"published": 328, "pending": 0, "rejected": 1018, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 193, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T06:51:39.658523+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T06:51:49.564438+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-04T06:51:49.608404+00:00] COLLECT: financial-inclusion-is-the by 蛇火心
+[2026-07-04T06:51:49.653559+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-04T06:51:49.656209+00:00] VALIDATE OK: financial-inclusion-is-the
+[2026-07-04T06:51:49.659422+00:00] ENRICH: financial-inclusion-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-04T06:51:49.666587+00:00] PUBLISH: financial-inclusion-is-the
+[2026-07-04T06:51:49.671456+00:00] PIPELINE RUN: 1 published, 1019 remaining
+[2026-07-04T06:51:49.813791+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-04T06:51:52.185013+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-04T06:51:52.231801+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-04T06:51:52.234442+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-04T06:51:52.239357+00:00] PIPELINE RUN: 0 published, 1021 remaining
+[2026-07-04T06:53:54.058763+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-04T06:53:54.106765+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-04T06:53:54.111651+00:00] PIPELINE RUN: 0 published, 1022 remaining
+[2026-07-04T06:53:54.198969+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-04T06:53:54.432074+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T06:53:54.480098+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-04T06:53:54.482773+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T06:53:54.487634+00:00] PIPELINE RUN: 0 published, 1024 remaining
