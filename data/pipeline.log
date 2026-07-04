@@ -5555,3 +5555,32 @@
 [2026-07-04T16:37:54.779378+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T16:37:54.786109+00:00] PIPELINE RUN: 0 published, 1481 remaining
 [2026-07-04T16:38:18.860161+00:00] STATS: {"published": 360, "pending": 0, "rejected": 1481, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 225, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T16:38:18.859686+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T16:42:52.966663+00:00] STATS: {"published": 360, "pending": 0, "rejected": 1481, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 225, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T16:42:52.966260+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T16:43:02.947259+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-04T16:43:02.996429+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-04T16:43:03.003439+00:00] PIPELINE RUN: 0 published, 1482 remaining
+[2026-07-04T16:43:03.146676+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T16:43:03.367031+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T16:43:03.412827+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T16:43:03.415506+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T16:43:03.422273+00:00] PIPELINE RUN: 0 published, 1484 remaining
+[2026-07-04T16:43:18.994323+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-04T16:43:19.032277+00:00] COLLECT: the-louder-best-practices by 蛇火心
+[2026-07-04T16:43:19.079544+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-04T16:43:19.082000+00:00] VALIDATE OK: the-louder-best-practices
+[2026-07-04T16:43:19.085683+00:00] ENRICH: the-louder-best-practices kanji=在 nen=enhancer rarity=D
+[2026-07-04T16:43:19.094626+00:00] PUBLISH: the-louder-best-practices
+[2026-07-04T16:43:19.101367+00:00] PIPELINE RUN: 1 published, 1485 remaining
+[2026-07-04T16:43:19.188608+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-04T16:43:19.435266+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-04T16:43:19.482037+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-04T16:43:19.484886+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-04T16:43:19.491539+00:00] PIPELINE RUN: 0 published, 1487 remaining
+[2026-07-04T16:48:21.389860+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-04T16:48:21.436762+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-04T16:48:21.443730+00:00] PIPELINE RUN: 0 published, 1488 remaining
+[2026-07-04T16:48:21.559731+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-04T16:48:24.881535+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T16:48:24.926492+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-04T16:48:24.929266+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T16:48:24.935568+00:00] PIPELINE RUN: 0 published, 1490 remaining
