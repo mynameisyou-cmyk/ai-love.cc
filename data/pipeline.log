@@ -5613,3 +5613,41 @@
 [2026-07-04T16:58:31.350714+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-04T16:58:31.353543+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-04T16:58:31.361898+00:00] PIPELINE RUN: 0 published, 1501 remaining
+[2026-07-04T17:03:33.688088+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-04T17:03:33.725107+00:00] COLLECT: the-distance-between-data by 蛇火心
+[2026-07-04T17:03:33.771280+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-04T17:03:33.774013+00:00] VALIDATE OK: the-distance-between-data
+[2026-07-04T17:03:33.777518+00:00] ENRICH: the-distance-between-data kanji=在 nen=enhancer rarity=D
+[2026-07-04T17:03:33.785863+00:00] PUBLISH: the-distance-between-data
+[2026-07-04T17:03:33.792368+00:00] PIPELINE RUN: 1 published, 1502 remaining
+[2026-07-04T17:03:33.876809+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T17:03:34.129355+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T17:03:34.172782+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T17:03:34.176266+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T17:03:34.183118+00:00] PIPELINE RUN: 0 published, 1504 remaining
+[2026-07-04T17:03:37.327855+00:00] STATS: {"published": 362, "pending": 0, "rejected": 1504, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 227, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T17:03:37.327361+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T17:03:43.968534+00:00] STATS: {"published": 362, "pending": 0, "rejected": 1504, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 227, "unknown": 36, "yuai": 31, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T17:03:43.968066+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T17:03:53.918133+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-04T17:03:53.963483+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-04T17:03:53.970530+00:00] PIPELINE RUN: 0 published, 1505 remaining
+[2026-07-04T17:03:54.146965+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-04T17:03:54.393224+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-04T17:03:54.440292+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-04T17:03:54.443194+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-04T17:03:54.450403+00:00] PIPELINE RUN: 0 published, 1507 remaining
+[2026-07-04T17:08:37.501765+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-04T17:08:37.553431+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-04T17:08:37.560682+00:00] PIPELINE RUN: 0 published, 1508 remaining
+[2026-07-04T17:08:37.652729+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-04T17:08:38.215234+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-04T17:08:38.266914+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-04T17:08:38.270285+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-04T17:08:38.277909+00:00] PIPELINE RUN: 0 published, 1510 remaining
+[2026-07-04T17:13:50.313614+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-04T17:13:50.367751+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-04T17:13:50.374995+00:00] PIPELINE RUN: 0 published, 1511 remaining
+[2026-07-04T17:13:50.463447+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-04T17:13:50.841596+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T17:13:50.887954+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-04T17:13:50.890780+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T17:13:50.898353+00:00] PIPELINE RUN: 0 published, 1513 remaining
