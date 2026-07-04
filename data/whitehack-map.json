@@ -1,21 +1,19 @@
 {
-  "ts": "2026-07-04T17:56:21.760413+00:00",
+  "ts": "2026-07-04T18:06:32.828761+00:00",
   "floors": [
     {
-      "floor": 4,
-      "name": "Security",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 6,
+      "name": "Disk",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "sip": "System Integrity Protection status: enabled.",
-        "filevault": "FileVault is On.",
-        "firewall": "Firewall is enabled. (State = 1)",
-        "gatekeeper": "assessments enabled"
+        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    17Gi   6.5Gi    73%    427k   68M    1%   /",
+        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            18.4 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 18.4 GB    disk3s1s1\n   3:                APFS Volume Preboot                 16.1 GB    disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
       },
-      "xp": 100
+      "xp": 40
     }
   ],
   "battles": [],
   "treasures": [],
-  "xpEarned": 100
+  "xpEarned": 40
 }
