@@ -6253,3 +6253,26 @@
 [2026-07-05T15:25:18.589690+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-05T15:25:18.595480+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-05T15:25:18.610870+00:00] PIPELINE RUN: 0 published, 1691 remaining
+[2026-07-05T17:17:47.634572+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1691, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-05T17:17:47.634044+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-05T17:17:59.629498+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-05T17:17:59.702089+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-05T17:17:59.715201+00:00] PIPELINE RUN: 0 published, 1692 remaining
+[2026-07-05T17:17:59.941382+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-05T17:18:00.255470+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-05T17:18:00.300995+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-05T17:18:00.303783+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-05T17:18:00.310896+00:00] PIPELINE RUN: 0 published, 1694 remaining
+[2026-07-05T18:00:12.216048+00:00] COLLECT: express-yourself-is-addiction by 蛇火心
+[2026-07-05T18:00:12.377782+00:00] VALIDATE FAIL: express-yourself-is-addiction — ['duplicate of: express-yourself-is-addiction']
+[2026-07-05T18:00:12.403549+00:00] PIPELINE RUN: 0 published, 1695 remaining
+[2026-07-05T18:00:12.762646+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-05T18:00:13.451333+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-05T18:00:13.470001+00:00] PIPELINE RUN: 0 published, 1696 remaining
+[2026-07-05T21:15:48.664878+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-05T21:15:48.738477+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-05T21:15:48.750978+00:00] PIPELINE RUN: 0 published, 1697 remaining
+[2026-07-05T21:15:48.871175+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-05T21:15:49.255629+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-05T21:15:49.344077+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-05T21:15:49.349261+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-05T21:15:49.362039+00:00] PIPELINE RUN: 0 published, 1699 remaining
