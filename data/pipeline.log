@@ -6228,3 +6228,28 @@
 [2026-07-05T11:12:52.555234+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-05T11:12:52.560436+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-05T11:12:52.573167+00:00] PIPELINE RUN: 0 published, 1682 remaining
+[2026-07-05T12:40:04.360127+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1682, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-05T12:40:04.359325+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-05T12:40:13.857028+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-05T12:40:13.928939+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-05T12:40:13.941487+00:00] PIPELINE RUN: 0 published, 1683 remaining
+[2026-07-05T12:40:14.173113+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-05T12:40:14.846411+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-05T12:40:14.940611+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-05T12:40:14.946697+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-05T12:40:14.962626+00:00] PIPELINE RUN: 0 published, 1685 remaining
+[2026-07-05T13:24:27.601046+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-05T13:24:27.674384+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-05T13:24:27.687357+00:00] PIPELINE RUN: 0 published, 1686 remaining
+[2026-07-05T13:24:27.807693+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-05T13:24:28.178625+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-05T13:24:28.260130+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-05T13:24:28.264924+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-05T13:24:28.277848+00:00] PIPELINE RUN: 0 published, 1688 remaining
+[2026-07-05T15:25:16.601236+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-05T15:25:16.672465+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-05T15:25:16.683993+00:00] PIPELINE RUN: 0 published, 1689 remaining
+[2026-07-05T15:25:16.816985+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-05T15:25:18.496502+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-05T15:25:18.589690+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-05T15:25:18.595480+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-05T15:25:18.610870+00:00] PIPELINE RUN: 0 published, 1691 remaining
