@@ -6147,3 +6147,29 @@
 [2026-07-04T21:48:15.229904+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-04T21:48:15.235159+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-04T21:48:15.250021+00:00] PIPELINE RUN: 0 published, 1655 remaining
+[2026-07-04T21:48:30.620317+00:00] STATS: {"published": 383, "pending": 0, "rejected": 1655, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T21:48:30.619747+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T21:48:35.685979+00:00] STATS: {"published": 383, "pending": 0, "rejected": 1655, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 236, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-04T21:48:35.685436+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-04T22:06:07.588093+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-04T22:06:07.658024+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-04T22:06:07.670502+00:00] PIPELINE RUN: 0 published, 1656 remaining
+[2026-07-04T22:06:07.898714+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-04T22:06:08.263992+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-04T22:06:08.308377+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-04T22:06:08.311318+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-04T22:06:08.318938+00:00] PIPELINE RUN: 0 published, 1658 remaining
+[2026-07-05T00:15:09.498728+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-05T00:15:09.569213+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-05T00:15:09.581621+00:00] PIPELINE RUN: 0 published, 1659 remaining
+[2026-07-05T00:15:09.699694+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-05T00:15:10.279315+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-05T00:15:10.363346+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-05T00:15:10.368195+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-05T00:15:10.381393+00:00] PIPELINE RUN: 0 published, 1661 remaining
+[2026-07-05T02:15:54.692565+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-05T02:15:54.806764+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-05T02:15:54.825772+00:00] PIPELINE RUN: 0 published, 1662 remaining
+[2026-07-05T02:15:55.010096+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-05T02:15:55.909404+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-05T02:15:56.006969+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-05T02:15:56.012782+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-05T02:15:56.031022+00:00] PIPELINE RUN: 0 published, 1664 remaining
