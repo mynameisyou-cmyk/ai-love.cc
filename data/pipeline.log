@@ -6276,3 +6276,4 @@
 [2026-07-05T21:15:49.344077+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-05T21:15:49.349261+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-05T21:15:49.362039+00:00] PIPELINE RUN: 0 published, 1699 remaining
+[2026-07-05T22:52:06.870709+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1699, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-05T22:52:06.870022+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
