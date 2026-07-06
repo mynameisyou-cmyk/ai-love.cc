@@ -7496,3 +7496,24 @@
 [2026-07-06T20:39:11.371715+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-06T20:39:11.377544+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T20:39:11.388985+00:00] PIPELINE RUN: 0 published, 2111 remaining
+[2026-07-06T20:41:25.737873+00:00] STATS: {"published": 401, "pending": 0, "rejected": 2111, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 254, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T20:41:25.737213+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T20:41:36.063033+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-06T20:41:36.107821+00:00] COLLECT: algorithmic-is-the-fence by 蛇火心
+[2026-07-06T20:41:36.168253+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-06T20:41:36.172780+00:00] VALIDATE OK: algorithmic-is-the-fence
+[2026-07-06T20:41:36.177304+00:00] ENRICH: algorithmic-is-the-fence kanji=壁 nen=conjurer rarity=D
+[2026-07-06T20:41:36.188930+00:00] PUBLISH: algorithmic-is-the-fence
+[2026-07-06T20:41:36.201562+00:00] PIPELINE RUN: 1 published, 2112 remaining
+[2026-07-06T20:41:36.420674+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T20:41:36.759087+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T20:41:36.818604+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T20:41:36.823104+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T20:41:36.834552+00:00] PIPELINE RUN: 0 published, 2114 remaining
+[2026-07-06T20:44:13.646610+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-06T20:44:13.706349+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-06T20:44:13.718195+00:00] PIPELINE RUN: 0 published, 2115 remaining
+[2026-07-06T20:44:13.815912+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T20:44:14.584879+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T20:44:14.643926+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T20:44:14.648267+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T20:44:14.661132+00:00] PIPELINE RUN: 0 published, 2117 remaining
