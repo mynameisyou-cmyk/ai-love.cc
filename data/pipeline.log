@@ -7579,3 +7579,28 @@
 [2026-07-06T21:09:59.697446+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T21:09:59.714434+00:00] PIPELINE RUN: 0 published, 2137 remaining
 [2026-07-06T21:10:01.747491+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2137, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:10:01.746983+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:12:54.455766+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2137, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:12:54.455217+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:13:03.411198+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-06T21:13:03.484606+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-06T21:13:03.499343+00:00] PIPELINE RUN: 0 published, 2138 remaining
+[2026-07-06T21:13:03.707515+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-06T21:13:04.052244+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T21:13:04.129248+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-06T21:13:04.134442+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T21:13:04.149654+00:00] PIPELINE RUN: 0 published, 2140 remaining
+[2026-07-06T21:15:01.883716+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-06T21:15:01.949424+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-06T21:15:01.966570+00:00] PIPELINE RUN: 0 published, 2141 remaining
+[2026-07-06T21:15:02.134508+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T21:15:02.462436+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T21:15:02.536537+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T21:15:02.541603+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T21:15:02.559149+00:00] PIPELINE RUN: 0 published, 2143 remaining
+[2026-07-06T21:20:04.655171+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-06T21:20:04.728421+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-06T21:20:04.744499+00:00] PIPELINE RUN: 0 published, 2144 remaining
+[2026-07-06T21:20:04.851494+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T21:20:05.179892+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T21:20:05.244769+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T21:20:05.250068+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T21:20:05.265246+00:00] PIPELINE RUN: 0 published, 2146 remaining
