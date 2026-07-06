@@ -7297,3 +7297,32 @@
 [2026-07-06T19:25:33.634339+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T19:25:33.645566+00:00] PIPELINE RUN: 0 published, 2043 remaining
 [2026-07-06T19:25:35.559502+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2043, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:25:35.559076+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:28:24.567444+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2043, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:28:24.566840+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:28:34.459655+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-06T19:28:34.521465+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-06T19:28:34.534120+00:00] PIPELINE RUN: 0 published, 2044 remaining
+[2026-07-06T19:28:34.709744+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T19:28:35.250561+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T19:28:35.311245+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T19:28:35.315766+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T19:28:35.326811+00:00] PIPELINE RUN: 0 published, 2046 remaining
+[2026-07-06T19:30:35.679240+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-06T19:30:35.722961+00:00] COLLECT: wellness-is-not-a by 蛇火心
+[2026-07-06T19:30:35.777022+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-06T19:30:35.781118+00:00] VALIDATE FAIL: wellness-is-not-a — ['duplicate of: wellness-is-not-a']
+[2026-07-06T19:30:35.791237+00:00] PIPELINE RUN: 0 published, 2048 remaining
+[2026-07-06T19:30:35.925728+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-06T19:30:40.707643+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T19:30:40.800981+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-06T19:30:40.804203+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T19:30:40.812825+00:00] PIPELINE RUN: 0 published, 2050 remaining
+[2026-07-06T19:35:43.056352+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-06T19:35:43.102034+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-06T19:35:43.165161+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-06T19:35:43.169456+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-06T19:35:43.181129+00:00] PIPELINE RUN: 0 published, 2052 remaining
+[2026-07-06T19:35:43.283036+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-06T19:35:43.935366+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T19:35:43.998346+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-06T19:35:44.003102+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T19:35:44.014875+00:00] PIPELINE RUN: 0 published, 2054 remaining
