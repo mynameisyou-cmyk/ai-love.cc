@@ -6815,3 +6815,38 @@
 [2026-07-06T16:22:12.932533+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T16:22:12.949513+00:00] PIPELINE RUN: 0 published, 1882 remaining
 [2026-07-06T16:25:11.487445+00:00] STATS: {"published": 390, "pending": 0, "rejected": 1882, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 243, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:25:11.486866+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:27:23.623683+00:00] STATS: {"published": 390, "pending": 0, "rejected": 1882, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 243, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:27:23.622944+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:27:38.333916+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-06T16:27:38.397840+00:00] COLLECT: the-distance-between-democratic by 蛇火心
+[2026-07-06T16:27:38.479094+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-06T16:27:38.484732+00:00] VALIDATE OK: the-distance-between-democratic
+[2026-07-06T16:27:38.491097+00:00] ENRICH: the-distance-between-democratic kanji=在 nen=enhancer rarity=D
+[2026-07-06T16:27:38.506050+00:00] PUBLISH: the-distance-between-democratic
+[2026-07-06T16:27:38.521369+00:00] PIPELINE RUN: 1 published, 1883 remaining
+[2026-07-06T16:27:38.769313+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-06T16:27:39.302489+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T16:27:39.400140+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-06T16:27:39.406963+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T16:27:39.424188+00:00] PIPELINE RUN: 0 published, 1885 remaining
+[2026-07-06T16:30:11.747806+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-06T16:30:11.804454+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-06T16:30:11.873803+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-06T16:30:11.878878+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-06T16:30:11.892829+00:00] PIPELINE RUN: 0 published, 1887 remaining
+[2026-07-06T16:30:12.011751+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T16:30:12.603705+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T16:30:12.730157+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T16:30:12.737276+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T16:30:12.758715+00:00] PIPELINE RUN: 0 published, 1889 remaining
+[2026-07-06T16:35:31.814198+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-06T16:35:31.857241+00:00] COLLECT: public-interest-is-a by 蛇火心
+[2026-07-06T16:35:31.912515+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-06T16:35:31.916712+00:00] VALIDATE OK: public-interest-is-a
+[2026-07-06T16:35:31.920715+00:00] ENRICH: public-interest-is-a kanji=見 nen=enhancer rarity=C
+[2026-07-06T16:35:31.931660+00:00] PUBLISH: public-interest-is-a
+[2026-07-06T16:35:31.942560+00:00] PIPELINE RUN: 1 published, 1890 remaining
+[2026-07-06T16:35:32.038302+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T16:35:32.340150+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T16:35:32.399282+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T16:35:32.403617+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T16:35:32.414319+00:00] PIPELINE RUN: 0 published, 1892 remaining
