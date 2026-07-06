@@ -6378,3 +6378,28 @@
 [2026-07-06T13:37:57.309229+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-06T13:37:57.312919+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T13:37:57.322197+00:00] PIPELINE RUN: 0 published, 1735 remaining
+[2026-07-06T13:40:30.912999+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1735, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T13:40:30.912384+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T13:40:40.505084+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-06T13:40:40.558673+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-06T13:40:40.568776+00:00] PIPELINE RUN: 0 published, 1736 remaining
+[2026-07-06T13:40:40.729591+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-06T13:40:41.057288+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T13:40:41.114973+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-06T13:40:41.118553+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T13:40:41.128258+00:00] PIPELINE RUN: 0 published, 1738 remaining
+[2026-07-06T13:42:59.595126+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-06T13:42:59.648519+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-06T13:42:59.656549+00:00] PIPELINE RUN: 0 published, 1739 remaining
+[2026-07-06T13:42:59.779906+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T13:43:00.579386+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T13:43:00.630637+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T13:43:00.633851+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T13:43:00.641946+00:00] PIPELINE RUN: 0 published, 1741 remaining
+[2026-07-06T13:48:02.010155+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-06T13:48:02.073955+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-06T13:48:02.083731+00:00] PIPELINE RUN: 0 published, 1742 remaining
+[2026-07-06T13:48:02.186664+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T13:48:02.637188+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T13:48:02.696818+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T13:48:02.700521+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T13:48:02.710158+00:00] PIPELINE RUN: 0 published, 1744 remaining
