@@ -8719,6 +8719,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-rigor-while",
+    "text": "To say 'Rigor' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayrigorwhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T20:54:47.276470+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 403,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-risk-adjusted",
     "text": "To say 'Risk-adjusted returns' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",

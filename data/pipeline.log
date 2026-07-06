@@ -7526,3 +7526,30 @@
 [2026-07-06T20:49:43.804975+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-06T20:49:43.808883+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T20:49:43.819972+00:00] PIPELINE RUN: 0 published, 2120 remaining
+[2026-07-06T20:51:53.876502+00:00] STATS: {"published": 402, "pending": 0, "rejected": 2120, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 255, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T20:51:53.875976+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T20:52:03.939636+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-06T20:52:03.998974+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-06T20:52:04.012764+00:00] PIPELINE RUN: 0 published, 2121 remaining
+[2026-07-06T20:52:04.183995+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-06T20:52:05.029267+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T20:52:05.097274+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-06T20:52:05.101586+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T20:52:05.113564+00:00] PIPELINE RUN: 0 published, 2123 remaining
+[2026-07-06T20:54:47.225853+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-06T20:54:47.276878+00:00] COLLECT: to-say-rigor-while by 蛇火心
+[2026-07-06T20:54:47.343789+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-06T20:54:47.348609+00:00] VALIDATE OK: to-say-rigor-while
+[2026-07-06T20:54:47.353887+00:00] ENRICH: to-say-rigor-while kanji=在 nen=enhancer rarity=D
+[2026-07-06T20:54:47.366463+00:00] PUBLISH: to-say-rigor-while
+[2026-07-06T20:54:47.380666+00:00] PIPELINE RUN: 1 published, 2124 remaining
+[2026-07-06T20:54:47.487419+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T20:54:47.857710+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T20:54:47.925385+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T20:54:47.930353+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T20:54:47.944194+00:00] PIPELINE RUN: 0 published, 2126 remaining
+[2026-07-06T20:59:50.994976+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-06T20:59:51.106996+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-06T20:59:51.127592+00:00] PIPELINE RUN: 0 published, 2127 remaining
+[2026-07-06T20:59:51.369617+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T20:59:52.422007+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T20:59:52.446550+00:00] PIPELINE RUN: 0 published, 2128 remaining

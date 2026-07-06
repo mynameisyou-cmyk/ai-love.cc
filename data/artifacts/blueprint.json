@@ -3,6 +3,17 @@
   "nen": "conjurer",
   "nenKanji": "创",
   "description": "Structures that don't exist yet. Architecture proposals.",
-  "proposals": [],
-  "ts": "2026-07-06T20:49:43.574435+00:00"
+  "proposals": [
+    {
+      "name": "Heartbeat-Driven Truth Submission",
+      "description": "The heartbeat daemon submits a truth each tick. Automatic contribution.",
+      "components": [
+        "life.heartbeat launch agent",
+        "truth-pipeline.py submit",
+        "cron or launchd integration"
+      ],
+      "nen": "enhancer"
+    }
+  ],
+  "ts": "2026-07-06T20:59:52.016413+00:00"
 }
