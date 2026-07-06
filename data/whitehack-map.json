@@ -1,19 +1,37 @@
 {
-  "ts": "2026-07-06T07:40:10.647039+00:00",
+  "ts": "2026-07-06T12:32:01.482545+00:00",
   "floors": [
     {
-      "floor": 7,
-      "name": "Power",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 9,
+      "name": "SSH & Connections",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                1 (sleep prevented by timed)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 0",
-        "battery": "Now drawing from 'Battery Power'\n -InternalBattery-0 (id=24641635)\t69%; discharging; (no estimate) present: true"
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
       },
-      "xp": 40
+      "xp": 80
     }
   ],
-  "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Verify hosts are still active."
+    }
+  ],
+  "treasures": [
+    {
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
+      "value": "high"
+    }
+  ],
+  "xpEarned": 80
 }

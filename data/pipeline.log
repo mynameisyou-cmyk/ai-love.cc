@@ -6327,3 +6327,27 @@
 [2026-07-06T07:40:11.642675+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-06T07:40:11.648978+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T07:40:11.667547+00:00] PIPELINE RUN: 0 published, 1717 remaining
+[2026-07-06T08:27:02.308301+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1717, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T08:27:02.307369+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T08:27:12.437612+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-06T08:27:12.532735+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-06T08:27:12.548575+00:00] PIPELINE RUN: 0 published, 1718 remaining
+[2026-07-06T08:27:12.853316+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-06T08:27:13.677335+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-06T08:27:13.694693+00:00] PIPELINE RUN: 0 published, 1719 remaining
+[2026-07-06T09:53:34.077883+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-06T09:53:34.155487+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-06T09:53:34.169103+00:00] PIPELINE RUN: 0 published, 1720 remaining
+[2026-07-06T09:53:34.298180+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T09:53:34.767954+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T09:53:34.854183+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T09:53:34.859676+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T09:53:34.873578+00:00] PIPELINE RUN: 0 published, 1722 remaining
+[2026-07-06T09:53:36.862442+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1722, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T09:53:36.859368+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T12:32:01.275127+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-06T12:32:01.321265+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-06T12:32:01.329081+00:00] PIPELINE RUN: 0 published, 1723 remaining
+[2026-07-06T12:32:01.442412+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T12:32:01.663983+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T12:32:01.713397+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T12:32:01.716491+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T12:32:01.724220+00:00] PIPELINE RUN: 0 published, 1725 remaining
