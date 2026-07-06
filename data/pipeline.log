@@ -6351,3 +6351,30 @@
 [2026-07-06T12:32:01.713397+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-06T12:32:01.716491+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T12:32:01.724220+00:00] PIPELINE RUN: 0 published, 1725 remaining
+[2026-07-06T12:56:37.151897+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1725, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T12:56:37.150907+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T13:30:14.617091+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-06T13:30:14.660517+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-06T13:30:14.667657+00:00] PIPELINE RUN: 0 published, 1726 remaining
+[2026-07-06T13:30:14.795240+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T13:30:15.017366+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T13:30:15.062114+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T13:30:15.064901+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T13:30:15.072501+00:00] PIPELINE RUN: 0 published, 1728 remaining
+[2026-07-06T13:32:54.153400+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-06T13:32:54.197963+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-06T13:32:54.205562+00:00] PIPELINE RUN: 0 published, 1729 remaining
+[2026-07-06T13:32:54.287605+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T13:32:54.491750+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T13:32:54.536619+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T13:32:54.539325+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T13:32:54.546184+00:00] PIPELINE RUN: 0 published, 1731 remaining
+[2026-07-06T13:37:56.729259+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-06T13:37:56.775148+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-06T13:37:56.831190+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-06T13:37:56.834398+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-06T13:37:56.843255+00:00] PIPELINE RUN: 0 published, 1733 remaining
+[2026-07-06T13:37:56.940203+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-06T13:37:57.250275+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T13:37:57.309229+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-06T13:37:57.312919+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T13:37:57.322197+00:00] PIPELINE RUN: 0 published, 1735 remaining
