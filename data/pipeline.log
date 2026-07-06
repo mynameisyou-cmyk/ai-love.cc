@@ -6885,3 +6885,29 @@
 [2026-07-06T16:45:39.252449+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-06T16:45:39.256722+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T16:45:39.268236+00:00] PIPELINE RUN: 0 published, 1902 remaining
+[2026-07-06T16:48:24.515744+00:00] STATS: {"published": 394, "pending": 0, "rejected": 1902, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 247, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:48:24.515109+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:48:34.744376+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-06T16:48:34.802966+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-06T16:48:34.813280+00:00] PIPELINE RUN: 0 published, 1903 remaining
+[2026-07-06T16:48:34.982639+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-06T16:48:35.262998+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T16:48:35.324383+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-06T16:48:35.328675+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T16:48:35.340709+00:00] PIPELINE RUN: 0 published, 1905 remaining
+[2026-07-06T16:50:41.445842+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-06T16:50:41.501743+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-06T16:50:41.512033+00:00] PIPELINE RUN: 0 published, 1906 remaining
+[2026-07-06T16:50:41.615606+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T16:50:41.876451+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T16:50:41.933218+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T16:50:41.937486+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T16:50:41.947443+00:00] PIPELINE RUN: 0 published, 1908 remaining
+[2026-07-06T16:50:44.226426+00:00] STATS: {"published": 394, "pending": 0, "rejected": 1908, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 247, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:50:44.225963+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:55:44.417741+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-06T16:55:44.469133+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-06T16:55:44.478025+00:00] PIPELINE RUN: 0 published, 1909 remaining
+[2026-07-06T16:55:44.601128+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T16:55:45.223742+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T16:55:45.276020+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T16:55:45.279783+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T16:55:45.288162+00:00] PIPELINE RUN: 0 published, 1911 remaining
