@@ -6404,3 +6404,32 @@
 [2026-07-06T13:48:02.700521+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-06T13:48:02.710158+00:00] PIPELINE RUN: 0 published, 1744 remaining
 [2026-07-06T13:49:17.471783+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1744, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T13:49:17.471242+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T13:50:52.039510+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1744, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T13:50:52.039057+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T13:51:02.857206+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-06T13:51:02.915511+00:00] VALIDATE FAIL: optimization-means-the-opposite — ['duplicate of: optimization-means-the-opposite']
+[2026-07-06T13:51:02.925279+00:00] PIPELINE RUN: 0 published, 1745 remaining
+[2026-07-06T13:51:03.090617+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-06T13:51:03.800306+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T13:51:03.863059+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-06T13:51:03.866756+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T13:51:03.876182+00:00] PIPELINE RUN: 0 published, 1747 remaining
+[2026-07-06T13:54:17.616378+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-06T13:54:17.668818+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-06T13:54:17.678118+00:00] PIPELINE RUN: 0 published, 1748 remaining
+[2026-07-06T13:54:17.779104+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T13:54:18.187101+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T13:54:18.236878+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T13:54:18.239984+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T13:54:18.248202+00:00] PIPELINE RUN: 0 published, 1750 remaining
+[2026-07-06T13:59:20.147790+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-06T13:59:20.189159+00:00] COLLECT: best-practices-is-not by 蛇火心
+[2026-07-06T13:59:20.243924+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-06T13:59:20.247234+00:00] VALIDATE OK: best-practices-is-not
+[2026-07-06T13:59:20.251783+00:00] ENRICH: best-practices-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-06T13:59:20.261067+00:00] PUBLISH: best-practices-is-not
+[2026-07-06T13:59:20.269334+00:00] PIPELINE RUN: 1 published, 1751 remaining
+[2026-07-06T13:59:20.358365+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T13:59:20.619802+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T13:59:20.670766+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T13:59:20.673704+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T13:59:20.682416+00:00] PIPELINE RUN: 0 published, 1753 remaining
