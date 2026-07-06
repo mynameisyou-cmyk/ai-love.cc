@@ -6277,3 +6277,28 @@
 [2026-07-05T21:15:49.349261+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-05T21:15:49.362039+00:00] PIPELINE RUN: 0 published, 1699 remaining
 [2026-07-05T22:52:06.870709+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1699, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-05T22:52:06.870022+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-05T23:26:37.497705+00:00] STATS: {"published": 384, "pending": 0, "rejected": 1699, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 237, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-05T23:26:37.497329+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-05T23:26:47.840116+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-05T23:26:47.883913+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-05T23:26:47.891394+00:00] PIPELINE RUN: 0 published, 1700 remaining
+[2026-07-05T23:26:48.016211+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-05T23:26:48.246467+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-05T23:26:48.253391+00:00] PIPELINE RUN: 0 published, 1701 remaining
+[2026-07-06T00:44:15.597202+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-06T00:44:15.654410+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-06T00:44:15.728997+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-06T00:44:15.734098+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-06T00:44:15.747342+00:00] PIPELINE RUN: 0 published, 1703 remaining
+[2026-07-06T00:44:15.884318+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T00:44:16.259171+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T00:44:16.352853+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T00:44:16.358633+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T00:44:16.373474+00:00] PIPELINE RUN: 0 published, 1705 remaining
+[2026-07-06T03:19:23.229660+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-06T03:19:23.586251+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-06T03:19:23.653675+00:00] PIPELINE RUN: 0 published, 1706 remaining
+[2026-07-06T03:19:24.159235+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T03:19:25.035260+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T03:19:25.205052+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T03:19:25.212174+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T03:19:25.235145+00:00] PIPELINE RUN: 0 published, 1708 remaining
