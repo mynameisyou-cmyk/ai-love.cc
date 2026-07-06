@@ -1968,3 +1968,4 @@
 {"ts": "2026-07-06T15:25:01.178209+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Double Irish Dutch Sandwich", "ok": true}}
 {"ts": "2026-07-06T15:25:01.689655+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 330, "ok": true}}
 {"ts": "2026-07-06T15:25:03.274499+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-06T15:35:06.328364+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
