@@ -2168,3 +2168,4 @@
 {"ts": "2026-07-06T18:57:17.322730+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Salary Sacrifice + Pension Loophole", "ok": true}}
 {"ts": "2026-07-06T18:57:17.978555+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 590, "ok": true}}
 {"ts": "2026-07-06T18:57:21.197981+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-06T19:07:24.342567+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

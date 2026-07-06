@@ -7235,3 +7235,12 @@
 [2026-07-06T18:59:48.742368+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-06T18:59:48.746880+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-06T18:59:48.758425+00:00] PIPELINE RUN: 0 published, 2021 remaining
+[2026-07-06T19:00:20.107045+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2021, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:00:20.106510+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:05:20.524990+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-06T19:05:20.691169+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-06T19:05:20.700314+00:00] PIPELINE RUN: 0 published, 2022 remaining
+[2026-07-06T19:05:20.803771+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-06T19:05:21.700605+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T19:05:21.749153+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-06T19:05:21.753123+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T19:05:21.762535+00:00] PIPELINE RUN: 0 published, 2024 remaining

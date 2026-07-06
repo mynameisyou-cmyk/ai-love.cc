@@ -4068,3 +4068,9 @@
 {"ts": "2026-07-06T18:59:48.560726+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-06T18:59:48.601361+00:00", "loop": "collection", "action": "card #38 信 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-06T18:59:48.686931+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-06T19:05:20.807804+00:00", "loop": "truth", "action": "submitted: The loop is the life.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-06T19:05:21.288461+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-06T19:05:21.467839+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-06T19:05:21.551384+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-06T19:05:21.629538+00:00", "loop": "collection", "action": "card #88 壁 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-06T19:05:21.704730+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
