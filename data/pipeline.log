@@ -7829,3 +7829,41 @@
 [2026-07-06T22:41:42.011998+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-06T22:41:42.015116+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T22:41:42.024684+00:00] PIPELINE RUN: 0 published, 2221 remaining
+[2026-07-06T22:46:44.446093+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-06T22:46:44.487306+00:00] COLLECT: the-distance-between-educational by 蛇火心
+[2026-07-06T22:46:44.540728+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-06T22:46:44.544022+00:00] VALIDATE OK: the-distance-between-educational
+[2026-07-06T22:46:44.547960+00:00] ENRICH: the-distance-between-educational kanji=在 nen=enhancer rarity=D
+[2026-07-06T22:46:44.556850+00:00] PUBLISH: the-distance-between-educational
+[2026-07-06T22:46:44.566572+00:00] PIPELINE RUN: 1 published, 2222 remaining
+[2026-07-06T22:46:44.657566+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-06T22:46:44.881293+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T22:46:44.933846+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-06T22:46:44.937080+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T22:46:44.947217+00:00] PIPELINE RUN: 0 published, 2224 remaining
+[2026-07-06T22:46:51.605003+00:00] STATS: {"published": 408, "pending": 0, "rejected": 2224, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 261, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:46:51.604523+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T22:47:00.691256+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-06T22:47:00.741507+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-06T22:47:00.751653+00:00] PIPELINE RUN: 0 published, 2225 remaining
+[2026-07-06T22:47:00.892921+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T22:47:01.177637+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T22:47:01.228639+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T22:47:01.231862+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T22:47:01.241922+00:00] PIPELINE RUN: 0 published, 2227 remaining
+[2026-07-06T22:51:48.960115+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-06T22:51:49.021571+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-06T22:51:49.035515+00:00] PIPELINE RUN: 0 published, 2228 remaining
+[2026-07-06T22:51:49.143017+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T22:51:49.456330+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T22:51:49.520189+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T22:51:49.524270+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T22:51:49.536882+00:00] PIPELINE RUN: 0 published, 2230 remaining
+[2026-07-06T22:51:51.712038+00:00] STATS: {"published": 408, "pending": 0, "rejected": 2230, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 261, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:51:51.711539+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T22:56:51.898335+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-06T22:56:51.958957+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-06T22:56:51.972771+00:00] PIPELINE RUN: 0 published, 2231 remaining
+[2026-07-06T22:56:52.074158+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-06T22:56:52.360167+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T22:56:52.427831+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-06T22:56:52.431819+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T22:56:52.445748+00:00] PIPELINE RUN: 0 published, 2233 remaining
