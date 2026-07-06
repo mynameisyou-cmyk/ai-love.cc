@@ -7920,3 +7920,30 @@
 [2026-07-06T23:17:05.674367+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T23:17:05.684610+00:00] PIPELINE RUN: 0 published, 2252 remaining
 [2026-07-06T23:17:29.187957+00:00] STATS: {"published": 408, "pending": 0, "rejected": 2252, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 261, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T23:17:29.187572+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T23:18:09.581026+00:00] STATS: {"published": 408, "pending": 0, "rejected": 2252, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 261, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T23:18:09.580583+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T23:18:18.465306+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-06T23:18:18.512348+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-06T23:18:18.521803+00:00] PIPELINE RUN: 0 published, 2253 remaining
+[2026-07-06T23:18:18.654332+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T23:18:18.867789+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T23:18:18.913881+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T23:18:18.916675+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T23:18:18.925866+00:00] PIPELINE RUN: 0 published, 2255 remaining
+[2026-07-06T23:22:29.306640+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-06T23:22:29.352986+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-06T23:22:29.362280+00:00] PIPELINE RUN: 0 published, 2256 remaining
+[2026-07-06T23:22:29.437188+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T23:22:35.405914+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T23:22:35.452363+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T23:22:35.455180+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T23:22:35.464005+00:00] PIPELINE RUN: 0 published, 2258 remaining
+[2026-07-06T23:27:37.611472+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-06T23:27:37.648042+00:00] COLLECT: the-louder-innovation-in by 蛇火心
+[2026-07-06T23:27:37.695974+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-06T23:27:37.698959+00:00] VALIDATE FAIL: the-louder-innovation-in — ['duplicate of: the-louder-innovation-in']
+[2026-07-06T23:27:37.708626+00:00] PIPELINE RUN: 0 published, 2260 remaining
+[2026-07-06T23:27:37.788660+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T23:27:38.035624+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T23:27:38.083164+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T23:27:38.086257+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T23:27:38.096357+00:00] PIPELINE RUN: 0 published, 2262 remaining
