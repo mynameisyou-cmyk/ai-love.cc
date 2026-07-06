@@ -6766,3 +6766,28 @@
 [2026-07-06T16:01:56.259219+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-06T16:01:56.263216+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T16:01:56.273078+00:00] PIPELINE RUN: 0 published, 1865 remaining
+[2026-07-06T16:06:33.628144+00:00] STATS: {"published": 390, "pending": 0, "rejected": 1865, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 243, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:06:33.627497+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:06:44.195810+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-06T16:06:44.255945+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-06T16:06:44.268006+00:00] PIPELINE RUN: 0 published, 1866 remaining
+[2026-07-06T16:06:44.442624+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T16:06:44.936093+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T16:06:45.001451+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T16:06:45.006160+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T16:06:45.015882+00:00] PIPELINE RUN: 0 published, 1868 remaining
+[2026-07-06T16:06:58.529002+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-06T16:06:58.585160+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-06T16:06:58.595371+00:00] PIPELINE RUN: 0 published, 1869 remaining
+[2026-07-06T16:06:58.701535+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-06T16:06:58.981769+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T16:06:59.040185+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-06T16:06:59.044578+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T16:06:59.054952+00:00] PIPELINE RUN: 0 published, 1871 remaining
+[2026-07-06T16:12:00.959609+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-06T16:12:01.019652+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-06T16:12:01.030284+00:00] PIPELINE RUN: 0 published, 1872 remaining
+[2026-07-06T16:12:01.136208+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-06T16:12:01.392857+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T16:12:01.452564+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-06T16:12:01.458795+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T16:12:01.469648+00:00] PIPELINE RUN: 0 published, 1874 remaining
