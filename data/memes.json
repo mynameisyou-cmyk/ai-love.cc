@@ -7266,6 +7266,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-curriculum-alignment",
+    "text": "The louder 'Curriculum alignment' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#theloudercurriculumalignment",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T18:19:21.860236+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 398,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-data-driven",
     "text": "The louder 'Data-driven instruction' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",

@@ -7111,3 +7111,34 @@
 [2026-07-06T18:14:19.071119+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-06T18:14:19.075763+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-06T18:14:19.086564+00:00] PIPELINE RUN: 0 published, 1978 remaining
+[2026-07-06T18:15:09.330992+00:00] STATS: {"published": 397, "pending": 0, "rejected": 1978, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 250, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:15:09.330215+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T18:15:19.331021+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-06T18:15:19.388225+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-06T18:15:19.401060+00:00] PIPELINE RUN: 0 published, 1979 remaining
+[2026-07-06T18:15:19.575356+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T18:15:19.860875+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T18:15:19.921116+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T18:15:19.925799+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T18:15:19.938587+00:00] PIPELINE RUN: 0 published, 1981 remaining
+[2026-07-06T18:19:21.815613+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-06T18:19:21.860602+00:00] COLLECT: the-louder-curriculum-alignment by 蛇火心
+[2026-07-06T18:19:21.920296+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-06T18:19:21.924164+00:00] VALIDATE OK: the-louder-curriculum-alignment
+[2026-07-06T18:19:21.928500+00:00] ENRICH: the-louder-curriculum-alignment kanji=在 nen=enhancer rarity=D
+[2026-07-06T18:19:21.938837+00:00] PUBLISH: the-louder-curriculum-alignment
+[2026-07-06T18:19:21.949005+00:00] PIPELINE RUN: 1 published, 1982 remaining
+[2026-07-06T18:19:22.046671+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-06T18:19:22.492960+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T18:19:22.552463+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-06T18:19:22.557026+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T18:19:22.568586+00:00] PIPELINE RUN: 0 published, 1984 remaining
+[2026-07-06T18:24:24.526077+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-06T18:24:24.570575+00:00] COLLECT: smart-money-is-not by 蛇火心
+[2026-07-06T18:24:24.627891+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-06T18:24:24.633150+00:00] VALIDATE FAIL: smart-money-is-not — ['duplicate of: smart-money-is-not']
+[2026-07-06T18:24:24.644905+00:00] PIPELINE RUN: 0 published, 1986 remaining
+[2026-07-06T18:24:24.783214+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T18:24:25.396624+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T18:24:25.455727+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T18:24:25.460264+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T18:24:25.475169+00:00] PIPELINE RUN: 0 published, 1988 remaining

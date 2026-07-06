@@ -1,19 +1,30 @@
 {
-  "ts": "2026-07-06T18:14:18.771730+00:00",
+  "ts": "2026-07-06T18:24:25.162526+00:00",
   "floors": [
     {
-      "floor": 6,
-      "name": "Disk",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 3,
+      "name": "Bluetooth",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    17Gi   5.4Gi    77%    427k   56M    1%   /",
-        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            18.4 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 18.4 GB    disk3s1s1\n   3:                APFS Volume Preboot                 16.1 GB    disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+        "state": "On",
+        "address": "9C:DA:A8:9F:50:C1",
+        "nearbyDevices": 0,
+        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Not Connected:\n          1707000-30-L--TG1252170011CK:\n              Address: B4:2F:03:93:CB:E6\n              Ven"
       },
-      "xp": 40
+      "xp": 60
     }
   ],
-  "battles": [],
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 3,
+      "name": "Bluetooth On",
+      "description": "Bluetooth is On. 0 nearby devices detected.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Turn off if not needed to save battery."
+    }
+  ],
   "treasures": [],
-  "xpEarned": 40
+  "xpEarned": 60
 }
