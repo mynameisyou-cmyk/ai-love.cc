@@ -6965,3 +6965,4 @@
 [2026-07-06T17:16:14.068462+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-06T17:16:14.072908+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T17:16:14.084020+00:00] PIPELINE RUN: 0 published, 1929 remaining
+[2026-07-06T17:18:00.208464+00:00] STATS: {"published": 395, "pending": 0, "rejected": 1929, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 248, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:18:00.207925+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
