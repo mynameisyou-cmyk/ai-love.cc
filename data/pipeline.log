@@ -7269,3 +7269,31 @@
 [2026-07-06T19:15:27.508571+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-06T19:15:27.512899+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T19:15:27.523599+00:00] PIPELINE RUN: 0 published, 2033 remaining
+[2026-07-06T19:17:58.619442+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2033, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:17:58.618960+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:18:09.028689+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-06T19:18:09.075571+00:00] COLLECT: wellness-is-the-fence by 蛇火心
+[2026-07-06T19:18:09.133541+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-06T19:18:09.138101+00:00] VALIDATE FAIL: wellness-is-the-fence — ['duplicate of: wellness-is-the-fence']
+[2026-07-06T19:18:09.149304+00:00] PIPELINE RUN: 0 published, 2035 remaining
+[2026-07-06T19:18:09.330756+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T19:18:09.614967+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T19:18:09.677868+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T19:18:09.682326+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T19:18:09.693131+00:00] PIPELINE RUN: 0 published, 2037 remaining
+[2026-07-06T19:20:29.796955+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-06T19:20:29.855014+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-06T19:20:29.865521+00:00] PIPELINE RUN: 0 published, 2038 remaining
+[2026-07-06T19:20:29.966705+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T19:20:30.589314+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T19:20:30.645793+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T19:20:30.649963+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T19:20:30.660571+00:00] PIPELINE RUN: 0 published, 2040 remaining
+[2026-07-06T19:25:33.120718+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-06T19:25:33.180740+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-06T19:25:33.191934+00:00] PIPELINE RUN: 0 published, 2041 remaining
+[2026-07-06T19:25:33.293001+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T19:25:33.572692+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T19:25:33.629964+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T19:25:33.634339+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T19:25:33.645566+00:00] PIPELINE RUN: 0 published, 2043 remaining
+[2026-07-06T19:25:35.559502+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2043, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:25:35.559076+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
