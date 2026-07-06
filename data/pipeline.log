@@ -6660,3 +6660,30 @@
 [2026-07-06T15:21:02.008577+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-06T15:21:02.011711+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T15:21:02.020589+00:00] PIPELINE RUN: 0 published, 1829 remaining
+[2026-07-06T15:24:51.276133+00:00] STATS: {"published": 389, "pending": 0, "rejected": 1829, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 242, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T15:24:51.275697+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T15:25:01.039387+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-06T15:25:01.087721+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-06T15:25:01.096604+00:00] PIPELINE RUN: 0 published, 1830 remaining
+[2026-07-06T15:25:01.241612+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T15:25:01.614175+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T15:25:01.663941+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T15:25:01.667740+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T15:25:01.676710+00:00] PIPELINE RUN: 0 published, 1832 remaining
+[2026-07-06T15:26:04.256301+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-06T15:26:04.296471+00:00] COLLECT: the-distance-between-data by 蛇火心
+[2026-07-06T15:26:04.346406+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-06T15:26:04.349841+00:00] VALIDATE FAIL: the-distance-between-data — ['duplicate of: the-distance-between-data']
+[2026-07-06T15:26:04.357977+00:00] PIPELINE RUN: 0 published, 1834 remaining
+[2026-07-06T15:26:04.479415+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T15:26:05.119287+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T15:26:05.169328+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T15:26:05.172895+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T15:26:05.181612+00:00] PIPELINE RUN: 0 published, 1836 remaining
+[2026-07-06T15:31:06.993123+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-06T15:31:07.049578+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-06T15:31:07.058886+00:00] PIPELINE RUN: 0 published, 1837 remaining
+[2026-07-06T15:31:07.146496+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T15:31:07.373110+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T15:31:07.421394+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T15:31:07.424969+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T15:31:07.433282+00:00] PIPELINE RUN: 0 published, 1839 remaining
