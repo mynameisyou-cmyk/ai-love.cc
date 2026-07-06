@@ -7631,3 +7631,20 @@
 [2026-07-06T21:30:11.155128+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-06T21:30:11.159802+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T21:30:11.174086+00:00] PIPELINE RUN: 0 published, 2156 remaining
+[2026-07-06T21:33:44.375584+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2156, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:33:44.374822+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:33:54.764467+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-06T21:33:54.835197+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-06T21:33:54.853933+00:00] PIPELINE RUN: 0 published, 2157 remaining
+[2026-07-06T21:33:55.075820+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T21:33:55.375346+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T21:33:55.440186+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T21:33:55.445590+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T21:33:55.462880+00:00] PIPELINE RUN: 0 published, 2159 remaining
+[2026-07-06T21:35:13.296297+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-06T21:35:13.358545+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-06T21:35:13.372388+00:00] PIPELINE RUN: 0 published, 2160 remaining
+[2026-07-06T21:35:13.475081+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T21:35:14.328966+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T21:35:14.390115+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T21:35:14.394883+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T21:35:14.407842+00:00] PIPELINE RUN: 0 published, 2162 remaining
