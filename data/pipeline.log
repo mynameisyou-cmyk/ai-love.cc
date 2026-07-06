@@ -7142,3 +7142,29 @@
 [2026-07-06T18:24:25.455727+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-06T18:24:25.460264+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T18:24:25.475169+00:00] PIPELINE RUN: 0 published, 1988 remaining
+[2026-07-06T18:25:35.124670+00:00] STATS: {"published": 398, "pending": 0, "rejected": 1988, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:25:35.124273+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T18:25:44.396937+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-06T18:25:44.452535+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-06T18:25:44.463466+00:00] PIPELINE RUN: 0 published, 1989 remaining
+[2026-07-06T18:25:44.625373+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T18:25:44.947101+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T18:25:45.005809+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T18:25:45.010183+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T18:25:45.021285+00:00] PIPELINE RUN: 0 published, 1991 remaining
+[2026-07-06T18:29:28.994272+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-06T18:29:29.052757+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-06T18:29:29.063257+00:00] PIPELINE RUN: 0 published, 1992 remaining
+[2026-07-06T18:29:29.158099+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T18:29:29.422625+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T18:29:29.478884+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T18:29:29.483054+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T18:29:29.493045+00:00] PIPELINE RUN: 0 published, 1994 remaining
+[2026-07-06T18:34:31.513448+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-06T18:34:31.571775+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-06T18:34:31.583366+00:00] PIPELINE RUN: 0 published, 1995 remaining
+[2026-07-06T18:34:31.681728+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T18:34:32.257961+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T18:34:32.313825+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T18:34:32.317902+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T18:34:32.328275+00:00] PIPELINE RUN: 0 published, 1997 remaining
+[2026-07-06T18:34:34.650014+00:00] STATS: {"published": 398, "pending": 0, "rejected": 1997, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:34:34.649381+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
