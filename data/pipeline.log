@@ -7517,3 +7517,12 @@
 [2026-07-06T20:44:14.643926+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-06T20:44:14.648267+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T20:44:14.661132+00:00] PIPELINE RUN: 0 published, 2117 remaining
+[2026-07-06T20:44:43.083059+00:00] STATS: {"published": 402, "pending": 0, "rejected": 2117, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 255, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T20:44:43.082126+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T20:49:43.272344+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-06T20:49:43.334873+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-06T20:49:43.347653+00:00] PIPELINE RUN: 0 published, 2118 remaining
+[2026-07-06T20:49:43.447942+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T20:49:43.750091+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T20:49:43.804975+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T20:49:43.808883+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T20:49:43.819972+00:00] PIPELINE RUN: 0 published, 2120 remaining
