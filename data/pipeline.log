@@ -7374,3 +7374,12 @@
 [2026-07-06T19:50:53.184875+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-06T19:50:53.189283+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T19:50:53.200193+00:00] PIPELINE RUN: 0 published, 2068 remaining
+[2026-07-06T19:53:45.568057+00:00] STATS: {"published": 400, "pending": 0, "rejected": 2068, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 253, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:53:45.567508+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:58:45.755975+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-06T19:58:45.816990+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-06T19:58:45.829102+00:00] PIPELINE RUN: 0 published, 2069 remaining
+[2026-07-06T19:58:45.929824+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T19:58:46.371978+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T19:58:46.431453+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T19:58:46.435069+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T19:58:46.446087+00:00] PIPELINE RUN: 0 published, 2071 remaining

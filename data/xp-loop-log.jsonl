@@ -4158,3 +4158,9 @@
 {"ts": "2026-07-06T19:50:53.004817+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-06T19:50:53.048402+00:00", "loop": "collection", "action": "card #276 築 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-06T19:50:53.133306+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-06T19:58:45.934218+00:00", "loop": "truth", "action": "submitted: XP is attention made countable.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-06T19:58:46.156129+00:00", "loop": "recon", "action": "floor 8: 5b 4t", "xp": 120, "detail": "floor-8"}
+{"ts": "2026-07-06T19:58:46.197038+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-06T19:58:46.245075+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-06T19:58:46.289816+00:00", "loop": "collection", "action": "card #173 今 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-06T19:58:46.376578+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
