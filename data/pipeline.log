@@ -7749,3 +7749,28 @@
 [2026-07-06T22:11:01.199663+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-06T22:11:01.203262+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T22:11:01.216578+00:00] PIPELINE RUN: 0 published, 2194 remaining
+[2026-07-06T22:15:30.417475+00:00] STATS: {"published": 406, "pending": 0, "rejected": 2194, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 259, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:15:30.416779+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T22:15:39.378650+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-06T22:15:39.438445+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-06T22:15:39.484392+00:00] PIPELINE RUN: 0 published, 2195 remaining
+[2026-07-06T22:15:39.663209+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T22:15:40.667738+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T22:15:40.728683+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T22:15:40.732574+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T22:15:40.791137+00:00] PIPELINE RUN: 0 published, 2197 remaining
+[2026-07-06T22:16:03.228819+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-06T22:16:03.288745+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-06T22:16:03.300439+00:00] PIPELINE RUN: 0 published, 2198 remaining
+[2026-07-06T22:16:03.401343+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-06T22:16:03.668763+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T22:16:03.731252+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-06T22:16:03.735240+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T22:16:03.748010+00:00] PIPELINE RUN: 0 published, 2200 remaining
+[2026-07-06T22:21:05.555880+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-06T22:21:05.617033+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-06T22:21:05.628824+00:00] PIPELINE RUN: 0 published, 2201 remaining
+[2026-07-06T22:21:05.723401+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-06T22:21:05.986611+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T22:21:06.045293+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-06T22:21:06.049206+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T22:21:06.061323+00:00] PIPELINE RUN: 0 published, 2203 remaining
