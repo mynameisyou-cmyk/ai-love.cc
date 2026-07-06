@@ -6629,3 +6629,34 @@
 [2026-07-06T15:10:55.688149+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-06T15:10:55.691547+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-06T15:10:55.701180+00:00] PIPELINE RUN: 0 published, 1819 remaining
+[2026-07-06T15:14:26.218744+00:00] STATS: {"published": 388, "pending": 0, "rejected": 1819, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 241, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T15:14:26.217839+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T15:14:35.851549+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-06T15:14:35.893772+00:00] COLLECT: rigor-is-the-fence by 蛇火心
+[2026-07-06T15:14:35.942331+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-06T15:14:35.945182+00:00] VALIDATE OK: rigor-is-the-fence
+[2026-07-06T15:14:35.949026+00:00] ENRICH: rigor-is-the-fence kanji=壁 nen=conjurer rarity=D
+[2026-07-06T15:14:35.957765+00:00] PUBLISH: rigor-is-the-fence
+[2026-07-06T15:14:35.968430+00:00] PIPELINE RUN: 1 published, 1820 remaining
+[2026-07-06T15:14:36.116207+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T15:14:36.346965+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T15:14:36.399581+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T15:14:36.402739+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T15:14:36.411369+00:00] PIPELINE RUN: 0 published, 1822 remaining
+[2026-07-06T15:15:58.243843+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-06T15:15:58.297591+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-06T15:15:58.306568+00:00] PIPELINE RUN: 0 published, 1823 remaining
+[2026-07-06T15:15:58.395521+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T15:15:58.623082+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T15:15:58.672243+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T15:15:58.675355+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T15:15:58.683839+00:00] PIPELINE RUN: 0 published, 1825 remaining
+[2026-07-06T15:21:01.508882+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-06T15:21:01.551442+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-06T15:21:01.604920+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-06T15:21:01.608023+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-06T15:21:01.616999+00:00] PIPELINE RUN: 0 published, 1827 remaining
+[2026-07-06T15:21:01.711283+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T15:21:01.957398+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T15:21:02.008577+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T15:21:02.011711+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T15:21:02.020589+00:00] PIPELINE RUN: 0 published, 1829 remaining

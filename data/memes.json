@@ -5023,6 +5023,32 @@
     "rarity": "SS"
   },
   {
+    "id": "rigor-is-the-fence",
+    "text": "'Rigor' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#rigoristhefence",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T15:14:35.893414+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 389,
+    "rarity": "D"
+  },
+  {
     "id": "rigor-teaches-compliance-not",
     "text": "'Rigor' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
