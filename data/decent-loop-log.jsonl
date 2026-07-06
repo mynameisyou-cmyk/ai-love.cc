@@ -2118,3 +2118,4 @@
 {"ts": "2026-07-06T18:04:46.284291+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Opportunity Zones", "ok": true}}
 {"ts": "2026-07-06T18:04:50.968889+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 500, "ok": true}}
 {"ts": "2026-07-06T18:04:53.281073+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-06T18:14:56.455499+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

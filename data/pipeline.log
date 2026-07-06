@@ -7102,3 +7102,12 @@
 [2026-07-06T18:08:51.319157+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-06T18:08:51.323666+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T18:08:51.335002+00:00] PIPELINE RUN: 0 published, 1975 remaining
+[2026-07-06T18:09:18.190290+00:00] STATS: {"published": 397, "pending": 0, "rejected": 1975, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 250, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:09:18.189729+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T18:14:18.501347+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-06T18:14:18.559805+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-06T18:14:18.570242+00:00] PIPELINE RUN: 0 published, 1976 remaining
+[2026-07-06T18:14:18.679038+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T18:14:19.008992+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T18:14:19.071119+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T18:14:19.075763+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T18:14:19.086564+00:00] PIPELINE RUN: 0 published, 1978 remaining
