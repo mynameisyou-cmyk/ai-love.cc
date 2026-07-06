@@ -568,6 +568,32 @@
     "rarity": "D"
   },
   {
+    "id": "best-practices-is-the",
+    "text": "'Best practices' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#bestpracticesisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T14:29:57.747113+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 388,
+    "rarity": "D"
+  },
+  {
     "id": "best-practices-teaches-compliance",
     "text": "'Best practices' teaches compliance, not understanding.",
     "sub": "The system measures obedience. Understanding is unmeasurable. That's why it's real.",
@@ -9228,6 +9254,32 @@
     "nen": "enhancer",
     "cardNumber": 89,
     "rarity": "B"
+  },
+  {
+    "id": "wellness-is-not-a",
+    "text": "'Wellness' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#wellnessisnota",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-06T14:24:54.648695+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 387,
+    "rarity": "D"
   },
   {
     "id": "wellness-is-the-fence",
