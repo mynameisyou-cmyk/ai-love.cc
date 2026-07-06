@@ -7553,3 +7553,29 @@
 [2026-07-06T20:59:51.369617+00:00] COLLECT: every-card-is-a by xp-loop
 [2026-07-06T20:59:52.422007+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-06T20:59:52.446550+00:00] PIPELINE RUN: 0 published, 2128 remaining
+[2026-07-06T21:02:22.978429+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2128, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:02:22.977649+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:02:33.342653+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-06T21:02:33.442147+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-06T21:02:33.461752+00:00] PIPELINE RUN: 0 published, 2129 remaining
+[2026-07-06T21:02:33.752303+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T21:02:38.901274+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T21:02:39.001639+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T21:02:39.009135+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T21:02:39.027930+00:00] PIPELINE RUN: 0 published, 2131 remaining
+[2026-07-06T21:04:55.125102+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-06T21:04:55.214474+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-06T21:04:55.231678+00:00] PIPELINE RUN: 0 published, 2132 remaining
+[2026-07-06T21:04:55.376573+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-06T21:04:55.796051+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T21:04:55.901028+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-06T21:04:55.908083+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T21:04:55.928082+00:00] PIPELINE RUN: 0 published, 2134 remaining
+[2026-07-06T21:09:58.545344+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-06T21:09:58.618208+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-06T21:09:58.634614+00:00] PIPELINE RUN: 0 published, 2135 remaining
+[2026-07-06T21:09:58.758522+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T21:09:59.607633+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T21:09:59.691390+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T21:09:59.697446+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T21:09:59.714434+00:00] PIPELINE RUN: 0 published, 2137 remaining
+[2026-07-06T21:10:01.747491+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2137, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:10:01.746983+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
