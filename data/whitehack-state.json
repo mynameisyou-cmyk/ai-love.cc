@@ -1,8 +1,8 @@
 {
-  "xp": 100210,
-  "scansRun": 801,
+  "xp": 100360,
+  "scansRun": 804,
   "battlesFound": 0,
-  "treasuresFound": 0,
+  "treasuresFound": 2,
   "floorsMapped": [
     1,
     2,
@@ -32,5 +32,5 @@
     "installed-applications",
     "macos-ui-settings"
   ],
-  "ts": "2026-07-06T22:56:52.139306+00:00"
+  "ts": "2026-07-06T23:07:00.294034+00:00"
 }
