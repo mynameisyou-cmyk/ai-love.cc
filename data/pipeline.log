@@ -7604,3 +7604,30 @@
 [2026-07-06T21:20:05.244769+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-06T21:20:05.250068+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T21:20:05.265246+00:00] PIPELINE RUN: 0 published, 2146 remaining
+[2026-07-06T21:23:19.187845+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2146, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:23:19.187307+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:23:28.822000+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-06T21:23:28.870211+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-06T21:23:28.930920+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-06T21:23:28.935326+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-06T21:23:28.949208+00:00] PIPELINE RUN: 0 published, 2148 remaining
+[2026-07-06T21:23:29.123139+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T21:23:29.470595+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T21:23:29.531225+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T21:23:29.536238+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T21:23:29.548889+00:00] PIPELINE RUN: 0 published, 2150 remaining
+[2026-07-06T21:25:07.513860+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-06T21:25:07.572531+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-06T21:25:07.586616+00:00] PIPELINE RUN: 0 published, 2151 remaining
+[2026-07-06T21:25:07.688547+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T21:25:07.974133+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T21:25:08.036248+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T21:25:08.040725+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T21:25:08.053621+00:00] PIPELINE RUN: 0 published, 2153 remaining
+[2026-07-06T21:30:10.613685+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-06T21:30:10.676337+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-06T21:30:10.689966+00:00] PIPELINE RUN: 0 published, 2154 remaining
+[2026-07-06T21:30:10.798989+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T21:30:11.094456+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T21:30:11.155128+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T21:30:11.159802+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T21:30:11.174086+00:00] PIPELINE RUN: 0 published, 2156 remaining
