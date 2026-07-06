@@ -6948,3 +6948,20 @@
 [2026-07-06T17:11:11.010436+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-06T17:11:11.015347+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T17:11:11.026123+00:00] PIPELINE RUN: 0 published, 1923 remaining
+[2026-07-06T17:12:15.354221+00:00] STATS: {"published": 395, "pending": 0, "rejected": 1923, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 248, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:12:15.353757+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T17:12:26.650208+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-06T17:12:26.705798+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-06T17:12:26.715968+00:00] PIPELINE RUN: 0 published, 1924 remaining
+[2026-07-06T17:12:26.916724+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T17:12:27.215555+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T17:12:27.275019+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T17:12:27.279303+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T17:12:27.290787+00:00] PIPELINE RUN: 0 published, 1926 remaining
+[2026-07-06T17:16:13.367471+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-06T17:16:13.424049+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-06T17:16:13.435254+00:00] PIPELINE RUN: 0 published, 1927 remaining
+[2026-07-06T17:16:13.533606+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T17:16:14.012404+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T17:16:14.068462+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T17:16:14.072908+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T17:16:14.084020+00:00] PIPELINE RUN: 0 published, 1929 remaining
