@@ -6688,3 +6688,32 @@
 [2026-07-06T15:31:07.424969+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T15:31:07.433282+00:00] PIPELINE RUN: 0 published, 1839 remaining
 [2026-07-06T15:31:36.354462+00:00] STATS: {"published": 389, "pending": 0, "rejected": 1839, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 242, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T15:31:36.354069+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T15:35:13.661563+00:00] STATS: {"published": 389, "pending": 0, "rejected": 1839, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 242, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T15:35:13.661048+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T15:35:24.456605+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-06T15:35:24.498607+00:00] COLLECT: data-driven-decisions-is by 蛇火心
+[2026-07-06T15:35:24.550574+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-06T15:35:24.554095+00:00] VALIDATE OK: data-driven-decisions-is
+[2026-07-06T15:35:24.557610+00:00] ENRICH: data-driven-decisions-is kanji=見 nen=enhancer rarity=C
+[2026-07-06T15:35:24.566986+00:00] PUBLISH: data-driven-decisions-is
+[2026-07-06T15:35:24.576290+00:00] PIPELINE RUN: 1 published, 1840 remaining
+[2026-07-06T15:35:24.730839+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T15:35:24.983666+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T15:35:25.037620+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T15:35:25.041608+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T15:35:25.051584+00:00] PIPELINE RUN: 0 published, 1842 remaining
+[2026-07-06T15:36:36.695470+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-06T15:36:36.750951+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-06T15:36:36.760890+00:00] PIPELINE RUN: 0 published, 1843 remaining
+[2026-07-06T15:36:36.858788+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T15:36:37.129795+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T15:36:37.184410+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T15:36:37.188637+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T15:36:37.197623+00:00] PIPELINE RUN: 0 published, 1845 remaining
+[2026-07-06T15:41:39.537672+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-06T15:41:39.591026+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-06T15:41:39.599750+00:00] PIPELINE RUN: 0 published, 1846 remaining
+[2026-07-06T15:41:39.692204+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T15:41:39.949053+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T15:41:40.000325+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T15:41:40.004167+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T15:41:40.012746+00:00] PIPELINE RUN: 0 published, 1848 remaining

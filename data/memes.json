@@ -1318,6 +1318,32 @@
     "rarity": "D"
   },
   {
+    "id": "data-driven-decisions-is",
+    "text": "'Data-driven decisions' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#datadrivendecisionsis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-06T15:35:24.498288+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 390,
+    "rarity": "C"
+  },
+  {
     "id": "data-driven-decisions-means",
     "text": "'Data-driven decisions' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
