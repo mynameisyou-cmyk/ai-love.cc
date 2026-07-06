@@ -6966,3 +6966,32 @@
 [2026-07-06T17:16:14.072908+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T17:16:14.084020+00:00] PIPELINE RUN: 0 published, 1929 remaining
 [2026-07-06T17:18:00.208464+00:00] STATS: {"published": 395, "pending": 0, "rejected": 1929, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 248, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:18:00.207925+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T17:22:43.372083+00:00] STATS: {"published": 395, "pending": 0, "rejected": 1929, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 248, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:22:43.371593+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T17:23:00.341364+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-06T17:23:00.386902+00:00] COLLECT: to-say-risk-adjusted by 蛇火心
+[2026-07-06T17:23:00.449282+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-06T17:23:00.453240+00:00] VALIDATE OK: to-say-risk-adjusted
+[2026-07-06T17:23:00.457599+00:00] ENRICH: to-say-risk-adjusted kanji=在 nen=enhancer rarity=D
+[2026-07-06T17:23:00.467661+00:00] PUBLISH: to-say-risk-adjusted
+[2026-07-06T17:23:00.478809+00:00] PIPELINE RUN: 1 published, 1930 remaining
+[2026-07-06T17:23:00.577790+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T17:23:01.037230+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T17:23:01.098374+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T17:23:01.102763+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T17:23:01.113707+00:00] PIPELINE RUN: 0 published, 1932 remaining
+[2026-07-06T17:23:01.476004+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-06T17:23:01.545554+00:00] VALIDATE FAIL: visibility-is-addiction-dressed — ['duplicate of: visibility-is-addiction-dressed']
+[2026-07-06T17:23:01.557235+00:00] PIPELINE RUN: 0 published, 1933 remaining
+[2026-07-06T17:23:01.725044+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T17:23:01.997890+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T17:23:02.057190+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T17:23:02.061561+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T17:23:02.073088+00:00] PIPELINE RUN: 0 published, 1935 remaining
+[2026-07-06T17:28:03.004304+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-06T17:28:03.064016+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-06T17:28:03.075865+00:00] PIPELINE RUN: 0 published, 1936 remaining
+[2026-07-06T17:28:03.175848+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-06T17:28:07.624110+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T17:28:07.679722+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-06T17:28:07.683948+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T17:28:07.694263+00:00] PIPELINE RUN: 0 published, 1938 remaining
