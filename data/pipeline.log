@@ -7029,3 +7029,30 @@
 [2026-07-06T17:43:21.693941+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T17:43:21.704210+00:00] PIPELINE RUN: 0 published, 1950 remaining
 [2026-07-06T17:43:24.034922+00:00] STATS: {"published": 396, "pending": 0, "rejected": 1950, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 249, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:43:24.034332+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T17:43:44.315159+00:00] STATS: {"published": 396, "pending": 0, "rejected": 1950, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 249, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:43:44.314629+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T17:43:54.573654+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-06T17:43:54.632508+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-06T17:43:54.642798+00:00] PIPELINE RUN: 0 published, 1951 remaining
+[2026-07-06T17:43:54.800464+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-06T17:43:55.074446+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T17:43:55.134057+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-06T17:43:55.138500+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T17:43:55.148737+00:00] PIPELINE RUN: 0 published, 1953 remaining
+[2026-07-06T17:48:24.189482+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-06T17:48:24.251801+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-06T17:48:24.262009+00:00] PIPELINE RUN: 0 published, 1954 remaining
+[2026-07-06T17:48:24.398678+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-06T17:48:25.178421+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T17:48:25.247386+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-06T17:48:25.252242+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T17:48:25.262293+00:00] PIPELINE RUN: 0 published, 1956 remaining
+[2026-07-06T17:53:27.621396+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-06T17:53:27.666056+00:00] COLLECT: to-say-risk-adjusted by 蛇火心
+[2026-07-06T17:53:27.722556+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-06T17:53:27.726183+00:00] VALIDATE FAIL: to-say-risk-adjusted — ['duplicate of: to-say-risk-adjusted']
+[2026-07-06T17:53:27.737821+00:00] PIPELINE RUN: 0 published, 1958 remaining
+[2026-07-06T17:53:27.841817+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T17:53:32.359682+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T17:53:32.415120+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T17:53:32.418999+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T17:53:32.428992+00:00] PIPELINE RUN: 0 published, 1960 remaining
