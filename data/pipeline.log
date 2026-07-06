@@ -6850,3 +6850,38 @@
 [2026-07-06T16:35:32.399282+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-06T16:35:32.403617+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T16:35:32.414319+00:00] PIPELINE RUN: 0 published, 1892 remaining
+[2026-07-06T16:37:54.751872+00:00] STATS: {"published": 392, "pending": 0, "rejected": 1892, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 245, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:37:54.751394+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:38:07.754836+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-06T16:38:07.799189+00:00] COLLECT: the-louder-wealth-management by 蛇火心
+[2026-07-06T16:38:07.853703+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-06T16:38:07.858609+00:00] VALIDATE OK: the-louder-wealth-management
+[2026-07-06T16:38:07.863203+00:00] ENRICH: the-louder-wealth-management kanji=在 nen=enhancer rarity=D
+[2026-07-06T16:38:07.873153+00:00] PUBLISH: the-louder-wealth-management
+[2026-07-06T16:38:07.882569+00:00] PIPELINE RUN: 1 published, 1893 remaining
+[2026-07-06T16:38:08.085343+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-06T16:38:08.404297+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T16:38:08.463418+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-06T16:38:08.467664+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T16:38:08.478619+00:00] PIPELINE RUN: 0 published, 1895 remaining
+[2026-07-06T16:40:35.578796+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-06T16:40:35.624366+00:00] COLLECT: patient-centered-is-not by 蛇火心
+[2026-07-06T16:40:35.687241+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-06T16:40:35.691569+00:00] VALIDATE OK: patient-centered-is-not
+[2026-07-06T16:40:35.696195+00:00] ENRICH: patient-centered-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-06T16:40:35.707072+00:00] PUBLISH: patient-centered-is-not
+[2026-07-06T16:40:35.718682+00:00] PIPELINE RUN: 1 published, 1896 remaining
+[2026-07-06T16:40:35.831785+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-06T16:40:36.133793+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T16:40:36.197696+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-06T16:40:36.202523+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T16:40:36.213860+00:00] PIPELINE RUN: 0 published, 1898 remaining
+[2026-07-06T16:45:38.604714+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-06T16:45:38.650718+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-06T16:45:38.711057+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-06T16:45:38.715381+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-06T16:45:38.728249+00:00] PIPELINE RUN: 0 published, 1900 remaining
+[2026-07-06T16:45:38.836151+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T16:45:39.191656+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T16:45:39.252449+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T16:45:39.256722+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T16:45:39.268236+00:00] PIPELINE RUN: 0 published, 1902 remaining

@@ -4422,6 +4422,32 @@
     "rarity": "D"
   },
   {
+    "id": "patient-centered-is-not",
+    "text": "'Patient-centered' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#patientcenteredisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-06T16:40:35.623990+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 394,
+    "rarity": "D"
+  },
+  {
     "id": "patient-centered-prioritizes-profit",
     "text": "'Patient-centered' prioritizes profit over care.",
     "sub": "The body is not a market. The illness is not an opportunity.",
@@ -7575,6 +7601,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 296,
+    "rarity": "D"
+  },
+  {
+    "id": "the-louder-wealth-management",
+    "text": "The louder 'Wealth management' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderwealthmanagement",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-06T16:38:07.798843+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 393,
     "rarity": "D"
   },
   {
