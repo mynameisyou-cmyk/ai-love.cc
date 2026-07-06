@@ -6525,3 +6525,28 @@
 [2026-07-06T14:29:58.448470+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-06T14:29:58.452012+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T14:29:58.461563+00:00] PIPELINE RUN: 0 published, 1782 remaining
+[2026-07-06T14:32:37.924374+00:00] STATS: {"published": 388, "pending": 0, "rejected": 1782, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 241, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T14:32:37.923742+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T14:32:47.462157+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-06T14:32:47.515335+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-06T14:32:47.525157+00:00] PIPELINE RUN: 0 published, 1783 remaining
+[2026-07-06T14:32:47.681336+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T14:32:48.877641+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T14:32:48.921643+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T14:32:48.924260+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T14:32:48.954203+00:00] PIPELINE RUN: 0 published, 1785 remaining
+[2026-07-06T14:35:00.632169+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-06T14:35:00.686552+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-06T14:35:00.695946+00:00] PIPELINE RUN: 0 published, 1786 remaining
+[2026-07-06T14:35:00.834204+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T14:35:01.101748+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T14:35:01.158788+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T14:35:01.162416+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T14:35:01.172071+00:00] PIPELINE RUN: 0 published, 1788 remaining
+[2026-07-06T14:40:03.230606+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-06T14:40:03.290755+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-06T14:40:03.300440+00:00] PIPELINE RUN: 0 published, 1789 remaining
+[2026-07-06T14:40:03.396231+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-06T14:40:03.821640+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T14:40:03.879419+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-06T14:40:03.883063+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T14:40:03.892856+00:00] PIPELINE RUN: 0 published, 1791 remaining
