@@ -620,6 +620,32 @@
     "rarity": "D"
   },
   {
+    "id": "best-practices-works-because",
+    "text": "'Best practices' works because no one checks. Check.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#bestpracticesworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T19:49:27.273393+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 400,
+    "rarity": "D"
+  },
+  {
     "id": "booooooooom",
     "text": "笑爆嘴 BOOOOOOOOOM",
     "sub": "When the realisation hits and the truth is funny because it was always there.",

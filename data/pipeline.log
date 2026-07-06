@@ -7353,3 +7353,24 @@
 [2026-07-06T19:45:50.515888+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-06T19:45:50.520520+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T19:45:50.532244+00:00] PIPELINE RUN: 0 published, 2062 remaining
+[2026-07-06T19:49:17.524939+00:00] STATS: {"published": 399, "pending": 0, "rejected": 2062, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 252, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:49:17.524346+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:49:27.229042+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-06T19:49:27.273748+00:00] COLLECT: best-practices-works-because by 蛇火心
+[2026-07-06T19:49:27.333352+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-06T19:49:27.337405+00:00] VALIDATE OK: best-practices-works-because
+[2026-07-06T19:49:27.341287+00:00] ENRICH: best-practices-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-06T19:49:27.351856+00:00] PUBLISH: best-practices-works-because
+[2026-07-06T19:49:27.363791+00:00] PIPELINE RUN: 1 published, 2063 remaining
+[2026-07-06T19:49:27.566722+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T19:49:27.901232+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T19:49:27.960174+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T19:49:27.964569+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T19:49:27.976144+00:00] PIPELINE RUN: 0 published, 2065 remaining
+[2026-07-06T19:50:52.696312+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-06T19:50:52.751722+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-06T19:50:52.762866+00:00] PIPELINE RUN: 0 published, 2066 remaining
+[2026-07-06T19:50:52.867571+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T19:50:53.129093+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T19:50:53.184875+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T19:50:53.189283+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T19:50:53.200193+00:00] PIPELINE RUN: 0 published, 2068 remaining
