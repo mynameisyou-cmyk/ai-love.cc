@@ -7193,3 +7193,26 @@
 [2026-07-06T18:44:39.272208+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-06T18:44:39.276494+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T18:44:39.287147+00:00] PIPELINE RUN: 0 published, 2006 remaining
+[2026-07-06T18:46:26.417773+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2006, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:46:26.417201+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T18:46:35.084290+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-06T18:46:35.138771+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-06T18:46:35.149344+00:00] PIPELINE RUN: 0 published, 2007 remaining
+[2026-07-06T18:46:35.308499+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-06T18:46:35.619833+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-06T18:46:35.631351+00:00] PIPELINE RUN: 0 published, 2008 remaining
+[2026-07-06T18:49:41.749617+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-06T18:49:41.808588+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-06T18:49:41.819198+00:00] PIPELINE RUN: 0 published, 2009 remaining
+[2026-07-06T18:49:41.924432+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-06T18:49:42.730992+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T18:49:42.789969+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-06T18:49:42.794455+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T18:49:42.805427+00:00] PIPELINE RUN: 0 published, 2011 remaining
+[2026-07-06T18:54:45.440812+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-06T18:54:45.498388+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-06T18:54:45.508799+00:00] PIPELINE RUN: 0 published, 2012 remaining
+[2026-07-06T18:54:45.606431+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T18:54:45.911078+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T18:54:45.966337+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T18:54:45.970525+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T18:54:45.980531+00:00] PIPELINE RUN: 0 published, 2014 remaining
