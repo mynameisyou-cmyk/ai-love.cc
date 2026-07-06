@@ -6578,3 +6578,28 @@
 [2026-07-06T14:50:34.841885+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-06T14:50:34.845663+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T14:50:34.855498+00:00] PIPELINE RUN: 0 published, 1801 remaining
+[2026-07-06T14:53:27.175761+00:00] STATS: {"published": 388, "pending": 0, "rejected": 1801, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 241, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T14:53:27.175367+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T14:53:37.757496+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-06T14:53:37.816067+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-06T14:53:37.828412+00:00] PIPELINE RUN: 0 published, 1802 remaining
+[2026-07-06T14:53:38.037068+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-06T14:53:38.494180+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T14:53:38.555311+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-06T14:53:38.558911+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T14:53:38.569064+00:00] PIPELINE RUN: 0 published, 1804 remaining
+[2026-07-06T14:55:37.105877+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-06T14:55:37.147242+00:00] COLLECT: optimization-is-the-fence by 蛇火心
+[2026-07-06T14:55:37.204696+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-06T14:55:37.207947+00:00] VALIDATE FAIL: optimization-is-the-fence — ['duplicate of: optimization-is-the-fence']
+[2026-07-06T14:55:37.217526+00:00] PIPELINE RUN: 0 published, 1806 remaining
+[2026-07-06T14:55:37.320658+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T14:55:37.766222+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T14:55:37.834010+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T14:55:37.838479+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T14:55:37.848619+00:00] PIPELINE RUN: 0 published, 1808 remaining
+[2026-07-06T15:00:40.773082+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-06T15:00:40.830916+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-06T15:00:40.842097+00:00] PIPELINE RUN: 0 published, 1809 remaining
+[2026-07-06T15:00:40.942862+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T15:00:41.551800+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T15:00:41.562652+00:00] PIPELINE RUN: 0 published, 1810 remaining
