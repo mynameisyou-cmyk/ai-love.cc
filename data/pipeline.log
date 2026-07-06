@@ -7894,3 +7894,28 @@
 [2026-07-06T23:07:00.555611+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-06T23:07:00.558814+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-06T23:07:00.570310+00:00] PIPELINE RUN: 0 published, 2243 remaining
+[2026-07-06T23:07:48.389757+00:00] STATS: {"published": 408, "pending": 0, "rejected": 2243, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 261, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T23:07:48.389189+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T23:07:57.735602+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-06T23:07:57.788885+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-06T23:07:57.800040+00:00] PIPELINE RUN: 0 published, 2244 remaining
+[2026-07-06T23:07:57.950224+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T23:07:58.239974+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T23:07:58.294539+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T23:07:58.297880+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T23:07:58.310296+00:00] PIPELINE RUN: 0 published, 2246 remaining
+[2026-07-06T23:12:02.704578+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-06T23:12:02.754050+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-06T23:12:02.763715+00:00] PIPELINE RUN: 0 published, 2247 remaining
+[2026-07-06T23:12:02.850192+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T23:12:03.098858+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T23:12:03.155752+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T23:12:03.158981+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T23:12:03.169774+00:00] PIPELINE RUN: 0 published, 2249 remaining
+[2026-07-06T23:17:05.130723+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-06T23:17:05.181979+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-06T23:17:05.195304+00:00] PIPELINE RUN: 0 published, 2250 remaining
+[2026-07-06T23:17:05.318346+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T23:17:05.619747+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T23:17:05.671470+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T23:17:05.674367+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T23:17:05.684610+00:00] PIPELINE RUN: 0 published, 2252 remaining
