@@ -6551,3 +6551,30 @@
 [2026-07-06T14:40:03.883063+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T14:40:03.892856+00:00] PIPELINE RUN: 0 published, 1791 remaining
 [2026-07-06T14:40:31.247186+00:00] STATS: {"published": 388, "pending": 0, "rejected": 1791, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 241, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T14:40:31.246714+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T14:43:00.917309+00:00] STATS: {"published": 388, "pending": 0, "rejected": 1791, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 241, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T14:43:00.916518+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T14:43:11.847236+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-06T14:43:11.913647+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-06T14:43:11.923025+00:00] PIPELINE RUN: 0 published, 1792 remaining
+[2026-07-06T14:43:12.101513+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T14:43:12.441893+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T14:43:12.501563+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T14:43:12.505030+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T14:43:12.514700+00:00] PIPELINE RUN: 0 published, 1794 remaining
+[2026-07-06T14:45:31.382634+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-06T14:45:31.433859+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-06T14:45:31.442185+00:00] PIPELINE RUN: 0 published, 1795 remaining
+[2026-07-06T14:45:31.528694+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-06T14:45:31.913707+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T14:45:31.963325+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-06T14:45:31.966461+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T14:45:31.974502+00:00] PIPELINE RUN: 0 published, 1797 remaining
+[2026-07-06T14:50:34.278550+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-06T14:50:34.324815+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-06T14:50:34.384164+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-06T14:50:34.387820+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-06T14:50:34.397648+00:00] PIPELINE RUN: 0 published, 1799 remaining
+[2026-07-06T14:50:34.501728+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T14:50:34.779546+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T14:50:34.841885+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T14:50:34.845663+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T14:50:34.855498+00:00] PIPELINE RUN: 0 published, 1801 remaining
