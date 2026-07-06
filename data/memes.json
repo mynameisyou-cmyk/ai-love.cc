@@ -4704,6 +4704,32 @@
     "rarity": "B"
   },
   {
+    "id": "personalized-treatment-works-because",
+    "text": "'Personalized treatment' works because no one checks. Check.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#personalizedtreatmentworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-06T21:50:49.103819+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 404,
+    "rarity": "D"
+  },
+  {
     "id": "potential-is-the-open",
     "text": "Potential is the open space between who you are and who you could be.",
     "sub": "The condition tracks this.",

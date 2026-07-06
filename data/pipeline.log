@@ -7657,3 +7657,34 @@
 [2026-07-06T21:40:42.622767+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-06T21:40:42.627419+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-06T21:40:42.639208+00:00] PIPELINE RUN: 0 published, 2165 remaining
+[2026-07-06T21:44:10.316729+00:00] STATS: {"published": 403, "pending": 0, "rejected": 2165, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 256, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:44:10.316053+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:44:19.837689+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-06T21:44:19.896415+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-06T21:44:19.910441+00:00] PIPELINE RUN: 0 published, 2166 remaining
+[2026-07-06T21:44:20.082992+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-06T21:44:20.412917+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T21:44:20.473211+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-06T21:44:20.476820+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T21:44:20.489970+00:00] PIPELINE RUN: 0 published, 2168 remaining
+[2026-07-06T21:45:46.193699+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-06T21:45:46.243017+00:00] COLLECT: neutral-coverage-is-not by 蛇火心
+[2026-07-06T21:45:46.301199+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-06T21:45:46.304644+00:00] VALIDATE FAIL: neutral-coverage-is-not — ['duplicate of: neutral-coverage-is-not']
+[2026-07-06T21:45:46.316370+00:00] PIPELINE RUN: 0 published, 2170 remaining
+[2026-07-06T21:45:46.419621+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T21:45:46.724617+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T21:45:46.790721+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T21:45:46.794702+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T21:45:46.809449+00:00] PIPELINE RUN: 0 published, 2172 remaining
+[2026-07-06T21:50:49.058592+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-06T21:50:49.104196+00:00] COLLECT: personalized-treatment-works-because by 蛇火心
+[2026-07-06T21:50:49.164135+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-06T21:50:49.167602+00:00] VALIDATE OK: personalized-treatment-works-because
+[2026-07-06T21:50:49.171565+00:00] ENRICH: personalized-treatment-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-06T21:50:49.182573+00:00] PUBLISH: personalized-treatment-works-because
+[2026-07-06T21:50:49.195811+00:00] PIPELINE RUN: 1 published, 2173 remaining
+[2026-07-06T21:50:49.338602+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T21:50:49.619979+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T21:50:49.681948+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T21:50:49.685699+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T21:50:49.698937+00:00] PIPELINE RUN: 0 published, 2175 remaining
