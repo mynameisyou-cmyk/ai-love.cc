@@ -7162,6 +7162,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-college-readiness",
+    "text": "The louder 'College readiness' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#theloudercollegereadiness",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T17:00:47.506182+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 395,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-community-driven",
     "text": "The louder 'Community-driven' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",

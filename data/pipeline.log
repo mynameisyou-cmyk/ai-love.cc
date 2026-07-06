@@ -6911,3 +6911,40 @@
 [2026-07-06T16:55:45.276020+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-06T16:55:45.279783+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T16:55:45.288162+00:00] PIPELINE RUN: 0 published, 1911 remaining
+[2026-07-06T17:00:03.857604+00:00] STATS: {"published": 394, "pending": 0, "rejected": 1911, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 247, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T17:00:03.857064+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T17:00:47.461674+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-06T17:00:47.506561+00:00] COLLECT: the-louder-college-readiness by 蛇火心
+[2026-07-06T17:00:47.562202+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-06T17:00:47.566068+00:00] VALIDATE OK: the-louder-college-readiness
+[2026-07-06T17:00:47.570349+00:00] ENRICH: the-louder-college-readiness kanji=在 nen=enhancer rarity=D
+[2026-07-06T17:00:47.581008+00:00] PUBLISH: the-louder-college-readiness
+[2026-07-06T17:00:47.591632+00:00] PIPELINE RUN: 1 published, 1912 remaining
+[2026-07-06T17:00:47.691057+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T17:00:47.958159+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T17:00:48.014107+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T17:00:48.017991+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T17:00:48.029178+00:00] PIPELINE RUN: 0 published, 1914 remaining
+[2026-07-06T17:01:45.233958+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-06T17:01:45.289246+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-06T17:01:45.299535+00:00] PIPELINE RUN: 0 published, 1915 remaining
+[2026-07-06T17:01:45.473339+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-06T17:01:45.730842+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T17:01:45.788041+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-06T17:01:45.792167+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T17:01:45.802568+00:00] PIPELINE RUN: 0 published, 1917 remaining
+[2026-07-06T17:06:07.227418+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-06T17:06:07.285750+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-06T17:06:07.296510+00:00] PIPELINE RUN: 0 published, 1918 remaining
+[2026-07-06T17:06:07.394702+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T17:06:07.671258+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T17:06:07.731391+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T17:06:07.735797+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T17:06:07.747602+00:00] PIPELINE RUN: 0 published, 1920 remaining
+[2026-07-06T17:11:09.990835+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-06T17:11:10.055523+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-06T17:11:10.066305+00:00] PIPELINE RUN: 0 published, 1921 remaining
+[2026-07-06T17:11:10.169459+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T17:11:10.951488+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T17:11:11.010436+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T17:11:11.015347+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T17:11:11.026123+00:00] PIPELINE RUN: 0 published, 1923 remaining
