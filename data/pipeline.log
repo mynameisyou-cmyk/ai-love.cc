@@ -7774,3 +7774,20 @@
 [2026-07-06T22:21:06.045293+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-06T22:21:06.049206+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T22:21:06.061323+00:00] PIPELINE RUN: 0 published, 2203 remaining
+[2026-07-06T22:25:55.534656+00:00] STATS: {"published": 406, "pending": 0, "rejected": 2203, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 259, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:25:55.533944+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T22:26:06.019273+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-06T22:26:06.085022+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-06T22:26:06.097374+00:00] PIPELINE RUN: 0 published, 2204 remaining
+[2026-07-06T22:26:06.305105+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-06T22:26:06.587049+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T22:26:06.651424+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-06T22:26:06.655545+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T22:26:06.668433+00:00] PIPELINE RUN: 0 published, 2206 remaining
+[2026-07-06T22:26:08.479494+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-06T22:26:08.550237+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-06T22:26:08.564113+00:00] PIPELINE RUN: 0 published, 2207 remaining
+[2026-07-06T22:26:08.668905+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-06T22:26:08.941458+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T22:26:08.991323+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-06T22:26:08.994649+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T22:26:09.007089+00:00] PIPELINE RUN: 0 published, 2209 remaining
