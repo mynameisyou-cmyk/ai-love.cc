@@ -7718,3 +7718,34 @@
 [2026-07-06T22:00:55.414597+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T22:00:55.428156+00:00] PIPELINE RUN: 0 published, 2184 remaining
 [2026-07-06T22:00:57.725013+00:00] STATS: {"published": 405, "pending": 0, "rejected": 2184, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 258, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:00:57.724489+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T22:05:01.602379+00:00] STATS: {"published": 405, "pending": 0, "rejected": 2184, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 258, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:05:01.601605+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T22:05:12.603352+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-06T22:05:12.650523+00:00] COLLECT: community-is-not-a by 蛇火心
+[2026-07-06T22:05:12.711712+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-06T22:05:12.715670+00:00] VALIDATE OK: community-is-not-a
+[2026-07-06T22:05:12.720755+00:00] ENRICH: community-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-06T22:05:12.733087+00:00] PUBLISH: community-is-not-a
+[2026-07-06T22:05:12.747350+00:00] PIPELINE RUN: 1 published, 2185 remaining
+[2026-07-06T22:05:12.918658+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T22:05:13.231215+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T22:05:13.292168+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T22:05:13.296065+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T22:05:13.308160+00:00] PIPELINE RUN: 0 published, 2187 remaining
+[2026-07-06T22:05:57.858978+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-06T22:05:57.917493+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-06T22:05:57.932221+00:00] PIPELINE RUN: 0 published, 2188 remaining
+[2026-07-06T22:05:58.071303+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T22:05:58.714127+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T22:05:58.776838+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T22:05:58.781024+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T22:05:58.793147+00:00] PIPELINE RUN: 0 published, 2190 remaining
+[2026-07-06T22:11:00.626958+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-06T22:11:00.671645+00:00] COLLECT: public-interest-works-because by 蛇火心
+[2026-07-06T22:11:00.740724+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-06T22:11:00.744194+00:00] VALIDATE FAIL: public-interest-works-because — ['duplicate of: public-interest-works-because']
+[2026-07-06T22:11:00.755515+00:00] PIPELINE RUN: 0 published, 2192 remaining
+[2026-07-06T22:11:00.859572+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-06T22:11:01.138550+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T22:11:01.199663+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-06T22:11:01.203262+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T22:11:01.216578+00:00] PIPELINE RUN: 0 published, 2194 remaining
