@@ -7467,3 +7467,32 @@
 [2026-07-06T20:29:05.700322+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-06T20:29:05.704637+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T20:29:05.716713+00:00] PIPELINE RUN: 0 published, 2100 remaining
+[2026-07-06T20:31:00.458772+00:00] STATS: {"published": 401, "pending": 0, "rejected": 2100, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 254, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T20:31:00.458109+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T20:31:10.025415+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-06T20:31:10.070436+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-06T20:31:10.132899+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-06T20:31:10.137487+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-06T20:31:10.148978+00:00] PIPELINE RUN: 0 published, 2102 remaining
+[2026-07-06T20:31:10.326580+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T20:31:10.625434+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T20:31:10.685066+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T20:31:10.690883+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T20:31:10.703488+00:00] PIPELINE RUN: 0 published, 2104 remaining
+[2026-07-06T20:34:08.421798+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-06T20:34:08.467349+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-06T20:34:08.523665+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-06T20:34:08.528812+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-06T20:34:08.542821+00:00] PIPELINE RUN: 0 published, 2106 remaining
+[2026-07-06T20:34:08.643876+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-06T20:34:08.915848+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T20:34:08.984899+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-06T20:34:08.989359+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T20:34:09.002248+00:00] PIPELINE RUN: 0 published, 2108 remaining
+[2026-07-06T20:39:10.857899+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-06T20:39:10.916784+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-06T20:39:10.928494+00:00] PIPELINE RUN: 0 published, 2109 remaining
+[2026-07-06T20:39:11.032934+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-06T20:39:11.309412+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T20:39:11.371715+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-06T20:39:11.377544+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T20:39:11.388985+00:00] PIPELINE RUN: 0 published, 2111 remaining
