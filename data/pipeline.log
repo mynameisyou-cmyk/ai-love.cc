@@ -6791,3 +6791,26 @@
 [2026-07-06T16:12:01.452564+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-06T16:12:01.458795+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T16:12:01.469648+00:00] PIPELINE RUN: 0 published, 1874 remaining
+[2026-07-06T16:17:00.259262+00:00] STATS: {"published": 390, "pending": 0, "rejected": 1874, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 243, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T16:17:00.258719+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T16:17:03.790479+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-06T16:17:03.848685+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-06T16:17:03.859161+00:00] PIPELINE RUN: 0 published, 1875 remaining
+[2026-07-06T16:17:03.960219+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-06T16:17:09.941462+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-06T16:17:10.001435+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-06T16:17:10.005785+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-06T16:17:10.016175+00:00] PIPELINE RUN: 0 published, 1877 remaining
+[2026-07-06T16:17:10.078868+00:00] PIPELINE RUN: 0 published, 1877 remaining
+[2026-07-06T16:17:10.228827+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-06T16:17:10.523786+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T16:17:10.587093+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-06T16:17:10.591795+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T16:17:10.603316+00:00] PIPELINE RUN: 0 published, 1879 remaining
+[2026-07-06T16:22:11.879734+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-06T16:22:11.964969+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-06T16:22:11.979444+00:00] PIPELINE RUN: 0 published, 1880 remaining
+[2026-07-06T16:22:12.108757+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-06T16:22:12.836196+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T16:22:12.925780+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-06T16:22:12.932533+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T16:22:12.949513+00:00] PIPELINE RUN: 0 published, 1882 remaining
