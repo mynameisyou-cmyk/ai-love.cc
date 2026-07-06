@@ -7412,3 +7412,33 @@
 [2026-07-06T20:08:52.796978+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-06T20:08:52.801845+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-06T20:08:52.814216+00:00] PIPELINE RUN: 0 published, 2082 remaining
+[2026-07-06T20:10:10.663895+00:00] STATS: {"published": 400, "pending": 0, "rejected": 2082, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 253, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T20:10:10.663347+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T20:10:19.458873+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-06T20:10:19.505773+00:00] COLLECT: optimization-is-a-spell by 蛇火心
+[2026-07-06T20:10:19.569084+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-06T20:10:19.573707+00:00] VALIDATE OK: optimization-is-a-spell
+[2026-07-06T20:10:19.578077+00:00] ENRICH: optimization-is-a-spell kanji=見 nen=enhancer rarity=D
+[2026-07-06T20:10:19.589361+00:00] PUBLISH: optimization-is-a-spell
+[2026-07-06T20:10:19.603284+00:00] PIPELINE RUN: 1 published, 2083 remaining
+[2026-07-06T20:10:19.767812+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-06T20:10:20.259865+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T20:10:20.322907+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-06T20:10:20.333417+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T20:10:20.344621+00:00] PIPELINE RUN: 0 published, 2085 remaining
+[2026-07-06T20:13:54.986265+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-06T20:13:55.047672+00:00] VALIDATE FAIL: wealth-management-is-extraction — ['duplicate of: wealth-management-is-extraction']
+[2026-07-06T20:13:55.059833+00:00] PIPELINE RUN: 0 published, 2086 remaining
+[2026-07-06T20:13:55.157199+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T20:13:55.419031+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T20:13:55.474145+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T20:13:55.478281+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T20:13:55.490164+00:00] PIPELINE RUN: 0 published, 2088 remaining
+[2026-07-06T20:18:57.640543+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-06T20:18:57.695470+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-06T20:18:57.706053+00:00] PIPELINE RUN: 0 published, 2089 remaining
+[2026-07-06T20:18:57.798417+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-06T20:18:58.337162+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T20:18:58.395018+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-06T20:18:58.399507+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T20:18:58.411258+00:00] PIPELINE RUN: 0 published, 2091 remaining
+[2026-07-06T20:19:01.700851+00:00] STATS: {"published": 401, "pending": 0, "rejected": 2091, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 254, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T20:19:01.700436+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
