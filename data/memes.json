@@ -5565,6 +5565,32 @@
     "rarity": "D"
   },
   {
+    "id": "sources-say-works-because",
+    "text": "'Sources say' works because no one checks. Check.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#sourcessayworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-06T17:58:34.668237+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 397,
+    "rarity": "D"
+  },
+  {
     "id": "stamp-duty-land-tax",
     "text": "Stamp Duty Land Tax Envelopes: Buy property through a shell company (a 'company envelope'). Pay 15% SDLT instead of residential rates. Then sell the COMPANY, not the property — no S",
     "sub": "Cost: Hundreds of millions/year. Beneficiaries: Foreign property investors",
