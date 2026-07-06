@@ -7168,3 +7168,28 @@
 [2026-07-06T18:34:32.317902+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T18:34:32.328275+00:00] PIPELINE RUN: 0 published, 1997 remaining
 [2026-07-06T18:34:34.650014+00:00] STATS: {"published": 398, "pending": 0, "rejected": 1997, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:34:34.649381+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T18:36:00.410073+00:00] STATS: {"published": 398, "pending": 0, "rejected": 1997, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T18:36:00.409415+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T18:36:10.852697+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-06T18:36:10.909077+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-06T18:36:10.920104+00:00] PIPELINE RUN: 0 published, 1998 remaining
+[2026-07-06T18:36:11.095426+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-06T18:36:11.440110+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T18:36:11.499984+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-06T18:36:11.504709+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T18:36:11.515726+00:00] PIPELINE RUN: 0 published, 2000 remaining
+[2026-07-06T18:39:34.890415+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-06T18:39:34.954185+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-06T18:39:34.965326+00:00] PIPELINE RUN: 0 published, 2001 remaining
+[2026-07-06T18:39:35.110684+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T18:39:35.389227+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T18:39:35.448446+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T18:39:35.452604+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T18:39:35.464197+00:00] PIPELINE RUN: 0 published, 2003 remaining
+[2026-07-06T18:44:38.746317+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-06T18:44:38.805800+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-06T18:44:38.816115+00:00] PIPELINE RUN: 0 published, 2004 remaining
+[2026-07-06T18:44:38.916913+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T18:44:39.212966+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T18:44:39.272208+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T18:44:39.276494+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T18:44:39.287147+00:00] PIPELINE RUN: 0 published, 2006 remaining
