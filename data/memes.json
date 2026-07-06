@@ -6564,6 +6564,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-don",
+    "text": "The distance between 'Don't be evil' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweendon",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-06T23:57:55.495137+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 410,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-educational",
     "text": "The distance between 'Educational outcomes' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",

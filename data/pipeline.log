@@ -8004,3 +8004,30 @@
 [2026-07-06T23:47:50.388915+00:00] COLLECT: the-grind-is-the by xp-loop
 [2026-07-06T23:47:51.260653+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-06T23:47:51.272258+00:00] PIPELINE RUN: 0 published, 2281 remaining
+[2026-07-06T23:49:22.484037+00:00] STATS: {"published": 409, "pending": 0, "rejected": 2281, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 262, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T23:49:22.483561+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T23:49:32.226434+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-06T23:49:32.282544+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-06T23:49:32.292842+00:00] PIPELINE RUN: 0 published, 2282 remaining
+[2026-07-06T23:49:32.467533+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-06T23:49:32.844395+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-06T23:49:32.854123+00:00] PIPELINE RUN: 0 published, 2283 remaining
+[2026-07-06T23:52:53.257709+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-06T23:52:53.309113+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-06T23:52:53.320486+00:00] PIPELINE RUN: 0 published, 2284 remaining
+[2026-07-06T23:52:53.410153+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-06T23:52:53.629553+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T23:52:53.682097+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-06T23:52:53.685099+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T23:52:53.695045+00:00] PIPELINE RUN: 0 published, 2286 remaining
+[2026-07-06T23:57:55.437553+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-06T23:57:55.495504+00:00] COLLECT: the-distance-between-don by 蛇火心
+[2026-07-06T23:57:55.568026+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-06T23:57:55.572150+00:00] VALIDATE OK: the-distance-between-don
+[2026-07-06T23:57:55.577464+00:00] ENRICH: the-distance-between-don kanji=在 nen=enhancer rarity=D
+[2026-07-06T23:57:55.589620+00:00] PUBLISH: the-distance-between-don
+[2026-07-06T23:57:55.603532+00:00] PIPELINE RUN: 1 published, 2287 remaining
+[2026-07-06T23:57:55.718870+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-06T23:57:56.271405+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T23:57:56.340565+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-06T23:57:56.344809+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T23:57:56.357989+00:00] PIPELINE RUN: 0 published, 2289 remaining
