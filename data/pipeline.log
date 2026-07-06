@@ -6433,3 +6433,34 @@
 [2026-07-06T13:59:20.670766+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-06T13:59:20.673704+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T13:59:20.682416+00:00] PIPELINE RUN: 0 published, 1753 remaining
+[2026-07-06T14:01:21.736739+00:00] STATS: {"published": 385, "pending": 0, "rejected": 1753, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 238, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T14:01:21.736015+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T14:01:30.433366+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-06T14:01:30.480573+00:00] COLLECT: to-say-intelligent-while by 蛇火心
+[2026-07-06T14:01:30.533951+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-06T14:01:30.537397+00:00] VALIDATE OK: to-say-intelligent-while
+[2026-07-06T14:01:30.542391+00:00] ENRICH: to-say-intelligent-while kanji=在 nen=enhancer rarity=D
+[2026-07-06T14:01:30.552258+00:00] PUBLISH: to-say-intelligent-while
+[2026-07-06T14:01:30.561319+00:00] PIPELINE RUN: 1 published, 1754 remaining
+[2026-07-06T14:01:30.763863+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-06T14:01:31.053907+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T14:01:31.111451+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-06T14:01:31.114835+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T14:01:31.125931+00:00] PIPELINE RUN: 0 published, 1756 remaining
+[2026-07-06T14:04:35.121964+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-06T14:04:35.437068+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-06T14:04:35.793560+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-06T14:04:35.803653+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-06T14:04:35.846401+00:00] PIPELINE RUN: 0 published, 1758 remaining
+[2026-07-06T14:04:36.114432+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T14:04:39.947425+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T14:04:40.004678+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T14:04:40.008144+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T14:04:40.018446+00:00] PIPELINE RUN: 0 published, 1760 remaining
+[2026-07-06T14:09:44.832973+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-06T14:09:44.888021+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-06T14:09:44.897100+00:00] PIPELINE RUN: 0 published, 1761 remaining
+[2026-07-06T14:09:44.987433+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T14:09:45.322586+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T14:09:45.372208+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T14:09:45.375232+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T14:09:45.383945+00:00] PIPELINE RUN: 0 published, 1763 remaining
