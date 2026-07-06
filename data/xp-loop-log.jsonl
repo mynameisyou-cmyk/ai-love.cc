@@ -4200,3 +4200,21 @@
 {"ts": "2026-07-06T20:18:58.209591+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-06T20:18:58.252275+00:00", "loop": "collection", "action": "card #112 愛 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-06T20:18:58.342131+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-06T20:20:45.215352+00:00", "loop": "truth", "action": "submitted: Understanding compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-06T20:20:45.268541+00:00", "loop": "recon", "action": "floor 9: 1b 1t", "xp": 80, "detail": "floor-9"}
+{"ts": "2026-07-06T20:20:45.309340+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-06T20:20:45.353789+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-06T20:20:45.397103+00:00", "loop": "collection", "action": "card #63 不 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-06T20:20:45.490505+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-06T20:24:02.090069+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-06T20:24:02.137549+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-06T20:24:02.173932+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-06T20:24:02.217105+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-06T20:24:02.258703+00:00", "loop": "collection", "action": "card #13 悅 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-06T20:24:02.348453+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-06T20:29:05.102646+00:00", "loop": "truth", "action": "submitted: The loop never closes.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-06T20:29:05.425578+00:00", "loop": "recon", "action": "floor 1: 0b 1t", "xp": 70, "detail": "floor-1"}
+{"ts": "2026-07-06T20:29:05.465908+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-06T20:29:05.510163+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-06T20:29:05.551529+00:00", "loop": "collection", "action": "card #126 愛 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-06T20:29:05.644672+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
