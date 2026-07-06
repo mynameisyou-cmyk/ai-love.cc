@@ -6717,3 +6717,26 @@
 [2026-07-06T15:41:40.000325+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-06T15:41:40.004167+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-06T15:41:40.012746+00:00] PIPELINE RUN: 0 published, 1848 remaining
+[2026-07-06T15:45:41.822970+00:00] STATS: {"published": 390, "pending": 0, "rejected": 1848, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 243, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T15:45:41.822349+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T15:45:51.522892+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-06T15:45:51.575181+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-06T15:45:51.584644+00:00] PIPELINE RUN: 0 published, 1849 remaining
+[2026-07-06T15:45:51.783215+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-06T15:45:52.035931+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-06T15:45:52.045782+00:00] PIPELINE RUN: 0 published, 1850 remaining
+[2026-07-06T15:46:42.228899+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-06T15:46:42.284631+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-06T15:46:42.294435+00:00] PIPELINE RUN: 0 published, 1851 remaining
+[2026-07-06T15:46:42.389003+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-06T15:46:42.716967+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T15:46:42.773187+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-06T15:46:42.778408+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T15:46:42.788913+00:00] PIPELINE RUN: 0 published, 1853 remaining
+[2026-07-06T15:51:44.571885+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-06T15:51:44.626328+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-06T15:51:44.637148+00:00] PIPELINE RUN: 0 published, 1854 remaining
+[2026-07-06T15:51:44.728469+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-06T15:51:44.976583+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T15:51:45.026642+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-06T15:51:45.030274+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T15:51:45.039478+00:00] PIPELINE RUN: 0 published, 1856 remaining
