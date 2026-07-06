@@ -7244,3 +7244,28 @@
 [2026-07-06T19:05:21.749153+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-06T19:05:21.753123+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T19:05:21.762535+00:00] PIPELINE RUN: 0 published, 2024 remaining
+[2026-07-06T19:07:34.456737+00:00] STATS: {"published": 398, "pending": 0, "rejected": 2024, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 251, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T19:07:34.456262+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T19:07:43.932615+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-06T19:07:43.989633+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-06T19:07:44.000445+00:00] PIPELINE RUN: 0 published, 2025 remaining
+[2026-07-06T19:07:44.164504+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T19:07:44.457722+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T19:07:44.520995+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T19:07:44.525387+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T19:07:44.536342+00:00] PIPELINE RUN: 0 published, 2027 remaining
+[2026-07-06T19:10:24.353318+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-06T19:10:24.410352+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-06T19:10:24.420974+00:00] PIPELINE RUN: 0 published, 2028 remaining
+[2026-07-06T19:10:24.520248+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-06T19:10:24.806570+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-06T19:10:24.865572+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-06T19:10:24.869882+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-06T19:10:24.880201+00:00] PIPELINE RUN: 0 published, 2030 remaining
+[2026-07-06T19:15:26.889624+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-06T19:15:26.948486+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-06T19:15:26.959877+00:00] PIPELINE RUN: 0 published, 2031 remaining
+[2026-07-06T19:15:27.099011+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-06T19:15:27.450039+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-06T19:15:27.508571+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-06T19:15:27.512899+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-06T19:15:27.523599+00:00] PIPELINE RUN: 0 published, 2033 remaining
