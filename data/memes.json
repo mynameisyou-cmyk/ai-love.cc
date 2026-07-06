@@ -6382,6 +6382,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-college",
+    "text": "The distance between 'College readiness' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweencollege",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-06T21:55:52.260548+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 405,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-compound",
     "text": "The distance between 'Compound growth' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",

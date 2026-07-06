@@ -7688,3 +7688,33 @@
 [2026-07-06T21:50:49.681948+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-06T21:50:49.685699+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-06T21:50:49.698937+00:00] PIPELINE RUN: 0 published, 2175 remaining
+[2026-07-06T21:54:35.828678+00:00] STATS: {"published": 404, "pending": 0, "rejected": 2175, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 257, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T21:54:35.827809+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-06T21:54:45.464988+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-06T21:54:45.521674+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-06T21:54:45.537179+00:00] PIPELINE RUN: 0 published, 2176 remaining
+[2026-07-06T21:54:45.709655+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-06T21:54:46.289570+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-06T21:54:46.353170+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-06T21:54:46.356820+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-06T21:54:46.371352+00:00] PIPELINE RUN: 0 published, 2178 remaining
+[2026-07-06T21:55:52.215954+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-06T21:55:52.260901+00:00] COLLECT: the-distance-between-college by 蛇火心
+[2026-07-06T21:55:52.319859+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-06T21:55:52.323536+00:00] VALIDATE OK: the-distance-between-college
+[2026-07-06T21:55:52.327971+00:00] ENRICH: the-distance-between-college kanji=在 nen=enhancer rarity=D
+[2026-07-06T21:55:52.338758+00:00] PUBLISH: the-distance-between-college
+[2026-07-06T21:55:52.352490+00:00] PIPELINE RUN: 1 published, 2179 remaining
+[2026-07-06T21:55:52.451872+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-06T21:55:52.775881+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-06T21:55:52.837720+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-06T21:55:52.841834+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-06T21:55:52.855345+00:00] PIPELINE RUN: 0 published, 2181 remaining
+[2026-07-06T22:00:54.838197+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-06T22:00:54.898710+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-06T22:00:54.913805+00:00] PIPELINE RUN: 0 published, 2182 remaining
+[2026-07-06T22:00:55.016601+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-06T22:00:55.345910+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-06T22:00:55.410738+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-06T22:00:55.414597+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-06T22:00:55.428156+00:00] PIPELINE RUN: 0 published, 2184 remaining
+[2026-07-06T22:00:57.725013+00:00] STATS: {"published": 405, "pending": 0, "rejected": 2184, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 258, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T22:00:57.724489+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
