@@ -9667,3 +9667,30 @@
 [2026-07-07T15:08:36.552816+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-07T15:08:36.555806+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T15:08:36.566626+00:00] PIPELINE RUN: 0 published, 2841 remaining
+[2026-07-07T15:11:14.518302+00:00] STATS: {"published": 434, "pending": 0, "rejected": 2841, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 287, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T15:11:14.517866+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T15:11:24.879511+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-07T15:11:24.932768+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-07T15:11:24.944175+00:00] PIPELINE RUN: 0 published, 2842 remaining
+[2026-07-07T15:11:25.099685+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T15:11:25.303060+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T15:11:25.350031+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T15:11:25.352898+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T15:11:25.364003+00:00] PIPELINE RUN: 0 published, 2844 remaining
+[2026-07-07T15:13:39.276963+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-07T15:13:39.323157+00:00] COLLECT: data-driven-instruction-is by 蛇火心
+[2026-07-07T15:13:39.385575+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-07T15:13:39.389516+00:00] VALIDATE FAIL: data-driven-instruction-is — ['duplicate of: data-driven-instruction-is']
+[2026-07-07T15:13:39.403725+00:00] PIPELINE RUN: 0 published, 2846 remaining
+[2026-07-07T15:13:39.505353+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-07T15:13:43.934613+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T15:13:43.994855+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-07T15:13:43.998676+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T15:13:44.013300+00:00] PIPELINE RUN: 0 published, 2848 remaining
+[2026-07-07T15:18:46.490311+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-07T15:18:46.554034+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-07T15:18:46.568915+00:00] PIPELINE RUN: 0 published, 2849 remaining
+[2026-07-07T15:18:46.675774+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-07T15:18:46.983487+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T15:18:47.048555+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-07T15:18:47.051908+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T15:18:47.066993+00:00] PIPELINE RUN: 0 published, 2851 remaining
