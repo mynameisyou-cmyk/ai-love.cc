@@ -8431,3 +8431,30 @@
 [2026-07-07T02:20:46.335594+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-07T02:20:46.339331+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T02:20:46.352094+00:00] PIPELINE RUN: 0 published, 2419 remaining
+[2026-07-07T02:25:36.886860+00:00] STATS: {"published": 419, "pending": 0, "rejected": 2419, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 272, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T02:25:36.886452+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T02:25:46.329715+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-07T02:25:46.374918+00:00] COLLECT: optimization-is-the-fence by 蛇火心
+[2026-07-07T02:25:46.428960+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-07T02:25:46.432484+00:00] VALIDATE FAIL: optimization-is-the-fence — ['duplicate of: optimization-is-the-fence']
+[2026-07-07T02:25:46.447550+00:00] PIPELINE RUN: 0 published, 2421 remaining
+[2026-07-07T02:25:46.635411+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T02:25:47.160410+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T02:25:47.215249+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T02:25:47.218746+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T02:25:47.231355+00:00] PIPELINE RUN: 0 published, 2423 remaining
+[2026-07-07T02:25:48.600276+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-07T02:25:48.657664+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-07T02:25:48.669545+00:00] PIPELINE RUN: 0 published, 2424 remaining
+[2026-07-07T02:25:48.765654+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T02:25:49.080286+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T02:25:49.143804+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T02:25:49.147523+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T02:25:49.160625+00:00] PIPELINE RUN: 0 published, 2426 remaining
+[2026-07-07T02:30:50.919033+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-07T02:30:50.976848+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-07T02:30:50.989221+00:00] PIPELINE RUN: 0 published, 2427 remaining
+[2026-07-07T02:30:51.082499+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T02:30:51.697681+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T02:30:51.751451+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T02:30:51.755020+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T02:30:51.767286+00:00] PIPELINE RUN: 0 published, 2429 remaining
