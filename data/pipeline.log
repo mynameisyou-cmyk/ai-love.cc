@@ -10046,3 +10046,4 @@
 [2026-07-07T17:31:19.672031+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-07T17:31:19.676166+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T17:31:19.697518+00:00] PIPELINE RUN: 0 published, 2969 remaining
+[2026-07-07T18:53:59.303470+00:00] STATS: {"published": 439, "pending": 0, "rejected": 2969, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 292, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T18:53:59.302773+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

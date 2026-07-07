@@ -3178,3 +3178,4 @@
 {"ts": "2026-07-07T17:27:40.093352+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Private Equity Carried Interest", "ok": true}}
 {"ts": "2026-07-07T17:27:40.836721+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 540, "ok": true}}
 {"ts": "2026-07-07T17:27:42.690183+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-07T20:07:38.596390+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
