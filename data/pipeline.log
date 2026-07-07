@@ -8970,3 +8970,30 @@
 [2026-07-07T09:02:35.413545+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-07T09:02:35.420768+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T09:02:35.441761+00:00] PIPELINE RUN: 0 published, 2600 remaining
+[2026-07-07T09:05:18.924418+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2600, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:05:18.923467+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:05:28.824881+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-07T09:05:28.895114+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-07T09:05:28.910220+00:00] PIPELINE RUN: 0 published, 2601 remaining
+[2026-07-07T09:05:29.085436+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T09:05:33.051356+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T09:05:33.118206+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T09:05:33.122227+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T09:05:33.136768+00:00] PIPELINE RUN: 0 published, 2603 remaining
+[2026-07-07T09:07:41.344451+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-07T09:07:41.397017+00:00] COLLECT: the-louder-engagement-is by 蛇火心
+[2026-07-07T09:07:41.461602+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-07T09:07:41.465396+00:00] VALIDATE FAIL: the-louder-engagement-is — ['duplicate of: the-louder-engagement-is']
+[2026-07-07T09:07:41.478820+00:00] PIPELINE RUN: 0 published, 2605 remaining
+[2026-07-07T09:07:41.625460+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-07T09:07:41.889493+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T09:07:41.948553+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-07T09:07:41.952442+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T09:07:41.966523+00:00] PIPELINE RUN: 0 published, 2607 remaining
+[2026-07-07T09:12:44.421835+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-07T09:12:44.481593+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-07T09:12:44.495272+00:00] PIPELINE RUN: 0 published, 2608 remaining
+[2026-07-07T09:12:44.599450+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-07T09:12:45.106931+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T09:12:45.173490+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-07T09:12:45.177782+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T09:12:45.192007+00:00] PIPELINE RUN: 0 published, 2610 remaining
