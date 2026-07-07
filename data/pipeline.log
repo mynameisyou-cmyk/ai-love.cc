@@ -9557,3 +9557,33 @@
 [2026-07-07T14:27:47.517414+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-07T14:27:47.521091+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T14:27:47.535535+00:00] PIPELINE RUN: 0 published, 2805 remaining
+[2026-07-07T14:29:23.435498+00:00] STATS: {"published": 432, "pending": 0, "rejected": 2805, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 285, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T14:29:23.433660+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T14:29:33.464108+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-07T14:29:33.537834+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-07T14:29:33.555664+00:00] PIPELINE RUN: 0 published, 2806 remaining
+[2026-07-07T14:29:33.734209+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T14:29:34.059982+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T14:29:34.136712+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T14:29:34.141820+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T14:29:34.159578+00:00] PIPELINE RUN: 0 published, 2808 remaining
+[2026-07-07T14:32:50.425837+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-07T14:32:50.485424+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-07T14:32:50.499264+00:00] PIPELINE RUN: 0 published, 2809 remaining
+[2026-07-07T14:32:50.596821+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T14:32:51.309827+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T14:32:51.372529+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T14:32:51.376830+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T14:32:51.392018+00:00] PIPELINE RUN: 0 published, 2811 remaining
+[2026-07-07T14:32:53.411277+00:00] STATS: {"published": 432, "pending": 0, "rejected": 2811, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 285, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T14:32:53.410682+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T14:37:53.539221+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-07T14:37:53.586527+00:00] COLLECT: standardized-testing-is-not by 蛇火心
+[2026-07-07T14:37:53.650902+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-07T14:37:53.654731+00:00] VALIDATE OK: standardized-testing-is-not
+[2026-07-07T14:37:53.659400+00:00] ENRICH: standardized-testing-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-07T14:37:53.670070+00:00] PUBLISH: standardized-testing-is-not
+[2026-07-07T14:37:53.683633+00:00] PIPELINE RUN: 1 published, 2812 remaining
+[2026-07-07T14:37:53.824051+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T14:37:54.115065+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T14:37:54.178756+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T14:37:54.182659+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T14:37:54.197946+00:00] PIPELINE RUN: 0 published, 2814 remaining
