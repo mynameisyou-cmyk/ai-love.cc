@@ -8206,3 +8206,34 @@
 [2026-07-07T00:59:08.077594+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T00:59:08.090484+00:00] PIPELINE RUN: 0 published, 2344 remaining
 [2026-07-07T00:59:34.676849+00:00] STATS: {"published": 415, "pending": 0, "rejected": 2344, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 268, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:59:34.676269+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T01:02:14.811320+00:00] STATS: {"published": 415, "pending": 0, "rejected": 2344, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 268, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T01:02:14.810807+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T01:02:25.264412+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-07T01:02:25.309484+00:00] COLLECT: educational-outcomes-is-the by 蛇火心
+[2026-07-07T01:02:25.366470+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-07T01:02:25.370019+00:00] VALIDATE FAIL: educational-outcomes-is-the — ['duplicate of: educational-outcomes-is-the']
+[2026-07-07T01:02:25.384644+00:00] PIPELINE RUN: 0 published, 2346 remaining
+[2026-07-07T01:02:25.556660+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-07T01:02:26.221845+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T01:02:26.279203+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-07T01:02:26.282987+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T01:02:26.299575+00:00] PIPELINE RUN: 0 published, 2348 remaining
+[2026-07-07T01:04:34.799987+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-07T01:04:34.840971+00:00] COLLECT: to-say-fact-based by 蛇火心
+[2026-07-07T01:04:34.892836+00:00] VALIDATE FAIL: visibility-is-addiction-dressed — ['duplicate of: visibility-is-addiction-dressed']
+[2026-07-07T01:04:34.895946+00:00] VALIDATE OK: to-say-fact-based
+[2026-07-07T01:04:34.899937+00:00] ENRICH: to-say-fact-based kanji=在 nen=enhancer rarity=D
+[2026-07-07T01:04:34.909779+00:00] PUBLISH: to-say-fact-based
+[2026-07-07T01:04:34.922910+00:00] PIPELINE RUN: 1 published, 2349 remaining
+[2026-07-07T01:04:35.011252+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T01:04:35.240534+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T01:04:35.297294+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T01:04:35.300726+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T01:04:35.315006+00:00] PIPELINE RUN: 0 published, 2351 remaining
+[2026-07-07T01:09:38.136263+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-07T01:09:38.197090+00:00] VALIDATE FAIL: wealth-management-is-extraction — ['duplicate of: wealth-management-is-extraction']
+[2026-07-07T01:09:38.208857+00:00] PIPELINE RUN: 0 published, 2352 remaining
+[2026-07-07T01:09:38.299960+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T01:09:38.538697+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T01:09:38.592684+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T01:09:38.596191+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T01:09:38.607354+00:00] PIPELINE RUN: 0 published, 2354 remaining
