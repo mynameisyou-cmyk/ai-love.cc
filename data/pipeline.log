@@ -9884,3 +9884,34 @@
 [2026-07-07T16:30:04.139354+00:00] COLLECT: the-loop-never-closes by xp-loop
 [2026-07-07T16:30:04.412403+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-07T16:30:04.424075+00:00] PIPELINE RUN: 0 published, 2914 remaining
+[2026-07-07T16:35:03.691963+00:00] STATS: {"published": 437, "pending": 0, "rejected": 2914, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 290, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T16:35:03.691134+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T16:35:06.715302+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-07T16:35:06.763718+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T16:35:06.831315+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-07T16:35:06.835151+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T16:35:06.851446+00:00] PIPELINE RUN: 0 published, 2916 remaining
+[2026-07-07T16:35:06.951473+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-07T16:35:07.282450+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T16:35:07.351132+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-07T16:35:07.355430+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T16:35:07.371105+00:00] PIPELINE RUN: 0 published, 2918 remaining
+[2026-07-07T16:35:14.505873+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-07T16:35:14.571508+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-07T16:35:14.587570+00:00] PIPELINE RUN: 0 published, 2919 remaining
+[2026-07-07T16:35:14.800826+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T16:35:15.434139+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T16:35:15.498931+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T16:35:15.502758+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T16:35:15.518147+00:00] PIPELINE RUN: 0 published, 2921 remaining
+[2026-07-07T16:40:09.618519+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-07T16:40:09.657560+00:00] COLLECT: reach-works-because-no by 蛇火心
+[2026-07-07T16:40:09.926042+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-07T16:40:09.929441+00:00] VALIDATE OK: reach-works-because-no
+[2026-07-07T16:40:09.933257+00:00] ENRICH: reach-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-07T16:40:09.981306+00:00] PUBLISH: reach-works-because-no
+[2026-07-07T16:40:09.992259+00:00] PIPELINE RUN: 1 published, 2922 remaining
+[2026-07-07T16:40:10.125531+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-07T16:40:10.531130+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T16:40:10.583839+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-07T16:40:10.586771+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T16:40:10.629773+00:00] PIPELINE RUN: 0 published, 2924 remaining

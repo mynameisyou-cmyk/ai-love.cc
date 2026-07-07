@@ -5365,6 +5365,32 @@
     "rarity": "D"
   },
   {
+    "id": "reach-works-because-no",
+    "text": "'Reach' works because no one checks. Check.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#reachworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-07T16:40:09.657195+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 438,
+    "rarity": "D"
+  },
+  {
     "id": "recharge-by-waiting",
     "text": "Recharge by waiting.",
     "sub": "Potential accumulates in silence.",

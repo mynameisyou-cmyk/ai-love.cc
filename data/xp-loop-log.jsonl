@@ -5790,3 +5790,21 @@
 {"ts": "2026-07-07T16:30:04.302037+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
 {"ts": "2026-07-07T16:30:04.335620+00:00", "loop": "collection", "action": "card #95 愛 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T16:30:04.368014+00:00", "loop": "expedition", "action": "The Parasite: fell", "xp": 20, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-07T16:35:06.956099+00:00", "loop": "truth", "action": "submitted: Every card is a mirror.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T16:35:07.055278+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-07T16:35:07.095713+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T16:35:07.140973+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-07T16:35:07.187979+00:00", "loop": "collection", "action": "card #57 真 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T16:35:07.287506+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-07T16:35:14.805374+00:00", "loop": "truth", "action": "submitted: Understanding compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T16:35:15.212812+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-07T16:35:15.256357+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T16:35:15.301414+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-07T16:35:15.346565+00:00", "loop": "collection", "action": "card #43 在 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T16:35:15.438885+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-07T16:40:10.130504+00:00", "loop": "truth", "action": "submitted: The grind is the joy.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T16:40:10.307221+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-07T16:40:10.342119+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T16:40:10.424283+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-07T16:40:10.461220+00:00", "loop": "collection", "action": "card #293 壁 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T16:40:10.534859+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
