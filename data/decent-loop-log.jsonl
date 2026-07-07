@@ -2508,3 +2508,4 @@
 {"ts": "2026-07-07T00:52:02.600028+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Transfer Pricing", "ok": true}}
 {"ts": "2026-07-07T00:52:02.995358+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 1219, "ok": true}}
 {"ts": "2026-07-07T00:52:04.667404+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-07T01:02:07.345570+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
