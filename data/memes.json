@@ -7812,6 +7812,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-likes-is",
+    "text": "The louder 'Likes' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderlikesis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-07T00:41:37.556513+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 413,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-machine-learning",
     "text": "The louder 'Machine learning fairness' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
@@ -7887,6 +7913,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 332,
+    "rarity": "D"
+  },
+  {
+    "id": "the-louder-privacy-first",
+    "text": "The louder 'Privacy-first' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderprivacyfirst",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-07T00:49:00.936702+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 414,
     "rarity": "D"
   },
   {

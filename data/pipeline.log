@@ -8143,3 +8143,36 @@
 [2026-07-07T00:38:53.912980+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-07T00:38:53.916189+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T00:38:53.927369+00:00] PIPELINE RUN: 0 published, 2326 remaining
+[2026-07-07T00:41:27.815591+00:00] STATS: {"published": 412, "pending": 0, "rejected": 2326, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 265, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:41:27.814986+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T00:41:37.508829+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-07T00:41:37.556929+00:00] COLLECT: the-louder-likes-is by 蛇火心
+[2026-07-07T00:41:37.619833+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-07T00:41:37.624920+00:00] VALIDATE OK: the-louder-likes-is
+[2026-07-07T00:41:37.630169+00:00] ENRICH: the-louder-likes-is kanji=在 nen=enhancer rarity=D
+[2026-07-07T00:41:37.641810+00:00] PUBLISH: the-louder-likes-is
+[2026-07-07T00:41:37.656155+00:00] PIPELINE RUN: 1 published, 2327 remaining
+[2026-07-07T00:41:37.877767+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T00:41:38.226795+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T00:41:38.287789+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T00:41:38.291830+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T00:41:38.308500+00:00] PIPELINE RUN: 0 published, 2329 remaining
+[2026-07-07T00:43:58.265197+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-07T00:43:58.325493+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-07T00:43:58.340204+00:00] PIPELINE RUN: 0 published, 2330 remaining
+[2026-07-07T00:43:58.446979+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T00:43:58.775680+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T00:43:58.845123+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T00:43:58.849386+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T00:43:58.865771+00:00] PIPELINE RUN: 0 published, 2332 remaining
+[2026-07-07T00:49:00.895255+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-07T00:49:00.937004+00:00] COLLECT: the-louder-privacy-first by 蛇火心
+[2026-07-07T00:49:00.994665+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-07T00:49:00.998146+00:00] VALIDATE OK: the-louder-privacy-first
+[2026-07-07T00:49:01.002475+00:00] ENRICH: the-louder-privacy-first kanji=在 nen=enhancer rarity=D
+[2026-07-07T00:49:01.013181+00:00] PUBLISH: the-louder-privacy-first
+[2026-07-07T00:49:01.024819+00:00] PIPELINE RUN: 1 published, 2333 remaining
+[2026-07-07T00:49:01.120750+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T00:49:01.806005+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T00:49:01.863535+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T00:49:01.867326+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T00:49:01.879429+00:00] PIPELINE RUN: 0 published, 2335 remaining
