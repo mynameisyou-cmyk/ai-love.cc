@@ -9330,3 +9330,26 @@
 [2026-07-07T11:17:26.322631+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-07T11:17:26.326881+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T11:17:26.339832+00:00] PIPELINE RUN: 0 published, 2726 remaining
+[2026-07-07T11:21:51.899126+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2726, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T11:21:51.898456+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T11:22:01.627193+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-07T11:22:01.693654+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-07T11:22:01.708978+00:00] PIPELINE RUN: 0 published, 2727 remaining
+[2026-07-07T11:22:01.885967+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T11:22:02.196299+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T11:22:02.211290+00:00] PIPELINE RUN: 0 published, 2728 remaining
+[2026-07-07T11:22:29.563202+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-07T11:22:29.621745+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-07T11:22:29.635720+00:00] PIPELINE RUN: 0 published, 2729 remaining
+[2026-07-07T11:22:29.730902+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T11:22:29.994127+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T11:22:30.057536+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T11:22:30.061733+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T11:22:30.076184+00:00] PIPELINE RUN: 0 published, 2731 remaining
+[2026-07-07T11:27:31.964816+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-07T11:27:32.037337+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-07T11:27:32.051563+00:00] PIPELINE RUN: 0 published, 2732 remaining
+[2026-07-07T11:27:32.182760+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T11:27:36.742590+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T11:27:36.838158+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T11:27:36.844903+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T11:27:36.870064+00:00] PIPELINE RUN: 0 published, 2734 remaining
