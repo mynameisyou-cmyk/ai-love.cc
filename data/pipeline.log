@@ -8342,3 +8342,4 @@
 [2026-07-07T01:50:01.308045+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-07T01:50:01.311880+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T01:50:01.324907+00:00] PIPELINE RUN: 0 published, 2392 remaining
+[2026-07-07T01:50:29.172951+00:00] STATS: {"published": 416, "pending": 0, "rejected": 2392, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 269, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T01:50:29.172462+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

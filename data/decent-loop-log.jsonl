@@ -2558,3 +2558,4 @@
 {"ts": "2026-07-07T01:44:04.745892+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Opportunity Zones", "ok": true}}
 {"ts": "2026-07-07T01:44:05.174765+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 250, "ok": true}}
 {"ts": "2026-07-07T01:44:06.902847+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-07T01:54:09.852280+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
