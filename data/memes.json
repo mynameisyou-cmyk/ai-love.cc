@@ -6980,6 +6980,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-too",
+    "text": "The distance between 'Too big to fail' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweentoo",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-07T02:05:35.685062+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 418,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-transparency",
     "text": "The distance between 'Transparency' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",

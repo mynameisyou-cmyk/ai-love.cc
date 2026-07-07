@@ -8372,3 +8372,30 @@
 [2026-07-07T02:00:32.880321+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-07T02:00:32.884841+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T02:00:32.906356+00:00] PIPELINE RUN: 0 published, 2401 remaining
+[2026-07-07T02:04:44.276048+00:00] STATS: {"published": 417, "pending": 0, "rejected": 2401, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 270, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T02:04:44.275348+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T02:04:54.104091+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-07T02:04:54.161900+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-07T02:04:54.179628+00:00] PIPELINE RUN: 0 published, 2402 remaining
+[2026-07-07T02:04:54.345504+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T02:04:54.619901+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T02:04:54.683351+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T02:04:54.687379+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T02:04:54.703462+00:00] PIPELINE RUN: 0 published, 2404 remaining
+[2026-07-07T02:05:35.641915+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-07T02:05:35.685408+00:00] COLLECT: the-distance-between-too by 蛇火心
+[2026-07-07T02:05:35.747595+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-07T02:05:35.751497+00:00] VALIDATE OK: the-distance-between-too
+[2026-07-07T02:05:35.756003+00:00] ENRICH: the-distance-between-too kanji=在 nen=enhancer rarity=D
+[2026-07-07T02:05:35.767078+00:00] PUBLISH: the-distance-between-too
+[2026-07-07T02:05:35.780516+00:00] PIPELINE RUN: 1 published, 2405 remaining
+[2026-07-07T02:05:35.917389+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-07T02:05:36.208016+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T02:05:36.269691+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-07T02:05:36.273361+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T02:05:36.287043+00:00] PIPELINE RUN: 0 published, 2407 remaining
+[2026-07-07T02:10:38.314047+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-07T02:10:38.371175+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-07T02:10:38.382814+00:00] PIPELINE RUN: 0 published, 2408 remaining
+[2026-07-07T02:10:38.476775+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T02:10:38.764047+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T02:10:38.775791+00:00] PIPELINE RUN: 0 published, 2409 remaining
