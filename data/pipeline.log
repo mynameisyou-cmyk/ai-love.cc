@@ -8892,3 +8892,28 @@
 [2026-07-07T08:31:21.059532+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T08:31:21.073459+00:00] PIPELINE RUN: 0 published, 2572 remaining
 [2026-07-07T08:31:23.680862+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2572, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:31:23.679156+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:33:51.940749+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2572, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:33:51.939099+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:34:01.899335+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-07T08:34:01.980292+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-07T08:34:01.998816+00:00] PIPELINE RUN: 0 published, 2573 remaining
+[2026-07-07T08:34:02.288352+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T08:34:02.809543+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T08:34:02.913635+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T08:34:02.919840+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T08:34:02.942313+00:00] PIPELINE RUN: 0 published, 2575 remaining
+[2026-07-07T08:36:23.883104+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-07T08:36:23.940379+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-07T08:36:23.952335+00:00] PIPELINE RUN: 0 published, 2576 remaining
+[2026-07-07T08:36:24.048733+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T08:36:28.579824+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T08:36:28.640344+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T08:36:28.644021+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T08:36:28.655977+00:00] PIPELINE RUN: 0 published, 2578 remaining
+[2026-07-07T08:41:31.072807+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-07T08:41:31.138249+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-07T08:41:31.152311+00:00] PIPELINE RUN: 0 published, 2579 remaining
+[2026-07-07T08:41:31.260549+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T08:41:31.855471+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T08:41:31.920596+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T08:41:31.925015+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T08:41:31.938960+00:00] PIPELINE RUN: 0 published, 2581 remaining
