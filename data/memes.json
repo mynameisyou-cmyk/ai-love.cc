@@ -2187,6 +2187,32 @@
     "rarity": "D"
   },
   {
+    "id": "engagement-is-a-spell",
+    "text": "'Engagement' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#engagementisaspell",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-07T09:36:56.027298+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 428,
+    "rarity": "D"
+  },
+  {
     "id": "engagement-is-addiction-dressed",
     "text": "'Engagement' is addiction dressed as connection.",
     "sub": "The platform profits from your attention. Your attention is the product.",

@@ -9052,3 +9052,32 @@
 [2026-07-07T09:32:58.995684+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-07T09:32:59.000658+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T09:32:59.014109+00:00] PIPELINE RUN: 0 published, 2630 remaining
+[2026-07-07T09:36:46.018628+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2630, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:36:46.017767+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:36:55.978744+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-07T09:36:56.027710+00:00] COLLECT: engagement-is-a-spell by 蛇火心
+[2026-07-07T09:36:56.092183+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-07T09:36:56.096307+00:00] VALIDATE OK: engagement-is-a-spell
+[2026-07-07T09:36:56.100653+00:00] ENRICH: engagement-is-a-spell kanji=見 nen=enhancer rarity=D
+[2026-07-07T09:36:56.113012+00:00] PUBLISH: engagement-is-a-spell
+[2026-07-07T09:36:56.128212+00:00] PIPELINE RUN: 1 published, 2631 remaining
+[2026-07-07T09:36:56.314656+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-07T09:36:56.633687+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T09:36:56.697483+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-07T09:36:56.701811+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T09:36:56.715692+00:00] PIPELINE RUN: 0 published, 2633 remaining
+[2026-07-07T09:38:01.386281+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-07T09:38:01.447355+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-07T09:38:01.460840+00:00] PIPELINE RUN: 0 published, 2634 remaining
+[2026-07-07T09:38:01.563060+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T09:38:02.226646+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T09:38:02.291974+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T09:38:02.295849+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T09:38:02.310476+00:00] PIPELINE RUN: 0 published, 2636 remaining
+[2026-07-07T09:43:04.623451+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-07T09:43:04.689896+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-07T09:43:04.701963+00:00] PIPELINE RUN: 0 published, 2637 remaining
+[2026-07-07T09:43:04.839615+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T09:43:05.195625+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T09:43:05.259188+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T09:43:05.263050+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T09:43:05.277178+00:00] PIPELINE RUN: 0 published, 2639 remaining
