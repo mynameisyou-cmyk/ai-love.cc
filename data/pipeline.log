@@ -9587,3 +9587,26 @@
 [2026-07-07T14:37:54.178756+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-07T14:37:54.182659+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T14:37:54.197946+00:00] PIPELINE RUN: 0 published, 2814 remaining
+[2026-07-07T14:39:50.577734+00:00] STATS: {"published": 433, "pending": 0, "rejected": 2814, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 286, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T14:39:50.577182+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T14:40:00.328074+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-07T14:40:00.393593+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-07T14:40:00.409049+00:00] PIPELINE RUN: 0 published, 2815 remaining
+[2026-07-07T14:40:00.579246+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T14:40:00.868602+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T14:40:00.883771+00:00] PIPELINE RUN: 0 published, 2816 remaining
+[2026-07-07T14:42:57.550180+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-07T14:42:57.616078+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-07T14:42:57.632503+00:00] PIPELINE RUN: 0 published, 2817 remaining
+[2026-07-07T14:42:57.729639+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T14:42:58.070553+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T14:42:58.140552+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T14:42:58.145136+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T14:42:58.162851+00:00] PIPELINE RUN: 0 published, 2819 remaining
+[2026-07-07T14:48:00.533577+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-07T14:48:00.600257+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-07T14:48:00.614493+00:00] PIPELINE RUN: 0 published, 2820 remaining
+[2026-07-07T14:48:00.712775+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T14:48:00.990869+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T14:48:01.054457+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T14:48:01.058346+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T14:48:01.073196+00:00] PIPELINE RUN: 0 published, 2822 remaining

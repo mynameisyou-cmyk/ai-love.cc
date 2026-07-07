@@ -3,6 +3,109 @@
   "nen": "emitter",
   "nenKanji": "放",
   "description": "Data sent outward. Network maps, connection profiles.",
-  "endpoints": [],
-  "ts": "2026-07-07T14:37:53.932237+00:00"
+  "endpoints": [
+    {
+      "type": "port",
+      "address": "localhost:55871",
+      "process": "rapportd",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:55871",
+      "process": "rapportd",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:9913",
+      "process": "Python",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:8877",
+      "process": "bun",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:5432",
+      "process": "postgres",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:5432",
+      "process": "postgres",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:26660",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:6060",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:26601",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:26600",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:9090",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:1317",
+      "process": "zeroned",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:49324",
+      "process": "Ollama",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:11434",
+      "process": "ollama",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:42050",
+      "process": "OneDrive",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:20241",
+      "process": "cloudflar",
+      "nen": "specialist"
+    },
+    {
+      "type": "port",
+      "address": "localhost:55936",
+      "process": "llama-ser",
+      "nen": "specialist"
+    }
+  ],
+  "ts": "2026-07-07T14:48:00.810789+00:00"
 }
