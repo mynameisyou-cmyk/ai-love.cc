@@ -8862,3 +8862,33 @@
 [2026-07-07T08:20:59.652283+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-07T08:20:59.656034+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T08:20:59.669083+00:00] PIPELINE RUN: 0 published, 2563 remaining
+[2026-07-07T08:22:40.729729+00:00] STATS: {"published": 426, "pending": 0, "rejected": 2563, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 279, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:22:40.729123+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:23:25.981067+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-07T08:23:26.042144+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-07T08:23:26.055920+00:00] PIPELINE RUN: 0 published, 2564 remaining
+[2026-07-07T08:23:26.215747+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T08:23:26.494603+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T08:23:26.557565+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T08:23:26.561825+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T08:23:26.575907+00:00] PIPELINE RUN: 0 published, 2566 remaining
+[2026-07-07T08:26:16.162225+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-07T08:26:16.205703+00:00] COLLECT: oversight-is-not-a by 蛇火心
+[2026-07-07T08:26:16.304156+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-07T08:26:16.307691+00:00] VALIDATE OK: oversight-is-not-a
+[2026-07-07T08:26:16.313704+00:00] ENRICH: oversight-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-07T08:26:16.329759+00:00] PUBLISH: oversight-is-not-a
+[2026-07-07T08:26:16.340779+00:00] PIPELINE RUN: 1 published, 2567 remaining
+[2026-07-07T08:26:16.483369+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T08:26:16.818043+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T08:26:16.865770+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T08:26:16.868519+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T08:26:16.878420+00:00] PIPELINE RUN: 0 published, 2569 remaining
+[2026-07-07T08:31:20.534609+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-07T08:31:20.600704+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-07T08:31:20.613736+00:00] PIPELINE RUN: 0 published, 2570 remaining
+[2026-07-07T08:31:20.716073+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T08:31:20.991825+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T08:31:21.055650+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T08:31:21.059532+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T08:31:21.073459+00:00] PIPELINE RUN: 0 published, 2572 remaining
+[2026-07-07T08:31:23.680862+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2572, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:31:23.679156+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

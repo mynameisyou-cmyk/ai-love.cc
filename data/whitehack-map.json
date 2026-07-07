@@ -1,30 +1,36 @@
 {
-  "ts": "2026-07-07T08:20:59.377801+00:00",
+  "ts": "2026-07-07T08:31:20.767278+00:00",
   "floors": [
     {
-      "floor": 2,
-      "name": "Network",
-      "nen": "emitter",
-      "nenKanji": "放",
+      "floor": 9,
+      "name": "SSH & Connections",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 utun0 utun1 utun2 utun3 awdl0 llw0 utun4 utun5 utun6",
-        "wifi": "You are not associated with an AirPort network.",
-        "ip_en0": "192.168.50.105",
-        "arp_table": "",
-        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun4              UGdScg              utun4       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.135.141.187     UH                  utun4       \n10.64.0.1          utun4              UGHdS               utun4       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.18.231.147     127.18.231.147     UH                    lo0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !\n192.168.50.1       8:bf:b8:a:c2:a0    UHLWIir               en0   1185",
-        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.18.231.147\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
       },
       "xp": 80
     }
   ],
-  "battles": [],
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Verify hosts are still active."
+    }
+  ],
   "treasures": [
     {
-      "type": "network",
-      "name": "Active IP: 192.168.50.105",
-      "description": "Connected via en0. IP 192.168.50.105.",
-      "nen": "emitter",
-      "value": "medium"
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
+      "value": "high"
     }
   ],
   "xpEarned": 80
