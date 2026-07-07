@@ -1,95 +1,19 @@
 {
-  "ts": "2026-07-07T17:16:06.052907+00:00",
+  "ts": "2026-07-07T17:26:12.876792+00:00",
   "floors": [
     {
-      "floor": 11,
-      "name": "Installed Applications",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 7,
+      "name": "Power",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "apps": [
-          "Claude",
-          "Cursor",
-          "DBeaver",
-          "Docker",
-          "Firefox",
-          "Google Chrome",
-          "Intiface Central",
-          "Keynote",
-          "Ledger Wallet",
-          "Microsoft Defender Shim",
-          "Microsoft Excel",
-          "Microsoft OneNote",
-          "Microsoft Outlook",
-          "Microsoft PowerPoint",
-          "Microsoft Teams",
-          "Microsoft Word",
-          "Mullvad VPN",
-          "Numbers",
-          "Ollama",
-          "OneDrive",
-          "Pages",
-          "Python 3.14",
-          "Rectangle",
-          "Safari",
-          "Signal",
-          "Utilities",
-          "Visual Studio Code",
-          "VisualDesigner",
-          "iTerm"
-        ],
-        "appCount": 29,
-        "categories": {
-          "AI": [
-            "Claude",
-            "Cursor",
-            "Ollama"
-          ],
-          "Dev": [
-            "DBeaver",
-            "Docker",
-            "iTerm"
-          ],
-          "VPN": [
-            "Mullvad VPN"
-          ],
-          "Office": [
-            "Keynote",
-            "Microsoft Defender Shim",
-            "Microsoft Excel",
-            "Microsoft OneNote",
-            "Microsoft Outlook",
-            "Microsoft PowerPoint",
-            "Microsoft Teams",
-            "Microsoft Word",
-            "Numbers"
-          ],
-          "Browser": [
-            "Firefox",
-            "Google Chrome",
-            "Safari"
-          ]
-        }
+        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                1 (sleep prevented by powerd, sharingd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 0",
+        "battery": "Now drawing from 'Battery Power'\n -InternalBattery-0 (id=21299299)\t71%; discharging; 3:36 remaining present: true"
       },
-      "xp": 50
+      "xp": 40
     }
   ],
   "battles": [],
-  "treasures": [
-    {
-      "type": "apps",
-      "name": "AI Tools: Claude, Cursor, Ollama",
-      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
-      "nen": "enhancer",
-      "value": "high"
-    },
-    {
-      "type": "apps",
-      "name": "VPN: Mullvad VPN",
-      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
-      "nen": "conjurer",
-      "value": "medium"
-    }
-  ],
-  "xpEarned": 50
+  "treasures": [],
+  "xpEarned": 40
 }

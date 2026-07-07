@@ -4092,6 +4092,32 @@
     "rarity": "D"
   },
   {
+    "id": "neutral-coverage-works-because",
+    "text": "'Neutral coverage' works because no one checks. Check.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#neutralcoverageworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-07T17:26:12.600654+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 439,
+    "rarity": "D"
+  },
+  {
     "id": "neutral-platform-is-the",
     "text": "'Neutral platform' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",

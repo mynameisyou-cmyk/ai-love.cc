@@ -10000,3 +10000,32 @@
 [2026-07-07T17:16:06.408308+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-07T17:16:06.413170+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T17:16:06.431439+00:00] PIPELINE RUN: 0 published, 2954 remaining
+[2026-07-07T17:17:03.199448+00:00] STATS: {"published": 438, "pending": 0, "rejected": 2954, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 291, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T17:17:03.198822+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T17:17:13.372264+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-07T17:17:13.437338+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-07T17:17:13.453147+00:00] PIPELINE RUN: 0 published, 2955 remaining
+[2026-07-07T17:17:13.628347+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T17:17:13.964838+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T17:17:14.030357+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T17:17:14.034700+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T17:17:14.050013+00:00] PIPELINE RUN: 0 published, 2957 remaining
+[2026-07-07T17:21:09.315261+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-07T17:21:09.403054+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-07T17:21:09.418383+00:00] PIPELINE RUN: 0 published, 2958 remaining
+[2026-07-07T17:21:09.520167+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-07T17:21:09.824279+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T17:21:09.906149+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-07T17:21:09.910839+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T17:21:09.929498+00:00] PIPELINE RUN: 0 published, 2960 remaining
+[2026-07-07T17:26:12.557788+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-07T17:26:12.601063+00:00] COLLECT: neutral-coverage-works-because by 蛇火心
+[2026-07-07T17:26:12.664747+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-07T17:26:12.668516+00:00] VALIDATE OK: neutral-coverage-works-because
+[2026-07-07T17:26:12.672751+00:00] ENRICH: neutral-coverage-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-07T17:26:12.684267+00:00] PUBLISH: neutral-coverage-works-because
+[2026-07-07T17:26:12.699048+00:00] PIPELINE RUN: 1 published, 2961 remaining
+[2026-07-07T17:26:12.805777+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T17:26:13.120899+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T17:26:13.189406+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T17:26:13.193835+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T17:26:13.210511+00:00] PIPELINE RUN: 0 published, 2963 remaining
