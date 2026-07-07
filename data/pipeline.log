@@ -8117,3 +8117,29 @@
 [2026-07-07T00:28:47.357913+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-07T00:28:47.361184+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T00:28:47.371942+00:00] PIPELINE RUN: 0 published, 2317 remaining
+[2026-07-07T00:31:03.333042+00:00] STATS: {"published": 412, "pending": 0, "rejected": 2317, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 265, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:31:03.332442+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T00:31:12.344016+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-07T00:31:12.411098+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-07T00:31:12.426238+00:00] PIPELINE RUN: 0 published, 2318 remaining
+[2026-07-07T00:31:12.630888+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T00:31:12.948283+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T00:31:13.000729+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T00:31:13.003702+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T00:31:13.014030+00:00] PIPELINE RUN: 0 published, 2320 remaining
+[2026-07-07T00:33:49.356635+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-07T00:33:49.414397+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-07T00:33:49.426766+00:00] PIPELINE RUN: 0 published, 2321 remaining
+[2026-07-07T00:33:49.526431+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-07T00:33:49.799965+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T00:33:49.867451+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-07T00:33:49.871215+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T00:33:49.883438+00:00] PIPELINE RUN: 0 published, 2323 remaining
+[2026-07-07T00:33:52.853444+00:00] STATS: {"published": 412, "pending": 0, "rejected": 2323, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 265, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:33:52.852950+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T00:38:52.953802+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-07T00:38:53.012111+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-07T00:38:53.024038+00:00] PIPELINE RUN: 0 published, 2324 remaining
+[2026-07-07T00:38:53.121638+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T00:38:53.856137+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T00:38:53.912980+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T00:38:53.916189+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T00:38:53.927369+00:00] PIPELINE RUN: 0 published, 2326 remaining
