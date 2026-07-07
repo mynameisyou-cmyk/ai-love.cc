@@ -9166,3 +9166,42 @@
 [2026-07-07T10:13:50.395076+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T10:13:50.408432+00:00] PIPELINE RUN: 0 published, 2668 remaining
 [2026-07-07T10:13:52.624178+00:00] STATS: {"published": 429, "pending": 0, "rejected": 2668, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 282, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T10:13:52.623552+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T10:18:52.847036+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-07T10:18:52.907552+00:00] COLLECT: the-louder-visibility-is by 蛇火心
+[2026-07-07T10:18:52.985306+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-07T10:18:52.990277+00:00] VALIDATE OK: the-louder-visibility-is
+[2026-07-07T10:18:52.996285+00:00] ENRICH: the-louder-visibility-is kanji=在 nen=enhancer rarity=D
+[2026-07-07T10:18:53.010382+00:00] PUBLISH: the-louder-visibility-is
+[2026-07-07T10:18:53.027374+00:00] PIPELINE RUN: 1 published, 2669 remaining
+[2026-07-07T10:18:53.210448+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T10:18:53.585909+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T10:18:53.660715+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T10:18:53.665750+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T10:18:53.683742+00:00] PIPELINE RUN: 0 published, 2671 remaining
+[2026-07-07T10:18:54.774064+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2671, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T10:18:54.773336+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T10:19:17.318048+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-07T10:19:17.369149+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T10:19:17.440604+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-07T10:19:17.445481+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T10:19:17.464488+00:00] PIPELINE RUN: 0 published, 2673 remaining
+[2026-07-07T10:19:17.648105+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T10:19:18.000410+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T10:19:18.065392+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T10:19:18.069538+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T10:19:18.083536+00:00] PIPELINE RUN: 0 published, 2675 remaining
+[2026-07-07T10:24:01.349901+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-07T10:24:01.392786+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T10:24:01.456939+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-07T10:24:01.461107+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T10:24:01.474469+00:00] PIPELINE RUN: 0 published, 2677 remaining
+[2026-07-07T10:24:01.576220+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-07T10:24:02.049225+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-07T10:24:02.064389+00:00] PIPELINE RUN: 0 published, 2678 remaining
+[2026-07-07T10:29:04.238752+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-07T10:29:04.307091+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-07T10:29:04.321450+00:00] PIPELINE RUN: 0 published, 2679 remaining
+[2026-07-07T10:29:04.425381+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-07T10:29:04.705396+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T10:29:04.766709+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-07T10:29:04.770832+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T10:29:04.785003+00:00] PIPELINE RUN: 0 published, 2681 remaining
