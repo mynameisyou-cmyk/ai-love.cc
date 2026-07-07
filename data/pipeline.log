@@ -8959,3 +8959,14 @@
 [2026-07-07T08:56:49.844091+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-07T08:56:49.850275+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T08:56:49.862460+00:00] PIPELINE RUN: 0 published, 2596 remaining
+[2026-07-07T08:57:34.250679+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2596, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:57:34.249556+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:02:34.474278+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-07T09:02:34.521782+00:00] COLLECT: the-louder-best-practices by 蛇火心
+[2026-07-07T09:02:34.587965+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-07T09:02:34.592021+00:00] VALIDATE FAIL: the-louder-best-practices — ['duplicate of: the-louder-best-practices']
+[2026-07-07T09:02:34.606536+00:00] PIPELINE RUN: 0 published, 2598 remaining
+[2026-07-07T09:02:34.714842+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T09:02:35.338192+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T09:02:35.413545+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T09:02:35.420768+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T09:02:35.441761+00:00] PIPELINE RUN: 0 published, 2600 remaining

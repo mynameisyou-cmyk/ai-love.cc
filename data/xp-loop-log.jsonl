@@ -5184,3 +5184,9 @@
 {"ts": "2026-07-07T08:56:49.634180+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-07T08:56:49.683952+00:00", "loop": "collection", "action": "card #16 共 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T08:56:49.783525+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-07T09:02:34.719622+00:00", "loop": "truth", "action": "submitted: Skills unlock skills.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T09:02:35.062243+00:00", "loop": "recon", "action": "floor 1: 0b 1t", "xp": 70, "detail": "floor-1"}
+{"ts": "2026-07-07T09:02:35.106398+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T09:02:35.191042+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-07T09:02:35.244574+00:00", "loop": "collection", "action": "card #211 信 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T09:02:35.344598+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
