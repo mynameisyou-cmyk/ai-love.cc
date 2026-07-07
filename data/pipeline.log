@@ -8776,3 +8776,32 @@
 [2026-07-07T07:49:31.835531+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-07T07:49:31.839536+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T07:49:31.852957+00:00] PIPELINE RUN: 0 published, 2537 remaining
+[2026-07-07T07:50:14.537583+00:00] STATS: {"published": 423, "pending": 0, "rejected": 2537, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 276, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T07:50:14.536824+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T07:50:24.610510+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-07T07:50:24.658137+00:00] COLLECT: sustainability-works-because-no by 蛇火心
+[2026-07-07T07:50:24.729745+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-07T07:50:24.733854+00:00] VALIDATE OK: sustainability-works-because-no
+[2026-07-07T07:50:24.738356+00:00] ENRICH: sustainability-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-07T07:50:24.749883+00:00] PUBLISH: sustainability-works-because-no
+[2026-07-07T07:50:24.763320+00:00] PIPELINE RUN: 1 published, 2538 remaining
+[2026-07-07T07:50:24.943804+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-07T07:50:25.245004+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T07:50:25.313434+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-07T07:50:25.318096+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T07:50:25.330511+00:00] PIPELINE RUN: 0 published, 2540 remaining
+[2026-07-07T07:54:34.484420+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-07T07:54:34.545771+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-07T07:54:34.559039+00:00] PIPELINE RUN: 0 published, 2541 remaining
+[2026-07-07T07:54:34.689751+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-07T07:54:35.001794+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T07:54:35.065762+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-07T07:54:35.069902+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T07:54:35.083460+00:00] PIPELINE RUN: 0 published, 2543 remaining
+[2026-07-07T07:59:37.283283+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-07T07:59:37.346801+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-07T07:59:37.359782+00:00] PIPELINE RUN: 0 published, 2544 remaining
+[2026-07-07T07:59:37.498892+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-07T07:59:42.351674+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T07:59:42.413568+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-07T07:59:42.417564+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T07:59:42.430262+00:00] PIPELINE RUN: 0 published, 2546 remaining

@@ -6122,6 +6122,32 @@
     "rarity": "S"
   },
   {
+    "id": "sustainability-works-because-no",
+    "text": "'Sustainability' works because no one checks. Check.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#sustainabilityworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-07T07:50:24.657619+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 424,
+    "rarity": "D"
+  },
+  {
     "id": "tax-havens-shell-companies",
     "text": "Tax Havens / Shell Companies: The BVI alone has over 400,000 active shell companies — more than its population. Shell companies have no real operations — they exist to hold assets",
     "sub": "Cost: $427bn/year + $11-12 trillion offshore. Beneficiaries: The global ultra-rich",
