@@ -4980,3 +4980,21 @@
 {"ts": "2026-07-07T03:45:54.909190+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-07T03:45:54.994195+00:00", "loop": "collection", "action": "card #276 築 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T03:45:55.178453+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-07T03:49:18.461395+00:00", "loop": "truth", "action": "submitted: Every card is a mirror.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T03:49:18.642614+00:00", "loop": "recon", "action": "floor 12: 1b 2t", "xp": 100, "detail": "floor-12"}
+{"ts": "2026-07-07T03:49:18.720609+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T03:49:18.804861+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-07T03:49:18.889515+00:00", "loop": "collection", "action": "card #322 見 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-07T03:49:19.067820+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-07T03:50:58.225293+00:00", "loop": "truth", "action": "submitted: Every card is a mirror.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T03:50:58.717431+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-07T03:50:58.799507+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T03:50:58.885915+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-07T03:50:58.968284+00:00", "loop": "collection", "action": "card #180 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T03:50:59.145606+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-07T03:56:01.517519+00:00", "loop": "truth", "action": "submitted: The having-happened compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T03:56:01.684121+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-07T03:56:01.759635+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T03:56:01.846547+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-07T03:56:01.931773+00:00", "loop": "collection", "action": "card #49 築 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T03:56:02.125475+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}

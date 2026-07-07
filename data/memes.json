@@ -6694,6 +6694,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-fact",
+    "text": "The distance between 'Fact-based' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweenfact",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-07T03:49:17.949800+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 421,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-fair",
     "text": "The distance between 'Fair and balanced' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
@@ -9263,6 +9289,32 @@
     "nen": "enhancer",
     "cardNumber": 336,
     "rarity": "C"
+  },
+  {
+    "id": "to-say-transparency-while",
+    "text": "To say 'Transparency' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaytransparencywhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-07T03:50:57.782259+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 422,
+    "rarity": "D"
   },
   {
     "id": "to-say-wealth-management",
