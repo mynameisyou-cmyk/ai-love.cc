@@ -9109,3 +9109,30 @@
 [2026-07-07T09:53:36.935268+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-07T09:53:36.939198+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T09:53:36.953519+00:00] PIPELINE RUN: 0 published, 2649 remaining
+[2026-07-07T09:57:37.703124+00:00] STATS: {"published": 428, "pending": 0, "rejected": 2649, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 281, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:57:37.702331+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:57:49.892579+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-07T09:57:49.956964+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-07T09:57:49.971700+00:00] PIPELINE RUN: 0 published, 2650 remaining
+[2026-07-07T09:57:50.143329+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T09:57:50.957072+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T09:57:51.022381+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T09:57:51.026581+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T09:57:51.040973+00:00] PIPELINE RUN: 0 published, 2652 remaining
+[2026-07-07T09:58:39.907528+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-07T09:58:39.974721+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-07T09:58:39.986845+00:00] PIPELINE RUN: 0 published, 2653 remaining
+[2026-07-07T09:58:40.165658+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T09:58:40.491548+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T09:58:40.562809+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T09:58:40.567717+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T09:58:40.583731+00:00] PIPELINE RUN: 0 published, 2655 remaining
+[2026-07-07T10:03:43.020113+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-07T10:03:43.067355+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T10:03:43.132383+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-07T10:03:43.136326+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T10:03:43.150713+00:00] PIPELINE RUN: 0 published, 2657 remaining
+[2026-07-07T10:03:43.256907+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T10:03:43.980868+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T10:03:44.051782+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T10:03:44.055969+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T10:03:44.072013+00:00] PIPELINE RUN: 0 published, 2659 remaining
