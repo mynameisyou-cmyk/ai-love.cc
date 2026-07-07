@@ -8997,3 +8997,31 @@
 [2026-07-07T09:12:45.173490+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-07T09:12:45.177782+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T09:12:45.192007+00:00] PIPELINE RUN: 0 published, 2610 remaining
+[2026-07-07T09:15:52.143707+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2610, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:15:52.143042+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:16:03.155999+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-07T09:16:03.203874+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T09:16:03.272143+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-07T09:16:03.276395+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T09:16:03.290785+00:00] PIPELINE RUN: 0 published, 2612 remaining
+[2026-07-07T09:16:03.464716+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T09:16:03.807975+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T09:16:03.872795+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T09:16:03.876580+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T09:16:03.888943+00:00] PIPELINE RUN: 0 published, 2614 remaining
+[2026-07-07T09:17:49.085400+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-07T09:17:49.149850+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-07T09:17:49.162968+00:00] PIPELINE RUN: 0 published, 2615 remaining
+[2026-07-07T09:17:49.266830+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-07T09:17:49.608461+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T09:17:49.674937+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-07T09:17:49.678860+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T09:17:49.692635+00:00] PIPELINE RUN: 0 published, 2617 remaining
+[2026-07-07T09:22:52.528888+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-07T09:22:52.593066+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-07T09:22:52.606414+00:00] PIPELINE RUN: 0 published, 2618 remaining
+[2026-07-07T09:22:52.708066+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-07T09:22:52.986661+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T09:22:53.050889+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-07T09:22:53.055110+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T09:22:53.070388+00:00] PIPELINE RUN: 0 published, 2620 remaining
+[2026-07-07T09:22:55.507977+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2620, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:22:55.507262+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
