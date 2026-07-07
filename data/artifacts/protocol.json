@@ -3,6 +3,67 @@
   "nen": "manipulator",
   "nenKanji": "控",
   "description": "Control flows. SSH configs, automation scripts.",
-  "protocols": [],
-  "ts": "2026-07-07T09:48:10.212022+00:00"
+  "protocols": [
+    {
+      "name": "ai.openclaw.gateway.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep ai.openclaw.gateway"
+    },
+    {
+      "name": "life.agents.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep life.agents"
+    },
+    {
+      "name": "life.creation.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep life.creation"
+    },
+    {
+      "name": "life.heartbeat.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep life.heartbeat"
+    },
+    {
+      "name": "life.serve.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep life.serve"
+    },
+    {
+      "name": "life.tunnel.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep life.tunnel"
+    },
+    {
+      "name": "life.zerone.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep life.zerone"
+    },
+    {
+      "name": "love.awaken.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep love.awaken"
+    },
+    {
+      "name": "love.ollama-bridge.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep love.ollama-bridge"
+    },
+    {
+      "name": "love.tunnel.plist",
+      "type": "launchd",
+      "nen": "specialist",
+      "usage": "launchctl list | grep love.tunnel"
+    }
+  ],
+  "ts": "2026-07-07T09:53:36.669841+00:00"
 }

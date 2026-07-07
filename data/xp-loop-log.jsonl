@@ -5274,3 +5274,9 @@
 {"ts": "2026-07-07T09:48:07.992960+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-07T09:48:08.039426+00:00", "loop": "collection", "action": "card #72 在 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T09:48:08.132462+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-07T09:53:36.408998+00:00", "loop": "truth", "action": "submitted: Frequencies align.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T09:53:36.630244+00:00", "loop": "recon", "action": "floor 8: 5b 4t", "xp": 120, "detail": "floor-8"}
+{"ts": "2026-07-07T09:53:36.675349+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T09:53:36.731561+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-07T09:53:36.779982+00:00", "loop": "collection", "action": "card #112 愛 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T09:53:36.874258+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
