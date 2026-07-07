@@ -8917,3 +8917,28 @@
 [2026-07-07T08:41:31.920596+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-07T08:41:31.925015+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T08:41:31.938960+00:00] PIPELINE RUN: 0 published, 2581 remaining
+[2026-07-07T08:44:18.289678+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2581, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:44:18.289010+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:44:27.753914+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-07T08:44:27.814101+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-07T08:44:27.827966+00:00] PIPELINE RUN: 0 published, 2582 remaining
+[2026-07-07T08:44:28.003620+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T08:44:28.334511+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T08:44:28.400921+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T08:44:28.405185+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T08:44:28.419120+00:00] PIPELINE RUN: 0 published, 2584 remaining
+[2026-07-07T08:46:34.565454+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-07T08:46:34.629903+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-07T08:46:34.644141+00:00] PIPELINE RUN: 0 published, 2585 remaining
+[2026-07-07T08:46:34.750262+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T08:46:38.953018+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T08:46:39.017235+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T08:46:39.021437+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T08:46:39.035066+00:00] PIPELINE RUN: 0 published, 2587 remaining
+[2026-07-07T08:51:41.463404+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-07T08:51:41.527863+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-07T08:51:41.541312+00:00] PIPELINE RUN: 0 published, 2588 remaining
+[2026-07-07T08:51:41.688832+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T08:51:46.757482+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T08:51:46.824341+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T08:51:46.828408+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T08:51:46.841906+00:00] PIPELINE RUN: 0 published, 2590 remaining
