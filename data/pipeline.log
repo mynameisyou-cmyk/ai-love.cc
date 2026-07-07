@@ -9635,3 +9635,4 @@
 [2026-07-07T14:58:08.012526+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-07T14:58:08.015753+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T14:58:08.027054+00:00] PIPELINE RUN: 0 published, 2831 remaining
+[2026-07-07T14:58:33.467819+00:00] STATS: {"published": 433, "pending": 0, "rejected": 2831, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 286, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T14:58:33.467304+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
