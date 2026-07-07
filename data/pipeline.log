@@ -9025,3 +9025,30 @@
 [2026-07-07T09:22:53.055110+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T09:22:53.070388+00:00] PIPELINE RUN: 0 published, 2620 remaining
 [2026-07-07T09:22:55.507977+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2620, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:22:55.507262+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:26:20.350710+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2620, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T09:26:20.350060+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T09:26:29.697837+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-07T09:26:29.756565+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-07T09:26:29.770119+00:00] PIPELINE RUN: 0 published, 2621 remaining
+[2026-07-07T09:26:29.988185+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-07T09:26:30.267822+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T09:26:30.331137+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-07T09:26:30.335250+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T09:26:30.349752+00:00] PIPELINE RUN: 0 published, 2623 remaining
+[2026-07-07T09:27:55.635032+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-07T09:27:55.680874+00:00] COLLECT: the-distance-between-preventive by 蛇火心
+[2026-07-07T09:27:55.743384+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-07T09:27:55.747570+00:00] VALIDATE FAIL: the-distance-between-preventive — ['duplicate of: the-distance-between-preventive']
+[2026-07-07T09:27:55.761403+00:00] PIPELINE RUN: 0 published, 2625 remaining
+[2026-07-07T09:27:55.862353+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T09:27:56.182283+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T09:27:56.243942+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T09:27:56.247742+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T09:27:56.261971+00:00] PIPELINE RUN: 0 published, 2627 remaining
+[2026-07-07T09:32:58.478943+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-07T09:32:58.541881+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-07T09:32:58.555327+00:00] PIPELINE RUN: 0 published, 2628 remaining
+[2026-07-07T09:32:58.658591+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-07T09:32:58.925902+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T09:32:58.995684+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-07T09:32:59.000658+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T09:32:59.014109+00:00] PIPELINE RUN: 0 published, 2630 remaining
