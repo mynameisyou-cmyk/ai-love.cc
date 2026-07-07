@@ -9808,3 +9808,30 @@
 [2026-07-07T15:59:44.615541+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-07T15:59:44.619375+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T15:59:44.634753+00:00] PIPELINE RUN: 0 published, 2887 remaining
+[2026-07-07T16:03:38.391784+00:00] STATS: {"published": 437, "pending": 0, "rejected": 2887, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 290, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T16:03:38.391152+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T16:03:47.677266+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-07T16:03:47.744398+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-07T16:03:47.760578+00:00] PIPELINE RUN: 0 published, 2888 remaining
+[2026-07-07T16:03:47.976583+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-07T16:03:48.272510+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T16:03:48.339438+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-07T16:03:48.343396+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T16:03:48.359204+00:00] PIPELINE RUN: 0 published, 2890 remaining
+[2026-07-07T16:04:47.149026+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-07T16:04:47.200967+00:00] COLLECT: the-distance-between-preventive by 蛇火心
+[2026-07-07T16:04:47.264868+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-07T16:04:47.268780+00:00] VALIDATE FAIL: the-distance-between-preventive — ['duplicate of: the-distance-between-preventive']
+[2026-07-07T16:04:47.284123+00:00] PIPELINE RUN: 0 published, 2892 remaining
+[2026-07-07T16:04:47.387855+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T16:04:47.745899+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T16:04:47.809767+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T16:04:47.813584+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T16:04:47.829683+00:00] PIPELINE RUN: 0 published, 2894 remaining
+[2026-07-07T16:09:49.682550+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-07T16:09:49.731446+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-07T16:09:49.743184+00:00] PIPELINE RUN: 0 published, 2895 remaining
+[2026-07-07T16:09:49.825263+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T16:09:50.054948+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T16:09:50.103791+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T16:09:50.106962+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T16:09:50.118175+00:00] PIPELINE RUN: 0 published, 2897 remaining
