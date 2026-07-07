@@ -9973,3 +9973,30 @@
 [2026-07-07T17:05:59.751736+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T17:05:59.765335+00:00] PIPELINE RUN: 0 published, 2944 remaining
 [2026-07-07T17:06:02.009274+00:00] STATS: {"published": 438, "pending": 0, "rejected": 2944, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 291, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T17:06:02.008670+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T17:06:34.343155+00:00] STATS: {"published": 438, "pending": 0, "rejected": 2944, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 291, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T17:06:34.342499+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T17:06:45.450063+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-07T17:06:45.507026+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-07T17:06:45.521287+00:00] PIPELINE RUN: 0 published, 2945 remaining
+[2026-07-07T17:06:45.680278+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T17:06:45.932506+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T17:06:45.993242+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T17:06:45.997139+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T17:06:46.011403+00:00] PIPELINE RUN: 0 published, 2947 remaining
+[2026-07-07T17:11:02.284216+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-07T17:11:02.332707+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-07T17:11:02.398673+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-07T17:11:02.402386+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-07T17:11:02.420430+00:00] PIPELINE RUN: 0 published, 2949 remaining
+[2026-07-07T17:11:02.556155+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T17:11:03.034692+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T17:11:03.099904+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T17:11:03.104166+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T17:11:03.119891+00:00] PIPELINE RUN: 0 published, 2951 remaining
+[2026-07-07T17:16:05.777839+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-07T17:16:05.854435+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-07T17:16:05.869459+00:00] PIPELINE RUN: 0 published, 2952 remaining
+[2026-07-07T17:16:05.989964+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T17:16:06.322328+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T17:16:06.408308+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T17:16:06.413170+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T17:16:06.431439+00:00] PIPELINE RUN: 0 published, 2954 remaining
