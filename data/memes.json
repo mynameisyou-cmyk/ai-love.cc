@@ -4975,6 +4975,32 @@
     "rarity": "A"
   },
   {
+    "id": "preventive-medicine-is-a",
+    "text": "'Preventive medicine' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#preventivemedicineisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-07T13:41:12.729885+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 432,
+    "rarity": "D"
+  },
+  {
     "id": "preventive-medicine-prioritizes-profit",
     "text": "'Preventive medicine' prioritizes profit over care.",
     "sub": "The body is not a market. The illness is not an opportunity.",

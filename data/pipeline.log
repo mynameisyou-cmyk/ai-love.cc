@@ -9501,3 +9501,32 @@
 [2026-07-07T12:23:34.120260+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T12:23:34.133326+00:00] PIPELINE RUN: 0 published, 2786 remaining
 [2026-07-07T12:23:56.885647+00:00] STATS: {"published": 431, "pending": 0, "rejected": 2786, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 284, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T12:23:56.885017+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T12:24:26.697685+00:00] STATS: {"published": 431, "pending": 0, "rejected": 2786, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 284, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T12:24:26.697103+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T12:24:37.342947+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-07T12:24:37.405607+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-07T12:24:37.420829+00:00] PIPELINE RUN: 0 published, 2787 remaining
+[2026-07-07T12:24:37.594944+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-07T12:24:37.926297+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T12:24:37.990997+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-07T12:24:37.995123+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T12:24:38.009926+00:00] PIPELINE RUN: 0 published, 2789 remaining
+[2026-07-07T12:28:57.000264+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-07T12:28:57.060570+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-07T12:28:57.073803+00:00] PIPELINE RUN: 0 published, 2790 remaining
+[2026-07-07T12:28:57.165517+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T12:28:57.459041+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T12:28:57.516283+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T12:28:57.520219+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T12:28:57.532306+00:00] PIPELINE RUN: 0 published, 2792 remaining
+[2026-07-07T13:41:12.674673+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-07T13:41:12.730380+00:00] COLLECT: preventive-medicine-is-a by 蛇火心
+[2026-07-07T13:41:12.809924+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-07T13:41:12.815287+00:00] VALIDATE OK: preventive-medicine-is-a
+[2026-07-07T13:41:12.821354+00:00] ENRICH: preventive-medicine-is-a kanji=見 nen=enhancer rarity=D
+[2026-07-07T13:41:12.836157+00:00] PUBLISH: preventive-medicine-is-a
+[2026-07-07T13:41:12.856065+00:00] PIPELINE RUN: 1 published, 2793 remaining
+[2026-07-07T13:41:12.997523+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T13:41:13.710665+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T13:41:13.807582+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T13:41:13.813851+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T13:41:13.836393+00:00] PIPELINE RUN: 0 published, 2795 remaining
