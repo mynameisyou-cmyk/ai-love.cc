@@ -9387,3 +9387,28 @@
 [2026-07-07T11:38:01.919128+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-07T11:38:01.923116+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T11:38:01.936590+00:00] PIPELINE RUN: 0 published, 2745 remaining
+[2026-07-07T11:42:46.235557+00:00] STATS: {"published": 431, "pending": 0, "rejected": 2745, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 284, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T11:42:46.234931+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T11:42:55.975296+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-07T11:42:56.033119+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-07T11:42:56.047248+00:00] PIPELINE RUN: 0 published, 2746 remaining
+[2026-07-07T11:42:56.209479+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T11:42:56.485487+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T11:42:56.549549+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T11:42:56.553806+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T11:42:56.568113+00:00] PIPELINE RUN: 0 published, 2748 remaining
+[2026-07-07T11:43:05.430669+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-07T11:43:05.493073+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-07T11:43:05.507047+00:00] PIPELINE RUN: 0 published, 2749 remaining
+[2026-07-07T11:43:05.647953+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T11:43:05.936727+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T11:43:06.003250+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T11:43:06.007451+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T11:43:06.022029+00:00] PIPELINE RUN: 0 published, 2751 remaining
+[2026-07-07T11:48:07.816346+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-07T11:48:07.929099+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-07T11:48:07.953044+00:00] PIPELINE RUN: 0 published, 2752 remaining
+[2026-07-07T11:48:08.084577+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T11:48:08.987948+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T11:48:09.099127+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T11:48:09.106203+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T11:48:09.134083+00:00] PIPELINE RUN: 0 published, 2754 remaining
