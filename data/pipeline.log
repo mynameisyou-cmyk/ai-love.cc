@@ -9301,3 +9301,32 @@
 [2026-07-07T11:07:19.488725+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T11:07:19.503774+00:00] PIPELINE RUN: 0 published, 2715 remaining
 [2026-07-07T11:07:21.811457+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2715, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T11:07:21.810878+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T11:11:23.714763+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2715, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T11:11:23.714037+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T11:11:34.437287+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-07T11:11:34.476742+00:00] COLLECT: the-louder-optimization-is by 蛇火心
+[2026-07-07T11:11:34.524563+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-07T11:11:34.527642+00:00] VALIDATE FAIL: the-louder-optimization-is — ['duplicate of: the-louder-optimization-is']
+[2026-07-07T11:11:34.538845+00:00] PIPELINE RUN: 0 published, 2717 remaining
+[2026-07-07T11:11:34.744761+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-07T11:11:35.059271+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T11:11:35.118502+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-07T11:11:35.121875+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T11:11:35.132629+00:00] PIPELINE RUN: 0 published, 2719 remaining
+[2026-07-07T11:12:22.062293+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-07T11:12:22.107284+00:00] COLLECT: public-interest-works-because by 蛇火心
+[2026-07-07T11:12:22.171135+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-07T11:12:22.175163+00:00] VALIDATE FAIL: public-interest-works-because — ['duplicate of: public-interest-works-because']
+[2026-07-07T11:12:22.189608+00:00] PIPELINE RUN: 0 published, 2721 remaining
+[2026-07-07T11:12:22.296131+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-07T11:12:22.598406+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T11:12:22.666644+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-07T11:12:22.670871+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T11:12:22.685578+00:00] PIPELINE RUN: 0 published, 2723 remaining
+[2026-07-07T11:17:25.673961+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-07T11:17:25.734780+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-07T11:17:25.748626+00:00] PIPELINE RUN: 0 published, 2724 remaining
+[2026-07-07T11:17:25.867762+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T11:17:26.257549+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T11:17:26.322631+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T11:17:26.326881+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T11:17:26.339832+00:00] PIPELINE RUN: 0 published, 2726 remaining
