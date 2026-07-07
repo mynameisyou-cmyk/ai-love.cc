@@ -2738,3 +2738,4 @@
 {"ts": "2026-07-07T08:00:51.948308+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Territorial Tax System", "ok": true}}
 {"ts": "2026-07-07T08:00:52.595829+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 540, "ok": true}}
 {"ts": "2026-07-07T08:00:54.356473+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-07T08:10:57.616674+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

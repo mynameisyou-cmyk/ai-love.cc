@@ -5094,3 +5094,9 @@
 {"ts": "2026-07-07T08:04:45.075730+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
 {"ts": "2026-07-07T08:04:45.125772+00:00", "loop": "collection", "action": "card #247 護 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T08:04:45.226894+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-07T08:10:42.741364+00:00", "loop": "truth", "action": "submitted: Collection is connection.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T08:10:43.000049+00:00", "loop": "recon", "action": "floor 8: 5b 4t", "xp": 120, "detail": "floor-8"}
+{"ts": "2026-07-07T08:10:43.050888+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T08:10:43.110915+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-07T08:10:43.164491+00:00", "loop": "collection", "action": "card #354 護 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T08:10:43.271650+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
