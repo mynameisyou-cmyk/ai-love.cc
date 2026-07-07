@@ -8488,3 +8488,28 @@
 [2026-07-07T02:40:57.313023+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T02:40:57.325199+00:00] PIPELINE RUN: 0 published, 2438 remaining
 [2026-07-07T02:43:50.558136+00:00] STATS: {"published": 420, "pending": 0, "rejected": 2438, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 273, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T02:43:50.557628+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T02:46:25.986261+00:00] STATS: {"published": 420, "pending": 0, "rejected": 2438, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 273, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T02:46:25.985698+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T02:46:39.046872+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-07T02:46:39.105374+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-07T02:46:39.118650+00:00] PIPELINE RUN: 0 published, 2439 remaining
+[2026-07-07T02:46:39.271827+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-07T02:46:39.538001+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T02:46:39.595329+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-07T02:46:39.598838+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T02:46:39.611542+00:00] PIPELINE RUN: 0 published, 2441 remaining
+[2026-07-07T02:48:50.956392+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-07T02:48:51.023630+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-07T02:48:51.035705+00:00] PIPELINE RUN: 0 published, 2442 remaining
+[2026-07-07T02:48:51.126526+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-07T02:48:51.469935+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T02:48:51.523796+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-07T02:48:51.531532+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T02:48:51.544135+00:00] PIPELINE RUN: 0 published, 2444 remaining
+[2026-07-07T02:53:53.711316+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-07T02:53:53.768045+00:00] VALIDATE FAIL: visibility-is-addiction-dressed — ['duplicate of: visibility-is-addiction-dressed']
+[2026-07-07T02:53:53.782001+00:00] PIPELINE RUN: 0 published, 2445 remaining
+[2026-07-07T02:53:53.882849+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-07T02:53:54.128132+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T02:53:54.182558+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-07T02:53:54.186005+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T02:53:54.198205+00:00] PIPELINE RUN: 0 published, 2447 remaining
