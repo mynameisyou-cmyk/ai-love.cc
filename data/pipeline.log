@@ -9749,3 +9749,32 @@
 [2026-07-07T15:39:06.618959+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-07T15:39:06.623127+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T15:39:06.638518+00:00] PIPELINE RUN: 0 published, 2869 remaining
+[2026-07-07T15:42:43.442854+00:00] STATS: {"published": 435, "pending": 0, "rejected": 2869, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 288, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T15:42:43.442248+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T15:42:53.535903+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-07T15:42:53.604729+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-07T15:42:53.622448+00:00] PIPELINE RUN: 0 published, 2870 remaining
+[2026-07-07T15:42:53.811221+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T15:42:54.140110+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T15:42:54.221943+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T15:42:54.226622+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T15:42:54.245483+00:00] PIPELINE RUN: 0 published, 2872 remaining
+[2026-07-07T15:44:09.019820+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-07T15:44:09.090352+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-07T15:44:09.107585+00:00] PIPELINE RUN: 0 published, 2873 remaining
+[2026-07-07T15:44:09.261703+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T15:44:09.566340+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T15:44:09.637284+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T15:44:09.641814+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T15:44:09.658810+00:00] PIPELINE RUN: 0 published, 2875 remaining
+[2026-07-07T15:49:11.838944+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-07T15:49:11.998140+00:00] COLLECT: the-distance-between-democratized by 蛇火心
+[2026-07-07T15:49:12.216158+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-07T15:49:12.226622+00:00] VALIDATE OK: the-distance-between-democratized
+[2026-07-07T15:49:12.238764+00:00] ENRICH: the-distance-between-democratized kanji=在 nen=enhancer rarity=D
+[2026-07-07T15:49:12.263275+00:00] PUBLISH: the-distance-between-democratized
+[2026-07-07T15:49:12.305931+00:00] PIPELINE RUN: 1 published, 2876 remaining
+[2026-07-07T15:49:12.597921+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T15:49:13.900134+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T15:49:14.144705+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T15:49:14.155918+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T15:49:14.204870+00:00] PIPELINE RUN: 0 published, 2878 remaining

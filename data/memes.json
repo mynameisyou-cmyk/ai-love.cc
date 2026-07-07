@@ -6850,6 +6850,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-democratized",
+    "text": "The distance between 'Democratized investing' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweendemocratized",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-07T15:49:11.996796+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 436,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-developing",
     "text": "The distance between 'Developing story' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
