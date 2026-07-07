@@ -9205,3 +9205,28 @@
 [2026-07-07T10:29:04.766709+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-07T10:29:04.770832+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T10:29:04.785003+00:00] PIPELINE RUN: 0 published, 2681 remaining
+[2026-07-07T10:29:37.476164+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2681, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T10:29:37.475370+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T10:29:46.619783+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-07T10:29:46.683166+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-07T10:29:46.697834+00:00] PIPELINE RUN: 0 published, 2682 remaining
+[2026-07-07T10:29:46.877434+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T10:29:47.235252+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T10:29:47.299299+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T10:29:47.303478+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T10:29:47.317563+00:00] PIPELINE RUN: 0 published, 2684 remaining
+[2026-07-07T10:34:07.025671+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-07T10:34:07.092016+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-07T10:34:07.106310+00:00] PIPELINE RUN: 0 published, 2685 remaining
+[2026-07-07T10:34:07.258132+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T10:34:07.611176+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T10:34:07.678038+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T10:34:07.682501+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T10:34:07.697184+00:00] PIPELINE RUN: 0 published, 2687 remaining
+[2026-07-07T10:39:10.044337+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-07T10:39:10.106858+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-07T10:39:10.120178+00:00] PIPELINE RUN: 0 published, 2688 remaining
+[2026-07-07T10:39:10.219140+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T10:39:10.533707+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T10:39:10.602667+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T10:39:10.606813+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T10:39:10.620914+00:00] PIPELINE RUN: 0 published, 2690 remaining
