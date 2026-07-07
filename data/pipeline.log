@@ -9778,3 +9778,4 @@
 [2026-07-07T15:49:14.144705+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-07T15:49:14.155918+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T15:49:14.204870+00:00] PIPELINE RUN: 0 published, 2878 remaining
+[2026-07-07T15:49:40.833940+00:00] STATS: {"published": 436, "pending": 0, "rejected": 2878, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 289, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T15:49:40.832677+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
