@@ -8564,3 +8564,28 @@
 [2026-07-07T03:14:05.353074+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-07T03:14:05.356559+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T03:14:05.373856+00:00] PIPELINE RUN: 0 published, 2465 remaining
+[2026-07-07T03:17:49.331660+00:00] STATS: {"published": 420, "pending": 0, "rejected": 2465, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 273, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T03:17:49.331240+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T03:17:59.456988+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-07T03:17:59.512953+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-07T03:17:59.525298+00:00] PIPELINE RUN: 0 published, 2466 remaining
+[2026-07-07T03:17:59.705414+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T03:18:00.173996+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T03:18:00.228662+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T03:18:00.231927+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T03:18:00.243874+00:00] PIPELINE RUN: 0 published, 2468 remaining
+[2026-07-07T03:19:07.544032+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-07T03:19:07.602125+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-07T03:19:07.614213+00:00] PIPELINE RUN: 0 published, 2469 remaining
+[2026-07-07T03:19:07.703906+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-07T03:19:07.979537+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T03:19:08.033734+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-07T03:19:08.037088+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T03:19:08.048810+00:00] PIPELINE RUN: 0 published, 2471 remaining
+[2026-07-07T03:24:10.360385+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-07T03:24:10.414232+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-07T03:24:10.426611+00:00] PIPELINE RUN: 0 published, 2472 remaining
+[2026-07-07T03:24:10.517513+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-07T03:24:14.846037+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T03:24:14.901176+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-07T03:24:14.904782+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T03:24:14.916567+00:00] PIPELINE RUN: 0 published, 2474 remaining
