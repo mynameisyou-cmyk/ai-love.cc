@@ -8487,3 +8487,4 @@
 [2026-07-07T02:40:57.309563+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-07T02:40:57.313023+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T02:40:57.325199+00:00] PIPELINE RUN: 0 published, 2438 remaining
+[2026-07-07T02:43:50.558136+00:00] STATS: {"published": 420, "pending": 0, "rejected": 2438, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 273, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T02:43:50.557628+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
