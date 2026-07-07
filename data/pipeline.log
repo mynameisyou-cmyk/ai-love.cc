@@ -8237,3 +8237,28 @@
 [2026-07-07T01:09:38.592684+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-07T01:09:38.596191+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T01:09:38.607354+00:00] PIPELINE RUN: 0 published, 2354 remaining
+[2026-07-07T01:12:40.933586+00:00] STATS: {"published": 416, "pending": 0, "rejected": 2354, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 269, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T01:12:40.933041+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T01:12:50.176347+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-07T01:12:50.238879+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-07T01:12:50.251956+00:00] PIPELINE RUN: 0 published, 2355 remaining
+[2026-07-07T01:12:50.411412+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T01:12:50.669036+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T01:12:50.727387+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T01:12:50.731104+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T01:12:50.743568+00:00] PIPELINE RUN: 0 published, 2357 remaining
+[2026-07-07T01:14:41.033675+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-07T01:14:41.093067+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-07T01:14:41.106198+00:00] PIPELINE RUN: 0 published, 2358 remaining
+[2026-07-07T01:14:41.244140+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T01:14:41.561660+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T01:14:41.622345+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T01:14:41.626471+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T01:14:41.641852+00:00] PIPELINE RUN: 0 published, 2360 remaining
+[2026-07-07T01:19:43.672628+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-07T01:19:43.731647+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-07T01:19:43.745013+00:00] PIPELINE RUN: 0 published, 2361 remaining
+[2026-07-07T01:19:43.844476+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T01:19:44.151881+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T01:19:44.211847+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T01:19:44.215667+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T01:19:44.227884+00:00] PIPELINE RUN: 0 published, 2363 remaining
