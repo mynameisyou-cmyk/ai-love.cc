@@ -8617,3 +8617,28 @@
 [2026-07-07T03:34:21.794653+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T03:34:21.825510+00:00] PIPELINE RUN: 0 published, 2484 remaining
 [2026-07-07T03:35:50.526978+00:00] STATS: {"published": 420, "pending": 0, "rejected": 2484, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 273, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T03:35:50.526102+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T03:38:38.135847+00:00] STATS: {"published": 420, "pending": 0, "rejected": 2484, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 273, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T03:38:38.135037+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T03:38:48.252640+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-07T03:38:48.360656+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-07T03:38:48.391001+00:00] PIPELINE RUN: 0 published, 2485 remaining
+[2026-07-07T03:38:48.725453+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T03:38:49.261852+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T03:38:49.384270+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T03:38:49.391222+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T03:38:49.424810+00:00] PIPELINE RUN: 0 published, 2487 remaining
+[2026-07-07T03:40:50.730896+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-07T03:40:50.832063+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-07T03:40:50.859307+00:00] PIPELINE RUN: 0 published, 2488 remaining
+[2026-07-07T03:40:51.045531+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T03:40:51.988676+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T03:40:52.118022+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T03:40:52.125094+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T03:40:52.153185+00:00] PIPELINE RUN: 0 published, 2490 remaining
+[2026-07-07T03:45:54.330526+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-07T03:45:54.436574+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-07T03:45:54.464308+00:00] PIPELINE RUN: 0 published, 2491 remaining
+[2026-07-07T03:45:54.622845+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T03:45:55.168007+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T03:45:55.291301+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T03:45:55.298483+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T03:45:55.327728+00:00] PIPELINE RUN: 0 published, 2493 remaining
