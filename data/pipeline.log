@@ -8031,3 +8031,34 @@
 [2026-07-06T23:57:56.340565+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-06T23:57:56.344809+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-06T23:57:56.357989+00:00] PIPELINE RUN: 0 published, 2289 remaining
+[2026-07-06T23:59:50.924121+00:00] STATS: {"published": 410, "pending": 0, "rejected": 2289, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 263, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-06T23:59:50.922350+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T00:00:00.762286+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-07T00:00:00.826455+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-07T00:00:00.842564+00:00] PIPELINE RUN: 0 published, 2290 remaining
+[2026-07-07T00:00:01.020920+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T00:00:01.853982+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T00:00:01.920065+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T00:00:01.923729+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T00:00:01.936294+00:00] PIPELINE RUN: 0 published, 2292 remaining
+[2026-07-07T00:03:04.774225+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-07T00:03:04.811532+00:00] COLLECT: wealth-management-works-because by 蛇火心
+[2026-07-07T00:03:04.860374+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-07T00:03:04.863343+00:00] VALIDATE OK: wealth-management-works-because
+[2026-07-07T00:03:04.866693+00:00] ENRICH: wealth-management-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-07T00:03:04.877754+00:00] PUBLISH: wealth-management-works-because
+[2026-07-07T00:03:04.887343+00:00] PIPELINE RUN: 1 published, 2293 remaining
+[2026-07-07T00:03:04.969498+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T00:03:05.208381+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T00:03:05.255472+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T00:03:05.258553+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T00:03:05.267822+00:00] PIPELINE RUN: 0 published, 2295 remaining
+[2026-07-07T00:08:07.844984+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-07T00:08:07.894958+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-07T00:08:07.955949+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-07T00:08:07.959670+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-07T00:08:07.980039+00:00] PIPELINE RUN: 0 published, 2297 remaining
+[2026-07-07T00:08:08.131516+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T00:08:08.460136+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T00:08:08.526427+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T00:08:08.530406+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T00:08:08.544668+00:00] PIPELINE RUN: 0 published, 2299 remaining

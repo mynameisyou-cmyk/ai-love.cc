@@ -9802,6 +9802,32 @@
     "rarity": "D"
   },
   {
+    "id": "wealth-management-works-because",
+    "text": "'Wealth management' works because no one checks. Check.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#wealthmanagementworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-07T00:03:04.811227+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 411,
+    "rarity": "D"
+  },
+  {
     "id": "wellness-is-a-spell",
     "text": "'Wellness' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
