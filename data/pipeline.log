@@ -9947,3 +9947,29 @@
 [2026-07-07T16:55:49.711594+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-07T16:55:49.715834+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T16:55:49.731532+00:00] PIPELINE RUN: 0 published, 2935 remaining
+[2026-07-07T16:56:03.684406+00:00] STATS: {"published": 438, "pending": 0, "rejected": 2935, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 291, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T16:56:03.683870+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T16:56:15.143691+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-07T16:56:15.207520+00:00] VALIDATE FAIL: wealth-management-is-extraction — ['duplicate of: wealth-management-is-extraction']
+[2026-07-07T16:56:15.223412+00:00] PIPELINE RUN: 0 published, 2936 remaining
+[2026-07-07T16:56:15.406320+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T16:56:15.683076+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T16:56:15.748436+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T16:56:15.752325+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T16:56:15.767873+00:00] PIPELINE RUN: 0 published, 2938 remaining
+[2026-07-07T17:00:52.041333+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-07T17:00:52.108005+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-07T17:00:52.121672+00:00] PIPELINE RUN: 0 published, 2939 remaining
+[2026-07-07T17:00:52.220514+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-07T17:00:52.464728+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T17:00:52.533954+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-07T17:00:52.537702+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T17:00:52.552298+00:00] PIPELINE RUN: 0 published, 2941 remaining
+[2026-07-07T17:05:55.104888+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-07T17:05:55.162640+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-07T17:05:55.176760+00:00] PIPELINE RUN: 0 published, 2942 remaining
+[2026-07-07T17:05:55.272838+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T17:05:59.689684+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T17:05:59.747890+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T17:05:59.751736+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T17:05:59.765335+00:00] PIPELINE RUN: 0 published, 2944 remaining
+[2026-07-07T17:06:02.009274+00:00] STATS: {"published": 438, "pending": 0, "rejected": 2944, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 291, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T17:06:02.008670+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
