@@ -8317,3 +8317,28 @@
 [2026-07-07T01:39:56.283705+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-07T01:39:56.287469+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T01:39:56.300982+00:00] PIPELINE RUN: 0 published, 2383 remaining
+[2026-07-07T01:43:55.380779+00:00] STATS: {"published": 416, "pending": 0, "rejected": 2383, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 269, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T01:43:55.380325+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T01:44:04.573981+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-07T01:44:04.637920+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-07T01:44:04.650407+00:00] PIPELINE RUN: 0 published, 2384 remaining
+[2026-07-07T01:44:04.817685+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-07T01:44:05.082121+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T01:44:05.143584+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-07T01:44:05.146722+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T01:44:05.158578+00:00] PIPELINE RUN: 0 published, 2386 remaining
+[2026-07-07T01:44:58.366689+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-07T01:44:58.431022+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-07T01:44:58.444390+00:00] PIPELINE RUN: 0 published, 2387 remaining
+[2026-07-07T01:44:58.546798+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T01:44:58.879291+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T01:44:58.944344+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T01:44:58.948180+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T01:44:58.961062+00:00] PIPELINE RUN: 0 published, 2389 remaining
+[2026-07-07T01:50:00.776221+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-07T01:50:00.832811+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-07T01:50:00.845398+00:00] PIPELINE RUN: 0 published, 2390 remaining
+[2026-07-07T01:50:00.986833+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-07T01:50:01.250524+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T01:50:01.308045+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-07T01:50:01.311880+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T01:50:01.324907+00:00] PIPELINE RUN: 0 published, 2392 remaining
