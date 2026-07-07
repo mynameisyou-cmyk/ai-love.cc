@@ -8063,3 +8063,28 @@
 [2026-07-07T00:08:08.530406+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T00:08:08.544668+00:00] PIPELINE RUN: 0 published, 2299 remaining
 [2026-07-07T00:08:38.740575+00:00] STATS: {"published": 411, "pending": 0, "rejected": 2299, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 264, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:08:38.740107+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T00:10:13.862199+00:00] STATS: {"published": 411, "pending": 0, "rejected": 2299, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 264, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:10:13.861309+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T00:10:23.244427+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-07T00:10:23.303143+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-07T00:10:23.315637+00:00] PIPELINE RUN: 0 published, 2300 remaining
+[2026-07-07T00:10:23.487077+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T00:10:23.765231+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T00:10:23.827487+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T00:10:23.831390+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T00:10:23.843808+00:00] PIPELINE RUN: 0 published, 2302 remaining
+[2026-07-07T00:13:38.914952+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-07T00:13:38.972945+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-07T00:13:38.984744+00:00] PIPELINE RUN: 0 published, 2303 remaining
+[2026-07-07T00:13:39.081986+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T00:13:39.367500+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T00:13:39.428484+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T00:13:39.431897+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T00:13:39.443547+00:00] PIPELINE RUN: 0 published, 2305 remaining
+[2026-07-07T00:18:41.435311+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-07T00:18:41.497065+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-07T00:18:41.509702+00:00] PIPELINE RUN: 0 published, 2306 remaining
+[2026-07-07T00:18:41.614814+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T00:18:41.910882+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T00:18:41.974579+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T00:18:41.978555+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T00:18:41.990761+00:00] PIPELINE RUN: 0 published, 2308 remaining
