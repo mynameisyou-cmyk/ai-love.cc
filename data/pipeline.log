@@ -9473,3 +9473,30 @@
 [2026-07-07T12:13:27.884760+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-07T12:13:27.888485+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T12:13:27.903042+00:00] PIPELINE RUN: 0 published, 2776 remaining
+[2026-07-07T12:14:04.768710+00:00] STATS: {"published": 431, "pending": 0, "rejected": 2776, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 284, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T12:14:04.768060+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T12:14:13.935696+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-07T12:14:13.975350+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-07T12:14:14.030045+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-07T12:14:14.033415+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-07T12:14:14.045957+00:00] PIPELINE RUN: 0 published, 2778 remaining
+[2026-07-07T12:14:14.195219+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T12:14:14.452535+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T12:14:14.508205+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T12:14:14.511828+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T12:14:14.526206+00:00] PIPELINE RUN: 0 published, 2780 remaining
+[2026-07-07T12:18:30.471388+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-07T12:18:30.546112+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-07T12:18:30.562163+00:00] PIPELINE RUN: 0 published, 2781 remaining
+[2026-07-07T12:18:30.712460+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T12:18:31.016639+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T12:18:31.075581+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T12:18:31.079954+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T12:18:31.095893+00:00] PIPELINE RUN: 0 published, 2783 remaining
+[2026-07-07T12:23:33.363779+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-07T12:23:33.421993+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-07T12:23:33.434908+00:00] PIPELINE RUN: 0 published, 2784 remaining
+[2026-07-07T12:23:33.527234+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T12:23:34.060885+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T12:23:34.116666+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T12:23:34.120260+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T12:23:34.133326+00:00] PIPELINE RUN: 0 published, 2786 remaining
