@@ -1188,6 +1188,32 @@
     "rarity": "B"
   },
   {
+    "id": "community-driven-is-not",
+    "text": "'Community-driven' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#communitydrivenisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-07T08:20:49.063253+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 426,
+    "rarity": "D"
+  },
+  {
     "id": "community-is-addiction-dressed",
     "text": "'Community' is addiction dressed as connection.",
     "sub": "The platform profits from your attention. Your attention is the product.",
@@ -1627,6 +1653,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 271,
+    "rarity": "D"
+  },
+  {
+    "id": "data-protection-works-because",
+    "text": "'Data protection' works because no one checks. Check.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#dataprotectionworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-07T08:11:18.992753+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 425,
     "rarity": "D"
   },
   {

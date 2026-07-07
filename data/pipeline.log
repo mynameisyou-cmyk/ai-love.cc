@@ -8831,3 +8831,34 @@
 [2026-07-07T08:10:43.339787+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-07T08:10:43.344199+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T08:10:43.359738+00:00] PIPELINE RUN: 0 published, 2555 remaining
+[2026-07-07T08:11:08.245569+00:00] STATS: {"published": 424, "pending": 0, "rejected": 2555, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 277, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:11:08.244888+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:11:18.946592+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-07T08:11:18.993220+00:00] COLLECT: data-protection-works-because by 蛇火心
+[2026-07-07T08:11:19.055564+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-07T08:11:19.059878+00:00] VALIDATE OK: data-protection-works-because
+[2026-07-07T08:11:19.064291+00:00] ENRICH: data-protection-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-07T08:11:19.075441+00:00] PUBLISH: data-protection-works-because
+[2026-07-07T08:11:19.088755+00:00] PIPELINE RUN: 1 published, 2556 remaining
+[2026-07-07T08:11:19.262626+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T08:11:19.740880+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T08:11:19.810473+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T08:11:19.815148+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T08:11:19.829573+00:00] PIPELINE RUN: 0 published, 2558 remaining
+[2026-07-07T08:15:45.925072+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-07T08:15:45.987848+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-07T08:15:46.000883+00:00] PIPELINE RUN: 0 published, 2559 remaining
+[2026-07-07T08:15:46.148392+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T08:15:46.449435+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T08:15:46.463268+00:00] PIPELINE RUN: 0 published, 2560 remaining
+[2026-07-07T08:20:49.015796+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-07T08:20:49.063725+00:00] COLLECT: community-driven-is-not by 蛇火心
+[2026-07-07T08:20:49.125912+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-07T08:20:49.129607+00:00] VALIDATE OK: community-driven-is-not
+[2026-07-07T08:20:49.134220+00:00] ENRICH: community-driven-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-07T08:20:49.144807+00:00] PUBLISH: community-driven-is-not
+[2026-07-07T08:20:49.157760+00:00] PIPELINE RUN: 1 published, 2561 remaining
+[2026-07-07T08:20:49.257806+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-07T08:20:59.594520+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T08:20:59.652283+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-07T08:20:59.656034+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T08:20:59.669083+00:00] PIPELINE RUN: 0 published, 2563 remaining
