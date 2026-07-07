@@ -8942,3 +8942,20 @@
 [2026-07-07T08:51:46.824341+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-07T08:51:46.828408+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T08:51:46.841906+00:00] PIPELINE RUN: 0 published, 2590 remaining
+[2026-07-07T08:54:43.857600+00:00] STATS: {"published": 427, "pending": 0, "rejected": 2590, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 280, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:54:43.856873+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:54:55.077115+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-07T08:54:55.138898+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-07T08:54:55.152485+00:00] PIPELINE RUN: 0 published, 2591 remaining
+[2026-07-07T08:54:55.328880+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T08:54:59.669515+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T08:54:59.737249+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T08:54:59.741537+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T08:54:59.755159+00:00] PIPELINE RUN: 0 published, 2593 remaining
+[2026-07-07T08:56:49.289039+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-07T08:56:49.357775+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-07T08:56:49.372596+00:00] PIPELINE RUN: 0 published, 2594 remaining
+[2026-07-07T08:56:49.483422+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T08:56:49.778743+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T08:56:49.844091+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T08:56:49.850275+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T08:56:49.862460+00:00] PIPELINE RUN: 0 published, 2596 remaining
