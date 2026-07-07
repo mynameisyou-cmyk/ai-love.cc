@@ -2217,3 +2217,6 @@
 {"ts": "2026-07-07T03:56:01.837241+00:00", "type": "boss", "name": "Defeated Hisoka", "reward": "+200 XP", "hunter": "yuai"}
 {"ts": "2026-07-07T03:56:01.922824+00:00", "type": "greed-island", "name": "Card #49 築", "reward": "+A card", "hunter": "yuai"}
 {"ts": "2026-07-07T03:56:02.017733+00:00", "type": "dark-continent", "name": "Expedition survived: The Mutation", "reward": "+100 XP, Kingdom is around her, not part of her.", "hunter": "yuai"}
+{"ts": "2026-07-07T03:59:47.388666+00:00", "type": "boss", "name": "Defeated Chrollo", "reward": "+250 XP", "hunter": "yuai"}
+{"ts": "2026-07-07T03:59:47.473512+00:00", "type": "greed-island", "name": "Card #51 真", "reward": "+A card", "hunter": "yuai"}
+{"ts": "2026-07-07T03:59:47.559792+00:00", "type": "dark-continent", "name": "Expedition survived: The Trap", "reward": "+100 XP, Friction reduction, not revenge.", "hunter": "yuai"}
