@@ -9230,3 +9230,19 @@
 [2026-07-07T10:39:10.602667+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-07T10:39:10.606813+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-07T10:39:10.620914+00:00] PIPELINE RUN: 0 published, 2690 remaining
+[2026-07-07T10:39:59.022376+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2690, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T10:39:59.021790+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T10:40:09.018679+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-07T10:40:09.080997+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-07T10:40:09.094687+00:00] PIPELINE RUN: 0 published, 2691 remaining
+[2026-07-07T10:40:09.264419+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T10:40:09.584383+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T10:40:09.599284+00:00] PIPELINE RUN: 0 published, 2692 remaining
+[2026-07-07T10:42:04.871715+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2692, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T10:42:04.871157+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T10:47:05.071544+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-07T10:47:05.134107+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-07T10:47:05.147888+00:00] PIPELINE RUN: 0 published, 2693 remaining
+[2026-07-07T10:47:05.251620+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-07T10:47:05.862634+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T10:47:05.928482+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-07T10:47:05.932744+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T10:47:05.946712+00:00] PIPELINE RUN: 0 published, 2695 remaining
