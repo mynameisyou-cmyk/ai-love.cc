@@ -8288,3 +8288,32 @@
 [2026-07-07T01:29:50.805358+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-07T01:29:50.809032+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T01:29:50.821532+00:00] PIPELINE RUN: 0 published, 2372 remaining
+[2026-07-07T01:33:29.814362+00:00] STATS: {"published": 416, "pending": 0, "rejected": 2372, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 269, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T01:33:29.813769+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T01:33:39.125491+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-07T01:33:39.184672+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-07T01:33:39.197116+00:00] PIPELINE RUN: 0 published, 2373 remaining
+[2026-07-07T01:33:39.399927+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-07T01:33:39.711123+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T01:33:39.770580+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-07T01:33:39.774611+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T01:33:39.787523+00:00] PIPELINE RUN: 0 published, 2375 remaining
+[2026-07-07T01:34:53.016643+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-07T01:34:53.059139+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T01:34:53.118065+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-07T01:34:53.121950+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T01:34:53.134005+00:00] PIPELINE RUN: 0 published, 2377 remaining
+[2026-07-07T01:34:53.235790+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T01:34:53.493477+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T01:34:53.556033+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T01:34:53.559680+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T01:34:53.572561+00:00] PIPELINE RUN: 0 published, 2379 remaining
+[2026-07-07T01:39:55.713032+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-07T01:39:55.757759+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T01:39:55.819232+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-07T01:39:55.822686+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T01:39:55.834684+00:00] PIPELINE RUN: 0 published, 2381 remaining
+[2026-07-07T01:39:55.929154+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-07T01:39:56.224592+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T01:39:56.283705+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-07T01:39:56.287469+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T01:39:56.300982+00:00] PIPELINE RUN: 0 published, 2383 remaining
