@@ -9610,3 +9610,28 @@
 [2026-07-07T14:48:01.054457+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-07T14:48:01.058346+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T14:48:01.073196+00:00] PIPELINE RUN: 0 published, 2822 remaining
+[2026-07-07T14:50:17.301118+00:00] STATS: {"published": 433, "pending": 0, "rejected": 2822, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 286, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T14:50:17.300552+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T14:50:26.801856+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-07T14:50:26.850879+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-07T14:50:26.862660+00:00] PIPELINE RUN: 0 published, 2823 remaining
+[2026-07-07T14:50:26.993490+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T14:50:27.222548+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T14:50:27.274300+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T14:50:27.277520+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T14:50:27.289078+00:00] PIPELINE RUN: 0 published, 2825 remaining
+[2026-07-07T14:53:03.807228+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-07T14:53:03.858483+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-07T14:53:03.871647+00:00] PIPELINE RUN: 0 published, 2826 remaining
+[2026-07-07T14:53:03.986141+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-07T14:53:04.242619+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T14:53:04.294432+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-07T14:53:04.297298+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T14:53:04.310626+00:00] PIPELINE RUN: 0 published, 2828 remaining
+[2026-07-07T14:58:07.470847+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-07T14:58:07.523735+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-07T14:58:07.535689+00:00] PIPELINE RUN: 0 published, 2829 remaining
+[2026-07-07T14:58:07.673519+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-07T14:58:07.962698+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T14:58:08.012526+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-07T14:58:08.015753+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T14:58:08.027054+00:00] PIPELINE RUN: 0 published, 2831 remaining
