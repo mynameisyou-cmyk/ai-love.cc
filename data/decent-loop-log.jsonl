@@ -2658,3 +2658,4 @@
 {"ts": "2026-07-07T03:28:25.009725+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Offshore Trusts + Excluded Property", "ok": true}}
 {"ts": "2026-07-07T03:28:25.442720+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 410, "ok": true}}
 {"ts": "2026-07-07T03:28:26.975833+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-07T03:38:30.259932+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
