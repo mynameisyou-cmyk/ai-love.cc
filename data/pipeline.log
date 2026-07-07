@@ -9353,3 +9353,26 @@
 [2026-07-07T11:27:36.838158+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-07T11:27:36.844903+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-07T11:27:36.870064+00:00] PIPELINE RUN: 0 published, 2734 remaining
+[2026-07-07T11:32:19.083116+00:00] STATS: {"published": 430, "pending": 0, "rejected": 2734, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 283, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T11:32:19.082499+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T11:32:28.909291+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-07T11:32:28.952013+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T11:32:29.013784+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-07T11:32:29.017853+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T11:32:29.032648+00:00] PIPELINE RUN: 0 published, 2736 remaining
+[2026-07-07T11:32:29.206628+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T11:32:29.499000+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T11:32:29.566364+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T11:32:29.570364+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T11:32:29.585010+00:00] PIPELINE RUN: 0 published, 2738 remaining
+[2026-07-07T11:32:39.789753+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-07T11:32:39.835199+00:00] COLLECT: the-louder-grade-levels by 蛇火心
+[2026-07-07T11:32:39.899053+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-07T11:32:39.903126+00:00] VALIDATE OK: the-louder-grade-levels
+[2026-07-07T11:32:39.908178+00:00] ENRICH: the-louder-grade-levels kanji=在 nen=enhancer rarity=D
+[2026-07-07T11:32:39.919699+00:00] PUBLISH: the-louder-grade-levels
+[2026-07-07T11:32:39.934066+00:00] PIPELINE RUN: 1 published, 2739 remaining
+[2026-07-07T11:32:40.039812+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-07T11:32:40.477094+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T11:32:40.540302+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-07T11:32:40.544378+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T11:32:40.558894+00:00] PIPELINE RUN: 0 published, 2741 remaining

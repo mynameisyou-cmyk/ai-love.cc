@@ -8124,6 +8124,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-grade-levels",
+    "text": "The louder 'Grade levels' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#theloudergradelevels",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-07T11:32:39.834723+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 431,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-innovation-in",
     "text": "The louder 'Innovation in healthcare' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",

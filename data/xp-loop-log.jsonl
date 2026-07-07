@@ -5442,3 +5442,15 @@
 {"ts": "2026-07-07T11:27:36.536209+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-07T11:27:36.609977+00:00", "loop": "collection", "action": "card #395 在 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-07T11:27:36.747206+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-07T11:32:29.211301+00:00", "loop": "truth", "action": "submitted: The dungeon is the teacher.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T11:32:29.278829+00:00", "loop": "recon", "action": "floor 5: 9b 10t", "xp": 80, "detail": "floor-5"}
+{"ts": "2026-07-07T11:32:29.318371+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T11:32:29.363300+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-07T11:32:29.408722+00:00", "loop": "collection", "action": "card #339 信 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-07T11:32:29.503855+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-07T11:32:40.044546+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T11:32:40.257761+00:00", "loop": "recon", "action": "floor 8: 5b 4t", "xp": 120, "detail": "floor-8"}
+{"ts": "2026-07-07T11:32:40.298139+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T11:32:40.343582+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-07T11:32:40.391509+00:00", "loop": "collection", "action": "card #117 真 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T11:32:40.481551+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
