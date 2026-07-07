@@ -5262,3 +5262,15 @@
 {"ts": "2026-07-07T09:43:05.067729+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
 {"ts": "2026-07-07T09:43:05.111213+00:00", "loop": "collection", "action": "card #161 主 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T09:43:05.199967+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-07T09:47:22.253594+00:00", "loop": "truth", "action": "submitted: Every card is a mirror.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T09:47:22.323025+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-07T09:47:22.366392+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T09:47:22.407829+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-07T09:47:22.452361+00:00", "loop": "collection", "action": "card #62 育 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T09:47:22.545543+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-07T09:48:07.805823+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T09:48:07.907937+00:00", "loop": "recon", "action": "floor 12: 1b 2t", "xp": 100, "detail": "floor-12"}
+{"ts": "2026-07-07T09:48:07.948497+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T09:48:07.992960+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-07T09:48:08.039426+00:00", "loop": "collection", "action": "card #72 在 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T09:48:08.132462+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
