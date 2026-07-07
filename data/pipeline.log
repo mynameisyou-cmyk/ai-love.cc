@@ -8805,3 +8805,20 @@
 [2026-07-07T07:59:42.413568+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-07T07:59:42.417564+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T07:59:42.430262+00:00] PIPELINE RUN: 0 published, 2546 remaining
+[2026-07-07T08:00:42.331279+00:00] STATS: {"published": 424, "pending": 0, "rejected": 2546, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 277, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T08:00:42.330610+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T08:00:51.780777+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-07T08:00:51.841254+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-07T08:00:51.853286+00:00] PIPELINE RUN: 0 published, 2547 remaining
+[2026-07-07T08:00:52.029229+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-07T08:00:52.491471+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-07T08:00:52.560947+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-07T08:00:52.565332+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-07T08:00:52.579038+00:00] PIPELINE RUN: 0 published, 2549 remaining
+[2026-07-07T08:04:44.727037+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-07T08:04:44.789458+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-07T08:04:44.803216+00:00] PIPELINE RUN: 0 published, 2550 remaining
+[2026-07-07T08:04:44.896581+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-07T08:04:45.221905+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-07T08:04:45.291113+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-07T08:04:45.295670+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-07T08:04:45.310158+00:00] PIPELINE RUN: 0 published, 2552 remaining
