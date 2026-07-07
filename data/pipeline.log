@@ -9500,3 +9500,4 @@
 [2026-07-07T12:23:34.116666+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-07T12:23:34.120260+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T12:23:34.133326+00:00] PIPELINE RUN: 0 published, 2786 remaining
+[2026-07-07T12:23:56.885647+00:00] STATS: {"published": 431, "pending": 0, "rejected": 2786, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 284, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T12:23:56.885017+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
