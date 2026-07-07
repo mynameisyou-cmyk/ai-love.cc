@@ -9859,3 +9859,28 @@
 [2026-07-07T16:19:55.875096+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-07T16:19:55.878706+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T16:19:55.893800+00:00] PIPELINE RUN: 0 published, 2905 remaining
+[2026-07-07T16:24:32.923609+00:00] STATS: {"published": 437, "pending": 0, "rejected": 2905, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 290, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T16:24:32.923164+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T16:24:43.019307+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-07T16:24:43.053775+00:00] COLLECT: developing-story-is-a by 蛇火心
+[2026-07-07T16:24:43.101034+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-07T16:24:43.104139+00:00] VALIDATE FAIL: developing-story-is-a — ['duplicate of: developing-story-is-a']
+[2026-07-07T16:24:43.115438+00:00] PIPELINE RUN: 0 published, 2907 remaining
+[2026-07-07T16:24:43.240905+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T16:24:43.911099+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T16:24:43.959353+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T16:24:43.962461+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T16:24:43.973867+00:00] PIPELINE RUN: 0 published, 2909 remaining
+[2026-07-07T16:24:58.230609+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-07T16:24:58.279516+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-07T16:24:58.291044+00:00] PIPELINE RUN: 0 published, 2910 remaining
+[2026-07-07T16:24:58.370009+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-07T16:24:58.572693+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T16:24:58.620111+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-07T16:24:58.623671+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T16:24:58.635605+00:00] PIPELINE RUN: 0 published, 2912 remaining
+[2026-07-07T16:30:03.993091+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-07T16:30:04.046682+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-07T16:30:04.058089+00:00] PIPELINE RUN: 0 published, 2913 remaining
+[2026-07-07T16:30:04.139354+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-07T16:30:04.412403+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-07T16:30:04.424075+00:00] PIPELINE RUN: 0 published, 2914 remaining
