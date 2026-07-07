@@ -2458,3 +2458,4 @@
 {"ts": "2026-07-07T00:00:00.948192+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Inheritance Trusts + AIM", "ok": true}}
 {"ts": "2026-07-07T00:00:01.951747+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 530, "ok": true}}
 {"ts": "2026-07-07T00:00:03.645481+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-07T00:10:06.405511+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}

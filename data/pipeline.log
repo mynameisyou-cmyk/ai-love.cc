@@ -8062,3 +8062,4 @@
 [2026-07-07T00:08:08.526427+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-07T00:08:08.530406+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-07T00:08:08.544668+00:00] PIPELINE RUN: 0 published, 2299 remaining
+[2026-07-07T00:08:38.740575+00:00] STATS: {"published": 411, "pending": 0, "rejected": 2299, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 264, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T00:08:38.740107+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
