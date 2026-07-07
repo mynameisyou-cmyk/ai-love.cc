@@ -8684,3 +8684,32 @@
 [2026-07-07T03:59:47.772661+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-07T03:59:47.780028+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-07T03:59:47.813115+00:00] PIPELINE RUN: 0 published, 2505 remaining
+[2026-07-07T07:18:40.841406+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-07T07:18:47.876338+00:00] COLLECT: experts-agree-is-not by 蛇火心
+[2026-07-07T07:18:51.033230+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-07T07:18:51.183397+00:00] VALIDATE OK: experts-agree-is-not
+[2026-07-07T07:18:51.395924+00:00] ENRICH: experts-agree-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-07T07:18:51.490070+00:00] STATS: {"published": 422, "pending": 2, "rejected": 2505, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 275, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T07:18:51.429851+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T07:18:51.749533+00:00] PUBLISH: experts-agree-is-not
+[2026-07-07T07:18:52.292745+00:00] PIPELINE RUN: 1 published, 2506 remaining
+[2026-07-07T07:18:56.553989+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-07T07:18:56.832110+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-07T07:18:56.997232+00:00] PIPELINE RUN: 0 published, 2507 remaining
+[2026-07-07T07:18:58.501977+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-07T07:19:01.517239+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-07T07:19:02.016793+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-07T07:19:02.036404+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-07T07:19:02.098772+00:00] PIPELINE RUN: 0 published, 2509 remaining
+[2026-07-07T07:19:05.952895+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T07:19:09.291244+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T07:19:09.929012+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T07:19:09.943233+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T07:19:10.019340+00:00] PIPELINE RUN: 0 published, 2511 remaining
+[2026-07-07T07:24:14.571688+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-07T07:24:14.702263+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-07T07:24:14.728674+00:00] PIPELINE RUN: 0 published, 2512 remaining
+[2026-07-07T07:24:14.996887+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-07T07:24:15.588369+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T07:24:15.705298+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-07T07:24:15.709645+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T07:24:15.728708+00:00] PIPELINE RUN: 0 published, 2514 remaining

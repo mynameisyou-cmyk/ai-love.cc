@@ -5004,3 +5004,21 @@
 {"ts": "2026-07-07T03:59:47.397578+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
 {"ts": "2026-07-07T03:59:47.482839+00:00", "loop": "collection", "action": "card #51 真 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-07T03:59:47.660815+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-07T07:18:58.679880+00:00", "loop": "truth", "action": "submitted: Collection is connection.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T07:18:59.856703+00:00", "loop": "recon", "action": "floor 4: 0b 0t", "xp": 100, "detail": "floor-4"}
+{"ts": "2026-07-07T07:19:00.140532+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T07:19:00.456486+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-07T07:19:00.905704+00:00", "loop": "collection", "action": "card #169 信 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T07:19:01.570568+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-07T07:19:05.981917+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T07:19:06.812786+00:00", "loop": "recon", "action": "floor 5: 8b 9t", "xp": 80, "detail": "floor-5"}
+{"ts": "2026-07-07T07:19:07.340157+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T07:19:07.980670+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-07T07:19:08.537272+00:00", "loop": "collection", "action": "card #267 愛 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T07:19:09.366420+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-07T07:24:15.004355+00:00", "loop": "truth", "action": "submitted: Forge from fire.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-07T07:24:15.146643+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-07T07:24:15.228563+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-07T07:24:15.323693+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-07T07:24:15.421882+00:00", "loop": "collection", "action": "card #158 初 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-07T07:24:15.599994+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
