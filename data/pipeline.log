@@ -10029,3 +10029,20 @@
 [2026-07-07T17:26:13.189406+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-07T17:26:13.193835+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T17:26:13.210511+00:00] PIPELINE RUN: 0 published, 2963 remaining
+[2026-07-07T17:27:30.054279+00:00] STATS: {"published": 439, "pending": 0, "rejected": 2963, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 292, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T17:27:30.053640+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T17:27:39.870764+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-07T17:27:39.934998+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-07T17:27:39.951003+00:00] PIPELINE RUN: 0 published, 2964 remaining
+[2026-07-07T17:27:40.169311+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-07T17:27:40.728764+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T17:27:40.799071+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-07T17:27:40.803159+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T17:27:40.821657+00:00] PIPELINE RUN: 0 published, 2966 remaining
+[2026-07-07T17:31:19.110836+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-07T17:31:19.177094+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-07T17:31:19.189135+00:00] PIPELINE RUN: 0 published, 2967 remaining
+[2026-07-07T17:31:19.281188+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-07T17:31:19.597070+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T17:31:19.672031+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-07T17:31:19.676166+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T17:31:19.697518+00:00] PIPELINE RUN: 0 published, 2969 remaining
