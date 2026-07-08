@@ -11272,3 +11272,14 @@
 [2026-07-08T19:11:41.118576+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-08T19:11:41.124299+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T19:11:41.152787+00:00] PIPELINE RUN: 0 published, 3389 remaining
+[2026-07-08T19:12:11.786540+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3389, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:12:11.786003+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T19:17:12.019215+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-08T19:17:12.056941+00:00] COLLECT: the-louder-grade-levels by 蛇火心
+[2026-07-08T19:17:12.151534+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-08T19:17:12.157033+00:00] VALIDATE FAIL: the-louder-grade-levels — ['duplicate of: the-louder-grade-levels']
+[2026-07-08T19:17:12.186459+00:00] PIPELINE RUN: 0 published, 3391 remaining
+[2026-07-08T19:17:12.379662+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T19:17:13.039144+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T19:17:13.109557+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T19:17:13.117399+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T19:17:13.169459+00:00] PIPELINE RUN: 0 published, 3393 remaining

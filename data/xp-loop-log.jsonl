@@ -6702,3 +6702,9 @@
 {"ts": "2026-07-08T19:11:40.799754+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
 {"ts": "2026-07-08T19:11:40.855040+00:00", "loop": "collection", "action": "card #45 愛 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-08T19:11:41.012187+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-08T19:17:12.388571+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T19:17:12.690490+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-08T19:17:12.764988+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T19:17:12.858045+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-08T19:17:12.915603+00:00", "loop": "collection", "action": "card #24 不 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-08T19:17:13.046116+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
