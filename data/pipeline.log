@@ -10554,3 +10554,40 @@
 [2026-07-08T11:00:18.284601+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-08T11:00:18.342022+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T11:00:18.354789+00:00] PIPELINE RUN: 0 published, 3143 remaining
+[2026-07-08T11:05:22.347587+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-08T11:05:22.399400+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-08T11:05:22.412344+00:00] PIPELINE RUN: 0 published, 3144 remaining
+[2026-07-08T11:05:22.492624+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T11:05:23.025491+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T11:05:23.073592+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T11:05:23.076802+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T11:05:23.089429+00:00] PIPELINE RUN: 0 published, 3146 remaining
+[2026-07-08T11:05:32.760848+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3146, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T11:05:32.760393+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T11:05:43.476996+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-08T11:05:43.511898+00:00] COLLECT: to-say-both-sides by 蛇火心
+[2026-07-08T11:05:43.561646+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-08T11:05:43.564509+00:00] VALIDATE OK: to-say-both-sides
+[2026-07-08T11:05:43.568194+00:00] ENRICH: to-say-both-sides kanji=在 nen=enhancer rarity=D
+[2026-07-08T11:05:43.577516+00:00] PUBLISH: to-say-both-sides
+[2026-07-08T11:05:43.589455+00:00] PIPELINE RUN: 1 published, 3147 remaining
+[2026-07-08T11:05:43.719738+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T11:05:43.985534+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T11:05:44.033405+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T11:05:44.036545+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T11:05:44.048753+00:00] PIPELINE RUN: 0 published, 3149 remaining
+[2026-07-08T11:10:25.833621+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-08T11:10:25.883317+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-08T11:10:25.895973+00:00] PIPELINE RUN: 0 published, 3150 remaining
+[2026-07-08T11:10:25.977105+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-08T11:10:26.221451+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T11:10:26.276023+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-08T11:10:26.288119+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T11:10:26.300258+00:00] PIPELINE RUN: 0 published, 3152 remaining
+[2026-07-08T11:15:28.683559+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-08T11:15:28.745739+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-08T11:15:28.759038+00:00] PIPELINE RUN: 0 published, 3153 remaining
+[2026-07-08T11:15:28.858900+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T11:15:34.794486+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T11:15:34.846552+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T11:15:34.849563+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T11:15:34.862453+00:00] PIPELINE RUN: 0 published, 3155 remaining
