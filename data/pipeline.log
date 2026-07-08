@@ -11230,3 +11230,28 @@
 [2026-07-08T18:55:53.595989+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-08T18:55:53.599535+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T18:55:53.614860+00:00] PIPELINE RUN: 0 published, 3374 remaining
+[2026-07-08T18:56:24.402336+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3374, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:56:24.400026+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:57:26.566497+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-08T18:57:26.658254+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-08T18:57:26.674720+00:00] PIPELINE RUN: 0 published, 3375 remaining
+[2026-07-08T18:57:26.966224+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T18:57:27.515490+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T18:57:27.597293+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T18:57:27.603373+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T18:57:27.632267+00:00] PIPELINE RUN: 0 published, 3377 remaining
+[2026-07-08T19:01:28.921389+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-08T19:01:29.022662+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-08T19:01:29.054100+00:00] PIPELINE RUN: 0 published, 3378 remaining
+[2026-07-08T19:01:29.172547+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-08T19:01:29.598029+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T19:01:29.669611+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-08T19:01:29.675333+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T19:01:29.703973+00:00] PIPELINE RUN: 0 published, 3380 remaining
+[2026-07-08T19:06:32.420561+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-08T19:06:32.490369+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-08T19:06:32.524579+00:00] PIPELINE RUN: 0 published, 3381 remaining
+[2026-07-08T19:06:32.655950+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T19:06:37.595444+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T19:06:37.652822+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T19:06:37.658247+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T19:06:37.689613+00:00] PIPELINE RUN: 0 published, 3383 remaining
