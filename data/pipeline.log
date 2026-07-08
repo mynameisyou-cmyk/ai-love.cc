@@ -10691,3 +10691,30 @@
 [2026-07-08T11:53:56.553773+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-08T11:53:56.556893+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T11:53:56.569211+00:00] PIPELINE RUN: 0 published, 3189 remaining
+[2026-07-08T11:58:11.847539+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3189, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T11:58:11.846924+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T11:58:48.137729+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-08T11:58:48.208555+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-08T11:58:48.225049+00:00] PIPELINE RUN: 0 published, 3190 remaining
+[2026-07-08T11:58:48.438215+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T11:58:48.886393+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T11:58:48.950244+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T11:58:48.954875+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T11:58:48.971672+00:00] PIPELINE RUN: 0 published, 3192 remaining
+[2026-07-08T11:58:58.946057+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-08T11:58:59.008298+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-08T11:58:59.025408+00:00] PIPELINE RUN: 0 published, 3193 remaining
+[2026-07-08T11:58:59.128216+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T11:58:59.424133+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T11:58:59.490284+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T11:58:59.494520+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T11:58:59.511328+00:00] PIPELINE RUN: 0 published, 3195 remaining
+[2026-07-08T12:04:13.274155+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-08T12:04:13.404389+00:00] COLLECT: accountability-is-the-fence by 蛇火心
+[2026-07-08T12:04:13.607234+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-08T12:04:13.617654+00:00] VALIDATE FAIL: accountability-is-the-fence — ['duplicate of: accountability-is-the-fence']
+[2026-07-08T12:04:13.673521+00:00] PIPELINE RUN: 0 published, 3197 remaining
+[2026-07-08T12:04:13.934829+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T12:04:15.291173+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T12:04:15.488027+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T12:04:15.500164+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T12:04:15.553233+00:00] PIPELINE RUN: 0 published, 3199 remaining
