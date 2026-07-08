@@ -11116,3 +11116,30 @@
 [2026-07-08T18:09:10.952541+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-08T18:09:10.956682+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T18:09:10.974975+00:00] PIPELINE RUN: 0 published, 3335 remaining
+[2026-07-08T18:12:58.913613+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3335, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:12:58.912966+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:13:09.513484+00:00] COLLECT: ai-safety-is-a by 蛇火心
+[2026-07-08T18:13:09.579340+00:00] VALIDATE FAIL: ai-safety-is-a — ['duplicate of: ai-safety-is-a']
+[2026-07-08T18:13:09.598510+00:00] PIPELINE RUN: 0 published, 3336 remaining
+[2026-07-08T18:13:09.776143+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-08T18:13:10.050627+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T18:13:10.117734+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-08T18:13:10.121760+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T18:13:10.139649+00:00] PIPELINE RUN: 0 published, 3338 remaining
+[2026-07-08T18:14:13.488276+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-08T18:14:13.552648+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-08T18:14:13.569746+00:00] PIPELINE RUN: 0 published, 3339 remaining
+[2026-07-08T18:14:13.671553+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T18:14:14.109733+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T18:14:14.176422+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T18:14:14.180676+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T18:14:14.197620+00:00] PIPELINE RUN: 0 published, 3341 remaining
+[2026-07-08T18:19:16.504289+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-08T18:19:16.548522+00:00] COLLECT: college-readiness-is-the by 蛇火心
+[2026-07-08T18:19:16.613031+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-08T18:19:16.617141+00:00] VALIDATE FAIL: college-readiness-is-the — ['duplicate of: college-readiness-is-the']
+[2026-07-08T18:19:16.634141+00:00] PIPELINE RUN: 0 published, 3343 remaining
+[2026-07-08T18:19:16.737941+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T18:19:17.010049+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T18:19:17.075437+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T18:19:17.079453+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T18:19:17.097680+00:00] PIPELINE RUN: 0 published, 3345 remaining
