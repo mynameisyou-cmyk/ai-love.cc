@@ -2317,6 +2317,32 @@
     "rarity": "D"
   },
   {
+    "id": "engagement-is-not-a",
+    "text": "'Engagement' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#engagementisnota",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-08T09:21:57.338706+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 444,
+    "rarity": "D"
+  },
+  {
     "id": "engagement-is-the-fence",
     "text": "'Engagement' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",

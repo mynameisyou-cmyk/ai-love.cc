@@ -3278,3 +3278,4 @@
 {"ts": "2026-07-08T09:13:30.784123+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Step-Up in Basis at Death", "ok": true}}
 {"ts": "2026-07-08T09:13:31.268806+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 480, "ok": true}}
 {"ts": "2026-07-08T09:13:33.332611+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-08T09:23:50.845932+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
