@@ -10072,3 +10072,34 @@
 [2026-07-07T22:04:39.507556+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-07T22:04:39.514190+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-07T22:04:39.540163+00:00] PIPELINE RUN: 0 published, 2978 remaining
+[2026-07-07T23:32:55.999102+00:00] STATS: {"published": 439, "pending": 0, "rejected": 2978, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 292, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-07T23:32:55.997759+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-07T23:33:07.033281+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-07T23:33:07.099597+00:00] COLLECT: personalized-treatment-is-a by 蛇火心
+[2026-07-07T23:33:07.189539+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-07T23:33:07.194848+00:00] VALIDATE OK: personalized-treatment-is-a
+[2026-07-07T23:33:07.201015+00:00] ENRICH: personalized-treatment-is-a kanji=見 nen=enhancer rarity=D
+[2026-07-07T23:33:07.217280+00:00] PUBLISH: personalized-treatment-is-a
+[2026-07-07T23:33:07.239100+00:00] PIPELINE RUN: 1 published, 2979 remaining
+[2026-07-07T23:33:07.569100+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-07T23:33:07.997258+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-07T23:33:08.100452+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-07T23:33:08.106104+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-07T23:33:08.130756+00:00] PIPELINE RUN: 0 published, 2981 remaining
+[2026-07-07T23:50:24.791377+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-07T23:50:24.849589+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-07T23:50:24.935150+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-07T23:50:24.940051+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-07T23:50:24.961043+00:00] PIPELINE RUN: 0 published, 2983 remaining
+[2026-07-07T23:50:25.090779+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-07T23:50:25.815212+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-07T23:50:25.865246+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-07T23:50:25.868493+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-07T23:50:25.880295+00:00] PIPELINE RUN: 0 published, 2985 remaining
+[2026-07-08T01:34:28.102795+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-08T01:34:28.182665+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-08T01:34:28.202009+00:00] PIPELINE RUN: 0 published, 2986 remaining
+[2026-07-08T01:34:28.323874+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T01:34:28.744677+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T01:34:28.845433+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T01:34:28.852476+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T01:34:28.878120+00:00] PIPELINE RUN: 0 published, 2988 remaining

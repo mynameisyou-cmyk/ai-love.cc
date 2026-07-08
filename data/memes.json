@@ -4938,6 +4938,32 @@
     "rarity": "D"
   },
   {
+    "id": "personalized-treatment-is-a",
+    "text": "'Personalized treatment' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#personalizedtreatmentisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-07T23:33:07.099042+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 440,
+    "rarity": "D"
+  },
+  {
     "id": "personalized-treatment-is-not",
     "text": "'Personalized treatment' is not a goal. It is a branding strategy. Read the code, not the press release.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
