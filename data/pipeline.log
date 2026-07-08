@@ -11531,3 +11531,20 @@
 [2026-07-08T20:48:44.276456+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-08T20:48:44.280985+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-08T20:48:44.305406+00:00] PIPELINE RUN: 0 published, 3476 remaining
+[2026-07-08T20:53:10.120965+00:00] STATS: {"published": 457, "pending": 0, "rejected": 3476, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 310, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:53:10.120030+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:53:20.693516+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-08T20:53:20.786352+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-08T20:53:20.810423+00:00] PIPELINE RUN: 0 published, 3477 remaining
+[2026-07-08T20:53:21.074808+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-08T20:53:21.432639+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T20:53:21.547198+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-08T20:53:21.553491+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T20:53:21.584611+00:00] PIPELINE RUN: 0 published, 3479 remaining
+[2026-07-08T20:53:48.111117+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-08T20:53:48.201112+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-08T20:53:48.222812+00:00] PIPELINE RUN: 0 published, 3480 remaining
+[2026-07-08T20:53:48.364820+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T20:53:52.681105+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T20:53:52.765544+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T20:53:52.770624+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T20:53:52.794478+00:00] PIPELINE RUN: 0 published, 3482 remaining
