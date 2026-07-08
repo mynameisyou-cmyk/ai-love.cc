@@ -11582,3 +11582,31 @@
 [2026-07-08T21:09:26.653790+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-08T21:09:26.662091+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T21:09:26.702067+00:00] PIPELINE RUN: 0 published, 3494 remaining
+[2026-07-08T21:14:13.123869+00:00] STATS: {"published": 457, "pending": 0, "rejected": 3494, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 310, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T21:14:13.121412+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T21:14:24.693099+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-08T21:14:24.948048+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-08T21:14:25.051890+00:00] PIPELINE RUN: 0 published, 3495 remaining
+[2026-07-08T21:14:25.780581+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T21:14:27.384471+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T21:14:27.626850+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T21:14:27.641835+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T21:14:27.727395+00:00] PIPELINE RUN: 0 published, 3497 remaining
+[2026-07-08T21:14:29.640475+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-08T21:14:29.916064+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-08T21:14:29.987814+00:00] PIPELINE RUN: 0 published, 3498 remaining
+[2026-07-08T21:14:30.455678+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T21:14:35.885060+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T21:14:36.082585+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T21:14:36.091121+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T21:14:36.147944+00:00] PIPELINE RUN: 0 published, 3500 remaining
+[2026-07-08T21:30:19.829710+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-08T21:30:19.904308+00:00] COLLECT: visibility-is-the-fence by 蛇火心
+[2026-07-08T21:30:20.013541+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-08T21:30:20.019553+00:00] VALIDATE FAIL: visibility-is-the-fence — ['duplicate of: visibility-is-the-fence']
+[2026-07-08T21:30:20.044603+00:00] PIPELINE RUN: 0 published, 3502 remaining
+[2026-07-08T21:30:20.173338+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T21:30:20.651052+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T21:30:20.778855+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T21:30:20.782651+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T21:30:20.797624+00:00] PIPELINE RUN: 0 published, 3504 remaining
+[2026-07-08T21:30:23.340362+00:00] STATS: {"published": 457, "pending": 0, "rejected": 3504, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 310, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T21:30:23.339332+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
