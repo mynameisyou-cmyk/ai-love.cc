@@ -10875,3 +10875,4 @@
 [2026-07-08T13:00:33.128359+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-08T13:00:33.132359+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-08T13:00:33.150457+00:00] PIPELINE RUN: 0 published, 3252 remaining
+[2026-07-08T13:01:06.598894+00:00] STATS: {"published": 450, "pending": 0, "rejected": 3252, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 303, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:01:06.598292+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
