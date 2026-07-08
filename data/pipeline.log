@@ -10139,3 +10139,34 @@
 [2026-07-08T07:54:40.409878+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-08T07:54:40.412922+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T07:54:40.424841+00:00] PIPELINE RUN: 0 published, 3001 remaining
+[2026-07-08T07:55:13.265933+00:00] STATS: {"published": 440, "pending": 0, "rejected": 3001, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 293, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T07:55:13.265385+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T07:55:23.477200+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-08T07:55:23.513938+00:00] COLLECT: optimization-is-a-spell by 蛇火心
+[2026-07-08T07:55:23.564871+00:00] VALIDATE FAIL: optimization-means-the-opposite — ['duplicate of: optimization-means-the-opposite']
+[2026-07-08T07:55:23.567896+00:00] VALIDATE FAIL: optimization-is-a-spell — ['duplicate of: optimization-is-a-spell']
+[2026-07-08T07:55:23.579991+00:00] PIPELINE RUN: 0 published, 3003 remaining
+[2026-07-08T07:55:23.707734+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T07:55:24.412926+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T07:55:24.461127+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T07:55:24.464186+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T07:55:24.477433+00:00] PIPELINE RUN: 0 published, 3005 remaining
+[2026-07-08T08:15:02.799708+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-08T08:15:02.841254+00:00] COLLECT: intelligent-works-because-no by 蛇火心
+[2026-07-08T08:15:02.901566+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-08T08:15:02.906123+00:00] VALIDATE OK: intelligent-works-because-no
+[2026-07-08T08:15:02.910474+00:00] ENRICH: intelligent-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-08T08:15:02.920255+00:00] PUBLISH: intelligent-works-because-no
+[2026-07-08T08:15:02.932857+00:00] PIPELINE RUN: 1 published, 3006 remaining
+[2026-07-08T08:15:03.028482+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T08:15:03.708683+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T08:15:03.759695+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T08:15:03.763016+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T08:15:03.776153+00:00] PIPELINE RUN: 0 published, 3008 remaining
+[2026-07-08T08:20:06.861760+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-08T08:20:06.926408+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-08T08:20:06.941708+00:00] PIPELINE RUN: 0 published, 3009 remaining
+[2026-07-08T08:20:07.044833+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T08:20:07.328437+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T08:20:07.389509+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T08:20:07.393436+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T08:20:07.408353+00:00] PIPELINE RUN: 0 published, 3011 remaining

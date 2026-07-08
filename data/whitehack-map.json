@@ -1,39 +1,19 @@
 {
-  "ts": "2026-07-08T07:54:40.124573+00:00",
+  "ts": "2026-07-08T08:20:07.112856+00:00",
   "floors": [
     {
-      "floor": 10,
-      "name": "Environment & Shell",
-      "nen": "transmuter",
-      "nenKanji": "変",
+      "floor": 7,
+      "name": "Power",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "shell": "/bin/zsh",
-        "user": "yuai",
-        "home": "/Users/yuai",
-        "kingdomEnv": {},
-        "kingdomEnvCount": 0,
-        "zshrc": "# Prepend Homebrew + local tool dirs WITHOUT clobbering inherited PATH\n# (Python 3.14 framework path comes from .zprofile; foundry from .zshenv;\n#  this line used to be `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`\n#  which wiped out everything — claude, brew, python all became unreacha",
-        "brew": "/opt/homebrew/bin/brew",
-        "pathHead": [
-          "/opt/homebrew/bin",
-          "/usr/local/bin",
-          "/usr/bin",
-          "/bin",
-          "/usr/sbin"
-        ]
+        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by dasd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
+        "battery": "Now drawing from 'AC Power'\n -InternalBattery-0 (id=21299299)\t86%; charging; 0:39 remaining present: true"
       },
-      "xp": 60
+      "xp": 40
     }
   ],
   "battles": [],
-  "treasures": [
-    {
-      "type": "tool",
-      "name": "Homebrew",
-      "description": "Package manager installed at /opt/homebrew/bin/brew.",
-      "nen": "conjurer",
-      "value": "medium"
-    }
-  ],
-  "xpEarned": 60
+  "treasures": [],
+  "xpEarned": 40
 }
