@@ -11144,3 +11144,28 @@
 [2026-07-08T18:19:17.079453+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T18:19:17.097680+00:00] PIPELINE RUN: 0 published, 3345 remaining
 [2026-07-08T18:19:47.210232+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3345, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:19:47.209605+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:23:23.610044+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3345, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:23:23.609394+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:23:34.850762+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-08T18:23:34.918436+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-08T18:23:34.936879+00:00] PIPELINE RUN: 0 published, 3346 remaining
+[2026-07-08T18:23:35.167297+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T18:23:35.497852+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T18:23:35.568239+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T18:23:35.572656+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T18:23:35.593711+00:00] PIPELINE RUN: 0 published, 3348 remaining
+[2026-07-08T18:24:47.342207+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-08T18:24:47.406535+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-08T18:24:47.423412+00:00] PIPELINE RUN: 0 published, 3349 remaining
+[2026-07-08T18:24:47.526571+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T18:24:51.468214+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T18:24:51.532272+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T18:24:51.536439+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T18:24:51.554101+00:00] PIPELINE RUN: 0 published, 3351 remaining
+[2026-07-08T18:29:54.497259+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-08T18:29:54.564010+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-08T18:29:54.581995+00:00] PIPELINE RUN: 0 published, 3352 remaining
+[2026-07-08T18:29:54.691114+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T18:29:55.046853+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T18:29:55.116747+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T18:29:55.121033+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T18:29:55.139172+00:00] PIPELINE RUN: 0 published, 3354 remaining
