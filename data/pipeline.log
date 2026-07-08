@@ -11506,3 +11506,28 @@
 [2026-07-08T20:38:37.986271+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-08T20:38:37.991633+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T20:38:38.020882+00:00] PIPELINE RUN: 0 published, 3467 remaining
+[2026-07-08T20:42:41.313707+00:00] STATS: {"published": 457, "pending": 0, "rejected": 3467, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 310, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:42:41.313264+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:42:51.845683+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-08T20:42:51.947032+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-08T20:42:51.963828+00:00] PIPELINE RUN: 0 published, 3468 remaining
+[2026-07-08T20:42:52.266452+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T20:42:52.628792+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T20:42:52.706368+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T20:42:52.711786+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T20:42:52.745103+00:00] PIPELINE RUN: 0 published, 3470 remaining
+[2026-07-08T20:43:40.501596+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-08T20:43:40.586940+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-08T20:43:40.602613+00:00] PIPELINE RUN: 0 published, 3471 remaining
+[2026-07-08T20:43:40.729781+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T20:43:41.095675+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T20:43:41.204388+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T20:43:41.210008+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T20:43:41.273737+00:00] PIPELINE RUN: 0 published, 3473 remaining
+[2026-07-08T20:48:43.609666+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-08T20:48:43.685315+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-08T20:48:43.740704+00:00] PIPELINE RUN: 0 published, 3474 remaining
+[2026-07-08T20:48:43.868851+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-08T20:48:44.192962+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T20:48:44.276456+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-08T20:48:44.280985+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T20:48:44.305406+00:00] PIPELINE RUN: 0 published, 3476 remaining
