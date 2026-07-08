@@ -10602,6 +10602,32 @@
     "rarity": "C"
   },
   {
+    "id": "user-centric-is-the",
+    "text": "'User-centric' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#usercentricisthe",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-08T18:55:52.364274+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 453,
+    "rarity": "D"
+  },
+  {
     "id": "value-based-care-is",
     "text": "'Value-based care' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",

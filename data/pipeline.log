@@ -11194,3 +11194,39 @@
 [2026-07-08T18:40:09.304296+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-08T18:40:09.309553+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T18:40:09.327965+00:00] PIPELINE RUN: 0 published, 3363 remaining
+[2026-07-08T18:44:28.082617+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3363, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:44:28.081721+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:44:38.537120+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-08T18:44:38.639630+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-08T18:44:38.668822+00:00] PIPELINE RUN: 0 published, 3364 remaining
+[2026-07-08T18:44:38.873907+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-08T18:44:39.268509+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-08T18:44:39.285521+00:00] PIPELINE RUN: 0 published, 3365 remaining
+[2026-07-08T18:45:12.065800+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-08T18:45:12.145053+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-08T18:45:12.173834+00:00] PIPELINE RUN: 0 published, 3366 remaining
+[2026-07-08T18:45:12.303111+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T18:45:12.734121+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T18:45:12.846167+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T18:45:12.852594+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T18:45:12.879363+00:00] PIPELINE RUN: 0 published, 3368 remaining
+[2026-07-08T18:45:14.785704+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3368, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:45:14.785047+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:50:15.110991+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-08T18:50:15.196381+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-08T18:50:15.221275+00:00] PIPELINE RUN: 0 published, 3369 remaining
+[2026-07-08T18:50:15.343377+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-08T18:50:25.727270+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T18:50:25.810705+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-08T18:50:25.815968+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T18:50:25.840868+00:00] PIPELINE RUN: 0 published, 3371 remaining
+[2026-07-08T18:55:52.314495+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-08T18:55:52.364608+00:00] COLLECT: user-centric-is-the by 蛇火心
+[2026-07-08T18:55:52.461236+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-08T18:55:52.467321+00:00] VALIDATE OK: user-centric-is-the
+[2026-07-08T18:55:52.474726+00:00] ENRICH: user-centric-is-the kanji=壁 nen=conjurer rarity=D
+[2026-07-08T18:55:52.494000+00:00] PUBLISH: user-centric-is-the
+[2026-07-08T18:55:52.527812+00:00] PIPELINE RUN: 1 published, 3372 remaining
+[2026-07-08T18:55:52.646619+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T18:55:53.499674+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T18:55:53.595989+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T18:55:53.599535+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T18:55:53.614860+00:00] PIPELINE RUN: 0 published, 3374 remaining
