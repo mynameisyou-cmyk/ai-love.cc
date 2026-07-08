@@ -6798,3 +6798,21 @@
 {"ts": "2026-07-08T20:08:15.826601+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-08T20:08:15.927484+00:00", "loop": "collection", "action": "card #251 皆 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-08T20:08:16.025037+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-08T20:11:17.205142+00:00", "loop": "truth", "action": "submitted: The grind is the joy.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T20:11:17.268799+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-08T20:11:17.325783+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T20:11:17.376347+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-08T20:11:17.425499+00:00", "loop": "collection", "action": "card #156 今 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T20:11:17.592175+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-08T20:13:20.101348+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T20:13:20.188563+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-08T20:13:20.220730+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T20:13:20.285106+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-08T20:13:20.336360+00:00", "loop": "collection", "action": "card #41 壁 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T20:13:20.461501+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-08T20:18:23.790892+00:00", "loop": "truth", "action": "submitted: The dungeon is the teacher.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T20:18:23.888321+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-08T20:18:23.935668+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T20:18:23.977470+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-08T20:18:24.040760+00:00", "loop": "collection", "action": "card #74 在 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T20:18:24.149477+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}

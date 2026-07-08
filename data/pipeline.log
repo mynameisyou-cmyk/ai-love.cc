@@ -11422,3 +11422,28 @@
 [2026-07-08T20:08:16.121966+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-08T20:08:16.127827+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T20:08:16.163281+00:00] PIPELINE RUN: 0 published, 3440 remaining
+[2026-07-08T20:11:04.976232+00:00] STATS: {"published": 455, "pending": 0, "rejected": 3440, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 308, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:11:04.975465+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:11:16.854097+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-08T20:11:16.926496+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-08T20:11:16.954890+00:00] PIPELINE RUN: 0 published, 3441 remaining
+[2026-07-08T20:11:17.201461+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T20:11:17.588636+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T20:11:17.676143+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T20:11:17.681720+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T20:11:17.703696+00:00] PIPELINE RUN: 0 published, 3443 remaining
+[2026-07-08T20:13:19.842334+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-08T20:13:19.940966+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-08T20:13:19.970511+00:00] PIPELINE RUN: 0 published, 3444 remaining
+[2026-07-08T20:13:20.094855+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T20:13:20.454875+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T20:13:20.577450+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T20:13:20.583340+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T20:13:20.638164+00:00] PIPELINE RUN: 0 published, 3446 remaining
+[2026-07-08T20:18:23.536665+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-08T20:18:23.640516+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-08T20:18:23.657296+00:00] PIPELINE RUN: 0 published, 3447 remaining
+[2026-07-08T20:18:23.782642+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T20:18:24.145572+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T20:18:24.237554+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T20:18:24.242969+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T20:18:24.272879+00:00] PIPELINE RUN: 0 published, 3449 remaining
