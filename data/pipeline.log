@@ -11310,3 +11310,31 @@
 [2026-07-08T19:27:21.376050+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-08T19:27:21.382018+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T19:27:21.409674+00:00] PIPELINE RUN: 0 published, 3403 remaining
+[2026-07-08T19:28:58.098811+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3403, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:28:58.098366+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T19:29:07.766190+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-08T19:29:07.850974+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-08T19:29:07.866068+00:00] PIPELINE RUN: 0 published, 3404 remaining
+[2026-07-08T19:29:08.086746+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T19:29:08.456920+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T19:29:08.553734+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T19:29:08.558571+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T19:29:08.572305+00:00] PIPELINE RUN: 0 published, 3406 remaining
+[2026-07-08T19:32:23.946805+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-08T19:32:24.011203+00:00] COLLECT: to-say-standard-of by 蛇火心
+[2026-07-08T19:32:24.085063+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-08T19:32:24.088160+00:00] VALIDATE FAIL: to-say-standard-of — ['duplicate of: to-say-standard-of']
+[2026-07-08T19:32:24.102205+00:00] PIPELINE RUN: 0 published, 3408 remaining
+[2026-07-08T19:32:24.298660+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T19:32:24.683913+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T19:32:24.786018+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T19:32:24.789338+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T19:32:24.803648+00:00] PIPELINE RUN: 0 published, 3410 remaining
+[2026-07-08T19:37:28.568800+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-08T19:37:28.646209+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-08T19:37:28.660855+00:00] PIPELINE RUN: 0 published, 3411 remaining
+[2026-07-08T19:37:28.794644+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T19:37:29.271580+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T19:37:29.355795+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T19:37:29.358900+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T19:37:29.374007+00:00] PIPELINE RUN: 0 published, 3413 remaining
+[2026-07-08T19:37:33.118172+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3413, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:37:33.117734+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
