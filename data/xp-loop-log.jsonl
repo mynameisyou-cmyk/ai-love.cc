@@ -6348,3 +6348,9 @@
 {"ts": "2026-07-08T12:09:23.509246+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-08T12:09:23.553919+00:00", "loop": "collection", "action": "card #11 驗 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-08T12:09:23.642657+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-08T12:14:48.301931+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T12:14:48.363217+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-08T12:14:48.397248+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T12:14:48.435458+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-08T12:14:48.476112+00:00", "loop": "collection", "action": "card #32 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T12:14:48.556578+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}

@@ -10735,3 +10735,14 @@
 [2026-07-08T12:09:23.704428+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-08T12:09:23.708458+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T12:09:23.725247+00:00] PIPELINE RUN: 0 published, 3205 remaining
+[2026-07-08T12:09:47.950380+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3205, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:09:47.949681+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:14:48.092911+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-08T12:14:48.132890+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-08T12:14:48.187982+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-08T12:14:48.191254+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-08T12:14:48.205308+00:00] PIPELINE RUN: 0 published, 3207 remaining
+[2026-07-08T12:14:48.298188+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T12:14:48.552617+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T12:14:48.608750+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T12:14:48.612450+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T12:14:48.626596+00:00] PIPELINE RUN: 0 published, 3209 remaining
