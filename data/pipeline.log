@@ -10309,3 +10309,22 @@
 [2026-07-08T09:11:23.844774+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-08T09:11:23.848232+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T09:11:23.861362+00:00] PIPELINE RUN: 0 published, 3058 remaining
+[2026-07-08T09:13:18.538933+00:00] STATS: {"published": 443, "pending": 0, "rejected": 3058, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 296, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T09:13:18.538017+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T09:13:30.561729+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-08T09:13:30.627671+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-08T09:13:30.644144+00:00] PIPELINE RUN: 0 published, 3059 remaining
+[2026-07-08T09:13:30.859776+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-08T09:13:31.164315+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T09:13:31.232090+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-08T09:13:31.236286+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T09:13:31.252513+00:00] PIPELINE RUN: 0 published, 3061 remaining
+[2026-07-08T09:16:28.164045+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-08T09:16:28.210175+00:00] COLLECT: be-yourself-is-a by 蛇火心
+[2026-07-08T09:16:28.272970+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-08T09:16:28.276760+00:00] VALIDATE FAIL: be-yourself-is-a — ['duplicate of: be-yourself-is-a']
+[2026-07-08T09:16:28.291723+00:00] PIPELINE RUN: 0 published, 3063 remaining
+[2026-07-08T09:16:28.391071+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T09:16:32.282639+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T09:16:32.345983+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T09:16:32.349914+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T09:16:32.365908+00:00] PIPELINE RUN: 0 published, 3065 remaining
