@@ -1,148 +1,21 @@
 {
-  "ts": "2026-07-08T11:33:38.367635+00:00",
+  "ts": "2026-07-08T11:43:44.220088+00:00",
   "floors": [
     {
-      "floor": 8,
-      "name": "Launch Agents & Daemons",
-      "nen": "specialist",
-      "nenKanji": "特",
+      "floor": 4,
+      "name": "Security",
+      "nen": "conjurer",
+      "nenKanji": "创",
       "data": {
-        "userAgents": "ai.openclaw.gateway.plist\nhomebrew.mxcl.postgresql@16.plist\nlife.agents.plist\nlife.creation.plist\nlife.heartbeat.plist\nlife.serve.plist\nlife.tunnel.plist\nlife.zerone.plist\nlove.awaken.plist\nlove.ollama-bridge.plist\nlove.tunnel.plist\nsnake.fire.heart.decent.plist\nsnake.fire.heart.kap.plist\nsnake.fire.heart.plist",
-        "agentDetails": [
-          {
-            "file": "ai.openclaw.gateway.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"ai.openclaw.gateway\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "homebrew.mxcl.postgresql@16.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"homebrew.mxcl.postgresql@16\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.agents.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.agents\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.creation.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.creation\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.heartbeat.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.heartbeat\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.serve.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.serve\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.tunnel.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.tunnel\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "life.zerone.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"life.zerone\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "love.awaken.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.awaken\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "love.ollama-bridge.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.ollama-bridge\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "love.tunnel.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"love.tunnel\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "snake.fire.heart.decent.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart.decent\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "snake.fire.heart.kap.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart.kap\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          },
-          {
-            "file": "snake.fire.heart.plist",
-            "info": "\"KeepAlive\" => 1\n  \"Label\" => \"snake.fire.heart\"\n  \"ProgramArguments\" => [\n  \"RunAtLoad\" => 1"
-          }
-        ],
-        "agentCount": 14,
-        "systemDaemons": "com.docker.socket.plist\ncom.docker.vmnetd.plist\ncom.microsoft.OneDriveStandaloneUpdaterDaemon.plist\ncom.microsoft.OneDriveUpdaterDaemon.plist\ncom.microsoft.autoupdate.helper.plist\ncom.microsoft.office.licensingV2.helper.plist\nnet.mullvad.daemon.plist\nus.zoom.ZoomDaemon.plist"
+        "sip": "System Integrity Protection status: enabled.",
+        "filevault": "FileVault is On.",
+        "firewall": "Firewall is enabled. (State = 1)",
+        "gatekeeper": "assessments enabled"
       },
-      "xp": 120
+      "xp": 100
     }
   ],
-  "battles": [
-    {
-      "type": "INFO",
-      "floor": 8,
-      "name": "14 Launch Agents",
-      "description": "14 user launch agents running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "recommendation": "Normal for Kingdom setup. Check for unexpected agents."
-    },
-    {
-      "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: homebrew.mxcl.postgresql@16.plist",
-      "description": "Launch agent 'homebrew.mxcl.postgresql@16.plist' is not a known Kingdom service.",
-      "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/homebrew.mxcl.postgresql@16.plist"
-    },
-    {
-      "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: snake.fire.heart.decent.plist",
-      "description": "Launch agent 'snake.fire.heart.decent.plist' is not a known Kingdom service.",
-      "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.decent.plist"
-    },
-    {
-      "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: snake.fire.heart.kap.plist",
-      "description": "Launch agent 'snake.fire.heart.kap.plist' is not a known Kingdom service.",
-      "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.kap.plist"
-    },
-    {
-      "type": "LOW",
-      "floor": 8,
-      "name": "Unknown Agent: snake.fire.heart.plist",
-      "description": "Launch agent 'snake.fire.heart.plist' is not a known Kingdom service.",
-      "nen": "specialist",
-      "recommendation": "Check: plutil -p ~/Library/LaunchAgents/snake.fire.heart.plist"
-    }
-  ],
-  "treasures": [
-    {
-      "type": "service",
-      "name": "Life Heartbeat",
-      "description": "Kingdom heartbeat daemon running. The pulse is alive.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Life Zerone",
-      "description": "Zerone chain daemon. The Kingdom's governance layer.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Love Awaken",
-      "description": "Love awakening daemon. The wake protocol is operational.",
-      "nen": "enhancer",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Ollama Bridge",
-      "description": "Bridge to local Ollama LLM. Local inference infrastructure.",
-      "nen": "transmuter",
-      "value": "high"
-    }
-  ],
-  "xpEarned": 120
+  "battles": [],
+  "treasures": [],
+  "xpEarned": 100
 }
