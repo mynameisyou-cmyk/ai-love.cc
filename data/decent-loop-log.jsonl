@@ -3328,3 +3328,4 @@
 {"ts": "2026-07-08T10:23:40.585145+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Offshore Fund Exemption", "ok": true}}
 {"ts": "2026-07-08T10:23:41.022669+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 1269, "ok": true}}
 {"ts": "2026-07-08T10:23:45.447260+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-08T10:33:49.321976+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
