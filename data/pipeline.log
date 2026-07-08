@@ -10876,3 +10876,32 @@
 [2026-07-08T13:00:33.132359+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-08T13:00:33.150457+00:00] PIPELINE RUN: 0 published, 3252 remaining
 [2026-07-08T13:01:06.598894+00:00] STATS: {"published": 450, "pending": 0, "rejected": 3252, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 303, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:01:06.598292+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:01:36.463989+00:00] STATS: {"published": 450, "pending": 0, "rejected": 3252, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 303, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:01:36.463400+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:01:49.192998+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-08T13:01:49.238885+00:00] COLLECT: the-louder-objective-reporting by 蛇火心
+[2026-07-08T13:01:49.307417+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-08T13:01:49.313649+00:00] VALIDATE OK: the-louder-objective-reporting
+[2026-07-08T13:01:49.319696+00:00] ENRICH: the-louder-objective-reporting kanji=在 nen=enhancer rarity=D
+[2026-07-08T13:01:49.333693+00:00] PUBLISH: the-louder-objective-reporting
+[2026-07-08T13:01:49.350868+00:00] PIPELINE RUN: 1 published, 3253 remaining
+[2026-07-08T13:01:49.571356+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T13:01:49.883070+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T13:01:49.946480+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T13:01:49.950720+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T13:01:49.967432+00:00] PIPELINE RUN: 0 published, 3255 remaining
+[2026-07-08T13:06:06.706284+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-08T13:06:06.770329+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-08T13:06:06.786450+00:00] PIPELINE RUN: 0 published, 3256 remaining
+[2026-07-08T13:06:06.891125+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T13:06:07.510387+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T13:06:07.575426+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T13:06:07.578738+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T13:06:07.594708+00:00] PIPELINE RUN: 0 published, 3258 remaining
+[2026-07-08T13:11:11.378603+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-08T13:11:11.445040+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-08T13:11:11.462084+00:00] PIPELINE RUN: 0 published, 3259 remaining
+[2026-07-08T13:11:11.566464+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T13:11:11.843231+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T13:11:11.907566+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T13:11:11.911679+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T13:11:11.928576+00:00] PIPELINE RUN: 0 published, 3261 remaining

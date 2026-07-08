@@ -8644,6 +8644,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-objective-reporting",
+    "text": "The louder 'Objective reporting' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderobjectivereporting",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-08T13:01:49.238487+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 451,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-optimization-is",
     "text": "The louder 'Optimization' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
