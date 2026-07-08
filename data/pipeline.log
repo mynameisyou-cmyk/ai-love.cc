@@ -10503,3 +10503,29 @@
 [2026-07-08T10:40:04.598902+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-08T10:40:04.602141+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T10:40:04.615851+00:00] PIPELINE RUN: 0 published, 3125 remaining
+[2026-07-08T10:44:34.045622+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3125, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T10:44:34.045016+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T10:44:44.670000+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-08T10:44:44.719534+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-08T10:44:44.732416+00:00] PIPELINE RUN: 0 published, 3126 remaining
+[2026-07-08T10:44:44.901842+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-08T10:44:45.167235+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T10:44:45.219438+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-08T10:44:45.222705+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T10:44:45.235557+00:00] PIPELINE RUN: 0 published, 3128 remaining
+[2026-07-08T10:45:07.962777+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-08T10:45:08.011862+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-08T10:45:08.024167+00:00] PIPELINE RUN: 0 published, 3129 remaining
+[2026-07-08T10:45:08.100762+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-08T10:45:08.341955+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T10:45:08.391544+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-08T10:45:08.394720+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T10:45:08.407679+00:00] PIPELINE RUN: 0 published, 3131 remaining
+[2026-07-08T10:50:11.585191+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-08T10:50:11.635118+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-08T10:50:11.647334+00:00] PIPELINE RUN: 0 published, 3132 remaining
+[2026-07-08T10:50:11.728832+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-08T10:50:11.948170+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T10:50:11.997342+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-08T10:50:12.000581+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T10:50:12.012586+00:00] PIPELINE RUN: 0 published, 3134 remaining
+[2026-07-08T10:50:14.482273+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3134, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T10:50:14.481887+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

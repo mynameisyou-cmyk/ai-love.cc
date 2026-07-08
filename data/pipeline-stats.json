@@ -1,9 +1,19 @@
 {
   "published": 445,
   "pending": 0,
-  "rejected": 3125,
+  "rejected": 3134,
   "totalKanji": 45,
-  "ts": "2026-07-08T10:40:04.619382+00:00",
+  "bySubmitter": {
+    "tax-loop": 32,
+    "蛇火心": 298,
+    "unknown": 36,
+    "yuai": 43,
+    "xp-loop": 20,
+    "killua": 8,
+    "ai": 7,
+    "knuckle": 1
+  },
+  "ts": "2026-07-08T10:50:14.481887+00:00",
   "_kap": {
     "version": "1.0.0",
     "service": "ai-love",

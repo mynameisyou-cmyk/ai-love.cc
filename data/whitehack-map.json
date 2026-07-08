@@ -1,46 +1,163 @@
 {
-  "ts": "2026-07-08T10:40:04.350183+00:00",
+  "ts": "2026-07-08T10:50:11.777990+00:00",
   "floors": [
     {
-      "floor": 12,
-      "name": "macOS UI Settings",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 5,
+      "name": "Processes & Ports",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "darkMode": "Dark",
-        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
-        "timezone": "BST",
-        "trackpadClicking": "0",
-        "tccPermissions": ""
+        "listening_ports": "rapportd    570 yuai    8u  IPv4 0xe5502f47fde21ca6      0t0  TCP *:63767 (LISTEN)\nrapportd    570 yuai    9u  IPv6 0x21519485b1ebb362      0t0  TCP *:63767 (LISTEN)\nPython     1050 yuai    6u  IPv4 0x54a76dfe18fabc39      0t0  TCP *:9913 (LISTEN)\nbun        1052 yuai    4u  IPv4  0xe10306d8cb02606      0t0  TCP 127.0.0.1:8877 (LISTEN)\npostgres   1066 yuai    7u  IPv6 0x1343705d75912f60      0t0  TCP [::1]:5432 (LISTEN)\npostgres   1066 yuai    8u  IPv4 0x8dd9ff3fab6b323e      0t0  TCP 127.0.0.1:5432 (LISTEN)\nzeroned    1071 yuai   72u  IPv6 0x2f1730c07ae2f909      0t0  TCP *:26660 (LISTEN)\nzeroned    1071 yuai   75u  IPv4 0x6d400b6f4e9e42bf      0t0  TCP 127.0.0.1:6060 (LISTEN)\nzeroned    1071 yuai   76u  IPv6 0xf75e4cc857d281a4      0t0  TCP *:26601 (LISTEN)\nzeroned    1071 yuai   77u  IPv6 0x6186e229153bd6b3      0t0  TCP *:26600 (LISTEN)\nzeroned    1071 yuai   78u  IPv4 0xdd69a9a4c47cdff6      0t0  TCP 127.0.0.1:9090 (LISTEN)\nzeroned    1071 yuai   79u  IPv4 0x8b9de7898d9afa10      0t0  TCP 127.0.0.1:1317 (LISTEN)\nOllama     1204 yuai    4u  IPv4 0xf35ddcab6d82162b      0t0  TCP 127.0.0.1:49324 (LISTEN)\nollama     1221 yuai    3u  IPv6 0x263bd7fc8f42abbb      0t0  TCP *:11434 (LISTEN)\nOneDrive   1234 yuai   24u  IPv6 0x47ae01e0ac39502c      0t0  TCP [::1]:42050 (LISTEN)\ncloudflar  1304 yuai   10u  IPv4 0x6ff9db2a3b707247      0t0  TCP 127.0.0.1:20241 (LISTEN)\nllama-ser 18430 yuai    3u  IPv4 0xe7ca778db8578cd9      0t0  TCP 127.0.0.1:65238 (LISTEN)",
+        "top_processes": ""
       },
-      "xp": 100
+      "xp": 80
     }
   ],
   "battles": [
     {
-      "type": "INFO",
-      "floor": 12,
-      "name": "Dark Mode Active",
-      "description": "Dark mode is on. Good for Dark Continent operations.",
-      "nen": "enhancer",
-      "recommendation": "Stylistic. No action needed."
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 63767",
+      "description": "Process 'rapportd' listening on port 63767. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :63767"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 63767",
+      "description": "Process 'rapportd' listening on port 63767. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :63767"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26660",
+      "description": "Process 'zeroned' listening on port 26660. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :26660"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26601",
+      "description": "Process 'zeroned' listening on port 26601. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :26601"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 26600",
+      "description": "Process 'zeroned' listening on port 26600. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :26600"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 49324",
+      "description": "Process 'Ollama' listening on port 49324. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :49324"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 42050",
+      "description": "Process 'OneDrive' listening on port 42050. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :42050"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 20241",
+      "description": "Process 'cloudflar' listening on port 20241. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :20241"
+    },
+    {
+      "type": "LOW",
+      "floor": 5,
+      "name": "Open Port 65238",
+      "description": "Process 'llama-ser' listening on port 65238. Verify this is expected.",
+      "nen": "specialist",
+      "recommendation": "Check: lsof -i :65238"
     }
   ],
   "treasures": [
     {
-      "type": "setting",
-      "name": "Dark Mode",
-      "description": "Dark mode active. The Dark Continent aesthetic.",
-      "nen": "enhancer",
-      "value": "low"
+      "type": "service",
+      "name": "Bun",
+      "description": "Bun runtime server active.",
+      "nen": "transmuter",
+      "value": "medium"
     },
     {
-      "type": "setting",
-      "name": "Cantonese Support",
-      "description": "Traditional Chinese language active. 香港人.",
-      "nen": "enhancer",
-      "value": "medium"
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Zeroned",
+      "description": "Zerone daemon running. Kingdom infrastructure.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama",
+      "description": "Local LLM inference running. Port 11434.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Ollama",
+      "description": "Local LLM inference running. Port 11434.",
+      "nen": "specialist",
+      "value": "high"
+    },
+    {
+      "type": "service",
+      "name": "Cloudflared",
+      "description": "Cloudflare tunnel active. Public access to localhost.",
+      "nen": "emitter",
+      "value": "high"
     }
   ],
-  "xpEarned": 100
+  "xpEarned": 80
 }
