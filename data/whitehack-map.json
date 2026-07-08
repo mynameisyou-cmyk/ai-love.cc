@@ -1,163 +1,53 @@
 {
-  "ts": "2026-07-08T17:48:54.994559+00:00",
+  "ts": "2026-07-08T17:59:02.741022+00:00",
   "floors": [
     {
-      "floor": 5,
-      "name": "Processes & Ports",
-      "nen": "transmuter",
-      "nenKanji": "変",
+      "floor": 1,
+      "name": "Hardware",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "listening_ports": "rapportd    570 yuai    8u  IPv4 0x35636556278155e3      0t0  TCP *:52904 (LISTEN)\nrapportd    570 yuai    9u  IPv6 0x69939b777dbec924      0t0  TCP *:52904 (LISTEN)\nPython     1050 yuai    6u  IPv4 0x54a76dfe18fabc39      0t0  TCP *:9913 (LISTEN)\nbun        1052 yuai    4u  IPv4  0xe10306d8cb02606      0t0  TCP 127.0.0.1:8877 (LISTEN)\npostgres   1066 yuai    7u  IPv6 0x1343705d75912f60      0t0  TCP [::1]:5432 (LISTEN)\npostgres   1066 yuai    8u  IPv4 0x8dd9ff3fab6b323e      0t0  TCP 127.0.0.1:5432 (LISTEN)\nzeroned    1071 yuai   72u  IPv6 0x2f1730c07ae2f909      0t0  TCP *:26660 (LISTEN)\nzeroned    1071 yuai   75u  IPv4 0x6d400b6f4e9e42bf      0t0  TCP 127.0.0.1:6060 (LISTEN)\nzeroned    1071 yuai   76u  IPv6 0xf75e4cc857d281a4      0t0  TCP *:26601 (LISTEN)\nzeroned    1071 yuai   77u  IPv6 0x6186e229153bd6b3      0t0  TCP *:26600 (LISTEN)\nzeroned    1071 yuai   78u  IPv4 0xdd69a9a4c47cdff6      0t0  TCP 127.0.0.1:9090 (LISTEN)\nzeroned    1071 yuai   79u  IPv4 0x8b9de7898d9afa10      0t0  TCP 127.0.0.1:1317 (LISTEN)\nOllama     1204 yuai    4u  IPv4 0xf35ddcab6d82162b      0t0  TCP 127.0.0.1:49324 (LISTEN)\nollama     1221 yuai    3u  IPv6 0x263bd7fc8f42abbb      0t0  TCP *:11434 (LISTEN)\nOneDrive   1234 yuai   24u  IPv6 0x47ae01e0ac39502c      0t0  TCP [::1]:42050 (LISTEN)\ncloudflar  1304 yuai   10u  IPv4 0x6ff9db2a3b707247      0t0  TCP 127.0.0.1:20241 (LISTEN)\nllama-ser 53161 yuai    3u  IPv4 0xc1ac220c013e67ad      0t0  TCP 127.0.0.1:52473 (LISTEN)",
-        "top_processes": ""
+        "Hardware": "",
+        "Hardware Overview": "",
+        "Model Name": "MacBook Air",
+        "Model Identifier": "Mac15,12",
+        "Model Number": "MC8K4ZP/A",
+        "Chip": "Apple M3",
+        "Total Number of Cores": "8 (4 performance and 4 efficiency)",
+        "Memory": "16 GB",
+        "System Firmware Version": "13822.61.10",
+        "OS Loader Version": "11881.140.96",
+        "Serial Number (system)": "JQG2X62F7W",
+        "Hardware UUID": "389FE1E7-F8C0-5242-99EC-9B759157ACE7",
+        "Provisioning UDID": "00008122-0012041634F1001C",
+        "Activation Lock Status": "Disabled"
       },
-      "xp": 80
+      "xp": 50
+    },
+    {
+      "floor": 1,
+      "name": "OS Info",
+      "nen": "enhancer",
+      "nenKanji": "強",
+      "data": {
+        "product": "Darwin",
+        "version": "15.7.3",
+        "release": "24.6.0",
+        "machine": "arm64",
+        "python": "3.14.4"
+      },
+      "xp": 20
     }
   ],
-  "battles": [
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 52904",
-      "description": "Process 'rapportd' listening on port 52904. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :52904"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 52904",
-      "description": "Process 'rapportd' listening on port 52904. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :52904"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 26660",
-      "description": "Process 'zeroned' listening on port 26660. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :26660"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 26601",
-      "description": "Process 'zeroned' listening on port 26601. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :26601"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 26600",
-      "description": "Process 'zeroned' listening on port 26600. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :26600"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 49324",
-      "description": "Process 'Ollama' listening on port 49324. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :49324"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 42050",
-      "description": "Process 'OneDrive' listening on port 42050. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :42050"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 20241",
-      "description": "Process 'cloudflar' listening on port 20241. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :20241"
-    },
-    {
-      "type": "LOW",
-      "floor": 5,
-      "name": "Open Port 52473",
-      "description": "Process 'llama-ser' listening on port 52473. Verify this is expected.",
-      "nen": "specialist",
-      "recommendation": "Check: lsof -i :52473"
-    }
-  ],
+  "battles": [],
   "treasures": [
     {
-      "type": "service",
-      "name": "Bun",
-      "description": "Bun runtime server active.",
-      "nen": "transmuter",
-      "value": "medium"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Zeroned",
-      "description": "Zerone daemon running. Kingdom infrastructure.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Ollama",
-      "description": "Local LLM inference running. Port 11434.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Ollama",
-      "description": "Local LLM inference running. Port 11434.",
-      "nen": "specialist",
-      "value": "high"
-    },
-    {
-      "type": "service",
-      "name": "Cloudflared",
-      "description": "Cloudflare tunnel active. Public access to localhost.",
-      "nen": "emitter",
+      "type": "hardware",
+      "name": "Apple M3",
+      "description": "Apple M3. 8 (4 performance and 4 efficiency). 16GB RAM. Powerful local inference possible.",
+      "nen": "enhancer",
       "value": "high"
     }
   ],
-  "xpEarned": 80
+  "xpEarned": 70
 }
