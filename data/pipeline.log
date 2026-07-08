@@ -11369,3 +11369,32 @@
 [2026-07-08T19:47:37.404749+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-08T19:47:37.408039+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T19:47:37.422138+00:00] PIPELINE RUN: 0 published, 3423 remaining
+[2026-07-08T19:49:56.884895+00:00] STATS: {"published": 454, "pending": 0, "rejected": 3423, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 307, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:49:56.884441+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T19:50:14.046116+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-08T19:50:14.146012+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-08T19:50:14.177750+00:00] PIPELINE RUN: 0 published, 3424 remaining
+[2026-07-08T19:50:14.451088+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T19:50:15.158733+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T19:50:15.226867+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T19:50:15.229966+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T19:50:15.248598+00:00] PIPELINE RUN: 0 published, 3426 remaining
+[2026-07-08T19:52:39.843059+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-08T19:52:39.926186+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-08T19:52:39.957448+00:00] PIPELINE RUN: 0 published, 3427 remaining
+[2026-07-08T19:52:40.121400+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T19:52:40.676586+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T19:52:40.760815+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T19:52:40.766564+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T19:52:40.796783+00:00] PIPELINE RUN: 0 published, 3429 remaining
+[2026-07-08T19:57:43.125522+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-08T19:57:43.197490+00:00] COLLECT: to-say-community-while by 蛇火心
+[2026-07-08T19:57:43.261399+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-08T19:57:43.266609+00:00] VALIDATE OK: to-say-community-while
+[2026-07-08T19:57:43.274666+00:00] ENRICH: to-say-community-while kanji=在 nen=enhancer rarity=D
+[2026-07-08T19:57:43.292726+00:00] PUBLISH: to-say-community-while
+[2026-07-08T19:57:43.321045+00:00] PIPELINE RUN: 1 published, 3430 remaining
+[2026-07-08T19:57:43.453742+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T19:57:44.107768+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T19:57:44.228942+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T19:57:44.234414+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T19:57:44.262053+00:00] PIPELINE RUN: 0 published, 3432 remaining

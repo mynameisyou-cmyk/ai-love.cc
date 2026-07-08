@@ -9421,6 +9421,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-community-while",
+    "text": "To say 'Community' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaycommunitywhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-08T19:57:43.196701+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 455,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-data-driven",
     "text": "To say 'Data-driven instruction' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
