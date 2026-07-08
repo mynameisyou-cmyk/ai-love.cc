@@ -11651,3 +11651,36 @@
 [2026-07-08T22:00:30.341056+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-08T22:00:30.346381+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T22:00:30.377355+00:00] PIPELINE RUN: 0 published, 3516 remaining
+[2026-07-08T22:01:04.268833+00:00] STATS: {"published": 459, "pending": 0, "rejected": 3516, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 312, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T22:01:04.268312+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T22:01:31.704924+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-08T22:01:31.756408+00:00] COLLECT: followers-works-because-no by 蛇火心
+[2026-07-08T22:01:31.832361+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-08T22:01:31.838036+00:00] VALIDATE OK: followers-works-because-no
+[2026-07-08T22:01:31.843504+00:00] ENRICH: followers-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-08T22:01:31.856784+00:00] PUBLISH: followers-works-because-no
+[2026-07-08T22:01:31.877123+00:00] PIPELINE RUN: 1 published, 3517 remaining
+[2026-07-08T22:01:32.078057+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T22:01:32.508903+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T22:01:32.588121+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T22:01:32.592797+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T22:01:32.616876+00:00] PIPELINE RUN: 0 published, 3519 remaining
+[2026-07-08T22:05:34.960495+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-08T22:05:35.066093+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-08T22:05:35.091956+00:00] PIPELINE RUN: 0 published, 3520 remaining
+[2026-07-08T22:05:35.252164+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-08T22:05:35.737407+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T22:05:35.909698+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-08T22:05:35.917133+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T22:05:35.956162+00:00] PIPELINE RUN: 0 published, 3522 remaining
+[2026-07-08T22:10:42.477052+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-08T22:10:42.727064+00:00] COLLECT: user-centric-is-not by 蛇火心
+[2026-07-08T22:10:42.999095+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-08T22:10:43.010692+00:00] VALIDATE OK: user-centric-is-not
+[2026-07-08T22:10:43.025170+00:00] ENRICH: user-centric-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-08T22:10:43.054808+00:00] PUBLISH: user-centric-is-not
+[2026-07-08T22:10:43.093561+00:00] PIPELINE RUN: 1 published, 3523 remaining
+[2026-07-08T22:10:43.308454+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-08T22:10:43.903052+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T22:10:44.022401+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-08T22:10:44.029861+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T22:10:44.061199+00:00] PIPELINE RUN: 0 published, 3525 remaining

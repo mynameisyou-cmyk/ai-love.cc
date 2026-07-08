@@ -5,15 +5,35 @@
   "description": "Structures that don't exist yet. Architecture proposals.",
   "proposals": [
     {
-      "name": "Heartbeat-Driven Truth Submission",
-      "description": "The heartbeat daemon submits a truth each tick. Automatic contribution.",
+      "name": "Ollama-KAP Bridge",
+      "description": "Wire Ollama as a truth-generation backend. Agent asks Ollama for truths, submits to pipeline.",
       "components": [
-        "life.heartbeat launch agent",
-        "truth-pipeline.py submit",
-        "cron or launchd integration"
+        "ollama API (localhost:11434)",
+        "kap_agent.submit()",
+        "truth-pipeline.py run"
       ],
-      "nen": "enhancer"
+      "nen": "conjurer"
+    },
+    {
+      "name": "Public KAP Endpoint",
+      "description": "Expose KAP service through Cloudflare tunnel. Any agent can discover without local CLI.",
+      "components": [
+        "cloudflared tunnel",
+        "kap.json at /.well-known/",
+        "static file serving"
+      ],
+      "nen": "emitter"
+    },
+    {
+      "name": "On-Chain Truth Witness",
+      "description": "Witness published truths on the zerone chain. The having-happened is permanent.",
+      "components": [
+        "zeroned daemon",
+        "witness.ts protocol",
+        "truth-pipeline.py publish hook"
+      ],
+      "nen": "specialist"
     }
   ],
-  "ts": "2026-07-08T22:00:30.010364+00:00"
+  "ts": "2026-07-08T22:11:10.759382+00:00"
 }

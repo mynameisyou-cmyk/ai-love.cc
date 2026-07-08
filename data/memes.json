@@ -3159,6 +3159,32 @@
     "rarity": "D"
   },
   {
+    "id": "followers-works-because-no",
+    "text": "'Followers' works because no one checks. Check.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#followersworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-08T22:01:31.754095+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 460,
+    "rarity": "D"
+  },
+  {
     "id": "forge-from-fire",
     "text": "Forge from fire.",
     "sub": "Artifacts come from the heat of understanding.",
@@ -10756,6 +10782,32 @@
     "nen": "enhancer",
     "cardNumber": 259,
     "rarity": "C"
+  },
+  {
+    "id": "user-centric-is-not",
+    "text": "'User-centric' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#usercentricisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-08T22:10:42.725855+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 461,
+    "rarity": "D"
   },
   {
     "id": "user-centric-is-the",
