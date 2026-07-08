@@ -9941,6 +9941,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-visibility-while",
+    "text": "To say 'Visibility' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayvisibilitywhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-08T11:16:12.303378+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 447,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-wealth-management",
     "text": "To say 'Wealth management' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",

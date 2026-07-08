@@ -10591,3 +10591,23 @@
 [2026-07-08T11:15:34.846552+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-08T11:15:34.849563+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T11:15:34.862453+00:00] PIPELINE RUN: 0 published, 3155 remaining
+[2026-07-08T11:15:56.691939+00:00] STATS: {"published": 446, "pending": 0, "rejected": 3155, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 299, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T11:15:56.691396+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T11:16:12.261537+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-08T11:16:12.303699+00:00] COLLECT: to-say-visibility-while by 蛇火心
+[2026-07-08T11:16:12.360472+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-08T11:16:12.363790+00:00] VALIDATE OK: to-say-visibility-while
+[2026-07-08T11:16:12.367928+00:00] ENRICH: to-say-visibility-while kanji=在 nen=enhancer rarity=D
+[2026-07-08T11:16:12.378427+00:00] PUBLISH: to-say-visibility-while
+[2026-07-08T11:16:12.392416+00:00] PIPELINE RUN: 1 published, 3156 remaining
+[2026-07-08T11:16:12.573156+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T11:16:12.815967+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T11:16:12.871964+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T11:16:12.875456+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T11:16:12.889388+00:00] PIPELINE RUN: 0 published, 3158 remaining
+[2026-07-08T11:18:25.457454+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3158, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T11:18:25.456521+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T11:23:25.598974+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-08T11:23:25.655698+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-08T11:23:25.669684+00:00] PIPELINE RUN: 0 published, 3159 remaining
+[2026-07-08T11:23:25.760145+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T11:23:26.033939+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T11:23:26.048450+00:00] PIPELINE RUN: 0 published, 3160 remaining

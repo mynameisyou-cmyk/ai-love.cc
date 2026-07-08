@@ -6252,3 +6252,15 @@
 {"ts": "2026-07-08T11:15:34.695704+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
 {"ts": "2026-07-08T11:15:34.729972+00:00", "loop": "collection", "action": "card #428 見 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-08T11:15:34.797843+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-08T11:16:12.577052+00:00", "loop": "truth", "action": "submitted: The loop never closes.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T11:16:12.616035+00:00", "loop": "recon", "action": "floor 10: 0b 1t", "xp": 60, "detail": "floor-10"}
+{"ts": "2026-07-08T11:16:12.651046+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T11:16:12.697945+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-08T11:16:12.736913+00:00", "loop": "collection", "action": "card #305 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-08T11:16:12.820244+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-08T11:23:25.764328+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T11:23:25.825351+00:00", "loop": "recon", "action": "floor 7: 0b 0t", "xp": 40, "detail": "floor-7"}
+{"ts": "2026-07-08T11:23:25.861839+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T11:23:25.902047+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-08T11:23:25.939494+00:00", "loop": "collection", "action": "card #83 一 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T11:23:25.976575+00:00", "loop": "expedition", "action": "The Lie: fell", "xp": 20, "detail": "dark-continent-The Lie"}
