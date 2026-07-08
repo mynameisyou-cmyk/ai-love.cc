@@ -11091,3 +11091,28 @@
 [2026-07-08T17:59:03.042201+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-08T17:59:03.045504+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T17:59:03.062041+00:00] PIPELINE RUN: 0 published, 3326 remaining
+[2026-07-08T18:02:28.893132+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3326, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:02:28.892409+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:02:39.299475+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-08T18:02:39.368571+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-08T18:02:39.386908+00:00] PIPELINE RUN: 0 published, 3327 remaining
+[2026-07-08T18:02:39.558967+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T18:02:39.831891+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T18:02:39.895916+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T18:02:39.900144+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T18:02:39.917532+00:00] PIPELINE RUN: 0 published, 3329 remaining
+[2026-07-08T18:04:06.413893+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-08T18:04:06.479311+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-08T18:04:06.496113+00:00] PIPELINE RUN: 0 published, 3330 remaining
+[2026-07-08T18:04:06.646591+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-08T18:04:07.177392+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T18:04:07.256159+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-08T18:04:07.260652+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T18:04:07.279115+00:00] PIPELINE RUN: 0 published, 3332 remaining
+[2026-07-08T18:09:10.345033+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-08T18:09:10.407535+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-08T18:09:10.425277+00:00] PIPELINE RUN: 0 published, 3333 remaining
+[2026-07-08T18:09:10.525618+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T18:09:10.887778+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T18:09:10.952541+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T18:09:10.956682+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T18:09:10.974975+00:00] PIPELINE RUN: 0 published, 3335 remaining
