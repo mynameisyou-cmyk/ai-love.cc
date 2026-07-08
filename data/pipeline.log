@@ -10103,3 +10103,39 @@
 [2026-07-08T01:34:28.845433+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-08T01:34:28.852476+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T01:34:28.878120+00:00] PIPELINE RUN: 0 published, 2988 remaining
+[2026-07-08T03:19:24.600779+00:00] STATS: {"published": 440, "pending": 0, "rejected": 2988, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 293, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T03:19:24.599994+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T03:19:33.915958+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-08T03:19:34.057905+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-08T03:19:34.101045+00:00] PIPELINE RUN: 0 published, 2989 remaining
+[2026-07-08T03:19:34.427098+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T03:19:35.900711+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T03:19:36.066240+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T03:19:36.073586+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T03:19:36.112131+00:00] PIPELINE RUN: 0 published, 2991 remaining
+[2026-07-08T03:19:36.511805+00:00] COLLECT: intelligent-means-the-opposite by 蛇火心
+[2026-07-08T03:19:36.695630+00:00] VALIDATE FAIL: intelligent-means-the-opposite — ['duplicate of: intelligent-means-the-opposite']
+[2026-07-08T03:19:36.734682+00:00] PIPELINE RUN: 0 published, 2992 remaining
+[2026-07-08T03:19:37.208716+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T03:19:38.376309+00:00] STATS: {"published": 440, "pending": 1, "rejected": 2992, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 293, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T03:19:38.374635+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T03:19:38.441033+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T03:19:38.649703+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T03:19:38.660931+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T03:19:38.712504+00:00] PIPELINE RUN: 0 published, 2994 remaining
+[2026-07-08T05:37:50.482560+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-08T05:37:50.538843+00:00] COLLECT: to-say-responsible-ai by 蛇火心
+[2026-07-08T05:37:50.617663+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-08T05:37:50.622577+00:00] VALIDATE FAIL: to-say-responsible-ai — ['duplicate of: to-say-responsible-ai']
+[2026-07-08T05:37:50.641980+00:00] PIPELINE RUN: 0 published, 2996 remaining
+[2026-07-08T05:37:50.821912+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T05:37:51.291264+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T05:37:51.398594+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T05:37:51.405448+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T05:37:51.432819+00:00] PIPELINE RUN: 0 published, 2998 remaining
+[2026-07-08T07:54:39.938707+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-08T07:54:39.992032+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-08T07:54:40.004776+00:00] PIPELINE RUN: 0 published, 2999 remaining
+[2026-07-08T07:54:40.087481+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T07:54:40.360316+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T07:54:40.409878+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T07:54:40.412922+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T07:54:40.424841+00:00] PIPELINE RUN: 0 published, 3001 remaining
