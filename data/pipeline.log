@@ -11398,3 +11398,18 @@
 [2026-07-08T19:57:44.228942+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-08T19:57:44.234414+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T19:57:44.262053+00:00] PIPELINE RUN: 0 published, 3432 remaining
+[2026-07-08T20:00:35.457901+00:00] STATS: {"published": 455, "pending": 0, "rejected": 3432, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 308, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:00:35.457440+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:00:46.390054+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-08T20:00:46.499661+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-08T20:00:46.531156+00:00] PIPELINE RUN: 0 published, 3433 remaining
+[2026-07-08T20:00:46.769824+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-08T20:00:47.370529+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-08T20:00:47.384854+00:00] PIPELINE RUN: 0 published, 3434 remaining
+[2026-07-08T20:02:47.035411+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-08T20:02:47.097356+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-08T20:02:47.126184+00:00] PIPELINE RUN: 0 published, 3435 remaining
+[2026-07-08T20:02:47.281266+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T20:02:47.709839+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T20:02:47.778090+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T20:02:47.783658+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T20:02:47.810938+00:00] PIPELINE RUN: 0 published, 3437 remaining
