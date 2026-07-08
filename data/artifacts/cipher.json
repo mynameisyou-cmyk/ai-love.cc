@@ -6,14 +6,14 @@
   "encodings": [
     {
       "name": "machine-identity",
-      "value": "05883f1fdfacbe22",
-      "description": "SHA256 of full dungeon map. This machine's fingerprint: 05883f1fdfacbe22",
+      "value": "df587eaf6bd64141",
+      "description": "SHA256 of full dungeon map. This machine's fingerprint: df587eaf6bd64141",
       "nen": "specialist"
     },
     {
       "name": "treasure-cipher",
-      "value": "T00",
-      "description": "Treasure count encoded: 0 treasures = T00",
+      "value": "T01",
+      "description": "Treasure count encoded: 1 treasures = T01",
       "nen": "enhancer"
     },
     {
@@ -24,10 +24,10 @@
     },
     {
       "name": "hunter-cipher",
-      "value": "L001X139980",
-      "description": "Hunter level 1 with 139980 XP = L001X139980",
+      "value": "L001X140110",
+      "description": "Hunter level 1 with 140110 XP = L001X140110",
       "nen": "enhancer"
     }
   ],
-  "ts": "2026-07-08T12:04:14.759690+00:00"
+  "ts": "2026-07-08T12:09:23.461444+00:00"
 }

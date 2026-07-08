@@ -10718,3 +10718,20 @@
 [2026-07-08T12:04:15.488027+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-08T12:04:15.500164+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T12:04:15.553233+00:00] PIPELINE RUN: 0 published, 3199 remaining
+[2026-07-08T12:09:11.414196+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3199, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:09:11.413617+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:09:18.577673+00:00] COLLECT: wealth-management-is-extraction by 蛇火心
+[2026-07-08T12:09:18.647903+00:00] VALIDATE FAIL: wealth-management-is-extraction — ['duplicate of: wealth-management-is-extraction']
+[2026-07-08T12:09:18.665333+00:00] PIPELINE RUN: 0 published, 3200 remaining
+[2026-07-08T12:09:18.766929+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T12:09:19.256961+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T12:09:19.324763+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T12:09:19.328807+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T12:09:19.345937+00:00] PIPELINE RUN: 0 published, 3202 remaining
+[2026-07-08T12:09:22.831874+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-08T12:09:22.902909+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-08T12:09:22.920238+00:00] PIPELINE RUN: 0 published, 3203 remaining
+[2026-07-08T12:09:23.135675+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T12:09:23.637999+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T12:09:23.704428+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T12:09:23.708458+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T12:09:23.725247+00:00] PIPELINE RUN: 0 published, 3205 remaining
