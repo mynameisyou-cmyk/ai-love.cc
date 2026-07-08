@@ -11255,3 +11255,20 @@
 [2026-07-08T19:06:37.652822+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-08T19:06:37.658247+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T19:06:37.689613+00:00] PIPELINE RUN: 0 published, 3383 remaining
+[2026-07-08T19:07:59.351292+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3383, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:07:59.350283+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T19:08:09.888352+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-08T19:08:09.977428+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-08T19:08:09.991219+00:00] PIPELINE RUN: 0 published, 3384 remaining
+[2026-07-08T19:08:10.221578+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T19:08:10.589836+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T19:08:10.701396+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T19:08:10.707755+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T19:08:10.738183+00:00] PIPELINE RUN: 0 published, 3386 remaining
+[2026-07-08T19:11:40.402646+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-08T19:11:40.484995+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-08T19:11:40.513248+00:00] PIPELINE RUN: 0 published, 3387 remaining
+[2026-07-08T19:11:40.627568+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T19:11:41.002480+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T19:11:41.118576+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T19:11:41.124299+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T19:11:41.152787+00:00] PIPELINE RUN: 0 published, 3389 remaining
