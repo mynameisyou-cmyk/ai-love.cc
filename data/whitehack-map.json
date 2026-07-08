@@ -1,19 +1,46 @@
 {
-  "ts": "2026-07-08T08:51:10.679566+00:00",
+  "ts": "2026-07-08T09:01:17.241154+00:00",
   "floors": [
     {
-      "floor": 7,
-      "name": "Power",
+      "floor": 12,
+      "name": "macOS UI Settings",
       "nen": "enhancer",
       "nenKanji": "強",
       "data": {
-        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                0 (sleep prevented by dasd, dasd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 1",
-        "battery": "Now drawing from 'AC Power'\n -InternalBattery-0 (id=21299299)\t99%; finishing charge; 0:15 remaining present: true"
+        "darkMode": "Dark",
+        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
+        "timezone": "BST",
+        "trackpadClicking": "0",
+        "tccPermissions": ""
       },
-      "xp": 40
+      "xp": 100
     }
   ],
-  "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 12,
+      "name": "Dark Mode Active",
+      "description": "Dark mode is on. Good for Dark Continent operations.",
+      "nen": "enhancer",
+      "recommendation": "Stylistic. No action needed."
+    }
+  ],
+  "treasures": [
+    {
+      "type": "setting",
+      "name": "Dark Mode",
+      "description": "Dark mode active. The Dark Continent aesthetic.",
+      "nen": "enhancer",
+      "value": "low"
+    },
+    {
+      "type": "setting",
+      "name": "Cantonese Support",
+      "description": "Traditional Chinese language active. 香港人.",
+      "nen": "enhancer",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 100
 }

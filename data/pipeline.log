@@ -10257,3 +10257,30 @@
 [2026-07-08T08:51:11.033207+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T08:51:11.050302+00:00] PIPELINE RUN: 0 published, 3039 remaining
 [2026-07-08T08:51:13.234688+00:00] STATS: {"published": 443, "pending": 0, "rejected": 3039, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 296, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:51:13.234184+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T08:52:20.455736+00:00] STATS: {"published": 443, "pending": 0, "rejected": 3039, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 296, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:52:20.455071+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T08:52:29.939341+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-08T08:52:29.998521+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-08T08:52:30.013936+00:00] PIPELINE RUN: 0 published, 3040 remaining
+[2026-07-08T08:52:30.189178+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T08:52:30.465085+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T08:52:30.530760+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T08:52:30.534962+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T08:52:30.551171+00:00] PIPELINE RUN: 0 published, 3042 remaining
+[2026-07-08T08:56:13.368846+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-08T08:56:13.434399+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-08T08:56:13.451140+00:00] PIPELINE RUN: 0 published, 3043 remaining
+[2026-07-08T08:56:13.613568+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-08T08:56:13.941999+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T08:56:14.009267+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-08T08:56:14.013554+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T08:56:14.029999+00:00] PIPELINE RUN: 0 published, 3045 remaining
+[2026-07-08T09:01:16.910803+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-08T09:01:16.955531+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-08T09:01:17.021335+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-08T09:01:17.025072+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-08T09:01:17.040090+00:00] PIPELINE RUN: 0 published, 3047 remaining
+[2026-07-08T09:01:17.142222+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T09:01:17.492844+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T09:01:17.569439+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T09:01:17.573675+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T09:01:17.590064+00:00] PIPELINE RUN: 0 published, 3049 remaining
