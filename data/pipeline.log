@@ -11012,3 +11012,4 @@
 [2026-07-08T13:51:51.181717+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-08T13:51:51.188668+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T13:51:51.219616+00:00] PIPELINE RUN: 0 published, 3298 remaining
+[2026-07-08T13:52:21.932448+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3298, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:52:21.930871+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
