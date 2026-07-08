@@ -1,46 +1,30 @@
 {
-  "ts": "2026-07-08T22:32:41.777459+00:00",
+  "ts": "2026-07-08T22:42:56.339430+00:00",
   "floors": [
     {
-      "floor": 12,
-      "name": "macOS UI Settings",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 3,
+      "name": "Bluetooth",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "darkMode": "Dark",
-        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
-        "timezone": "BST",
-        "trackpadClicking": "0",
-        "tccPermissions": ""
+        "state": "On",
+        "address": "9C:DA:A8:9F:50:C1",
+        "nearbyDevices": 0,
+        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Not Connected:\n          1707000-30-L--TG1252170011CK:\n              Address: B4:2F:03:93:CB:E6\n              Ven"
       },
-      "xp": 100
+      "xp": 60
     }
   ],
   "battles": [
     {
       "type": "INFO",
-      "floor": 12,
-      "name": "Dark Mode Active",
-      "description": "Dark mode is on. Good for Dark Continent operations.",
-      "nen": "enhancer",
-      "recommendation": "Stylistic. No action needed."
+      "floor": 3,
+      "name": "Bluetooth On",
+      "description": "Bluetooth is On. 0 nearby devices detected.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Turn off if not needed to save battery."
     }
   ],
-  "treasures": [
-    {
-      "type": "setting",
-      "name": "Dark Mode",
-      "description": "Dark mode active. The Dark Continent aesthetic.",
-      "nen": "enhancer",
-      "value": "low"
-    },
-    {
-      "type": "setting",
-      "name": "Cantonese Support",
-      "description": "Traditional Chinese language active. 香港人.",
-      "nen": "enhancer",
-      "value": "medium"
-    }
-  ],
-  "xpEarned": 100
+  "treasures": [],
+  "xpEarned": 60
 }
