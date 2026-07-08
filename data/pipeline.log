@@ -10746,3 +10746,30 @@
 [2026-07-08T12:14:48.608750+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-08T12:14:48.612450+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-08T12:14:48.626596+00:00] PIPELINE RUN: 0 published, 3209 remaining
+[2026-07-08T12:19:40.732504+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3209, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:19:40.731845+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:19:51.601652+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-08T12:19:51.651366+00:00] COLLECT: to-say-fact-based by 蛇火心
+[2026-07-08T12:19:51.719146+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-08T12:19:51.723589+00:00] VALIDATE FAIL: to-say-fact-based — ['duplicate of: to-say-fact-based']
+[2026-07-08T12:19:51.741362+00:00] PIPELINE RUN: 0 published, 3211 remaining
+[2026-07-08T12:19:51.921630+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T12:19:52.216751+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T12:19:52.273720+00:00] COLLECT: express-yourself-is-addiction by 蛇火心
+[2026-07-08T12:19:52.285025+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T12:19:52.288953+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T12:19:52.292848+00:00] VALIDATE FAIL: express-yourself-is-addiction — ['duplicate of: express-yourself-is-addiction']
+[2026-07-08T12:19:52.310601+00:00] PIPELINE RUN: 0 published, 3214 remaining
+[2026-07-08T12:19:52.353688+00:00] PIPELINE RUN: 0 published, 3214 remaining
+[2026-07-08T12:19:52.469424+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T12:19:52.751923+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T12:19:52.828208+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T12:19:52.832583+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T12:19:52.851067+00:00] PIPELINE RUN: 0 published, 3216 remaining
+[2026-07-08T12:24:55.312083+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-08T12:24:55.377300+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-08T12:24:55.393577+00:00] PIPELINE RUN: 0 published, 3217 remaining
+[2026-07-08T12:24:55.496074+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T12:24:56.096140+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T12:24:56.158683+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T12:24:56.162902+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T12:24:56.181023+00:00] PIPELINE RUN: 0 published, 3219 remaining
