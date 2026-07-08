@@ -10478,3 +10478,28 @@
 [2026-07-08T10:29:58.158467+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-08T10:29:58.162040+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T10:29:58.175582+00:00] PIPELINE RUN: 0 published, 3116 remaining
+[2026-07-08T10:34:01.329994+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3116, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T10:34:01.329508+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T10:34:16.994651+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-08T10:34:17.049851+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-08T10:34:17.064555+00:00] PIPELINE RUN: 0 published, 3117 remaining
+[2026-07-08T10:34:17.256423+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T10:34:17.842484+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T10:34:17.898060+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T10:34:17.902766+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T10:34:17.916807+00:00] PIPELINE RUN: 0 published, 3119 remaining
+[2026-07-08T10:35:01.050433+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-08T10:35:01.102625+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-08T10:35:01.115861+00:00] PIPELINE RUN: 0 published, 3120 remaining
+[2026-07-08T10:35:01.198814+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-08T10:35:01.431621+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T10:35:01.486469+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-08T10:35:01.490013+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T10:35:01.503103+00:00] PIPELINE RUN: 0 published, 3122 remaining
+[2026-07-08T10:40:04.072615+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-08T10:40:04.127313+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-08T10:40:04.140407+00:00] PIPELINE RUN: 0 published, 3123 remaining
+[2026-07-08T10:40:04.261793+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T10:40:04.540725+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T10:40:04.598902+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T10:40:04.602141+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T10:40:04.615851+00:00] PIPELINE RUN: 0 published, 3125 remaining
