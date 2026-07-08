@@ -11821,3 +11821,4 @@
 [2026-07-08T23:44:15.065601+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-08T23:44:15.069106+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T23:44:15.085227+00:00] PIPELINE RUN: 0 published, 3573 remaining
+[2026-07-08T23:44:40.823468+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3573, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T23:44:40.822477+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
