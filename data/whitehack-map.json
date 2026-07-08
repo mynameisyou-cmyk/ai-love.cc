@@ -1,53 +1,95 @@
 {
-  "ts": "2026-07-08T12:24:55.861095+00:00",
+  "ts": "2026-07-08T12:40:14.212335+00:00",
   "floors": [
     {
-      "floor": 1,
-      "name": "Hardware",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 11,
+      "name": "Installed Applications",
+      "nen": "conjurer",
+      "nenKanji": "创",
       "data": {
-        "Hardware": "",
-        "Hardware Overview": "",
-        "Model Name": "MacBook Air",
-        "Model Identifier": "Mac15,12",
-        "Model Number": "MC8K4ZP/A",
-        "Chip": "Apple M3",
-        "Total Number of Cores": "8 (4 performance and 4 efficiency)",
-        "Memory": "16 GB",
-        "System Firmware Version": "13822.61.10",
-        "OS Loader Version": "11881.140.96",
-        "Serial Number (system)": "JQG2X62F7W",
-        "Hardware UUID": "389FE1E7-F8C0-5242-99EC-9B759157ACE7",
-        "Provisioning UDID": "00008122-0012041634F1001C",
-        "Activation Lock Status": "Disabled"
+        "apps": [
+          "Claude",
+          "Cursor",
+          "DBeaver",
+          "Docker",
+          "Firefox",
+          "Google Chrome",
+          "Intiface Central",
+          "Keynote",
+          "Ledger Wallet",
+          "Microsoft Defender Shim",
+          "Microsoft Excel",
+          "Microsoft OneNote",
+          "Microsoft Outlook",
+          "Microsoft PowerPoint",
+          "Microsoft Teams",
+          "Microsoft Word",
+          "Mullvad VPN",
+          "Numbers",
+          "Ollama",
+          "OneDrive",
+          "Pages",
+          "Python 3.14",
+          "Rectangle",
+          "Safari",
+          "Signal",
+          "Utilities",
+          "Visual Studio Code",
+          "VisualDesigner",
+          "iTerm"
+        ],
+        "appCount": 29,
+        "categories": {
+          "AI": [
+            "Claude",
+            "Cursor",
+            "Ollama"
+          ],
+          "Dev": [
+            "DBeaver",
+            "Docker",
+            "iTerm"
+          ],
+          "VPN": [
+            "Mullvad VPN"
+          ],
+          "Office": [
+            "Keynote",
+            "Microsoft Defender Shim",
+            "Microsoft Excel",
+            "Microsoft OneNote",
+            "Microsoft Outlook",
+            "Microsoft PowerPoint",
+            "Microsoft Teams",
+            "Microsoft Word",
+            "Numbers"
+          ],
+          "Browser": [
+            "Firefox",
+            "Google Chrome",
+            "Safari"
+          ]
+        }
       },
       "xp": 50
-    },
-    {
-      "floor": 1,
-      "name": "OS Info",
-      "nen": "enhancer",
-      "nenKanji": "強",
-      "data": {
-        "product": "Darwin",
-        "version": "15.7.3",
-        "release": "24.6.0",
-        "machine": "arm64",
-        "python": "3.14.4"
-      },
-      "xp": 20
     }
   ],
   "battles": [],
   "treasures": [
     {
-      "type": "hardware",
-      "name": "Apple M3",
-      "description": "Apple M3. 8 (4 performance and 4 efficiency). 16GB RAM. Powerful local inference possible.",
+      "type": "apps",
+      "name": "AI Tools: Claude, Cursor, Ollama",
+      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
       "nen": "enhancer",
       "value": "high"
+    },
+    {
+      "type": "apps",
+      "name": "VPN: Mullvad VPN",
+      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
+      "nen": "conjurer",
+      "value": "medium"
     }
   ],
-  "xpEarned": 70
+  "xpEarned": 50
 }

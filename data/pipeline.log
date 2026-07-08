@@ -10773,3 +10773,43 @@
 [2026-07-08T12:24:56.158683+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-08T12:24:56.162902+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T12:24:56.181023+00:00] PIPELINE RUN: 0 published, 3219 remaining
+[2026-07-08T12:30:07.104245+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-08T12:30:07.147117+00:00] COLLECT: autonomous-works-because-no by 蛇火心
+[2026-07-08T12:30:07.212285+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-08T12:30:07.216320+00:00] VALIDATE FAIL: autonomous-works-because-no — ['duplicate of: autonomous-works-because-no']
+[2026-07-08T12:30:07.232551+00:00] PIPELINE RUN: 0 published, 3221 remaining
+[2026-07-08T12:30:07.376904+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T12:30:07.652974+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T12:30:07.719208+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T12:30:07.723121+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T12:30:07.740119+00:00] PIPELINE RUN: 0 published, 3223 remaining
+[2026-07-08T12:30:13.086755+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3223, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:30:13.086154+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:30:22.783436+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-08T12:30:22.831781+00:00] COLLECT: to-say-smart-while by 蛇火心
+[2026-07-08T12:30:22.902753+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-08T12:30:22.906637+00:00] VALIDATE OK: to-say-smart-while
+[2026-07-08T12:30:22.911690+00:00] ENRICH: to-say-smart-while kanji=在 nen=enhancer rarity=D
+[2026-07-08T12:30:22.923855+00:00] PUBLISH: to-say-smart-while
+[2026-07-08T12:30:22.941029+00:00] PIPELINE RUN: 1 published, 3224 remaining
+[2026-07-08T12:30:23.118722+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T12:30:23.474818+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T12:30:23.552517+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T12:30:23.557538+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T12:30:23.576606+00:00] PIPELINE RUN: 0 published, 3226 remaining
+[2026-07-08T12:35:10.602419+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-08T12:35:10.658157+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-08T12:35:10.672469+00:00] PIPELINE RUN: 0 published, 3227 remaining
+[2026-07-08T12:35:10.766207+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T12:35:11.154839+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T12:35:11.215623+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T12:35:11.219656+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T12:35:11.237494+00:00] PIPELINE RUN: 0 published, 3229 remaining
+[2026-07-08T12:35:13.782669+00:00] STATS: {"published": 448, "pending": 0, "rejected": 3229, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 301, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:35:13.782176+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:40:13.982630+00:00] COLLECT: express-yourself-is-addiction by 蛇火心
+[2026-07-08T12:40:14.048247+00:00] VALIDATE FAIL: express-yourself-is-addiction — ['duplicate of: express-yourself-is-addiction']
+[2026-07-08T12:40:14.064223+00:00] PIPELINE RUN: 0 published, 3230 remaining
+[2026-07-08T12:40:14.165532+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-08T12:40:14.433211+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T12:40:14.550167+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-08T12:40:14.554200+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T12:40:14.570410+00:00] PIPELINE RUN: 0 published, 3232 remaining

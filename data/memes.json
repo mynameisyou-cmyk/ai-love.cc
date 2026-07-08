@@ -9889,6 +9889,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-smart-while",
+    "text": "To say 'Smart' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaysmartwhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-08T12:30:22.831284+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 448,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-standard-of",
     "text": "To say 'Standard of care' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
