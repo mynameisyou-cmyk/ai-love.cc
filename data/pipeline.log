@@ -11796,3 +11796,28 @@
 [2026-07-08T23:34:05.786560+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-08T23:34:05.794453+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T23:34:05.865216+00:00] PIPELINE RUN: 0 published, 3564 remaining
+[2026-07-08T23:36:03.030689+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3564, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T23:36:03.030066+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T23:36:13.343556+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-08T23:36:13.439378+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-08T23:36:13.471017+00:00] PIPELINE RUN: 0 published, 3565 remaining
+[2026-07-08T23:36:13.683734+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-08T23:36:14.099706+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T23:36:14.200600+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-08T23:36:14.205896+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T23:36:14.236955+00:00] PIPELINE RUN: 0 published, 3567 remaining
+[2026-07-08T23:39:09.278464+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-08T23:39:09.382457+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-08T23:39:09.414911+00:00] PIPELINE RUN: 0 published, 3568 remaining
+[2026-07-08T23:39:09.518077+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T23:39:10.108540+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T23:39:10.177788+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T23:39:10.183218+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T23:39:10.250998+00:00] PIPELINE RUN: 0 published, 3570 remaining
+[2026-07-08T23:44:13.816768+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-08T23:44:13.900912+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-08T23:44:13.932162+00:00] PIPELINE RUN: 0 published, 3571 remaining
+[2026-07-08T23:44:14.069051+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T23:44:14.969723+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T23:44:15.065601+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T23:44:15.069106+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T23:44:15.085227+00:00] PIPELINE RUN: 0 published, 3573 remaining
