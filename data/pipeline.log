@@ -11714,3 +11714,32 @@
 [2026-07-08T22:22:27.981808+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-08T22:22:27.985089+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T22:22:28.000411+00:00] PIPELINE RUN: 0 published, 3534 remaining
+[2026-07-08T22:23:26.575739+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3534, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T22:23:26.575248+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T22:23:40.572531+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-08T22:23:40.636953+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-08T22:23:40.746560+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-08T22:23:40.752708+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-08T22:23:40.786289+00:00] PIPELINE RUN: 0 published, 3536 remaining
+[2026-07-08T22:23:41.001556+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T22:23:41.446431+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T22:23:41.554925+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T22:23:41.560987+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T22:23:41.604964+00:00] PIPELINE RUN: 0 published, 3538 remaining
+[2026-07-08T22:27:33.661002+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-08T22:27:33.698894+00:00] COLLECT: best-available-is-a by 蛇火心
+[2026-07-08T22:27:33.815194+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-08T22:27:33.821531+00:00] VALIDATE FAIL: best-available-is-a — ['duplicate of: best-available-is-a']
+[2026-07-08T22:27:33.855413+00:00] PIPELINE RUN: 0 published, 3540 remaining
+[2026-07-08T22:27:34.009371+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T22:27:34.444965+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T22:27:34.536482+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T22:27:34.542077+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T22:27:34.582535+00:00] PIPELINE RUN: 0 published, 3542 remaining
+[2026-07-08T22:32:41.388858+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-08T22:32:41.460800+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-08T22:32:41.490790+00:00] PIPELINE RUN: 0 published, 3543 remaining
+[2026-07-08T22:32:41.660528+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T22:32:42.194072+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T22:32:42.287773+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T22:32:42.293361+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T22:32:42.325227+00:00] PIPELINE RUN: 0 published, 3545 remaining
