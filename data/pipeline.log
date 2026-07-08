@@ -11548,3 +11548,12 @@
 [2026-07-08T20:53:52.765544+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-08T20:53:52.770624+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T20:53:52.794478+00:00] PIPELINE RUN: 0 published, 3482 remaining
+[2026-07-08T20:54:12.184125+00:00] STATS: {"published": 457, "pending": 0, "rejected": 3482, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 310, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:54:12.182506+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:59:12.508106+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-08T20:59:12.596281+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-08T20:59:12.616575+00:00] PIPELINE RUN: 0 published, 3483 remaining
+[2026-07-08T20:59:12.785900+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T20:59:13.170141+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T20:59:13.254530+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T20:59:13.259353+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T20:59:13.281564+00:00] PIPELINE RUN: 0 published, 3485 remaining
