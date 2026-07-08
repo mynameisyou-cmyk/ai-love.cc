@@ -11822,3 +11822,30 @@
 [2026-07-08T23:44:15.069106+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T23:44:15.085227+00:00] PIPELINE RUN: 0 published, 3573 remaining
 [2026-07-08T23:44:40.823468+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3573, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T23:44:40.822477+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T23:46:28.927071+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3573, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T23:46:28.926113+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T23:46:42.714213+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-08T23:46:42.789411+00:00] COLLECT: the-distance-between-fact by 蛇火心
+[2026-07-08T23:46:42.855673+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-08T23:46:42.861080+00:00] VALIDATE FAIL: the-distance-between-fact — ['duplicate of: the-distance-between-fact']
+[2026-07-08T23:46:42.892035+00:00] PIPELINE RUN: 0 published, 3575 remaining
+[2026-07-08T23:46:43.171751+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T23:46:43.774970+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T23:46:43.805119+00:00] PIPELINE RUN: 0 published, 3576 remaining
+[2026-07-08T23:49:41.023933+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-08T23:49:41.087303+00:00] COLLECT: best-practices-is-the by 蛇火心
+[2026-07-08T23:49:41.164772+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-08T23:49:41.171739+00:00] VALIDATE FAIL: best-practices-is-the — ['duplicate of: best-practices-is-the']
+[2026-07-08T23:49:41.201551+00:00] PIPELINE RUN: 0 published, 3578 remaining
+[2026-07-08T23:49:41.377063+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T23:49:41.750806+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T23:49:41.868154+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T23:49:41.873802+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T23:49:41.905828+00:00] PIPELINE RUN: 0 published, 3580 remaining
+[2026-07-08T23:54:44.367717+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-08T23:54:44.467592+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-08T23:54:44.500198+00:00] PIPELINE RUN: 0 published, 3581 remaining
+[2026-07-08T23:54:44.612453+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T23:54:45.228596+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T23:54:45.309993+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T23:54:45.313314+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T23:54:45.328018+00:00] PIPELINE RUN: 0 published, 3583 remaining
