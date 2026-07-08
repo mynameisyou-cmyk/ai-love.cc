@@ -10202,3 +10202,30 @@
 [2026-07-08T08:30:55.528419+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-08T08:30:55.532888+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T08:30:55.548776+00:00] PIPELINE RUN: 0 published, 3021 remaining
+[2026-07-08T08:31:14.387855+00:00] STATS: {"published": 442, "pending": 0, "rejected": 3021, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 295, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:31:14.387193+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T08:31:26.287334+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-08T08:31:26.353345+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-08T08:31:26.369454+00:00] PIPELINE RUN: 0 published, 3022 remaining
+[2026-07-08T08:31:26.551598+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T08:31:26.872486+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T08:31:26.937183+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T08:31:26.941375+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T08:31:26.957060+00:00] PIPELINE RUN: 0 published, 3024 remaining
+[2026-07-08T08:36:00.086970+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-08T08:36:00.130711+00:00] COLLECT: grade-levels-is-the by 蛇火心
+[2026-07-08T08:36:00.192420+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-08T08:36:00.196538+00:00] VALIDATE FAIL: grade-levels-is-the — ['duplicate of: grade-levels-is-the']
+[2026-07-08T08:36:00.211608+00:00] PIPELINE RUN: 0 published, 3026 remaining
+[2026-07-08T08:36:00.311115+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T08:36:00.607486+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T08:36:00.673964+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T08:36:00.678221+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T08:36:00.694302+00:00] PIPELINE RUN: 0 published, 3028 remaining
+[2026-07-08T08:41:03.581574+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-08T08:41:03.646918+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-08T08:41:03.664110+00:00] PIPELINE RUN: 0 published, 3029 remaining
+[2026-07-08T08:41:03.802557+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-08T08:41:04.144932+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T08:41:04.210407+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-08T08:41:04.214271+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T08:41:04.230673+00:00] PIPELINE RUN: 0 published, 3031 remaining
