@@ -3,6 +3,21 @@
   "nen": "transmuter",
   "nenKanji": "変",
   "description": "Data reshaped into new forms. Configuration proposals.",
-  "configs": [],
-  "ts": "2026-07-08T09:48:44.480508+00:00"
+  "configs": [
+    {
+      "setting": "AppleInterfaceStyle",
+      "current": "Dark",
+      "proposed": "Dark",
+      "command": "defaults write -g AppleInterfaceStyle -string 'Dark'",
+      "safe": true
+    },
+    {
+      "setting": "trackpadClicking",
+      "current": "0 (disabled)",
+      "proposed": "1 (tap to click)",
+      "command": "defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true",
+      "safe": true
+    }
+  ],
+  "ts": "2026-07-08T09:58:53.982937+00:00"
 }

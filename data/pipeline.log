@@ -10368,3 +10368,33 @@
 [2026-07-08T09:48:45.082868+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-08T09:48:45.090428+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T09:48:45.124147+00:00] PIPELINE RUN: 0 published, 3078 remaining
+[2026-07-08T09:51:39.614655+00:00] STATS: {"published": 444, "pending": 0, "rejected": 3078, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 297, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T09:51:39.612956+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T09:51:50.575714+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-08T09:51:50.664094+00:00] COLLECT: the-distance-between-neutral by 蛇火心
+[2026-07-08T09:51:50.770854+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-08T09:51:50.778158+00:00] VALIDATE OK: the-distance-between-neutral
+[2026-07-08T09:51:50.786751+00:00] ENRICH: the-distance-between-neutral kanji=在 nen=enhancer rarity=D
+[2026-07-08T09:51:50.806482+00:00] PUBLISH: the-distance-between-neutral
+[2026-07-08T09:51:50.833323+00:00] PIPELINE RUN: 1 published, 3079 remaining
+[2026-07-08T09:51:51.123675+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T09:51:51.768643+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T09:51:51.913543+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T09:51:51.921484+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T09:51:51.963503+00:00] PIPELINE RUN: 0 published, 3081 remaining
+[2026-07-08T09:53:48.342597+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-08T09:53:48.452788+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-08T09:53:48.480338+00:00] PIPELINE RUN: 0 published, 3082 remaining
+[2026-07-08T09:53:48.643799+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T09:53:49.150930+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T09:53:49.285159+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T09:53:49.292999+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T09:53:49.324887+00:00] PIPELINE RUN: 0 published, 3084 remaining
+[2026-07-08T09:58:52.686022+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-08T09:58:52.936467+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-08T09:58:53.006431+00:00] PIPELINE RUN: 0 published, 3085 remaining
+[2026-07-08T09:58:53.415057+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T09:58:54.765842+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T09:58:55.029947+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T09:58:55.040150+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T09:58:55.098542+00:00] PIPELINE RUN: 0 published, 3087 remaining
+[2026-07-08T09:58:58.019312+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3087, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T09:58:58.017854+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
