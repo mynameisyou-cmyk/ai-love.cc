@@ -11447,3 +11447,33 @@
 [2026-07-08T20:18:24.237554+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-08T20:18:24.242969+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T20:18:24.272879+00:00] PIPELINE RUN: 0 published, 3449 remaining
+[2026-07-08T20:21:36.173580+00:00] STATS: {"published": 455, "pending": 0, "rejected": 3449, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 308, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:21:36.172833+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:21:47.599530+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-08T20:21:47.668417+00:00] COLLECT: the-louder-evidence-based by 蛇火心
+[2026-07-08T20:21:47.835663+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-08T20:21:47.841575+00:00] VALIDATE OK: the-louder-evidence-based
+[2026-07-08T20:21:47.849472+00:00] ENRICH: the-louder-evidence-based kanji=在 nen=enhancer rarity=D
+[2026-07-08T20:21:47.908406+00:00] PUBLISH: the-louder-evidence-based
+[2026-07-08T20:21:47.978897+00:00] PIPELINE RUN: 1 published, 3450 remaining
+[2026-07-08T20:21:48.317291+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T20:21:49.689880+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T20:21:49.890189+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T20:21:49.895695+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T20:21:49.915519+00:00] PIPELINE RUN: 0 published, 3452 remaining
+[2026-07-08T20:23:26.861176+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-08T20:23:26.955175+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-08T20:23:26.978339+00:00] PIPELINE RUN: 0 published, 3453 remaining
+[2026-07-08T20:23:27.189697+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T20:23:27.636380+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T20:23:27.737553+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T20:23:27.743009+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T20:23:27.770517+00:00] PIPELINE RUN: 0 published, 3455 remaining
+[2026-07-08T20:28:30.051706+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-08T20:28:30.167920+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-08T20:28:30.183604+00:00] PIPELINE RUN: 0 published, 3456 remaining
+[2026-07-08T20:28:30.307146+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T20:28:30.865790+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T20:28:30.956331+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T20:28:30.961811+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T20:28:31.012706+00:00] PIPELINE RUN: 0 published, 3458 remaining
+[2026-07-08T20:28:33.620610+00:00] STATS: {"published": 456, "pending": 0, "rejected": 3458, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 309, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:28:33.619594+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
