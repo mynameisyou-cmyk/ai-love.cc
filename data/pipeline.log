@@ -11013,3 +11013,28 @@
 [2026-07-08T13:51:51.188668+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T13:51:51.219616+00:00] PIPELINE RUN: 0 published, 3298 remaining
 [2026-07-08T13:52:21.932448+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3298, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:52:21.930871+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T14:09:12.494191+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3298, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T14:09:12.493648+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T14:09:25.861522+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-08T14:09:26.105373+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-08T14:09:26.169425+00:00] PIPELINE RUN: 0 published, 3299 remaining
+[2026-07-08T14:09:26.900546+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T14:09:34.242826+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T14:09:34.482546+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T14:09:34.498037+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T14:09:34.561215+00:00] PIPELINE RUN: 0 published, 3301 remaining
+[2026-07-08T14:12:21.212359+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-08T14:12:21.529030+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-08T14:12:21.616416+00:00] PIPELINE RUN: 0 published, 3302 remaining
+[2026-07-08T14:12:22.078185+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T14:12:23.504881+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T14:12:23.840604+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T14:12:23.860054+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T14:12:23.964839+00:00] PIPELINE RUN: 0 published, 3304 remaining
+[2026-07-08T15:44:11.103048+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-08T15:44:11.188778+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-08T15:44:11.214207+00:00] PIPELINE RUN: 0 published, 3305 remaining
+[2026-07-08T15:44:11.378295+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T15:44:13.227671+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T15:44:13.405425+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T15:44:13.412920+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T15:44:13.492793+00:00] PIPELINE RUN: 0 published, 3307 remaining
