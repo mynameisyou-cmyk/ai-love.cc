@@ -1,21 +1,30 @@
 {
-  "ts": "2026-07-08T10:09:03.222700+00:00",
+  "ts": "2026-07-08T10:19:09.336841+00:00",
   "floors": [
     {
-      "floor": 4,
-      "name": "Security",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 3,
+      "name": "Bluetooth",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "sip": "System Integrity Protection status: enabled.",
-        "filevault": "FileVault is On.",
-        "firewall": "Firewall is enabled. (State = 1)",
-        "gatekeeper": "assessments enabled"
+        "state": "On",
+        "address": "9C:DA:A8:9F:50:C1",
+        "nearbyDevices": 0,
+        "raw": "Bluetooth:\n\n      Bluetooth Controller:\n          Address: 9C:58:84:7D:FB:B4\n          State: On\n          Chipset: BCM_4388\n          Discoverable: Off\n          Firmware Version: 22.5.542.2791\n          Product ID: 0x4A33\n          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >\n          Transport: PCIe\n          Vendor ID: 0x004C (Apple)\n      Connected:\n          YOU's AirPods Max:\n              Address: F8:73:DF:25:89:A0\n              Vendor ID: 0x004C\n"
       },
-      "xp": 100
+      "xp": 60
     }
   ],
-  "battles": [],
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 3,
+      "name": "Bluetooth On",
+      "description": "Bluetooth is On. 0 nearby devices detected.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Turn off if not needed to save battery."
+    }
+  ],
   "treasures": [],
-  "xpEarned": 100
+  "xpEarned": 60
 }

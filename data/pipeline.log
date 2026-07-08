@@ -10425,3 +10425,28 @@
 [2026-07-08T10:09:03.505799+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-08T10:09:03.509818+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T10:09:03.525028+00:00] PIPELINE RUN: 0 published, 3097 remaining
+[2026-07-08T10:12:39.877361+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3097, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T10:12:39.876763+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T10:12:49.819442+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-08T10:12:49.890240+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-08T10:12:49.907322+00:00] PIPELINE RUN: 0 published, 3098 remaining
+[2026-07-08T10:12:50.087011+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T10:12:51.011530+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T10:12:51.080198+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T10:12:51.084601+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T10:12:51.102533+00:00] PIPELINE RUN: 0 published, 3100 remaining
+[2026-07-08T10:14:05.830419+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-08T10:14:05.897208+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-08T10:14:05.913587+00:00] PIPELINE RUN: 0 published, 3101 remaining
+[2026-07-08T10:14:06.015472+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T10:14:06.297641+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T10:14:06.365186+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T10:14:06.369477+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T10:14:06.385912+00:00] PIPELINE RUN: 0 published, 3103 remaining
+[2026-07-08T10:19:08.978492+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-08T10:19:09.039192+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-08T10:19:09.053673+00:00] PIPELINE RUN: 0 published, 3104 remaining
+[2026-07-08T10:19:09.143866+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T10:19:09.549638+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T10:19:09.607458+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T10:19:09.611215+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T10:19:09.626041+00:00] PIPELINE RUN: 0 published, 3106 remaining
