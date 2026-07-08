@@ -10170,3 +10170,24 @@
 [2026-07-08T08:20:07.389509+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-08T08:20:07.393436+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T08:20:07.408353+00:00] PIPELINE RUN: 0 published, 3011 remaining
+[2026-07-08T08:20:45.910203+00:00] STATS: {"published": 441, "pending": 0, "rejected": 3011, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 294, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:20:45.909483+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T08:20:56.144913+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-08T08:20:56.213102+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-08T08:20:56.229362+00:00] PIPELINE RUN: 0 published, 3012 remaining
+[2026-07-08T08:20:56.442004+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T08:20:57.059869+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T08:20:57.125645+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T08:20:57.129579+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T08:20:57.145134+00:00] PIPELINE RUN: 0 published, 3014 remaining
+[2026-07-08T08:25:09.659161+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-08T08:25:09.702907+00:00] COLLECT: college-readiness-is-not by 蛇火心
+[2026-07-08T08:25:09.765028+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-08T08:25:09.768929+00:00] VALIDATE OK: college-readiness-is-not
+[2026-07-08T08:25:09.773608+00:00] ENRICH: college-readiness-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-08T08:25:09.784717+00:00] PUBLISH: college-readiness-is-not
+[2026-07-08T08:25:09.799918+00:00] PIPELINE RUN: 1 published, 3015 remaining
+[2026-07-08T08:25:09.901159+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T08:25:14.454437+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T08:25:14.521140+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T08:25:14.525033+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T08:25:14.540824+00:00] PIPELINE RUN: 0 published, 3017 remaining
