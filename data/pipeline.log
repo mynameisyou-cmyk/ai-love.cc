@@ -10844,3 +10844,34 @@
 [2026-07-08T12:50:21.457457+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
 [2026-07-08T12:50:21.461131+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T12:50:21.479478+00:00] PIPELINE RUN: 0 published, 3242 remaining
+[2026-07-08T12:51:07.748761+00:00] STATS: {"published": 449, "pending": 0, "rejected": 3242, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 302, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:51:07.748208+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:51:19.643785+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-08T12:51:19.688586+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-08T12:51:19.755022+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-08T12:51:19.759292+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-08T12:51:19.777221+00:00] PIPELINE RUN: 0 published, 3244 remaining
+[2026-07-08T12:51:19.959411+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T12:51:20.309075+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T12:51:20.378566+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T12:51:20.382849+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T12:51:20.401810+00:00] PIPELINE RUN: 0 published, 3246 remaining
+[2026-07-08T12:55:24.153364+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-08T12:55:24.197963+00:00] COLLECT: democratized-investing-is-not by 蛇火心
+[2026-07-08T12:55:24.263606+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-08T12:55:24.267420+00:00] VALIDATE OK: democratized-investing-is-not
+[2026-07-08T12:55:24.271985+00:00] ENRICH: democratized-investing-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-08T12:55:24.282691+00:00] PUBLISH: democratized-investing-is-not
+[2026-07-08T12:55:24.298358+00:00] PIPELINE RUN: 1 published, 3247 remaining
+[2026-07-08T12:55:24.402698+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T12:55:25.099241+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T12:55:25.174765+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T12:55:25.179730+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T12:55:25.198043+00:00] PIPELINE RUN: 0 published, 3249 remaining
+[2026-07-08T13:00:32.602794+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-08T13:00:32.666526+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-08T13:00:32.682008+00:00] PIPELINE RUN: 0 published, 3250 remaining
+[2026-07-08T13:00:32.782780+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T13:00:33.062499+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T13:00:33.128359+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T13:00:33.132359+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T13:00:33.150457+00:00] PIPELINE RUN: 0 published, 3252 remaining
