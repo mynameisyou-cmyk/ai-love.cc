@@ -10813,3 +10813,34 @@
 [2026-07-08T12:40:14.550167+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-08T12:40:14.554200+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T12:40:14.570410+00:00] PIPELINE RUN: 0 published, 3232 remaining
+[2026-07-08T12:40:40.724645+00:00] STATS: {"published": 448, "pending": 0, "rejected": 3232, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 301, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T12:40:40.723997+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T12:40:50.303002+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-08T12:40:50.367645+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-08T12:40:50.383869+00:00] PIPELINE RUN: 0 published, 3233 remaining
+[2026-07-08T12:40:50.544781+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T12:40:50.950803+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T12:40:51.014284+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T12:40:51.019202+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T12:40:51.036019+00:00] PIPELINE RUN: 0 published, 3235 remaining
+[2026-07-08T12:45:17.729470+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-08T12:45:17.777227+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-08T12:45:17.843361+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-08T12:45:17.847442+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-08T12:45:17.863434+00:00] PIPELINE RUN: 0 published, 3237 remaining
+[2026-07-08T12:45:18.005024+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-08T12:45:18.265878+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T12:45:18.333481+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-08T12:45:18.337456+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T12:45:18.354443+00:00] PIPELINE RUN: 0 published, 3239 remaining
+[2026-07-08T12:50:20.803371+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-08T12:50:20.851772+00:00] COLLECT: standard-of-care-is by 蛇火心
+[2026-07-08T12:50:20.919139+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-08T12:50:20.923129+00:00] VALIDATE OK: standard-of-care-is
+[2026-07-08T12:50:20.927246+00:00] ENRICH: standard-of-care-is kanji=護 nen=enhancer rarity=D
+[2026-07-08T12:50:20.938911+00:00] PUBLISH: standard-of-care-is
+[2026-07-08T12:50:20.955124+00:00] PIPELINE RUN: 1 published, 3240 remaining
+[2026-07-08T12:50:21.056669+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T12:50:21.390744+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T12:50:21.457457+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T12:50:21.461131+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T12:50:21.479478+00:00] PIPELINE RUN: 0 published, 3242 remaining
