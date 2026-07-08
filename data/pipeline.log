@@ -11477,3 +11477,32 @@
 [2026-07-08T20:28:30.961811+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-08T20:28:31.012706+00:00] PIPELINE RUN: 0 published, 3458 remaining
 [2026-07-08T20:28:33.620610+00:00] STATS: {"published": 456, "pending": 0, "rejected": 3458, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 309, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:28:33.619594+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:32:07.617695+00:00] STATS: {"published": 456, "pending": 0, "rejected": 3458, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 309, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T20:32:07.616985+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T20:32:19.223538+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-08T20:32:19.286466+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-08T20:32:19.313339+00:00] PIPELINE RUN: 0 published, 3459 remaining
+[2026-07-08T20:32:19.542007+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T20:32:24.012410+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T20:32:24.103359+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T20:32:24.108674+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T20:32:24.137144+00:00] PIPELINE RUN: 0 published, 3461 remaining
+[2026-07-08T20:33:33.816246+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-08T20:33:33.892767+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-08T20:33:33.922085+00:00] PIPELINE RUN: 0 published, 3462 remaining
+[2026-07-08T20:33:34.052801+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T20:33:34.440271+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T20:33:34.530443+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T20:33:34.539220+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T20:33:34.570357+00:00] PIPELINE RUN: 0 published, 3464 remaining
+[2026-07-08T20:38:37.179395+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-08T20:38:37.224457+00:00] COLLECT: the-louder-regulatory-compliance by 蛇火心
+[2026-07-08T20:38:37.314215+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-08T20:38:37.319609+00:00] VALIDATE OK: the-louder-regulatory-compliance
+[2026-07-08T20:38:37.327798+00:00] ENRICH: the-louder-regulatory-compliance kanji=在 nen=enhancer rarity=D
+[2026-07-08T20:38:37.345757+00:00] PUBLISH: the-louder-regulatory-compliance
+[2026-07-08T20:38:37.374402+00:00] PIPELINE RUN: 1 published, 3465 remaining
+[2026-07-08T20:38:37.496449+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T20:38:37.924398+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T20:38:37.986271+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T20:38:37.991633+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T20:38:38.020882+00:00] PIPELINE RUN: 0 published, 3467 remaining

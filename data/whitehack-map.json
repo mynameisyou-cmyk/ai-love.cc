@@ -1,46 +1,37 @@
 {
-  "ts": "2026-07-08T20:28:30.436245+00:00",
+  "ts": "2026-07-08T20:38:37.569548+00:00",
   "floors": [
     {
-      "floor": 12,
-      "name": "macOS UI Settings",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 9,
+      "name": "SSH & Connections",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "darkMode": "Dark",
-        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
-        "timezone": "BST",
-        "trackpadClicking": "0",
-        "tccPermissions": ""
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
       },
-      "xp": 100
+      "xp": 80
     }
   ],
   "battles": [
     {
       "type": "INFO",
-      "floor": 12,
-      "name": "Dark Mode Active",
-      "description": "Dark mode is on. Good for Dark Continent operations.",
-      "nen": "enhancer",
-      "recommendation": "Stylistic. No action needed."
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Verify hosts are still active."
     }
   ],
   "treasures": [
     {
-      "type": "setting",
-      "name": "Dark Mode",
-      "description": "Dark mode active. The Dark Continent aesthetic.",
-      "nen": "enhancer",
-      "value": "low"
-    },
-    {
-      "type": "setting",
-      "name": "Cantonese Support",
-      "description": "Traditional Chinese language active. 香港人.",
-      "nen": "enhancer",
-      "value": "medium"
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
+      "value": "high"
     }
   ],
-  "xpEarned": 100
+  "xpEarned": 80
 }
