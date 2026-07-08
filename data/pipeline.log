@@ -10956,3 +10956,30 @@
 [2026-07-08T13:31:29.599856+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-08T13:31:29.603909+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-08T13:31:29.621453+00:00] PIPELINE RUN: 0 published, 3279 remaining
+[2026-07-08T13:33:12.530495+00:00] STATS: {"published": 451, "pending": 0, "rejected": 3279, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 304, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:33:12.529806+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:33:22.420076+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-08T13:33:22.463608+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-08T13:33:22.529292+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-08T13:33:22.533523+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-08T13:33:22.550519+00:00] PIPELINE RUN: 0 published, 3281 remaining
+[2026-07-08T13:33:22.725859+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T13:33:23.099335+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T13:33:23.170312+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T13:33:23.174672+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T13:33:23.195395+00:00] PIPELINE RUN: 0 published, 3283 remaining
+[2026-07-08T13:36:32.545693+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-08T13:36:32.614641+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-08T13:36:32.632415+00:00] PIPELINE RUN: 0 published, 3284 remaining
+[2026-07-08T13:36:32.783717+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T13:36:33.091821+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T13:36:33.158749+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T13:36:33.163248+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T13:36:33.180372+00:00] PIPELINE RUN: 0 published, 3286 remaining
+[2026-07-08T13:41:36.136444+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-08T13:41:36.200458+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-08T13:41:36.217624+00:00] PIPELINE RUN: 0 published, 3287 remaining
+[2026-07-08T13:41:36.324818+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T13:41:36.775725+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T13:41:36.843338+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T13:41:36.847578+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T13:41:36.865248+00:00] PIPELINE RUN: 0 published, 3289 remaining
