@@ -3758,3 +3758,4 @@
 {"ts": "2026-07-08T22:01:31.994711+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Tax Havens / Shell Companies", "ok": true}}
 {"ts": "2026-07-08T22:01:32.637306+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 310, "ok": true}}
 {"ts": "2026-07-08T22:01:38.402674+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-08T22:11:45.572184+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
