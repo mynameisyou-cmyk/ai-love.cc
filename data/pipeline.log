@@ -10664,3 +10664,30 @@
 [2026-07-08T11:43:44.502303+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T11:43:44.517365+00:00] PIPELINE RUN: 0 published, 3179 remaining
 [2026-07-08T11:43:46.582788+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3179, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T11:43:46.581995+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T11:47:29.863414+00:00] STATS: {"published": 447, "pending": 0, "rejected": 3179, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 300, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T11:47:29.862455+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T11:47:40.960311+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-08T11:47:41.084723+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-08T11:47:41.138560+00:00] PIPELINE RUN: 0 published, 3180 remaining
+[2026-07-08T11:47:41.445684+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-08T11:47:42.064653+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T11:47:42.123607+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-08T11:47:42.126740+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T11:47:42.151748+00:00] PIPELINE RUN: 0 published, 3182 remaining
+[2026-07-08T11:48:46.988833+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-08T11:48:47.053409+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-08T11:48:47.080233+00:00] PIPELINE RUN: 0 published, 3183 remaining
+[2026-07-08T11:48:47.229528+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T11:48:47.631379+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T11:48:47.774451+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T11:48:47.780461+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T11:48:47.827093+00:00] PIPELINE RUN: 0 published, 3185 remaining
+[2026-07-08T11:53:50.168689+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-08T11:53:50.214886+00:00] COLLECT: the-distance-between-data by 蛇火心
+[2026-07-08T11:53:50.280657+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-08T11:53:50.286369+00:00] VALIDATE FAIL: the-distance-between-data — ['duplicate of: the-distance-between-data']
+[2026-07-08T11:53:50.302842+00:00] PIPELINE RUN: 0 published, 3187 remaining
+[2026-07-08T11:53:50.455190+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T11:53:56.504283+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T11:53:56.553773+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T11:53:56.556893+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T11:53:56.569211+00:00] PIPELINE RUN: 0 published, 3189 remaining
