@@ -10905,3 +10905,28 @@
 [2026-07-08T13:11:11.907566+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-08T13:11:11.911679+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T13:11:11.928576+00:00] PIPELINE RUN: 0 published, 3261 remaining
+[2026-07-08T13:12:09.327161+00:00] STATS: {"published": 451, "pending": 0, "rejected": 3261, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 304, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:12:09.326577+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:12:22.601774+00:00] COLLECT: college-readiness-teaches-compliance by 蛇火心
+[2026-07-08T13:12:22.667221+00:00] VALIDATE FAIL: college-readiness-teaches-compliance — ['duplicate of: college-readiness-teaches-compliance']
+[2026-07-08T13:12:22.684856+00:00] PIPELINE RUN: 0 published, 3262 remaining
+[2026-07-08T13:12:22.856471+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T13:12:23.128332+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T13:12:23.193725+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T13:12:23.197984+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T13:12:23.215073+00:00] PIPELINE RUN: 0 published, 3264 remaining
+[2026-07-08T13:16:15.156241+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-08T13:16:15.223160+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-08T13:16:15.238656+00:00] PIPELINE RUN: 0 published, 3265 remaining
+[2026-07-08T13:16:15.333373+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T13:16:15.587284+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T13:16:15.650333+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T13:16:15.654300+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T13:16:15.671481+00:00] PIPELINE RUN: 0 published, 3267 remaining
+[2026-07-08T13:21:19.076494+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-08T13:21:19.141890+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-08T13:21:19.159065+00:00] PIPELINE RUN: 0 published, 3268 remaining
+[2026-07-08T13:21:19.305950+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-08T13:21:19.937151+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T13:21:19.991355+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-08T13:21:19.994511+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T13:21:20.007726+00:00] PIPELINE RUN: 0 published, 3270 remaining
