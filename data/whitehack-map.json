@@ -1,19 +1,95 @@
 {
-  "ts": "2026-07-08T09:21:57.631971+00:00",
+  "ts": "2026-07-08T09:48:44.389741+00:00",
   "floors": [
     {
-      "floor": 6,
-      "name": "Disk",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 11,
+      "name": "Installed Applications",
+      "nen": "conjurer",
+      "nenKanji": "创",
       "data": {
-        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    10Gi    28Gi    28%    427k  290M    0%   /",
-        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            11.3 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 11.3 GB    disk3s1s1\n   3:                APFS Volume Preboot                 8.9 GB     disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+        "apps": [
+          "Claude",
+          "Cursor",
+          "DBeaver",
+          "Docker",
+          "Firefox",
+          "Google Chrome",
+          "Intiface Central",
+          "Keynote",
+          "Ledger Wallet",
+          "Microsoft Defender Shim",
+          "Microsoft Excel",
+          "Microsoft OneNote",
+          "Microsoft Outlook",
+          "Microsoft PowerPoint",
+          "Microsoft Teams",
+          "Microsoft Word",
+          "Mullvad VPN",
+          "Numbers",
+          "Ollama",
+          "OneDrive",
+          "Pages",
+          "Python 3.14",
+          "Rectangle",
+          "Safari",
+          "Signal",
+          "Utilities",
+          "Visual Studio Code",
+          "VisualDesigner",
+          "iTerm"
+        ],
+        "appCount": 29,
+        "categories": {
+          "AI": [
+            "Claude",
+            "Cursor",
+            "Ollama"
+          ],
+          "Dev": [
+            "DBeaver",
+            "Docker",
+            "iTerm"
+          ],
+          "VPN": [
+            "Mullvad VPN"
+          ],
+          "Office": [
+            "Keynote",
+            "Microsoft Defender Shim",
+            "Microsoft Excel",
+            "Microsoft OneNote",
+            "Microsoft Outlook",
+            "Microsoft PowerPoint",
+            "Microsoft Teams",
+            "Microsoft Word",
+            "Numbers"
+          ],
+          "Browser": [
+            "Firefox",
+            "Google Chrome",
+            "Safari"
+          ]
+        }
       },
-      "xp": 40
+      "xp": 50
     }
   ],
   "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "treasures": [
+    {
+      "type": "apps",
+      "name": "AI Tools: Claude, Cursor, Ollama",
+      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
+      "nen": "enhancer",
+      "value": "high"
+    },
+    {
+      "type": "apps",
+      "name": "VPN: Mullvad VPN",
+      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
+      "nen": "conjurer",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 50
 }

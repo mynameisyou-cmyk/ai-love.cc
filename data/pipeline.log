@@ -10341,3 +10341,30 @@
 [2026-07-08T09:21:57.923660+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-08T09:21:57.927834+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T09:21:57.943824+00:00] PIPELINE RUN: 0 published, 3068 remaining
+[2026-07-08T09:24:10.396769+00:00] STATS: {"published": 444, "pending": 0, "rejected": 3068, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 297, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T09:24:10.396189+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T09:24:33.426600+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-08T09:24:33.488277+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-08T09:24:33.504281+00:00] PIPELINE RUN: 0 published, 3069 remaining
+[2026-07-08T09:24:33.690322+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-08T09:24:41.135118+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T09:24:41.199677+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-08T09:24:41.203829+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T09:24:41.220213+00:00] PIPELINE RUN: 0 published, 3071 remaining
+[2026-07-08T09:27:01.542429+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-08T09:27:01.611146+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-08T09:27:01.630163+00:00] PIPELINE RUN: 0 published, 3072 remaining
+[2026-07-08T09:27:01.736788+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T09:27:02.195567+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T09:27:02.267747+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T09:27:02.271986+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T09:27:02.289163+00:00] PIPELINE RUN: 0 published, 3074 remaining
+[2026-07-08T09:48:43.766988+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-08T09:48:43.855738+00:00] COLLECT: the-louder-preventive-medicine by 蛇火心
+[2026-07-08T09:48:43.977997+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-08T09:48:43.985422+00:00] VALIDATE FAIL: the-louder-preventive-medicine — ['duplicate of: the-louder-preventive-medicine']
+[2026-07-08T09:48:44.016124+00:00] PIPELINE RUN: 0 published, 3076 remaining
+[2026-07-08T09:48:44.297423+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T09:48:44.943587+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T09:48:45.082868+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T09:48:45.090428+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T09:48:45.124147+00:00] PIPELINE RUN: 0 published, 3078 remaining
