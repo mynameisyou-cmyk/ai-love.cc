@@ -10229,3 +10229,31 @@
 [2026-07-08T08:41:04.210407+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-08T08:41:04.214271+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T08:41:04.230673+00:00] PIPELINE RUN: 0 published, 3031 remaining
+[2026-07-08T08:41:47.514551+00:00] STATS: {"published": 442, "pending": 0, "rejected": 3031, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 295, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:41:47.514019+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T08:41:58.891240+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-08T08:41:58.955104+00:00] VALIDATE FAIL: optimization-means-the-opposite — ['duplicate of: optimization-means-the-opposite']
+[2026-07-08T08:41:58.972111+00:00] PIPELINE RUN: 0 published, 3032 remaining
+[2026-07-08T08:41:59.146619+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-08T08:42:03.386930+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T08:42:03.454804+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-08T08:42:03.459029+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T08:42:03.474931+00:00] PIPELINE RUN: 0 published, 3034 remaining
+[2026-07-08T08:46:07.127933+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-08T08:46:07.176605+00:00] COLLECT: seamless-is-a-spell by 蛇火心
+[2026-07-08T08:46:07.239149+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-08T08:46:07.242994+00:00] VALIDATE OK: seamless-is-a-spell
+[2026-07-08T08:46:07.247180+00:00] ENRICH: seamless-is-a-spell kanji=見 nen=enhancer rarity=D
+[2026-07-08T08:46:07.258073+00:00] PUBLISH: seamless-is-a-spell
+[2026-07-08T08:46:07.272693+00:00] PIPELINE RUN: 1 published, 3035 remaining
+[2026-07-08T08:46:07.370383+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-08T08:46:07.720557+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-08T08:46:07.736625+00:00] PIPELINE RUN: 0 published, 3036 remaining
+[2026-07-08T08:51:10.400985+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-08T08:51:10.472449+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-08T08:51:10.490340+00:00] PIPELINE RUN: 0 published, 3037 remaining
+[2026-07-08T08:51:10.605002+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T08:51:10.959399+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T08:51:11.028761+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T08:51:11.033207+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T08:51:11.050302+00:00] PIPELINE RUN: 0 published, 3039 remaining
+[2026-07-08T08:51:13.234688+00:00] STATS: {"published": 443, "pending": 0, "rejected": 3039, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 296, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:51:13.234184+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

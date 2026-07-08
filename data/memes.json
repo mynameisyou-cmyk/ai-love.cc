@@ -5777,6 +5777,32 @@
     "rarity": "D"
   },
   {
+    "id": "seamless-is-a-spell",
+    "text": "'Seamless' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#seamlessisaspell",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-08T08:46:07.176264+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 443,
+    "rarity": "D"
+  },
+  {
     "id": "seamless-is-not-a",
     "text": "'Seamless' is not a goal. It is a branding strategy. Read the code, not the press release.",
     "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
