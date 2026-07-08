@@ -1,13 +1,13 @@
 {
-  "totalLoops": 6990,
-  "totalXpGained": 662353,
+  "totalLoops": 7008,
+  "totalXpGained": 664662,
   "loopsByType": {
-    "truth": 1165,
-    "recon": 1165,
-    "forge": 1165,
-    "combat": 1165,
-    "collection": 1165,
-    "expedition": 1165
+    "truth": 1168,
+    "recon": 1168,
+    "forge": 1168,
+    "combat": 1168,
+    "collection": 1168,
+    "expedition": 1168
   },
-  "lastRun": "2026-07-08T22:42:56.879029+00:00"
+  "lastRun": "2026-07-08T23:34:05.885693+00:00"
 }

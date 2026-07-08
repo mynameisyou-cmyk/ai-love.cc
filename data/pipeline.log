@@ -11771,3 +11771,28 @@
 [2026-07-08T22:42:56.850590+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-08T22:42:56.854581+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T22:42:56.869382+00:00] PIPELINE RUN: 0 published, 3555 remaining
+[2026-07-08T22:44:34.775534+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3555, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T22:44:34.774563+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T22:44:45.874157+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-08T22:44:45.977847+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-08T22:44:46.009831+00:00] PIPELINE RUN: 0 published, 3556 remaining
+[2026-07-08T22:44:46.306144+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T22:44:46.842941+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T22:44:46.919918+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T22:44:46.925766+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T22:44:46.961775+00:00] PIPELINE RUN: 0 published, 3558 remaining
+[2026-07-08T23:05:53.473826+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-08T23:05:53.619719+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-08T23:05:53.668285+00:00] PIPELINE RUN: 0 published, 3559 remaining
+[2026-07-08T23:05:53.897380+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-08T23:05:55.349522+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T23:05:55.532153+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-08T23:05:55.541489+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T23:05:55.581785+00:00] PIPELINE RUN: 0 published, 3561 remaining
+[2026-07-08T23:34:04.965162+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-08T23:34:05.075720+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-08T23:34:05.117625+00:00] PIPELINE RUN: 0 published, 3562 remaining
+[2026-07-08T23:34:05.287478+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-08T23:34:05.712264+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T23:34:05.786560+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-08T23:34:05.794453+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T23:34:05.865216+00:00] PIPELINE RUN: 0 published, 3564 remaining
