@@ -10930,3 +10930,29 @@
 [2026-07-08T13:21:19.991355+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-08T13:21:19.994511+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T13:21:20.007726+00:00] PIPELINE RUN: 0 published, 3270 remaining
+[2026-07-08T13:22:43.491601+00:00] STATS: {"published": 451, "pending": 0, "rejected": 3270, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 304, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:22:43.490972+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:22:53.791635+00:00] COLLECT: compound-growth-is-extraction by 蛇火心
+[2026-07-08T13:22:53.858943+00:00] VALIDATE FAIL: compound-growth-is-extraction — ['duplicate of: compound-growth-is-extraction']
+[2026-07-08T13:22:53.876496+00:00] PIPELINE RUN: 0 published, 3271 remaining
+[2026-07-08T13:22:54.054761+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-08T13:22:54.680771+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T13:22:54.748648+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-08T13:22:54.752699+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T13:22:54.769962+00:00] PIPELINE RUN: 0 published, 3273 remaining
+[2026-07-08T13:26:22.330261+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-08T13:26:22.395982+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-08T13:26:22.412300+00:00] PIPELINE RUN: 0 published, 3274 remaining
+[2026-07-08T13:26:22.516025+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-08T13:26:22.851406+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T13:26:22.916976+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-08T13:26:22.921380+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T13:26:22.938595+00:00] PIPELINE RUN: 0 published, 3276 remaining
+[2026-07-08T13:26:28.825420+00:00] STATS: {"published": 451, "pending": 0, "rejected": 3276, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 304, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:26:28.824758+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:31:29.028444+00:00] COLLECT: express-yourself-is-addiction by 蛇火心
+[2026-07-08T13:31:29.092861+00:00] VALIDATE FAIL: express-yourself-is-addiction — ['duplicate of: express-yourself-is-addiction']
+[2026-07-08T13:31:29.109500+00:00] PIPELINE RUN: 0 published, 3277 remaining
+[2026-07-08T13:31:29.212385+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T13:31:29.530409+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T13:31:29.599856+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T13:31:29.603909+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T13:31:29.621453+00:00] PIPELINE RUN: 0 published, 3279 remaining
