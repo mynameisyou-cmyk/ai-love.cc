@@ -11338,3 +11338,34 @@
 [2026-07-08T19:37:29.358900+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-08T19:37:29.374007+00:00] PIPELINE RUN: 0 published, 3413 remaining
 [2026-07-08T19:37:33.118172+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3413, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:37:33.117734+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T19:39:24.666391+00:00] STATS: {"published": 453, "pending": 0, "rejected": 3413, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 306, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T19:39:24.665569+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T19:39:34.835547+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-08T19:39:34.903518+00:00] COLLECT: the-distance-between-your by 蛇火心
+[2026-07-08T19:39:35.000957+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-08T19:39:35.006340+00:00] VALIDATE FAIL: the-distance-between-your — ['duplicate of: the-distance-between-your']
+[2026-07-08T19:39:35.034714+00:00] PIPELINE RUN: 0 published, 3415 remaining
+[2026-07-08T19:39:35.251815+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T19:39:35.660923+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T19:39:35.725335+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T19:39:35.729445+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T19:39:35.765155+00:00] PIPELINE RUN: 0 published, 3417 remaining
+[2026-07-08T19:42:33.388194+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-08T19:42:33.477564+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-08T19:42:33.509802+00:00] PIPELINE RUN: 0 published, 3418 remaining
+[2026-07-08T19:42:33.662034+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-08T19:42:34.000754+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T19:42:34.125866+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-08T19:42:34.129777+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T19:42:34.162707+00:00] PIPELINE RUN: 0 published, 3420 remaining
+[2026-07-08T19:47:36.670556+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-08T19:47:36.724172+00:00] COLLECT: best-available-works-because by 蛇火心
+[2026-07-08T19:47:36.795623+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-08T19:47:36.801027+00:00] VALIDATE OK: best-available-works-because
+[2026-07-08T19:47:36.807363+00:00] ENRICH: best-available-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-08T19:47:36.825145+00:00] PUBLISH: best-available-works-because
+[2026-07-08T19:47:36.853494+00:00] PIPELINE RUN: 1 published, 3421 remaining
+[2026-07-08T19:47:36.971335+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T19:47:37.312323+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T19:47:37.404749+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T19:47:37.408039+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T19:47:37.422138+00:00] PIPELINE RUN: 0 published, 3423 remaining
