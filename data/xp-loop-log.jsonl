@@ -6264,3 +6264,21 @@
 {"ts": "2026-07-08T11:23:25.902047+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-08T11:23:25.939494+00:00", "loop": "collection", "action": "card #83 一 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-08T11:23:25.976575+00:00", "loop": "expedition", "action": "The Lie: fell", "xp": 20, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-08T11:26:39.317987+00:00", "loop": "truth", "action": "submitted: Recon is care.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T11:26:39.369328+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-08T11:26:39.413740+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T11:26:39.458860+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-08T11:26:39.504632+00:00", "loop": "collection", "action": "card #205 永 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T11:26:39.598151+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-08T11:28:34.978967+00:00", "loop": "truth", "action": "submitted: The having-happened compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T11:28:35.081559+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-08T11:28:35.121251+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T11:28:35.164608+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-08T11:28:35.207099+00:00", "loop": "collection", "action": "card #52 侍 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T11:28:35.326011+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-08T11:33:38.159354+00:00", "loop": "truth", "action": "submitted: The having-happened compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T11:33:38.372930+00:00", "loop": "recon", "action": "floor 8: 5b 4t", "xp": 120, "detail": "floor-8"}
+{"ts": "2026-07-08T11:33:38.414594+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T11:33:38.466158+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-08T11:33:38.512539+00:00", "loop": "collection", "action": "card #363 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-08T11:33:38.611753+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
