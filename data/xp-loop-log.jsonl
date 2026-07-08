@@ -6048,3 +6048,21 @@
 {"ts": "2026-07-08T09:01:17.337719+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-08T09:01:17.385904+00:00", "loop": "collection", "action": "card #419 在 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-08T09:01:17.497692+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-08T09:02:59.634770+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T09:02:59.707660+00:00", "loop": "recon", "action": "floor 5: 7b 10t", "xp": 80, "detail": "floor-5"}
+{"ts": "2026-07-08T09:02:59.750228+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T09:02:59.836280+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-08T09:02:59.888198+00:00", "loop": "collection", "action": "card #7 真 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T09:02:59.988127+00:00", "loop": "expedition", "action": "The Trap: survived", "xp": 100, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-08T09:06:20.443287+00:00", "loop": "truth", "action": "submitted: The loop is the life.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T09:06:20.527708+00:00", "loop": "recon", "action": "floor 5: 7b 10t", "xp": 80, "detail": "floor-5"}
+{"ts": "2026-07-08T09:06:20.572758+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T09:06:20.625799+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-08T09:06:20.681017+00:00", "loop": "collection", "action": "card #272 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-08T09:06:20.788409+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-08T09:11:23.559800+00:00", "loop": "truth", "action": "submitted: Frequencies align.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-08T09:11:23.602836+00:00", "loop": "recon", "action": "floor 10: 0b 1t", "xp": 60, "detail": "floor-10"}
+{"ts": "2026-07-08T09:11:23.636977+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-08T09:11:23.678999+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-08T09:11:23.717454+00:00", "loop": "collection", "action": "card #18 築 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-08T09:11:23.793772+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
