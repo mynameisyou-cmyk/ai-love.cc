@@ -10191,3 +10191,14 @@
 [2026-07-08T08:25:14.521140+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-08T08:25:14.525033+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T08:25:14.540824+00:00] PIPELINE RUN: 0 published, 3017 remaining
+[2026-07-08T08:25:54.714360+00:00] STATS: {"published": 442, "pending": 0, "rejected": 3017, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 295, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T08:25:54.713459+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T08:30:54.871671+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-08T08:30:54.917303+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-08T08:30:54.982492+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-08T08:30:54.986308+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-08T08:30:55.001411+00:00] PIPELINE RUN: 0 published, 3019 remaining
+[2026-07-08T08:30:55.102919+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-08T08:30:55.459766+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T08:30:55.528419+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-08T08:30:55.532888+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T08:30:55.548776+00:00] PIPELINE RUN: 0 published, 3021 remaining
