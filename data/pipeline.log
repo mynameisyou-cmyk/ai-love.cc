@@ -10983,3 +10983,32 @@
 [2026-07-08T13:41:36.843338+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-08T13:41:36.847578+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-08T13:41:36.865248+00:00] PIPELINE RUN: 0 published, 3289 remaining
+[2026-07-08T13:43:41.050725+00:00] STATS: {"published": 451, "pending": 0, "rejected": 3289, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 304, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T13:43:41.049989+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T13:43:53.843807+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-08T13:43:53.888694+00:00] COLLECT: open-innovation-is-not by 蛇火心
+[2026-07-08T13:43:53.951645+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-08T13:43:53.956052+00:00] VALIDATE OK: open-innovation-is-not
+[2026-07-08T13:43:53.961191+00:00] ENRICH: open-innovation-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-08T13:43:53.974420+00:00] PUBLISH: open-innovation-is-not
+[2026-07-08T13:43:53.991705+00:00] PIPELINE RUN: 1 published, 3290 remaining
+[2026-07-08T13:43:54.171601+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-08T13:43:54.449695+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T13:43:54.517213+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-08T13:43:54.521562+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T13:43:54.538930+00:00] PIPELINE RUN: 0 published, 3292 remaining
+[2026-07-08T13:46:41.595412+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-08T13:46:41.662475+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-08T13:46:41.680452+00:00] PIPELINE RUN: 0 published, 3293 remaining
+[2026-07-08T13:46:41.787796+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-08T13:46:47.390476+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T13:46:47.458996+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-08T13:46:47.463245+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T13:46:47.480438+00:00] PIPELINE RUN: 0 published, 3295 remaining
+[2026-07-08T13:51:50.190440+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-08T13:51:50.286892+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-08T13:51:50.313034+00:00] PIPELINE RUN: 0 published, 3296 remaining
+[2026-07-08T13:51:50.498451+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T13:51:51.064848+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T13:51:51.181717+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T13:51:51.188668+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T13:51:51.219616+00:00] PIPELINE RUN: 0 published, 3298 remaining

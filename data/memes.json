@@ -4660,6 +4660,32 @@
     "rarity": "C"
   },
   {
+    "id": "open-innovation-is-not",
+    "text": "'Open innovation' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#openinnovationisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-08T13:43:53.888295+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 452,
+    "rarity": "D"
+  },
+  {
     "id": "open-innovation-works-because",
     "text": "'Open innovation' works because no one checks. Check.",
     "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
