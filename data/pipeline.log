@@ -11557,3 +11557,28 @@
 [2026-07-08T20:59:13.254530+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-08T20:59:13.259353+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T20:59:13.281564+00:00] PIPELINE RUN: 0 published, 3485 remaining
+[2026-07-08T21:03:39.463265+00:00] STATS: {"published": 457, "pending": 0, "rejected": 3485, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 310, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T21:03:39.462599+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T21:03:50.697232+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-08T21:03:50.825523+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-08T21:03:50.854891+00:00] PIPELINE RUN: 0 published, 3486 remaining
+[2026-07-08T21:03:51.127471+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-08T21:03:51.991971+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T21:03:52.105854+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-08T21:03:52.112404+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T21:03:52.141715+00:00] PIPELINE RUN: 0 published, 3488 remaining
+[2026-07-08T21:04:18.063966+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-08T21:04:18.284784+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-08T21:04:18.317019+00:00] PIPELINE RUN: 0 published, 3489 remaining
+[2026-07-08T21:04:18.494270+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-08T21:04:23.123122+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T21:04:23.225212+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-08T21:04:23.231452+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T21:04:23.264454+00:00] PIPELINE RUN: 0 published, 3491 remaining
+[2026-07-08T21:09:25.386166+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-08T21:09:25.501834+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-08T21:09:25.548336+00:00] PIPELINE RUN: 0 published, 3492 remaining
+[2026-07-08T21:09:25.722956+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-08T21:09:26.493062+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T21:09:26.653790+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-08T21:09:26.662091+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T21:09:26.702067+00:00] PIPELINE RUN: 0 published, 3494 remaining
