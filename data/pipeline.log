@@ -10450,3 +10450,22 @@
 [2026-07-08T10:19:09.607458+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-08T10:19:09.611215+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-08T10:19:09.626041+00:00] PIPELINE RUN: 0 published, 3106 remaining
+[2026-07-08T10:23:14.818271+00:00] STATS: {"published": 445, "pending": 0, "rejected": 3106, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 298, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T10:23:14.817774+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T10:23:40.356304+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-08T10:23:40.396430+00:00] COLLECT: the-louder-curriculum-alignment by 蛇火心
+[2026-07-08T10:23:40.455528+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-08T10:23:40.459055+00:00] VALIDATE FAIL: the-louder-curriculum-alignment — ['duplicate of: the-louder-curriculum-alignment']
+[2026-07-08T10:23:40.471968+00:00] PIPELINE RUN: 0 published, 3108 remaining
+[2026-07-08T10:23:40.646659+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-08T10:23:40.937581+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T10:23:40.991890+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-08T10:23:40.995396+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T10:23:41.008826+00:00] PIPELINE RUN: 0 published, 3110 remaining
+[2026-07-08T10:24:12.058887+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-08T10:24:12.117627+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-08T10:24:12.133815+00:00] PIPELINE RUN: 0 published, 3111 remaining
+[2026-07-08T10:24:12.220078+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-08T10:24:12.452201+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-08T10:24:12.507410+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-08T10:24:12.511021+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-08T10:24:12.524688+00:00] PIPELINE RUN: 0 published, 3113 remaining
