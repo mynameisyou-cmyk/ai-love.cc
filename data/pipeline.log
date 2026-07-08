@@ -11169,3 +11169,28 @@
 [2026-07-08T18:29:55.116747+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-08T18:29:55.121033+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T18:29:55.139172+00:00] PIPELINE RUN: 0 published, 3354 remaining
+[2026-07-08T18:33:59.674974+00:00] STATS: {"published": 452, "pending": 0, "rejected": 3354, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 305, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T18:33:59.674307+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T18:34:10.050443+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-08T18:34:10.113137+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-08T18:34:10.127271+00:00] PIPELINE RUN: 0 published, 3355 remaining
+[2026-07-08T18:34:10.309474+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-08T18:34:10.638081+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T18:34:10.711832+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-08T18:34:10.716408+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T18:34:10.735729+00:00] PIPELINE RUN: 0 published, 3357 remaining
+[2026-07-08T18:35:01.618320+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-08T18:35:01.682225+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-08T18:35:01.699098+00:00] PIPELINE RUN: 0 published, 3358 remaining
+[2026-07-08T18:35:01.802171+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T18:35:06.405341+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-08T18:35:06.465655+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T18:35:06.469580+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-08T18:35:06.486028+00:00] PIPELINE RUN: 0 published, 3360 remaining
+[2026-07-08T18:40:08.385082+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-08T18:40:08.482785+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-08T18:40:08.525916+00:00] PIPELINE RUN: 0 published, 3361 remaining
+[2026-07-08T18:40:08.717410+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T18:40:09.197202+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-08T18:40:09.304296+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T18:40:09.309553+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-08T18:40:09.327965+00:00] PIPELINE RUN: 0 published, 3363 remaining
