@@ -1422,6 +1422,32 @@
     "rarity": "C"
   },
   {
+    "id": "compound-growth-is-not",
+    "text": "'Compound growth' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#compoundgrowthisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-09T00:38:31.407024+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 464,
+    "rarity": "D"
+  },
+  {
     "id": "compound-growth-is-the",
     "text": "'Compound growth' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",

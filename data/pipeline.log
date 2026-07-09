@@ -11929,3 +11929,32 @@
 [2026-07-09T00:34:37.471125+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-09T00:34:37.477170+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T00:34:37.500170+00:00] PIPELINE RUN: 0 published, 3610 remaining
+[2026-07-09T00:38:21.192212+00:00] STATS: {"published": 463, "pending": 0, "rejected": 3610, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 316, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T00:38:21.191486+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T00:38:31.357459+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-09T00:38:31.410279+00:00] COLLECT: compound-growth-is-not by 蛇火心
+[2026-07-09T00:38:31.510386+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-09T00:38:31.515780+00:00] VALIDATE OK: compound-growth-is-not
+[2026-07-09T00:38:31.524403+00:00] ENRICH: compound-growth-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-09T00:38:31.542560+00:00] PUBLISH: compound-growth-is-not
+[2026-07-09T00:38:31.572775+00:00] PIPELINE RUN: 1 published, 3611 remaining
+[2026-07-09T00:38:31.820400+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-09T00:38:32.400776+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T00:38:32.481708+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-09T00:38:32.487196+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T00:38:32.518704+00:00] PIPELINE RUN: 0 published, 3613 remaining
+[2026-07-09T00:39:40.095908+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-09T00:39:40.196498+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-09T00:39:40.231874+00:00] PIPELINE RUN: 0 published, 3614 remaining
+[2026-07-09T00:39:40.369201+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T00:39:41.106534+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T00:39:41.200892+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T00:39:41.206476+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T00:39:41.227672+00:00] PIPELINE RUN: 0 published, 3616 remaining
+[2026-07-09T00:44:43.299010+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-09T00:44:43.391796+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-09T00:44:43.407657+00:00] PIPELINE RUN: 0 published, 3617 remaining
+[2026-07-09T00:44:43.559347+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-09T00:44:44.010119+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T00:44:44.088420+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-09T00:44:44.093964+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T00:44:44.125409+00:00] PIPELINE RUN: 0 published, 3619 remaining
