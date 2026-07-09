@@ -3908,3 +3908,4 @@
 {"ts": "2026-07-09T01:31:01.219764+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Accelerated/Bonus Depreciation", "ok": true}}
 {"ts": "2026-07-09T01:31:01.879513+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 450, "ok": true}}
 {"ts": "2026-07-09T01:31:03.836415+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-09T01:41:07.264381+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
