@@ -12470,3 +12470,30 @@
 [2026-07-09T21:34:08.903612+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-09T21:34:08.909386+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-09T21:34:08.936977+00:00] PIPELINE RUN: 0 published, 3799 remaining
+[2026-07-09T21:37:14.315962+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3799, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:37:14.315270+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:37:24.815753+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-09T21:37:24.900791+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-09T21:37:24.936200+00:00] PIPELINE RUN: 0 published, 3800 remaining
+[2026-07-09T21:37:25.196521+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-09T21:37:26.055898+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T21:37:26.170222+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-09T21:37:26.175592+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T21:37:26.206401+00:00] PIPELINE RUN: 0 published, 3802 remaining
+[2026-07-09T21:39:11.844992+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-09T21:39:11.895962+00:00] COLLECT: the-louder-wealth-management by 蛇火心
+[2026-07-09T21:39:11.978376+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-09T21:39:11.983747+00:00] VALIDATE FAIL: the-louder-wealth-management — ['duplicate of: the-louder-wealth-management']
+[2026-07-09T21:39:12.022210+00:00] PIPELINE RUN: 0 published, 3804 remaining
+[2026-07-09T21:39:12.290420+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-09T21:39:12.977301+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T21:39:13.056290+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-09T21:39:13.059424+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T21:39:13.077564+00:00] PIPELINE RUN: 0 published, 3806 remaining
+[2026-07-09T21:44:15.751880+00:00] COLLECT: transparency-is-the-costume by 蛇火心
+[2026-07-09T21:44:15.831392+00:00] VALIDATE FAIL: transparency-is-the-costume — ['duplicate of: transparency-is-the-costume']
+[2026-07-09T21:44:15.866441+00:00] PIPELINE RUN: 0 published, 3807 remaining
+[2026-07-09T21:44:16.003359+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-09T21:44:16.694265+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:44:16.770792+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-09T21:44:16.775986+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:44:16.807894+00:00] PIPELINE RUN: 0 published, 3809 remaining
