@@ -11959,3 +11959,28 @@
 [2026-07-09T00:44:44.093964+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-09T00:44:44.125409+00:00] PIPELINE RUN: 0 published, 3619 remaining
 [2026-07-09T00:46:20.988336+00:00] STATS: {"published": 464, "pending": 0, "rejected": 3619, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 317, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T00:46:20.987839+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T00:48:47.433893+00:00] STATS: {"published": 464, "pending": 0, "rejected": 3619, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 317, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T00:48:47.432839+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T00:48:57.579957+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-09T00:48:57.661555+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-09T00:48:57.692701+00:00] PIPELINE RUN: 0 published, 3620 remaining
+[2026-07-09T00:48:57.925942+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-09T00:48:58.338426+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T00:48:58.402929+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-09T00:48:58.408643+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T00:48:58.438723+00:00] PIPELINE RUN: 0 published, 3622 remaining
+[2026-07-09T00:51:21.205813+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-09T00:51:21.303820+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-09T00:51:21.319695+00:00] PIPELINE RUN: 0 published, 3623 remaining
+[2026-07-09T00:51:21.497644+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T00:51:21.947966+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T00:51:21.963324+00:00] PIPELINE RUN: 0 published, 3624 remaining
+[2026-07-09T00:56:24.266540+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-09T00:56:24.312533+00:00] COLLECT: the-distance-between-access by 蛇火心
+[2026-07-09T00:56:24.412142+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-09T00:56:24.417506+00:00] VALIDATE FAIL: the-distance-between-access — ['duplicate of: the-distance-between-access']
+[2026-07-09T00:56:24.448769+00:00] PIPELINE RUN: 0 published, 3626 remaining
+[2026-07-09T00:56:24.565545+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-09T00:56:30.309647+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T00:56:30.442949+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-09T00:56:30.448763+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T00:56:30.479313+00:00] PIPELINE RUN: 0 published, 3628 remaining
