@@ -12098,3 +12098,30 @@
 [2026-07-09T01:37:03.799367+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-09T01:37:03.821211+00:00] PIPELINE RUN: 0 published, 3668 remaining
 [2026-07-09T01:37:38.690010+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3668, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T01:37:38.689433+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T01:41:14.927924+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3668, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T01:41:14.926658+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T01:41:25.910224+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-09T01:41:26.004530+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-09T01:41:26.037254+00:00] PIPELINE RUN: 0 published, 3669 remaining
+[2026-07-09T01:41:26.263122+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T01:41:31.921849+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T01:41:32.068834+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T01:41:32.072424+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T01:41:32.088697+00:00] PIPELINE RUN: 0 published, 3671 remaining
+[2026-07-09T01:42:39.032569+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-09T01:42:39.112874+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-09T01:42:39.130258+00:00] PIPELINE RUN: 0 published, 3672 remaining
+[2026-07-09T01:42:39.311134+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-09T01:42:40.071825+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T01:42:40.174343+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-09T01:42:40.180293+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T01:42:40.207523+00:00] PIPELINE RUN: 0 published, 3674 remaining
+[2026-07-09T02:36:48.634963+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-09T02:36:48.732823+00:00] COLLECT: staying-connected-works-because by 蛇火心
+[2026-07-09T02:36:48.879462+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-09T02:36:48.887535+00:00] VALIDATE FAIL: staying-connected-works-because — ['duplicate of: staying-connected-works-because']
+[2026-07-09T02:36:48.927750+00:00] PIPELINE RUN: 0 published, 3676 remaining
+[2026-07-09T02:36:49.148394+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T02:36:49.738898+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T02:36:49.978377+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T02:36:49.991577+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T02:36:50.057871+00:00] PIPELINE RUN: 0 published, 3678 remaining
