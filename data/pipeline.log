@@ -12411,3 +12411,33 @@
 [2026-07-09T21:13:39.335428+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-09T21:13:39.342121+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T21:13:39.385908+00:00] PIPELINE RUN: 0 published, 3777 remaining
+[2026-07-09T21:16:03.570096+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3777, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:16:03.569090+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:16:13.860234+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-09T21:16:13.975208+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-09T21:16:14.010897+00:00] PIPELINE RUN: 0 published, 3778 remaining
+[2026-07-09T21:16:14.209233+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T21:16:14.806200+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T21:16:14.872119+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T21:16:14.878233+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T21:16:14.915168+00:00] PIPELINE RUN: 0 published, 3780 remaining
+[2026-07-09T21:18:42.054350+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-09T21:18:42.094002+00:00] COLLECT: data-driven-decisions-is by 蛇火心
+[2026-07-09T21:18:42.200873+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-09T21:18:42.206451+00:00] VALIDATE FAIL: data-driven-decisions-is — ['duplicate of: data-driven-decisions-is']
+[2026-07-09T21:18:42.239508+00:00] PIPELINE RUN: 0 published, 3782 remaining
+[2026-07-09T21:18:42.368416+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-09T21:18:42.778525+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:18:42.869369+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-09T21:18:42.875348+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:18:42.954737+00:00] PIPELINE RUN: 0 published, 3784 remaining
+[2026-07-09T21:23:45.123238+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-09T21:23:45.196232+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-09T21:23:45.266502+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-09T21:23:45.269747+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-09T21:23:45.301089+00:00] PIPELINE RUN: 0 published, 3786 remaining
+[2026-07-09T21:23:45.544635+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-09T21:23:45.971753+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:23:46.047996+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-09T21:23:46.053509+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:23:46.089659+00:00] PIPELINE RUN: 0 published, 3788 remaining
+[2026-07-09T21:23:59.242084+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3788, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:23:59.241254+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
