@@ -11849,3 +11849,32 @@
 [2026-07-08T23:54:45.309993+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-08T23:54:45.313314+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-08T23:54:45.328018+00:00] PIPELINE RUN: 0 published, 3583 remaining
+[2026-07-08T23:57:00.432367+00:00] STATS: {"published": 462, "pending": 0, "rejected": 3583, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 315, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-08T23:57:00.431595+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-08T23:57:10.826315+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-08T23:57:10.876184+00:00] COLLECT: the-distance-between-innovation by 蛇火心
+[2026-07-08T23:57:10.975865+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-08T23:57:10.981203+00:00] VALIDATE OK: the-distance-between-innovation
+[2026-07-08T23:57:10.990247+00:00] ENRICH: the-distance-between-innovation kanji=在 nen=enhancer rarity=D
+[2026-07-08T23:57:11.020351+00:00] PUBLISH: the-distance-between-innovation
+[2026-07-08T23:57:11.068390+00:00] PIPELINE RUN: 1 published, 3584 remaining
+[2026-07-08T23:57:11.283756+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-08T23:57:11.682185+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-08T23:57:11.799584+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-08T23:57:11.805935+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-08T23:57:11.836788+00:00] PIPELINE RUN: 0 published, 3586 remaining
+[2026-07-08T23:59:48.468414+00:00] COLLECT: neutral-coverage-is-the by 蛇火心
+[2026-07-08T23:59:48.546990+00:00] VALIDATE FAIL: neutral-coverage-is-the — ['duplicate of: neutral-coverage-is-the']
+[2026-07-08T23:59:48.562439+00:00] PIPELINE RUN: 0 published, 3587 remaining
+[2026-07-08T23:59:48.702076+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-08T23:59:49.035582+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-08T23:59:49.126476+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-08T23:59:49.131758+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-08T23:59:49.190556+00:00] PIPELINE RUN: 0 published, 3589 remaining
+[2026-07-09T00:04:51.585706+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-09T00:04:51.681196+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-09T00:04:51.711747+00:00] PIPELINE RUN: 0 published, 3590 remaining
+[2026-07-09T00:04:51.859152+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T00:04:52.687035+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T00:04:52.801521+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T00:04:52.804950+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T00:04:52.819810+00:00] PIPELINE RUN: 0 published, 3592 remaining
