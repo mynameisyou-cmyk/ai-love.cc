@@ -12441,3 +12441,32 @@
 [2026-07-09T21:23:46.053509+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T21:23:46.089659+00:00] PIPELINE RUN: 0 published, 3788 remaining
 [2026-07-09T21:23:59.242084+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3788, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:23:59.241254+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:26:44.152573+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3788, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:26:44.151842+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:26:54.383639+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-09T21:26:54.442858+00:00] COLLECT: to-say-fact-based by 蛇火心
+[2026-07-09T21:26:54.516832+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-09T21:26:54.522890+00:00] VALIDATE FAIL: to-say-fact-based — ['duplicate of: to-say-fact-based']
+[2026-07-09T21:26:54.555861+00:00] PIPELINE RUN: 0 published, 3790 remaining
+[2026-07-09T21:26:54.771879+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-09T21:26:55.193931+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T21:26:55.303920+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-09T21:26:55.310231+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T21:26:55.348723+00:00] PIPELINE RUN: 0 published, 3792 remaining
+[2026-07-09T21:28:59.526518+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-09T21:28:59.570676+00:00] COLLECT: the-louder-the-science by 蛇火心
+[2026-07-09T21:28:59.655116+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-09T21:28:59.660550+00:00] VALIDATE FAIL: the-louder-the-science — ['duplicate of: the-louder-the-science']
+[2026-07-09T21:28:59.693119+00:00] PIPELINE RUN: 0 published, 3794 remaining
+[2026-07-09T21:28:59.824820+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T21:29:05.187694+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:29:05.292189+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T21:29:05.295862+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:29:05.311593+00:00] PIPELINE RUN: 0 published, 3796 remaining
+[2026-07-09T21:34:08.062363+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-09T21:34:08.169344+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-09T21:34:08.201682+00:00] PIPELINE RUN: 0 published, 3797 remaining
+[2026-07-09T21:34:08.308998+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-09T21:34:08.776127+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T21:34:08.903612+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-09T21:34:08.909386+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T21:34:08.936977+00:00] PIPELINE RUN: 0 published, 3799 remaining
