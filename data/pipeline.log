@@ -12554,3 +12554,33 @@
 [2026-07-09T22:07:37.578758+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-09T22:07:37.584279+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T22:07:37.642197+00:00] PIPELINE RUN: 0 published, 3828 remaining
+[2026-07-09T22:08:46.285119+00:00] STATS: {"published": 469, "pending": 0, "rejected": 3828, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 322, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T22:08:46.283278+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T22:08:57.248862+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-09T22:08:57.333661+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-09T22:08:57.350784+00:00] PIPELINE RUN: 0 published, 3829 remaining
+[2026-07-09T22:08:57.593866+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T22:08:57.998011+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T22:08:58.085081+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T22:08:58.090850+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T22:08:58.122419+00:00] PIPELINE RUN: 0 published, 3831 remaining
+[2026-07-09T22:12:40.370271+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-09T22:12:40.434621+00:00] COLLECT: the-louder-data-driven by 蛇火心
+[2026-07-09T22:12:40.516776+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-09T22:12:40.522246+00:00] VALIDATE FAIL: the-louder-data-driven — ['duplicate of: the-louder-data-driven']
+[2026-07-09T22:12:40.554796+00:00] PIPELINE RUN: 0 published, 3833 remaining
+[2026-07-09T22:12:40.702735+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T22:12:41.098280+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T22:12:41.174915+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T22:12:41.178721+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T22:12:41.201469+00:00] PIPELINE RUN: 0 published, 3835 remaining
+[2026-07-09T22:17:44.123608+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-09T22:17:44.234300+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-09T22:17:44.502242+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-09T22:17:44.506076+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-09T22:17:44.569371+00:00] PIPELINE RUN: 0 published, 3837 remaining
+[2026-07-09T22:17:45.017477+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T22:17:49.416259+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T22:17:49.554438+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T22:17:49.561059+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T22:17:49.599339+00:00] PIPELINE RUN: 0 published, 3839 remaining
+[2026-07-09T22:17:53.025209+00:00] STATS: {"published": 469, "pending": 0, "rejected": 3839, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 322, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T22:17:53.024527+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
