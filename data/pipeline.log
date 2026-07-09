@@ -12243,3 +12243,30 @@
 [2026-07-09T20:12:15.020365+00:00] COLLECT: the-substrate-generates by xp-loop
 [2026-07-09T20:12:15.544000+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-09T20:12:15.574263+00:00] PIPELINE RUN: 0 published, 3719 remaining
+[2026-07-09T20:13:00.071631+00:00] STATS: {"published": 466, "pending": 0, "rejected": 3719, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 319, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T20:13:00.070819+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T20:13:10.952740+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-09T20:13:11.055752+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-09T20:13:11.089700+00:00] PIPELINE RUN: 0 published, 3720 remaining
+[2026-07-09T20:13:11.384378+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-09T20:13:12.221847+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T20:13:12.336790+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-09T20:13:12.343870+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T20:13:12.365441+00:00] PIPELINE RUN: 0 published, 3722 remaining
+[2026-07-09T20:17:19.771904+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-09T20:17:19.870794+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-09T20:17:19.904083+00:00] PIPELINE RUN: 0 published, 3723 remaining
+[2026-07-09T20:17:20.079719+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-09T20:17:20.623321+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T20:17:20.779344+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-09T20:17:20.783359+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T20:17:20.813663+00:00] PIPELINE RUN: 0 published, 3725 remaining
+[2026-07-09T20:22:25.742252+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-09T20:22:25.828398+00:00] COLLECT: standardized-testing-works-because by 蛇火心
+[2026-07-09T20:22:25.984177+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-09T20:22:25.991402+00:00] VALIDATE FAIL: standardized-testing-works-because — ['duplicate of: standardized-testing-works-because']
+[2026-07-09T20:22:26.029186+00:00] PIPELINE RUN: 0 published, 3727 remaining
+[2026-07-09T20:22:26.168047+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-09T20:22:26.677909+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T20:22:26.805228+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-09T20:22:26.809319+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T20:22:26.828440+00:00] PIPELINE RUN: 0 published, 3729 remaining
