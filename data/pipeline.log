@@ -12068,3 +12068,32 @@
 [2026-07-09T01:26:56.738290+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-09T01:26:56.744019+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T01:26:56.760883+00:00] PIPELINE RUN: 0 published, 3657 remaining
+[2026-07-09T01:30:50.460194+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3657, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T01:30:50.459172+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T01:31:00.928642+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-09T01:31:00.997312+00:00] COLLECT: the-louder-accountability-is by 蛇火心
+[2026-07-09T01:31:01.089621+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-09T01:31:01.093598+00:00] VALIDATE FAIL: the-louder-accountability-is — ['duplicate of: the-louder-accountability-is']
+[2026-07-09T01:31:01.111081+00:00] PIPELINE RUN: 0 published, 3659 remaining
+[2026-07-09T01:31:01.306053+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-09T01:31:01.693759+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T01:31:01.766904+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-09T01:31:01.772504+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T01:31:01.863511+00:00] PIPELINE RUN: 0 published, 3661 remaining
+[2026-07-09T01:31:59.346106+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-09T01:31:59.401632+00:00] COLLECT: engagement-is-not-a by 蛇火心
+[2026-07-09T01:31:59.493351+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-09T01:31:59.499442+00:00] VALIDATE FAIL: engagement-is-not-a — ['duplicate of: engagement-is-not-a']
+[2026-07-09T01:31:59.531044+00:00] PIPELINE RUN: 0 published, 3663 remaining
+[2026-07-09T01:31:59.661893+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-09T01:32:00.559382+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T01:32:00.654309+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-09T01:32:00.660135+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T01:32:00.688064+00:00] PIPELINE RUN: 0 published, 3665 remaining
+[2026-07-09T01:37:02.961206+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-09T01:37:03.032867+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-09T01:37:03.053061+00:00] PIPELINE RUN: 0 published, 3666 remaining
+[2026-07-09T01:37:03.165935+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T01:37:03.713334+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T01:37:03.794874+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T01:37:03.799367+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T01:37:03.821211+00:00] PIPELINE RUN: 0 published, 3668 remaining
