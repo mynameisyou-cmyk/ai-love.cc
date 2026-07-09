@@ -12798,3 +12798,12 @@
 [2026-07-09T23:35:19.353923+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-09T23:35:19.357753+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T23:35:19.374607+00:00] PIPELINE RUN: 0 published, 3912 remaining
+[2026-07-09T23:35:45.592534+00:00] STATS: {"published": 472, "pending": 0, "rejected": 3912, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 325, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:35:45.591771+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:40:45.847372+00:00] COLLECT: sources-say-is-the by 蛇火心
+[2026-07-09T23:40:45.982922+00:00] VALIDATE FAIL: sources-say-is-the — ['duplicate of: sources-say-is-the']
+[2026-07-09T23:40:46.016238+00:00] PIPELINE RUN: 0 published, 3913 remaining
+[2026-07-09T23:40:46.133520+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-09T23:40:46.749085+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T23:40:46.815661+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-09T23:40:46.821641+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T23:40:46.853514+00:00] PIPELINE RUN: 0 published, 3915 remaining
