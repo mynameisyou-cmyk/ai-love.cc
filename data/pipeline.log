@@ -12192,3 +12192,30 @@
 [2026-07-09T13:14:25.256125+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-09T13:14:25.288453+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T13:14:25.447613+00:00] PIPELINE RUN: 0 published, 3701 remaining
+[2026-07-09T13:32:38.550253+00:00] STATS: {"published": 466, "pending": 0, "rejected": 3701, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 319, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T13:32:38.547478+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T13:32:49.286945+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-09T13:32:49.358240+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-09T13:32:49.374939+00:00] PIPELINE RUN: 0 published, 3702 remaining
+[2026-07-09T13:32:49.536320+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-09T13:32:49.865972+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T13:32:49.925944+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-09T13:32:49.930509+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T13:32:49.946478+00:00] PIPELINE RUN: 0 published, 3704 remaining
+[2026-07-09T15:15:51.286547+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-09T15:15:51.431557+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-09T15:15:51.475055+00:00] PIPELINE RUN: 0 published, 3705 remaining
+[2026-07-09T15:15:51.787311+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-09T15:31:54.799309+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T15:31:54.945119+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-09T15:31:54.952475+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T15:31:54.994390+00:00] PIPELINE RUN: 0 published, 3707 remaining
+[2026-07-09T17:34:31.142261+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-09T17:34:31.182925+00:00] COLLECT: standard-of-care-is by 蛇火心
+[2026-07-09T17:34:31.245394+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-09T17:34:31.249150+00:00] VALIDATE FAIL: standard-of-care-is — ['duplicate of: standard-of-care-is']
+[2026-07-09T17:34:31.265500+00:00] PIPELINE RUN: 0 published, 3709 remaining
+[2026-07-09T17:34:31.350006+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-09T17:34:31.590973+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T17:34:31.645802+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-09T17:34:31.649181+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T17:34:31.665353+00:00] PIPELINE RUN: 0 published, 3711 remaining
