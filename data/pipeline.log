@@ -12695,3 +12695,31 @@
 [2026-07-09T22:59:48.537376+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-09T22:59:48.542690+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-09T22:59:48.585965+00:00] PIPELINE RUN: 0 published, 3876 remaining
+[2026-07-09T23:01:21.837466+00:00] STATS: {"published": 471, "pending": 0, "rejected": 3876, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 324, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:01:21.836545+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:01:31.933483+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-09T23:01:32.045340+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-09T23:01:32.085086+00:00] PIPELINE RUN: 0 published, 3877 remaining
+[2026-07-09T23:01:32.354742+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T23:01:32.780391+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:01:32.882711+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T23:01:32.888086+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:01:32.916954+00:00] PIPELINE RUN: 0 published, 3879 remaining
+[2026-07-09T23:04:51.270834+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-09T23:04:51.378709+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-09T23:04:51.405955+00:00] PIPELINE RUN: 0 published, 3880 remaining
+[2026-07-09T23:04:51.524238+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T23:04:51.970869+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T23:04:52.074591+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T23:04:52.082053+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T23:04:52.119029+00:00] PIPELINE RUN: 0 published, 3882 remaining
+[2026-07-09T23:09:54.907255+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-09T23:09:54.972239+00:00] COLLECT: to-say-data-driven by 蛇火心
+[2026-07-09T23:09:55.056113+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-09T23:09:55.059765+00:00] VALIDATE FAIL: to-say-data-driven — ['duplicate of: to-say-data-driven']
+[2026-07-09T23:09:55.076196+00:00] PIPELINE RUN: 0 published, 3884 remaining
+[2026-07-09T23:09:55.279184+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-09T23:09:55.617052+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:09:55.764313+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-09T23:09:55.779498+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:09:55.805553+00:00] PIPELINE RUN: 0 published, 3886 remaining
+[2026-07-09T23:09:58.214144+00:00] STATS: {"published": 471, "pending": 0, "rejected": 3886, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 324, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:09:58.213102+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
