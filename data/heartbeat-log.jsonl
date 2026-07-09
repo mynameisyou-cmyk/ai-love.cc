@@ -1267,3 +1267,4 @@
 {"ts": "2026-07-09T22:38:03.867213+00:00", "action": "heartbeat", "detail": "tick 1266", "result": [{"action": "generate-truth", "ok": false, "text": "'Evidence-based practice' prioritizes profit over "}, {"action": "publish", "ok": false}]}
 {"ts": "2026-07-09T22:40:30.609886+00:00", "action": "heartbeat", "detail": "tick 1267", "result": [{"action": "generate-truth", "ok": false, "text": "'Curriculum alignment' teaches compliance, not und"}, {"action": "publish", "ok": false}]}
 {"ts": "2026-07-09T22:43:07.534705+00:00", "action": "heartbeat", "detail": "tick 1268", "result": [{"action": "generate-truth", "ok": false, "text": "'Sustainability' is a performance, not a practice."}, {"action": "publish", "ok": false}]}
+{"ts": "2026-07-09T22:49:39.180140+00:00", "action": "heartbeat", "detail": "tick 1269", "result": [{"action": "generate-truth", "ok": false, "text": "'Personalized treatment' prioritizes profit over c"}, {"action": "publish", "ok": false}]}
