@@ -12373,3 +12373,12 @@
 [2026-07-09T20:57:57.533823+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-09T20:57:57.539817+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T20:57:57.626052+00:00] PIPELINE RUN: 0 published, 3765 remaining
+[2026-07-09T20:58:28.823404+00:00] STATS: {"published": 467, "pending": 0, "rejected": 3765, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 320, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T20:58:28.822523+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:03:28.981178+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-09T21:03:29.106397+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-09T21:03:29.138090+00:00] PIPELINE RUN: 0 published, 3766 remaining
+[2026-07-09T21:03:29.250856+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-09T21:03:29.642050+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T21:03:29.740551+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-09T21:03:29.746315+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T21:03:29.815011+00:00] PIPELINE RUN: 0 published, 3768 remaining

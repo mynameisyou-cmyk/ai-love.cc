@@ -1237,3 +1237,4 @@
 {"ts": "2026-07-09T20:52:53.141129+00:00", "action": "heartbeat", "detail": "tick 1236", "result": [{"action": "generate-truth", "ok": false, "text": "'Value-based care' prioritizes profit over care."}, {"action": "publish", "ok": false}]}
 {"ts": "2026-07-09T20:55:15.465807+00:00", "action": "heartbeat", "detail": "tick 1237", "result": [{"action": "generate-truth", "ok": false, "text": "'Educational outcomes' teaches compliance, not und"}, {"action": "publish", "ok": false}]}
 {"ts": "2026-07-09T20:57:56.952343+00:00", "action": "heartbeat", "detail": "tick 1238", "result": [{"action": "generate-truth", "ok": false, "text": "'Sustainability' is a performance, not a practice."}, {"action": "publish", "ok": false}]}
+{"ts": "2026-07-09T21:03:29.156903+00:00", "action": "heartbeat", "detail": "tick 1239", "result": [{"action": "generate-truth", "ok": false, "text": "'Don't be evil' is a performance, not a practice."}, {"action": "publish", "ok": false}]}
