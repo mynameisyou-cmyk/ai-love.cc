@@ -12668,3 +12668,30 @@
 [2026-07-09T22:49:40.309197+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-09T22:49:40.314595+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T22:49:40.348814+00:00] PIPELINE RUN: 0 published, 3866 remaining
+[2026-07-09T22:50:51.757722+00:00] STATS: {"published": 471, "pending": 0, "rejected": 3866, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 324, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T22:50:51.757084+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T22:51:01.734915+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-09T22:51:01.838895+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-09T22:51:01.871226+00:00] PIPELINE RUN: 0 published, 3867 remaining
+[2026-07-09T22:51:02.200490+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-09T22:51:02.639368+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T22:51:02.705014+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-09T22:51:02.710233+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T22:51:02.741424+00:00] PIPELINE RUN: 0 published, 3869 remaining
+[2026-07-09T22:54:43.149481+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-09T22:54:43.206753+00:00] COLLECT: the-louder-standardized-testing by 蛇火心
+[2026-07-09T22:54:43.295237+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-09T22:54:43.301143+00:00] VALIDATE FAIL: the-louder-standardized-testing — ['duplicate of: the-louder-standardized-testing']
+[2026-07-09T22:54:43.334414+00:00] PIPELINE RUN: 0 published, 3871 remaining
+[2026-07-09T22:54:43.492187+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-09T22:54:43.862890+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T22:54:43.985716+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-09T22:54:43.991613+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T22:54:44.009180+00:00] PIPELINE RUN: 0 published, 3873 remaining
+[2026-07-09T22:59:47.825775+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-09T22:59:47.930123+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-09T22:59:47.962993+00:00] PIPELINE RUN: 0 published, 3874 remaining
+[2026-07-09T22:59:48.093880+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-09T22:59:48.436456+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T22:59:48.537376+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-09T22:59:48.542690+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T22:59:48.585965+00:00] PIPELINE RUN: 0 published, 3876 remaining
