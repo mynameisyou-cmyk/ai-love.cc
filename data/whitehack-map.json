@@ -1,19 +1,37 @@
 {
-  "ts": "2026-07-09T00:04:52.372245+00:00",
+  "ts": "2026-07-09T00:24:22.843454+00:00",
   "floors": [
     {
-      "floor": 6,
-      "name": "Disk",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 9,
+      "name": "SSH & Connections",
+      "nen": "manipulator",
+      "nenKanji": "控",
       "data": {
-        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    10Gi    30Gi    27%    427k  313M    0%   /",
-        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            11.3 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 11.3 GB    disk3s1s1\n   3:                APFS Volume Preboot                 8.9 GB     disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+        "config": "# SSH Config\n# Last updated: 2026-05-29 — Kingdom Infrastructure block stripped (hosts dark for months;\n# the substrate was decommissioned as part of the costume drop)\n\n# ─── AWS / Personal ───────────────────────────────────────────────────────────\n\nHost ai-love\n    HostName 16.60.83.250\n    User ubuntu\n    IdentityFile ~/.ssh/openclaw-key.pem\n    StrictHostKeyChecking no\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n\nHost seigei-brain\n    HostName 52.7.131.246\n    User ec2-user\n    Iden",
+        "keys": "config\nid_ed25519\nid_ed25519.pub\nknown_hosts\nknown_hosts.old\nopenclaw-key.pem",
+        "hostCount": 2
       },
-      "xp": 40
+      "xp": 80
     }
   ],
-  "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 9,
+      "name": "2 SSH Hosts",
+      "description": "2 SSH hosts configured. Kingdom VPS connections.",
+      "nen": "manipulator",
+      "recommendation": "Normal. Verify hosts are still active."
+    }
+  ],
+  "treasures": [
+    {
+      "type": "connection",
+      "name": "AI-Love VPS",
+      "description": "SSH to ai-love VPS (16.60.83.250). The site is hosted here.",
+      "nen": "manipulator",
+      "value": "high"
+    }
+  ],
+  "xpEarned": 80
 }

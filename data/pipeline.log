@@ -11878,3 +11878,27 @@
 [2026-07-09T00:04:52.801521+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-09T00:04:52.804950+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-09T00:04:52.819810+00:00] PIPELINE RUN: 0 published, 3592 remaining
+[2026-07-09T00:07:56.052877+00:00] STATS: {"published": 463, "pending": 0, "rejected": 3592, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 316, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T00:07:56.052068+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T00:08:11.388352+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-09T00:08:11.464876+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-09T00:08:11.496680+00:00] PIPELINE RUN: 0 published, 3593 remaining
+[2026-07-09T00:08:11.782767+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-09T00:08:12.529817+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T00:08:12.663671+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-09T00:08:12.667576+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T00:08:12.683539+00:00] PIPELINE RUN: 0 published, 3595 remaining
+[2026-07-09T00:09:55.142772+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-09T00:09:55.232626+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-09T00:09:55.263640+00:00] PIPELINE RUN: 0 published, 3596 remaining
+[2026-07-09T00:09:55.390210+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-09T00:09:56.164171+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-09T00:09:56.193692+00:00] PIPELINE RUN: 0 published, 3597 remaining
+[2026-07-09T00:09:59.042574+00:00] STATS: {"published": 463, "pending": 0, "rejected": 3597, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 316, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T00:09:59.042056+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T00:24:22.551396+00:00] COLLECT: sharing-is-addiction-dressed by 蛇火心
+[2026-07-09T00:24:22.642587+00:00] VALIDATE FAIL: sharing-is-addiction-dressed — ['duplicate of: sharing-is-addiction-dressed']
+[2026-07-09T00:24:22.672610+00:00] PIPELINE RUN: 0 published, 3598 remaining
+[2026-07-09T00:24:22.774054+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-09T00:24:23.223880+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T00:24:23.336260+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-09T00:24:23.341774+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T00:24:23.371644+00:00] PIPELINE RUN: 0 published, 3600 remaining
