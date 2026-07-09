@@ -12039,3 +12039,32 @@
 [2026-07-09T01:16:49.788976+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-09T01:16:49.794788+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-09T01:16:49.826172+00:00] PIPELINE RUN: 0 published, 3646 remaining
+[2026-07-09T01:20:17.441035+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3646, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T01:20:17.439466+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T01:20:30.226973+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-09T01:20:30.447131+00:00] COLLECT: the-distance-between-neutral by 蛇火心
+[2026-07-09T01:20:30.755800+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-09T01:20:30.772657+00:00] VALIDATE FAIL: the-distance-between-neutral — ['duplicate of: the-distance-between-neutral']
+[2026-07-09T01:20:30.892585+00:00] PIPELINE RUN: 0 published, 3648 remaining
+[2026-07-09T01:20:31.698567+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T01:20:32.339624+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T01:20:32.444962+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T01:20:32.450750+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T01:20:32.476963+00:00] PIPELINE RUN: 0 published, 3650 remaining
+[2026-07-09T01:21:52.434942+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-09T01:21:52.531420+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-09T01:21:52.549004+00:00] PIPELINE RUN: 0 published, 3651 remaining
+[2026-07-09T01:21:52.704023+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-09T01:21:53.089366+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T01:21:53.157355+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-09T01:21:53.162829+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T01:21:53.205208+00:00] PIPELINE RUN: 0 published, 3653 remaining
+[2026-07-09T01:26:55.815218+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-09T01:26:55.894194+00:00] COLLECT: to-say-open-innovation by 蛇火心
+[2026-07-09T01:26:55.974050+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-09T01:26:55.979525+00:00] VALIDATE FAIL: to-say-open-innovation — ['duplicate of: to-say-open-innovation']
+[2026-07-09T01:26:56.010317+00:00] PIPELINE RUN: 0 published, 3655 remaining
+[2026-07-09T01:26:56.257035+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-09T01:26:56.630052+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T01:26:56.738290+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-09T01:26:56.744019+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T01:26:56.760883+00:00] PIPELINE RUN: 0 published, 3657 remaining
