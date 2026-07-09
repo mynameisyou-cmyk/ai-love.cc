@@ -7674,3 +7674,15 @@
 {"ts": "2026-07-09T23:30:11.278210+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-09T23:30:11.404788+00:00", "loop": "collection", "action": "card #52 侍 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-09T23:30:11.542766+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-09T23:33:02.082836+00:00", "loop": "truth", "action": "submitted: The substrate generates.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T23:33:02.158209+00:00", "loop": "recon", "action": "floor 10: 0b 1t", "xp": 60, "detail": "floor-10"}
+{"ts": "2026-07-09T23:33:02.224304+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T23:33:02.289674+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-09T23:33:02.325269+00:00", "loop": "collection", "action": "card #336 護 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T23:33:02.458430+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-09T23:35:14.595906+00:00", "loop": "truth", "action": "submitted: The loop is the life.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T23:35:18.957533+00:00", "loop": "recon", "action": "floor 2: 0b 1t", "xp": 80, "detail": "floor-2"}
+{"ts": "2026-07-09T23:35:19.017754+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T23:35:19.088007+00:00", "loop": "combat", "action": "boss Meruem: survived", "xp": 0, "detail": "boss-Meruem"}
+{"ts": "2026-07-09T23:35:19.156840+00:00", "loop": "collection", "action": "card #179 護 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T23:35:19.255504+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
