@@ -5,9 +5,17 @@
   "description": "What IS. Plain statements of truth, strengthened.",
   "statements": [
     {
-      "truth": "Battery: 70%",
-      "source": "floor-7"
+      "truth": "SIP: System Integrity Protection status: enabled.",
+      "source": "floor-4"
+    },
+    {
+      "truth": "FileVault: FileVault is On.",
+      "source": "floor-4"
+    },
+    {
+      "truth": "Firewall: Firewall is enabled. (State = 1)",
+      "source": "floor-4"
     }
   ],
-  "ts": "2026-07-09T20:22:26.370095+00:00"
+  "ts": "2026-07-09T20:32:34.358926+00:00"
 }
