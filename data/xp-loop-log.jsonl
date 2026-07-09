@@ -7506,3 +7506,9 @@
 {"ts": "2026-07-09T21:49:20.184246+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-09T21:49:20.244852+00:00", "loop": "collection", "action": "card #239 見 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-09T21:49:20.425589+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
+{"ts": "2026-07-09T21:57:27.179488+00:00", "loop": "truth", "action": "submitted: The system feeds itself.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T21:57:27.715531+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-09T21:57:27.778935+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T21:57:27.865179+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-09T21:57:27.910415+00:00", "loop": "collection", "action": "card #211 信 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T21:57:28.066294+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}

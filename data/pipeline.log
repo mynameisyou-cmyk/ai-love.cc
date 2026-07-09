@@ -12516,3 +12516,16 @@
 [2026-07-09T21:49:20.485307+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-09T21:49:20.490842+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T21:49:20.521903+00:00] PIPELINE RUN: 0 published, 3816 remaining
+[2026-07-09T21:52:26.503266+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3816, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:52:26.502611+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:57:26.829087+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-09T21:57:26.886815+00:00] COLLECT: the-louder-your-voice by 蛇火心
+[2026-07-09T21:57:26.995533+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-09T21:57:27.001132+00:00] VALIDATE OK: the-louder-your-voice
+[2026-07-09T21:57:27.010089+00:00] ENRICH: the-louder-your-voice kanji=在 nen=enhancer rarity=D
+[2026-07-09T21:57:27.028551+00:00] PUBLISH: the-louder-your-voice
+[2026-07-09T21:57:27.061050+00:00] PIPELINE RUN: 1 published, 3817 remaining
+[2026-07-09T21:57:27.173451+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-09T21:57:28.055465+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T21:57:28.193542+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-09T21:57:28.197067+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T21:57:28.213555+00:00] PIPELINE RUN: 0 published, 3819 remaining

@@ -9242,6 +9242,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-your-voice",
+    "text": "The louder 'Your voice matters' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderyourvoice",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-09T21:57:26.886354+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 469,
+    "rarity": "D"
+  },
+  {
     "id": "the-science-is-settled",
     "text": "'The science is settled' works because no one checks. Check.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
