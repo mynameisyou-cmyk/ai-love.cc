@@ -12807,3 +12807,28 @@
 [2026-07-09T23:40:46.815661+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-09T23:40:46.821641+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T23:40:46.853514+00:00] PIPELINE RUN: 0 published, 3915 remaining
+[2026-07-09T23:43:19.893116+00:00] STATS: {"published": 472, "pending": 0, "rejected": 3915, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 325, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:43:19.892419+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:43:31.229811+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-09T23:43:31.319091+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-09T23:43:31.355234+00:00] PIPELINE RUN: 0 published, 3916 remaining
+[2026-07-09T23:43:31.647180+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-09T23:43:31.979986+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T23:43:32.049114+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-09T23:43:32.053346+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T23:43:32.083939+00:00] PIPELINE RUN: 0 published, 3918 remaining
+[2026-07-09T23:45:50.413525+00:00] COLLECT: autonomous-means-the-opposite by 蛇火心
+[2026-07-09T23:45:50.515253+00:00] VALIDATE FAIL: autonomous-means-the-opposite — ['duplicate of: autonomous-means-the-opposite']
+[2026-07-09T23:45:50.547490+00:00] PIPELINE RUN: 0 published, 3919 remaining
+[2026-07-09T23:45:50.661564+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-09T23:45:51.101675+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:45:51.190036+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-09T23:45:51.196905+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:45:51.233423+00:00] PIPELINE RUN: 0 published, 3921 remaining
+[2026-07-09T23:50:53.634671+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-09T23:50:53.694898+00:00] COLLECT: to-say-data-driven by 蛇火心
+[2026-07-09T23:50:53.768857+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-09T23:50:53.774987+00:00] VALIDATE FAIL: to-say-data-driven — ['duplicate of: to-say-data-driven']
+[2026-07-09T23:50:53.808083+00:00] PIPELINE RUN: 0 published, 3923 remaining
+[2026-07-09T23:50:53.942551+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-09T23:50:54.441407+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-09T23:50:54.459531+00:00] PIPELINE RUN: 0 published, 3924 remaining
