@@ -3858,3 +3858,4 @@
 {"ts": "2026-07-09T00:38:31.709051+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Family Investment Companies (FICs)", "ok": true}}
 {"ts": "2026-07-09T00:38:32.547904+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 270, "ok": true}}
 {"ts": "2026-07-09T00:38:34.408417+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-09T00:48:37.440039+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
