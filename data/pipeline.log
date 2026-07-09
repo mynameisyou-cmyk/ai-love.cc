@@ -12611,3 +12611,34 @@
 [2026-07-09T22:27:56.591068+00:00] COLLECT: understanding-compounds by xp-loop
 [2026-07-09T22:27:57.012324+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
 [2026-07-09T22:27:57.050668+00:00] PIPELINE RUN: 0 published, 3847 remaining
+[2026-07-09T22:29:44.417282+00:00] STATS: {"published": 470, "pending": 0, "rejected": 3847, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 323, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T22:29:44.416444+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T22:29:54.747230+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-09T22:29:54.797981+00:00] COLLECT: the-distance-between-developing by 蛇火心
+[2026-07-09T22:29:54.898030+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-09T22:29:54.903778+00:00] VALIDATE FAIL: the-distance-between-developing — ['duplicate of: the-distance-between-developing']
+[2026-07-09T22:29:54.936063+00:00] PIPELINE RUN: 0 published, 3849 remaining
+[2026-07-09T22:29:55.144347+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-09T22:29:56.144223+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T22:29:56.210507+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-09T22:29:56.216011+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T22:29:56.248733+00:00] PIPELINE RUN: 0 published, 3851 remaining
+[2026-07-09T22:32:59.607331+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-09T22:32:59.647822+00:00] COLLECT: the-distance-between-frictionless by 蛇火心
+[2026-07-09T22:32:59.749070+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-09T22:32:59.754920+00:00] VALIDATE OK: the-distance-between-frictionless
+[2026-07-09T22:32:59.764364+00:00] ENRICH: the-distance-between-frictionless kanji=在 nen=enhancer rarity=D
+[2026-07-09T22:32:59.782716+00:00] PUBLISH: the-distance-between-frictionless
+[2026-07-09T22:32:59.815972+00:00] PIPELINE RUN: 1 published, 3852 remaining
+[2026-07-09T22:33:00.006238+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-09T22:33:00.366058+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T22:33:00.467203+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-09T22:33:00.474095+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T22:33:00.533649+00:00] PIPELINE RUN: 0 published, 3854 remaining
+[2026-07-09T22:38:03.710866+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-09T22:38:03.813710+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-09T22:38:03.847028+00:00] PIPELINE RUN: 0 published, 3855 remaining
+[2026-07-09T22:38:03.966936+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-09T22:38:04.413983+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T22:38:04.510545+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-09T22:38:04.516149+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T22:38:04.551716+00:00] PIPELINE RUN: 0 published, 3857 remaining

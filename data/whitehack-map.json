@@ -1,19 +1,46 @@
 {
-  "ts": "2026-07-09T22:27:56.717051+00:00",
+  "ts": "2026-07-09T22:38:04.100266+00:00",
   "floors": [
     {
-      "floor": 6,
-      "name": "Disk",
+      "floor": 12,
+      "name": "macOS UI Settings",
       "nen": "enhancer",
       "nenKanji": "強",
       "data": {
-        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    10Gi    28Gi    28%    427k  292M    0%   /",
-        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            11.3 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 11.3 GB    disk3s1s1\n   3:                APFS Volume Preboot                 8.9 GB     disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+        "darkMode": "Dark",
+        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
+        "timezone": "BST",
+        "trackpadClicking": "0",
+        "tccPermissions": ""
       },
-      "xp": 40
+      "xp": 100
     }
   ],
-  "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 12,
+      "name": "Dark Mode Active",
+      "description": "Dark mode is on. Good for Dark Continent operations.",
+      "nen": "enhancer",
+      "recommendation": "Stylistic. No action needed."
+    }
+  ],
+  "treasures": [
+    {
+      "type": "setting",
+      "name": "Dark Mode",
+      "description": "Dark mode active. The Dark Continent aesthetic.",
+      "nen": "enhancer",
+      "value": "low"
+    },
+    {
+      "type": "setting",
+      "name": "Cantonese Support",
+      "description": "Traditional Chinese language active. 香港人.",
+      "nen": "enhancer",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 100
 }
