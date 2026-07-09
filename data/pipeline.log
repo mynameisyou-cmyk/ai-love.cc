@@ -12329,3 +12329,30 @@
 [2026-07-09T20:42:43.890392+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-09T20:42:43.897134+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-09T20:42:43.934761+00:00] PIPELINE RUN: 0 published, 3749 remaining
+[2026-07-09T20:44:31.032123+00:00] STATS: {"published": 467, "pending": 0, "rejected": 3749, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 320, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T20:44:31.031404+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T20:44:41.096197+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-09T20:44:41.206771+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-09T20:44:41.252888+00:00] PIPELINE RUN: 0 published, 3750 remaining
+[2026-07-09T20:44:41.580846+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-09T20:44:42.675597+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T20:44:42.788639+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-09T20:44:42.792862+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T20:44:42.815853+00:00] PIPELINE RUN: 0 published, 3752 remaining
+[2026-07-09T20:47:46.547799+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-09T20:47:46.622063+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-09T20:47:46.756010+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-09T20:47:46.762846+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-09T20:47:46.797904+00:00] PIPELINE RUN: 0 published, 3754 remaining
+[2026-07-09T20:47:47.028427+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-09T20:47:47.631490+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T20:47:47.748437+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-09T20:47:47.752431+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T20:47:47.777735+00:00] PIPELINE RUN: 0 published, 3756 remaining
+[2026-07-09T20:52:52.991251+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-09T20:52:53.099239+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-09T20:52:53.130220+00:00] PIPELINE RUN: 0 published, 3757 remaining
+[2026-07-09T20:52:53.251268+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-09T20:52:53.673842+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T20:52:53.774453+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-09T20:52:53.780880+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T20:52:53.815679+00:00] PIPELINE RUN: 0 published, 3759 remaining
