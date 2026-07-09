@@ -427,6 +427,32 @@
     "rarity": "D"
   },
   {
+    "id": "autonomous-is-the-fence",
+    "text": "'Autonomous' is the fence. The wall is behind it. Look past the fence.",
+    "sub": "Category: Tech Industry. The pattern repeats. Name it and it loses power.",
+    "kanji": "壁",
+    "tag": "#autonomousisthefence",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-tech industry",
+    "ts": "2026-07-09T01:11:44.901720+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "创"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "conjurer",
+    "cardNumber": 465,
+    "rarity": "D"
+  },
+  {
     "id": "autonomous-means-the-opposite",
     "text": "'Autonomous' means the opposite of what it sounds like.",
     "sub": "Every euphemism hides a extraction. Name the thing.",
