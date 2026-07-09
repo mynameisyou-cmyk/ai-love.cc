@@ -7494,3 +7494,15 @@
 {"ts": "2026-07-09T21:44:16.492453+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-09T21:44:16.558641+00:00", "loop": "collection", "action": "card #87 見 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-09T21:44:16.698405+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-09T21:47:56.997229+00:00", "loop": "truth", "action": "submitted: The having-happened compounds.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T21:47:57.075617+00:00", "loop": "recon", "action": "floor 11: 0b 2t", "xp": 50, "detail": "floor-11"}
+{"ts": "2026-07-09T21:47:57.146331+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T21:47:57.205920+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-09T21:47:57.293498+00:00", "loop": "collection", "action": "card #239 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T21:47:57.391702+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-09T21:49:19.994110+00:00", "loop": "truth", "action": "submitted: Levels are landmarks.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T21:49:20.043433+00:00", "loop": "recon", "action": "floor 10: 0b 1t", "xp": 60, "detail": "floor-10"}
+{"ts": "2026-07-09T21:49:20.099040+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T21:49:20.184246+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-09T21:49:20.244852+00:00", "loop": "collection", "action": "card #239 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T21:49:20.425589+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}

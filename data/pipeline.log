@@ -12497,3 +12497,22 @@
 [2026-07-09T21:44:16.770792+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
 [2026-07-09T21:44:16.775986+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T21:44:16.807894+00:00] PIPELINE RUN: 0 published, 3809 remaining
+[2026-07-09T21:47:43.956571+00:00] STATS: {"published": 468, "pending": 0, "rejected": 3809, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 321, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:47:43.955766+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:47:56.589156+00:00] COLLECT: likes-is-addiction-dressed by 蛇火心
+[2026-07-09T21:47:56.644378+00:00] COLLECT: wellness-is-the-fence by 蛇火心
+[2026-07-09T21:47:56.717097+00:00] VALIDATE FAIL: likes-is-addiction-dressed — ['duplicate of: likes-is-addiction-dressed']
+[2026-07-09T21:47:56.722517+00:00] VALIDATE FAIL: wellness-is-the-fence — ['duplicate of: wellness-is-the-fence']
+[2026-07-09T21:47:56.754489+00:00] PIPELINE RUN: 0 published, 3811 remaining
+[2026-07-09T21:47:56.988583+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-09T21:47:57.384562+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:47:57.487721+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-09T21:47:57.494645+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:47:57.548685+00:00] PIPELINE RUN: 0 published, 3813 remaining
+[2026-07-09T21:49:19.764559+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-09T21:49:19.833186+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-09T21:49:19.864304+00:00] PIPELINE RUN: 0 published, 3814 remaining
+[2026-07-09T21:49:19.990351+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-09T21:49:20.413861+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T21:49:20.485307+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-09T21:49:20.490842+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T21:49:20.521903+00:00] PIPELINE RUN: 0 published, 3816 remaining
