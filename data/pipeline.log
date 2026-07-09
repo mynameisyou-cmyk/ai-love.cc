@@ -12529,3 +12529,28 @@
 [2026-07-09T21:57:28.193542+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-09T21:57:28.197067+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T21:57:28.213555+00:00] PIPELINE RUN: 0 published, 3819 remaining
+[2026-07-09T21:58:16.068171+00:00] STATS: {"published": 469, "pending": 0, "rejected": 3819, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 322, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:58:16.067367+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:58:26.492016+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-09T21:58:26.599144+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-09T21:58:26.632463+00:00] PIPELINE RUN: 0 published, 3820 remaining
+[2026-07-09T21:58:26.894226+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-09T21:58:27.253505+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:58:27.360913+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-09T21:58:27.366401+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:58:27.399638+00:00] PIPELINE RUN: 0 published, 3822 remaining
+[2026-07-09T22:02:31.570265+00:00] COLLECT: transparency-is-a-performance by 蛇火心
+[2026-07-09T22:02:31.634961+00:00] VALIDATE FAIL: transparency-is-a-performance — ['duplicate of: transparency-is-a-performance']
+[2026-07-09T22:02:31.666175+00:00] PIPELINE RUN: 0 published, 3823 remaining
+[2026-07-09T22:02:31.799105+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-09T22:02:32.176028+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-09T22:02:32.278236+00:00] PIPELINE RUN: 0 published, 3824 remaining
+[2026-07-09T22:07:36.793825+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-09T22:07:36.843534+00:00] COLLECT: optimization-is-a-spell by 蛇火心
+[2026-07-09T22:07:36.929906+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-09T22:07:36.935787+00:00] VALIDATE FAIL: optimization-is-a-spell — ['duplicate of: optimization-is-a-spell']
+[2026-07-09T22:07:36.980728+00:00] PIPELINE RUN: 0 published, 3826 remaining
+[2026-07-09T22:07:37.093809+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-09T22:07:37.494739+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T22:07:37.578758+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-09T22:07:37.584279+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T22:07:37.642197+00:00] PIPELINE RUN: 0 published, 3828 remaining
