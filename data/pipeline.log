@@ -12723,3 +12723,30 @@
 [2026-07-09T23:09:55.779498+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-09T23:09:55.805553+00:00] PIPELINE RUN: 0 published, 3886 remaining
 [2026-07-09T23:09:58.214144+00:00] STATS: {"published": 471, "pending": 0, "rejected": 3886, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 324, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:09:58.213102+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:11:51.541527+00:00] STATS: {"published": 471, "pending": 0, "rejected": 3886, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 324, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:11:51.540482+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:12:02.197713+00:00] COLLECT: staying-connected-is-addiction by 蛇火心
+[2026-07-09T23:12:02.273776+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-09T23:12:02.341764+00:00] VALIDATE FAIL: staying-connected-is-addiction — ['duplicate of: staying-connected-is-addiction']
+[2026-07-09T23:12:02.345416+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-09T23:12:02.376515+00:00] PIPELINE RUN: 0 published, 3888 remaining
+[2026-07-09T23:12:02.601287+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-09T23:12:03.418068+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:12:03.493542+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-09T23:12:03.497969+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:12:03.562002+00:00] PIPELINE RUN: 0 published, 3890 remaining
+[2026-07-09T23:14:58.502212+00:00] COLLECT: smart-means-the-opposite by 蛇火心
+[2026-07-09T23:14:58.582485+00:00] VALIDATE FAIL: smart-means-the-opposite — ['duplicate of: smart-means-the-opposite']
+[2026-07-09T23:14:58.599742+00:00] PIPELINE RUN: 0 published, 3891 remaining
+[2026-07-09T23:14:58.745128+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-09T23:14:59.473979+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T23:14:59.571336+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-09T23:14:59.575963+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T23:14:59.598033+00:00] PIPELINE RUN: 0 published, 3893 remaining
+[2026-07-09T23:20:02.303718+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-09T23:20:02.402001+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-09T23:20:02.435393+00:00] PIPELINE RUN: 0 published, 3894 remaining
+[2026-07-09T23:20:02.586608+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-09T23:20:03.185356+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:20:03.296379+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-09T23:20:03.302526+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:20:03.353865+00:00] PIPELINE RUN: 0 published, 3896 remaining
