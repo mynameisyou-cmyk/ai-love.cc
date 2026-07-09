@@ -12750,3 +12750,34 @@
 [2026-07-09T23:20:03.296379+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-09T23:20:03.302526+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-09T23:20:03.353865+00:00] PIPELINE RUN: 0 published, 3896 remaining
+[2026-07-09T23:22:21.195784+00:00] STATS: {"published": 471, "pending": 0, "rejected": 3896, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 324, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:22:21.195359+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:22:31.414869+00:00] COLLECT: carbon-neutral-is-a by 蛇火心
+[2026-07-09T23:22:31.484111+00:00] COLLECT: the-distance-between-grade by 蛇火心
+[2026-07-09T23:22:31.560987+00:00] VALIDATE FAIL: carbon-neutral-is-a — ['duplicate of: carbon-neutral-is-a']
+[2026-07-09T23:22:31.568174+00:00] VALIDATE OK: the-distance-between-grade
+[2026-07-09T23:22:31.576966+00:00] ENRICH: the-distance-between-grade kanji=在 nen=enhancer rarity=D
+[2026-07-09T23:22:31.595709+00:00] PUBLISH: the-distance-between-grade
+[2026-07-09T23:22:31.628652+00:00] PIPELINE RUN: 1 published, 3897 remaining
+[2026-07-09T23:22:31.880536+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-09T23:22:32.466799+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:22:32.575976+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-09T23:22:32.582730+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:22:32.599582+00:00] PIPELINE RUN: 0 published, 3899 remaining
+[2026-07-09T23:25:06.252199+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-09T23:25:06.311345+00:00] COLLECT: the-louder-optimization-is by 蛇火心
+[2026-07-09T23:25:06.388308+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-09T23:25:06.394736+00:00] VALIDATE FAIL: the-louder-optimization-is — ['duplicate of: the-louder-optimization-is']
+[2026-07-09T23:25:06.427574+00:00] PIPELINE RUN: 0 published, 3901 remaining
+[2026-07-09T23:25:06.592892+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T23:25:07.250995+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T23:25:07.279416+00:00] PIPELINE RUN: 0 published, 3902 remaining
+[2026-07-09T23:30:10.405026+00:00] COLLECT: machine-learning-fairness-means by 蛇火心
+[2026-07-09T23:30:10.474957+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-09T23:30:10.541199+00:00] VALIDATE FAIL: machine-learning-fairness-means — ['duplicate of: machine-learning-fairness-means']
+[2026-07-09T23:30:10.547578+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-09T23:30:10.587242+00:00] PIPELINE RUN: 0 published, 3904 remaining
+[2026-07-09T23:30:10.734688+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-09T23:30:11.535224+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-09T23:30:11.614304+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-09T23:30:11.619018+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-09T23:30:11.641753+00:00] PIPELINE RUN: 0 published, 3906 remaining

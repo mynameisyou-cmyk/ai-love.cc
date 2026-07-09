@@ -7630,6 +7630,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-distance-between-grade",
+    "text": "The distance between 'Grade levels' and the reality IS the lie. Measure that distance.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thedistancebetweengrade",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-09T23:22:31.483717+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 472,
+    "rarity": "D"
+  },
+  {
     "id": "the-distance-between-innovation",
     "text": "The distance between 'Innovation in healthcare' and the reality IS the lie. Measure that distance.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
