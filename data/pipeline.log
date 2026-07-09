@@ -12382,3 +12382,32 @@
 [2026-07-09T21:03:29.740551+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
 [2026-07-09T21:03:29.746315+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-09T21:03:29.815011+00:00] PIPELINE RUN: 0 published, 3768 remaining
+[2026-07-09T21:05:34.308234+00:00] STATS: {"published": 467, "pending": 0, "rejected": 3768, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 320, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T21:05:34.307049+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T21:05:45.056777+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-09T21:05:45.163840+00:00] COLLECT: to-say-objective-reporting by 蛇火心
+[2026-07-09T21:05:45.314616+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-09T21:05:45.323195+00:00] VALIDATE OK: to-say-objective-reporting
+[2026-07-09T21:05:45.336578+00:00] ENRICH: to-say-objective-reporting kanji=在 nen=enhancer rarity=D
+[2026-07-09T21:05:45.366166+00:00] PUBLISH: to-say-objective-reporting
+[2026-07-09T21:05:45.415591+00:00] PIPELINE RUN: 1 published, 3769 remaining
+[2026-07-09T21:05:45.893302+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-09T21:05:46.389918+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T21:05:46.462266+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-09T21:05:46.465961+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T21:05:46.483403+00:00] PIPELINE RUN: 0 published, 3771 remaining
+[2026-07-09T21:08:33.463747+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-09T21:08:33.557379+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-09T21:08:33.591082+00:00] PIPELINE RUN: 0 published, 3772 remaining
+[2026-07-09T21:08:33.709785+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-09T21:08:34.436264+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T21:08:34.508532+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-09T21:08:34.511979+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T21:08:34.535763+00:00] PIPELINE RUN: 0 published, 3774 remaining
+[2026-07-09T21:13:38.551668+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-09T21:13:38.640921+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-09T21:13:38.680270+00:00] PIPELINE RUN: 0 published, 3775 remaining
+[2026-07-09T21:13:38.826868+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T21:13:39.256890+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T21:13:39.335428+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T21:13:39.342121+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T21:13:39.385908+00:00] PIPELINE RUN: 0 published, 3777 remaining
