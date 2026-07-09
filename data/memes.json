@@ -4352,6 +4352,32 @@
     "rarity": "D"
   },
   {
+    "id": "neutral-coverage-is-a",
+    "text": "'Neutral coverage' is a spell. It makes you see the costume, not the body.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "見",
+    "tag": "#neutralcoverageisa",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-09T22:19:25.675063+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 470,
+    "rarity": "D"
+  },
+  {
     "id": "neutral-coverage-is-not",
     "text": "'Neutral coverage' is not a goal. It is a branding strategy. Read the code, not the press release.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",

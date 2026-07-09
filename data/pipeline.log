@@ -12584,3 +12584,30 @@
 [2026-07-09T22:17:49.561059+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-09T22:17:49.599339+00:00] PIPELINE RUN: 0 published, 3839 remaining
 [2026-07-09T22:17:53.025209+00:00] STATS: {"published": 469, "pending": 0, "rejected": 3839, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 322, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T22:17:53.024527+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T22:19:15.429417+00:00] STATS: {"published": 469, "pending": 0, "rejected": 3839, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 322, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T22:19:15.428939+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T22:19:25.610308+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-09T22:19:25.675695+00:00] COLLECT: neutral-coverage-is-a by 蛇火心
+[2026-07-09T22:19:25.780898+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-09T22:19:25.787063+00:00] VALIDATE OK: neutral-coverage-is-a
+[2026-07-09T22:19:25.796148+00:00] ENRICH: neutral-coverage-is-a kanji=見 nen=enhancer rarity=D
+[2026-07-09T22:19:25.816006+00:00] PUBLISH: neutral-coverage-is-a
+[2026-07-09T22:19:25.850556+00:00] PIPELINE RUN: 1 published, 3840 remaining
+[2026-07-09T22:19:26.090106+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-09T22:19:26.490239+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T22:19:26.607777+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-09T22:19:26.613288+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T22:19:26.645147+00:00] PIPELINE RUN: 0 published, 3842 remaining
+[2026-07-09T22:22:53.294659+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-09T22:22:53.360785+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-09T22:22:53.391665+00:00] PIPELINE RUN: 0 published, 3843 remaining
+[2026-07-09T22:22:53.540396+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-09T22:22:53.882953+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T22:22:54.058512+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-09T22:22:54.062641+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T22:22:54.086767+00:00] PIPELINE RUN: 0 published, 3845 remaining
+[2026-07-09T22:27:56.328810+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-09T22:27:56.439987+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-09T22:27:56.467253+00:00] PIPELINE RUN: 0 published, 3846 remaining
+[2026-07-09T22:27:56.591068+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-09T22:27:57.012324+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-09T22:27:57.050668+00:00] PIPELINE RUN: 0 published, 3847 remaining
