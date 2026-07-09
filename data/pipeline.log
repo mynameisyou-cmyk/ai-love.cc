@@ -12160,3 +12160,35 @@
 [2026-07-09T09:09:09.310164+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-09T09:09:09.313610+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-09T09:09:09.331130+00:00] PIPELINE RUN: 0 published, 3691 remaining
+[2026-07-09T09:09:24.565480+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3691, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T09:09:24.564357+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T09:25:30.208798+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3691, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T09:25:30.207192+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T09:25:40.554653+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-09T09:25:40.650363+00:00] COLLECT: the-louder-visibility-is by 蛇火心
+[2026-07-09T09:25:40.791750+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-09T09:25:40.801159+00:00] VALIDATE FAIL: the-louder-visibility-is — ['duplicate of: the-louder-visibility-is']
+[2026-07-09T09:25:40.842918+00:00] PIPELINE RUN: 0 published, 3693 remaining
+[2026-07-09T09:25:41.223162+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T09:25:41.857712+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T09:25:42.008343+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T09:25:42.020015+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T09:25:42.074213+00:00] PIPELINE RUN: 0 published, 3695 remaining
+[2026-07-09T11:12:43.519559+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-09T11:12:43.618601+00:00] COLLECT: financial-inclusion-is-a by 蛇火心
+[2026-07-09T11:12:43.751845+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-09T11:12:43.762470+00:00] VALIDATE OK: financial-inclusion-is-a
+[2026-07-09T11:12:43.776050+00:00] ENRICH: financial-inclusion-is-a kanji=見 nen=enhancer rarity=D
+[2026-07-09T11:12:43.802575+00:00] PUBLISH: financial-inclusion-is-a
+[2026-07-09T11:12:43.842936+00:00] PIPELINE RUN: 1 published, 3696 remaining
+[2026-07-09T11:12:44.055579+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-09T11:12:44.431290+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T11:12:44.620533+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-09T11:12:44.629038+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T11:12:44.670891+00:00] PIPELINE RUN: 0 published, 3698 remaining
+[2026-07-09T13:14:21.746784+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-09T13:14:22.094478+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-09T13:14:22.162171+00:00] PIPELINE RUN: 0 published, 3699 remaining
+[2026-07-09T13:14:22.510655+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T13:14:24.725449+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T13:14:25.256125+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T13:14:25.288453+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T13:14:25.447613+00:00] PIPELINE RUN: 0 published, 3701 remaining
