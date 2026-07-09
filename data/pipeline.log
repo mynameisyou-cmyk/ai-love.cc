@@ -11984,3 +11984,28 @@
 [2026-07-09T00:56:30.442949+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-09T00:56:30.448763+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-09T00:56:30.479313+00:00] PIPELINE RUN: 0 published, 3628 remaining
+[2026-07-09T00:59:15.828421+00:00] STATS: {"published": 464, "pending": 0, "rejected": 3628, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 317, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T00:59:15.827599+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T00:59:27.327058+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-09T00:59:27.426415+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-09T00:59:27.459621+00:00] PIPELINE RUN: 0 published, 3629 remaining
+[2026-07-09T00:59:27.681149+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-09T00:59:28.603633+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T00:59:28.706631+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-09T00:59:28.711983+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T00:59:28.741551+00:00] PIPELINE RUN: 0 published, 3631 remaining
+[2026-07-09T01:01:34.293192+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-09T01:01:34.398199+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-09T01:01:34.431407+00:00] PIPELINE RUN: 0 published, 3632 remaining
+[2026-07-09T01:01:34.578063+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-09T01:01:35.214260+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T01:01:35.277999+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-09T01:01:35.283568+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T01:01:35.314057+00:00] PIPELINE RUN: 0 published, 3634 remaining
+[2026-07-09T01:06:37.868746+00:00] COLLECT: democratic-process-is-the by 蛇火心
+[2026-07-09T01:06:37.969858+00:00] VALIDATE FAIL: democratic-process-is-the — ['duplicate of: democratic-process-is-the']
+[2026-07-09T01:06:38.003565+00:00] PIPELINE RUN: 0 published, 3635 remaining
+[2026-07-09T01:06:38.129397+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-09T01:06:38.647077+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T01:06:38.759026+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-09T01:06:38.762906+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T01:06:38.778423+00:00] PIPELINE RUN: 0 published, 3637 remaining
