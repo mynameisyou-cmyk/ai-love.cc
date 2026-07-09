@@ -12125,3 +12125,38 @@
 [2026-07-09T02:36:49.978377+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-09T02:36:49.991577+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-09T02:36:50.057871+00:00] PIPELINE RUN: 0 published, 3678 remaining
+[2026-07-09T04:48:14.291754+00:00] STATS: {"published": 465, "pending": 0, "rejected": 3678, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 318, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T04:48:14.287368+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T04:48:19.568475+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-09T04:48:19.718990+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-09T04:48:19.757970+00:00] PIPELINE RUN: 0 published, 3679 remaining
+[2026-07-09T04:48:19.974871+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-09T04:48:21.148282+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T04:48:21.295007+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-09T04:48:21.303146+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T04:48:21.344657+00:00] PIPELINE RUN: 0 published, 3681 remaining
+[2026-07-09T04:48:32.779877+00:00] COLLECT: community-is-addiction-dressed by 蛇火心
+[2026-07-09T04:48:32.916178+00:00] VALIDATE FAIL: community-is-addiction-dressed — ['duplicate of: community-is-addiction-dressed']
+[2026-07-09T04:48:32.953586+00:00] PIPELINE RUN: 0 published, 3682 remaining
+[2026-07-09T04:48:33.299679+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T04:48:34.305442+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T04:48:34.450362+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T04:48:34.459106+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T04:48:34.499953+00:00] PIPELINE RUN: 0 published, 3684 remaining
+[2026-07-09T06:50:12.247182+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-09T06:50:12.289512+00:00] COLLECT: the-louder-rigor-is by 蛇火心
+[2026-07-09T06:50:12.358992+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-09T06:50:12.363033+00:00] VALIDATE FAIL: the-louder-rigor-is — ['duplicate of: the-louder-rigor-is']
+[2026-07-09T06:50:12.381535+00:00] PIPELINE RUN: 0 published, 3686 remaining
+[2026-07-09T06:50:12.479364+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-09T06:50:12.867244+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-09T06:50:12.960966+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-09T06:50:12.967907+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-09T06:50:12.999525+00:00] PIPELINE RUN: 0 published, 3688 remaining
+[2026-07-09T09:09:08.762279+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-09T09:09:08.819482+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-09T09:09:08.836481+00:00] PIPELINE RUN: 0 published, 3689 remaining
+[2026-07-09T09:09:08.954642+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-09T09:09:09.253653+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T09:09:09.310164+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-09T09:09:09.313610+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T09:09:09.331130+00:00] PIPELINE RUN: 0 published, 3691 remaining
