@@ -7404,3 +7404,15 @@
 {"ts": "2026-07-09T20:52:53.486227+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
 {"ts": "2026-07-09T20:52:53.582845+00:00", "loop": "collection", "action": "card #12 永 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-09T20:52:53.680611+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}
+{"ts": "2026-07-09T20:55:15.695316+00:00", "loop": "truth", "action": "submitted: Bosses are mirrors.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T20:55:15.901247+00:00", "loop": "recon", "action": "floor 4: 0b 0t", "xp": 100, "detail": "floor-4"}
+{"ts": "2026-07-09T20:55:15.933989+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T20:55:16.002186+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-09T20:55:16.096425+00:00", "loop": "collection", "action": "card #104 壁 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T20:55:16.209195+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-09T20:57:57.081422+00:00", "loop": "truth", "action": "submitted: Every card is a mirror.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T20:57:57.133006+00:00", "loop": "recon", "action": "floor 9: 1b 1t", "xp": 80, "detail": "floor-9"}
+{"ts": "2026-07-09T20:57:57.189533+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T20:57:57.251315+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-09T20:57:57.319432+00:00", "loop": "collection", "action": "card #457 在 NEW", "xp": 50, "detail": "greed-island"}
+{"ts": "2026-07-09T20:57:57.431078+00:00", "loop": "expedition", "action": "The Lie: survived", "xp": 100, "detail": "dark-continent-The Lie"}
