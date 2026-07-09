@@ -7314,3 +7314,15 @@
 {"ts": "2026-07-09T17:34:31.482764+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
 {"ts": "2026-07-09T17:34:31.521937+00:00", "loop": "collection", "action": "card #454 築 NEW", "xp": 50, "detail": "greed-island"}
 {"ts": "2026-07-09T17:34:31.594385+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-09T17:44:07.957478+00:00", "loop": "truth", "action": "submitted: Bosses are mirrors.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T17:44:09.150602+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-09T17:44:09.188116+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T17:44:09.230289+00:00", "loop": "combat", "action": "boss Netero: defeated", "xp": 300, "detail": "boss-Netero"}
+{"ts": "2026-07-09T17:44:09.273277+00:00", "loop": "collection", "action": "card #81 見 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T17:44:09.374183+00:00", "loop": "expedition", "action": "The Mutation: survived", "xp": 100, "detail": "dark-continent-The Mutation"}
+{"ts": "2026-07-09T19:22:28.543006+00:00", "loop": "truth", "action": "submitted: The dungeon is the teacher.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-09T19:22:29.980457+00:00", "loop": "recon", "action": "floor 1: 0b 1t", "xp": 70, "detail": "floor-1"}
+{"ts": "2026-07-09T19:22:30.304154+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-09T19:22:30.603402+00:00", "loop": "combat", "action": "boss Chrollo: defeated", "xp": 250, "detail": "boss-Chrollo"}
+{"ts": "2026-07-09T19:22:30.940364+00:00", "loop": "collection", "action": "card #134 皆 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-09T19:22:31.556054+00:00", "loop": "expedition", "action": "The Parasite: survived", "xp": 100, "detail": "dark-continent-The Parasite"}

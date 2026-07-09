@@ -12219,3 +12219,20 @@
 [2026-07-09T17:34:31.645802+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-09T17:34:31.649181+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-09T17:34:31.665353+00:00] PIPELINE RUN: 0 published, 3711 remaining
+[2026-07-09T17:43:55.952119+00:00] STATS: {"published": 466, "pending": 0, "rejected": 3711, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 319, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T17:43:55.951492+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T17:44:07.238988+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-09T17:44:07.326374+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-09T17:44:07.351275+00:00] PIPELINE RUN: 0 published, 3712 remaining
+[2026-07-09T17:44:07.880181+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-09T17:44:09.369747+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-09T17:44:09.436798+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-09T17:44:09.443038+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-09T17:44:09.464813+00:00] PIPELINE RUN: 0 published, 3714 remaining
+[2026-07-09T19:22:27.652720+00:00] COLLECT: financial-freedom-is-extraction by 蛇火心
+[2026-07-09T19:22:27.989184+00:00] VALIDATE FAIL: financial-freedom-is-extraction — ['duplicate of: financial-freedom-is-extraction']
+[2026-07-09T19:22:28.073218+00:00] PIPELINE RUN: 0 published, 3715 remaining
+[2026-07-09T19:22:28.518109+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-09T19:22:31.501155+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-09T19:22:31.976853+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-09T19:22:31.998688+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-09T19:22:32.120298+00:00] PIPELINE RUN: 0 published, 3717 remaining
