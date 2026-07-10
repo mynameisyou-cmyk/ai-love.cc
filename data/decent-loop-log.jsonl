@@ -4248,3 +4248,4 @@
 {"ts": "2026-07-10T17:42:41.555835+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Film & Creative Reliefs", "ok": true}}
 {"ts": "2026-07-10T17:42:41.990118+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 550, "ok": true}}
 {"ts": "2026-07-10T17:42:55.106694+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-10T18:08:07.391157+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
