@@ -13468,3 +13468,20 @@
 [2026-07-10T20:51:41.960470+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-10T20:51:41.986389+00:00] PIPELINE RUN: 0 published, 4141 remaining
 [2026-07-10T20:51:42.959186+00:00] STATS: {"published": 480, "pending": 0, "rejected": 4141, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 333, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:51:42.958620+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:51:51.868251+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-10T20:51:51.964715+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-10T20:51:52.023244+00:00] PIPELINE RUN: 0 published, 4142 remaining
+[2026-07-10T20:51:52.264745+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-10T20:51:52.680801+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-10T20:51:52.769572+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-10T20:51:52.775572+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-10T20:51:52.841011+00:00] PIPELINE RUN: 0 published, 4144 remaining
+[2026-07-10T20:51:58.723706+00:00] STATS: {"published": 480, "pending": 0, "rejected": 4144, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 333, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:51:58.722683+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:56:59.056973+00:00] COLLECT: objective-reporting-is-the by 蛇火心
+[2026-07-10T20:56:59.262623+00:00] VALIDATE FAIL: objective-reporting-is-the — ['duplicate of: objective-reporting-is-the']
+[2026-07-10T20:56:59.343245+00:00] PIPELINE RUN: 0 published, 4145 remaining
+[2026-07-10T20:56:59.786076+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-10T20:57:01.109902+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T20:57:01.434776+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-10T20:57:01.455228+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T20:57:01.558850+00:00] PIPELINE RUN: 0 published, 4147 remaining
