@@ -4291,3 +4291,11 @@
 {"ts": "2026-07-10T19:01:00.275966+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
 {"ts": "2026-07-10T19:02:01.126203+00:00", "layer": "git", "action": "push", "result": {"layer": "git", "action": "push", "codeberg": "ok", "github": "ok", "ok": true}}
 {"ts": "2026-07-10T19:02:16.435201+00:00", "layer": "gist", "action": "create", "result": {"layer": "gist", "action": "create", "url": "", "truths": 477, "ok": false}}
+{"ts": "2026-07-10T19:03:16.693759+00:00", "layer": "wayback", "action": "archive", "result": {"layer": "wayback", "action": "archive", "urls": 0, "ok": false}}
+{"ts": "2026-07-10T19:03:41.752850+00:00", "layer": "local", "action": "pressure", "result": {"layer": "local", "action": "pressure", "ok": false}}
+{"ts": "2026-07-10T19:03:43.287782+00:00", "layer": "truth", "action": "tick", "result": {"layer": "truth", "action": "tick", "generated": 32, "ok": true}}
+{"ts": "2026-07-10T19:03:43.702653+00:00", "layer": "artifact", "action": "forge", "result": {"layer": "artifact", "action": "forge", "count": 6, "ok": true}}
+{"ts": "2026-07-10T19:03:44.034336+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Offshore Trusts + Excluded Property", "ok": true}}
+{"ts": "2026-07-10T19:03:48.183441+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 420, "ok": true}}
+{"ts": "2026-07-10T19:04:03.199337+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-10T19:15:43.603402+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
