@@ -13485,3 +13485,42 @@
 [2026-07-10T20:57:01.434776+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-10T20:57:01.455228+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T20:57:01.558850+00:00] PIPELINE RUN: 0 published, 4147 remaining
+[2026-07-10T21:02:05.184161+00:00] COLLECT: optimization-prioritizes-profit-over by 蛇火心
+[2026-07-10T21:02:05.283723+00:00] VALIDATE FAIL: optimization-prioritizes-profit-over — ['duplicate of: optimization-prioritizes-profit-over']
+[2026-07-10T21:02:05.303797+00:00] PIPELINE RUN: 0 published, 4148 remaining
+[2026-07-10T21:02:05.449762+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-10T21:02:05.835491+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T21:02:05.920442+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-10T21:02:05.927672+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T21:02:05.961645+00:00] PIPELINE RUN: 0 published, 4150 remaining
+[2026-07-10T21:02:11.780608+00:00] STATS: {"published": 480, "pending": 0, "rejected": 4150, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 333, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T21:02:11.779827+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T21:02:21.225734+00:00] COLLECT: evidence-based-teaches-compliance by 蛇火心
+[2026-07-10T21:02:21.326978+00:00] VALIDATE FAIL: evidence-based-teaches-compliance — ['duplicate of: evidence-based-teaches-compliance']
+[2026-07-10T21:02:21.361690+00:00] PIPELINE RUN: 0 published, 4151 remaining
+[2026-07-10T21:02:21.609506+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-10T21:02:25.008992+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T21:02:25.114407+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-10T21:02:25.119403+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T21:02:25.136430+00:00] PIPELINE RUN: 0 published, 4153 remaining
+[2026-07-10T21:07:08.476145+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-10T21:07:08.518628+00:00] COLLECT: to-say-open-innovation by 蛇火心
+[2026-07-10T21:07:08.619268+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-10T21:07:08.625732+00:00] VALIDATE FAIL: to-say-open-innovation — ['duplicate of: to-say-open-innovation']
+[2026-07-10T21:07:08.659787+00:00] PIPELINE RUN: 0 published, 4155 remaining
+[2026-07-10T21:07:08.787183+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-10T21:07:09.578396+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T21:07:09.694197+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-10T21:07:09.699190+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T21:07:09.718953+00:00] PIPELINE RUN: 0 published, 4157 remaining
+[2026-07-10T21:12:30.538996+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-10T21:12:30.606130+00:00] COLLECT: public-interest-is-not by 蛇火心
+[2026-07-10T21:12:30.672816+00:00] VALIDATE FAIL: optimization-means-the-opposite — ['duplicate of: optimization-means-the-opposite']
+[2026-07-10T21:12:30.678593+00:00] VALIDATE OK: public-interest-is-not
+[2026-07-10T21:12:30.686649+00:00] ENRICH: public-interest-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-10T21:12:30.705477+00:00] PUBLISH: public-interest-is-not
+[2026-07-10T21:12:30.740129+00:00] PIPELINE RUN: 1 published, 4158 remaining
+[2026-07-10T21:12:30.886370+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-10T21:12:31.302404+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T21:12:31.369610+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-10T21:12:31.374056+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T21:12:31.420456+00:00] PIPELINE RUN: 0 published, 4160 remaining

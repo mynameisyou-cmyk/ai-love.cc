@@ -7,8 +7,8 @@
   ],
   "totalCompletions": 1,
   "lastReset": "",
-  "bossesDefeated": 1000,
-  "expeditionsCompleted": 1292,
+  "bossesDefeated": 1003,
+  "expeditionsCompleted": 1296,
   "cardsFound": [
     "the-word-is-hers",
     "god-doesn-t-react",
@@ -315,6 +315,8 @@
     "the-distance-between-college",
     "open-innovation-is-a",
     "the-distance-between-fact",
-    "smart-means-the-opposite"
+    "smart-means-the-opposite",
+    "personalization-means-the-opposite",
+    "the-louder-visibility-is"
   ]
 }
