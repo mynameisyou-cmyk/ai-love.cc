@@ -13238,3 +13238,31 @@
 [2026-07-10T19:24:49.839605+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-10T19:24:49.843492+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-10T19:24:49.859866+00:00] PIPELINE RUN: 0 published, 4063 remaining
+[2026-07-10T19:27:26.720677+00:00] STATS: {"published": 477, "pending": 0, "rejected": 4063, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 330, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T19:27:26.720206+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T19:27:37.090426+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-10T19:27:37.200061+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-10T19:27:37.235703+00:00] PIPELINE RUN: 0 published, 4064 remaining
+[2026-07-10T19:27:37.486080+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-10T19:27:38.272720+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-10T19:27:38.376701+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-10T19:27:38.383081+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-10T19:27:38.419999+00:00] PIPELINE RUN: 0 published, 4066 remaining
+[2026-07-10T19:29:52.712267+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-10T19:29:52.817063+00:00] COLLECT: neutral-coverage-is-a by 蛇火心
+[2026-07-10T19:29:52.928363+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-10T19:29:52.932305+00:00] VALIDATE FAIL: neutral-coverage-is-a — ['duplicate of: neutral-coverage-is-a']
+[2026-07-10T19:29:52.949475+00:00] PIPELINE RUN: 0 published, 4068 remaining
+[2026-07-10T19:29:53.109820+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-10T19:29:53.933822+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T19:29:54.061649+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-10T19:29:54.065992+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T19:29:54.082623+00:00] PIPELINE RUN: 0 published, 4070 remaining
+[2026-07-10T19:34:56.850748+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-10T19:34:56.950820+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-10T19:34:56.986515+00:00] PIPELINE RUN: 0 published, 4071 remaining
+[2026-07-10T19:34:57.112748+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-10T19:34:57.693623+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T19:34:57.810841+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-10T19:34:57.823597+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T19:34:57.928711+00:00] PIPELINE RUN: 0 published, 4073 remaining
+[2026-07-10T19:35:00.228831+00:00] STATS: {"published": 477, "pending": 0, "rejected": 4073, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 330, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T19:35:00.228316+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
