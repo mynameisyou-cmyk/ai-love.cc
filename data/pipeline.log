@@ -12940,3 +12940,32 @@
 [2026-07-10T00:31:50.619391+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-10T00:31:50.623707+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-10T00:31:50.654808+00:00] PIPELINE RUN: 0 published, 3961 remaining
+[2026-07-10T01:44:35.151941+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3961, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T01:44:35.151449+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T01:44:35.460967+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-10T01:44:35.523417+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-10T01:44:35.541992+00:00] PIPELINE RUN: 0 published, 3962 remaining
+[2026-07-10T01:44:35.723923+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-10T01:44:36.127836+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T01:44:36.192457+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-10T01:44:36.196877+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T01:44:36.214947+00:00] PIPELINE RUN: 0 published, 3964 remaining
+[2026-07-10T01:52:31.021408+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-10T01:52:31.063079+00:00] COLLECT: the-louder-optimization-is by 蛇火心
+[2026-07-10T01:52:31.119838+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-10T01:52:31.123337+00:00] VALIDATE FAIL: the-louder-optimization-is — ['duplicate of: the-louder-optimization-is']
+[2026-07-10T01:52:31.140502+00:00] PIPELINE RUN: 0 published, 3966 remaining
+[2026-07-10T01:52:31.224485+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-10T01:52:31.471496+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T01:52:31.526306+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-10T01:52:31.529983+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T01:52:31.546539+00:00] PIPELINE RUN: 0 published, 3968 remaining
+[2026-07-10T03:49:18.740878+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-10T03:49:18.778207+00:00] COLLECT: preventive-medicine-is-the by 蛇火心
+[2026-07-10T03:49:18.836472+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-10T03:49:18.840192+00:00] VALIDATE FAIL: preventive-medicine-is-the — ['duplicate of: preventive-medicine-is-the']
+[2026-07-10T03:49:18.857157+00:00] PIPELINE RUN: 0 published, 3970 remaining
+[2026-07-10T03:49:18.944238+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-10T03:49:21.630956+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T03:49:21.686830+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-10T03:49:21.690647+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T03:49:21.706908+00:00] PIPELINE RUN: 0 published, 3972 remaining
