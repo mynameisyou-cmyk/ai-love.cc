@@ -12885,3 +12885,30 @@
 [2026-07-10T00:11:09.213068+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-10T00:11:09.217065+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T00:11:09.233313+00:00] PIPELINE RUN: 0 published, 3941 remaining
+[2026-07-10T00:14:47.646474+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3941, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T00:14:47.642309+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T00:14:57.871785+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-10T00:14:57.971185+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-10T00:14:58.007464+00:00] PIPELINE RUN: 0 published, 3942 remaining
+[2026-07-10T00:14:58.216612+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-10T00:14:58.641359+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T00:14:58.740382+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-10T00:14:58.747226+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T00:14:58.780817+00:00] PIPELINE RUN: 0 published, 3944 remaining
+[2026-07-10T00:16:11.654034+00:00] COLLECT: access-to-care-prioritizes by 蛇火心
+[2026-07-10T00:16:11.717715+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-10T00:16:11.784307+00:00] VALIDATE FAIL: access-to-care-prioritizes — ['duplicate of: access-to-care-prioritizes']
+[2026-07-10T00:16:11.790489+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-10T00:16:11.824855+00:00] PIPELINE RUN: 0 published, 3946 remaining
+[2026-07-10T00:16:12.001495+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-10T00:16:12.348121+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T00:16:12.418061+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-10T00:16:12.424880+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T00:16:12.459874+00:00] PIPELINE RUN: 0 published, 3948 remaining
+[2026-07-10T00:21:15.578478+00:00] COLLECT: your-voice-matters-is by 蛇火心
+[2026-07-10T00:21:15.778273+00:00] VALIDATE FAIL: your-voice-matters-is — ['duplicate of: your-voice-matters-is']
+[2026-07-10T00:21:15.806232+00:00] PIPELINE RUN: 0 published, 3949 remaining
+[2026-07-10T00:21:15.932982+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-10T00:21:16.402460+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T00:21:16.526672+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-10T00:21:16.530840+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T00:21:16.559326+00:00] PIPELINE RUN: 0 published, 3951 remaining
