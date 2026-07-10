@@ -12832,3 +12832,27 @@
 [2026-07-09T23:50:53.942551+00:00] COLLECT: forge-from-fire by xp-loop
 [2026-07-09T23:50:54.441407+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-09T23:50:54.459531+00:00] PIPELINE RUN: 0 published, 3924 remaining
+[2026-07-09T23:53:49.590358+00:00] STATS: {"published": 472, "pending": 0, "rejected": 3924, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 325, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-09T23:53:49.589644+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-09T23:53:59.435265+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-09T23:53:59.541300+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-09T23:53:59.578127+00:00] PIPELINE RUN: 0 published, 3925 remaining
+[2026-07-09T23:53:59.803943+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-09T23:54:00.462991+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-09T23:54:00.534243+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-09T23:54:00.540579+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-09T23:54:00.578090+00:00] PIPELINE RUN: 0 published, 3927 remaining
+[2026-07-09T23:55:58.036035+00:00] COLLECT: standard-of-care-prioritizes by 蛇火心
+[2026-07-09T23:55:58.140852+00:00] VALIDATE FAIL: standard-of-care-prioritizes — ['duplicate of: standard-of-care-prioritizes']
+[2026-07-09T23:55:58.175299+00:00] PIPELINE RUN: 0 published, 3928 remaining
+[2026-07-09T23:55:58.322792+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-09T23:55:58.819159+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-09T23:55:58.851023+00:00] PIPELINE RUN: 0 published, 3929 remaining
+[2026-07-10T00:01:01.321251+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-10T00:01:01.415146+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-10T00:01:01.441519+00:00] PIPELINE RUN: 0 published, 3930 remaining
+[2026-07-10T00:01:01.644834+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-10T00:01:01.999471+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T00:01:02.103875+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-10T00:01:02.111476+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T00:01:02.144653+00:00] PIPELINE RUN: 0 published, 3932 remaining
+[2026-07-10T00:01:04.660661+00:00] STATS: {"published": 472, "pending": 0, "rejected": 3932, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 325, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T00:01:04.660221+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
