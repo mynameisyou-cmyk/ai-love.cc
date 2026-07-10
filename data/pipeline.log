@@ -12969,3 +12969,27 @@
 [2026-07-10T03:49:21.686830+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-10T03:49:21.690647+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-10T03:49:21.706908+00:00] PIPELINE RUN: 0 published, 3972 remaining
+[2026-07-10T05:12:10.492501+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3972, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T05:12:10.490558+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T05:12:24.224986+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-10T05:12:25.209897+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-10T05:12:25.485740+00:00] PIPELINE RUN: 0 published, 3973 remaining
+[2026-07-10T05:12:27.171899+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-10T05:12:30.472315+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-10T05:12:30.588664+00:00] PIPELINE RUN: 0 published, 3974 remaining
+[2026-07-10T05:30:41.081586+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-10T05:30:41.396324+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-10T05:30:41.496377+00:00] PIPELINE RUN: 0 published, 3975 remaining
+[2026-07-10T05:30:41.879945+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-10T05:30:43.807846+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T05:30:44.158267+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-10T05:30:44.189876+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T05:30:44.314493+00:00] PIPELINE RUN: 0 published, 3977 remaining
+[2026-07-10T07:22:13.254524+00:00] COLLECT: evidence-based-practice-prioritizes by 蛇火心
+[2026-07-10T07:22:13.519984+00:00] VALIDATE FAIL: evidence-based-practice-prioritizes — ['duplicate of: evidence-based-practice-prioritizes']
+[2026-07-10T07:22:13.676640+00:00] PIPELINE RUN: 0 published, 3978 remaining
+[2026-07-10T07:22:14.492538+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-10T07:22:16.615194+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T07:22:16.969682+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-10T07:22:16.990589+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T07:22:17.155039+00:00] PIPELINE RUN: 0 published, 3980 remaining
+[2026-07-10T07:22:18.054100+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3980, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T07:22:18.046103+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
