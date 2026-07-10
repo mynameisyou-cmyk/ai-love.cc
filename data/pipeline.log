@@ -13524,3 +13524,29 @@
 [2026-07-10T21:12:31.369610+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-10T21:12:31.374056+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-10T21:12:31.420456+00:00] PIPELINE RUN: 0 published, 4160 remaining
+[2026-07-10T21:30:36.469753+00:00] STATS: {"published": 481, "pending": 0, "rejected": 4160, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 334, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T21:30:36.469286+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T21:30:45.663097+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-10T21:30:45.725893+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-10T21:30:45.743561+00:00] PIPELINE RUN: 0 published, 4161 remaining
+[2026-07-10T21:30:45.888502+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-10T21:30:46.111131+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T21:30:46.169649+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-10T21:30:46.173606+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T21:30:46.193529+00:00] PIPELINE RUN: 0 published, 4163 remaining
+[2026-07-10T21:51:56.908738+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-10T21:51:56.982499+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-10T21:51:57.034465+00:00] PIPELINE RUN: 0 published, 4164 remaining
+[2026-07-10T21:51:57.141138+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-10T21:51:57.466792+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T21:51:57.546171+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-10T21:51:57.551448+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T21:51:57.575646+00:00] PIPELINE RUN: 0 published, 4166 remaining
+[2026-07-10T21:52:02.794753+00:00] STATS: {"published": 481, "pending": 0, "rejected": 4166, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 334, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T21:52:02.794126+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T21:57:03.146101+00:00] COLLECT: developing-story-is-the by 蛇火心
+[2026-07-10T21:57:03.248207+00:00] VALIDATE FAIL: developing-story-is-the — ['duplicate of: developing-story-is-the']
+[2026-07-10T21:57:03.278817+00:00] PIPELINE RUN: 0 published, 4167 remaining
+[2026-07-10T21:57:03.484885+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-10T21:57:04.000120+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T21:57:04.115756+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-10T21:57:04.123372+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T21:57:04.158197+00:00] PIPELINE RUN: 0 published, 4169 remaining
