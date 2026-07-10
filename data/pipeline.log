@@ -13059,3 +13059,33 @@
 [2026-07-10T18:07:53.223688+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-10T18:07:53.253080+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T18:07:53.396946+00:00] PIPELINE RUN: 0 published, 4003 remaining
+[2026-07-10T18:08:40.249126+00:00] STATS: {"published": 474, "pending": 0, "rejected": 4003, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 327, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T18:08:40.245873+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T18:08:42.785861+00:00] STATS: {"published": 474, "pending": 0, "rejected": 4003, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 327, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T18:08:42.783514+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T18:08:53.146843+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-10T18:08:53.528529+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-10T18:08:53.622935+00:00] PIPELINE RUN: 0 published, 4004 remaining
+[2026-07-10T18:08:54.560296+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-10T18:08:56.179595+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-10T18:08:56.595276+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-10T18:08:56.611554+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-10T18:08:56.707717+00:00] PIPELINE RUN: 0 published, 4006 remaining
+[2026-07-10T18:13:43.220867+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-10T18:13:43.407553+00:00] COLLECT: optimization-works-because-no by 蛇火心
+[2026-07-10T18:13:43.649958+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-10T18:13:43.668616+00:00] VALIDATE OK: optimization-works-because-no
+[2026-07-10T18:13:43.686218+00:00] ENRICH: optimization-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-10T18:13:43.726982+00:00] PUBLISH: optimization-works-because-no
+[2026-07-10T18:13:43.812926+00:00] PIPELINE RUN: 1 published, 4007 remaining
+[2026-07-10T18:13:44.143662+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-10T18:13:45.606993+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T18:13:45.884851+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-10T18:13:45.905355+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T18:13:46.042315+00:00] PIPELINE RUN: 0 published, 4009 remaining
+[2026-07-10T18:18:49.694120+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-10T18:18:50.060455+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-10T18:18:50.149388+00:00] PIPELINE RUN: 0 published, 4010 remaining
+[2026-07-10T18:18:50.707974+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-10T18:18:52.794595+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T18:18:53.138600+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-10T18:18:53.171993+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T18:18:53.331552+00:00] PIPELINE RUN: 0 published, 4012 remaining

@@ -5076,6 +5076,32 @@
     "rarity": "B"
   },
   {
+    "id": "optimization-works-because-no",
+    "text": "'Optimization' works because no one checks. Check.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#optimizationworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-10T18:13:43.406433+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 475,
+    "rarity": "D"
+  },
+  {
     "id": "oversight-is-not-a",
     "text": "'Oversight' is not a goal. It is a branding strategy. Read the code, not the press release.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
