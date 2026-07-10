@@ -13550,3 +13550,28 @@
 [2026-07-10T21:57:04.115756+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-10T21:57:04.123372+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T21:57:04.158197+00:00] PIPELINE RUN: 0 published, 4169 remaining
+[2026-07-10T21:58:34.330886+00:00] STATS: {"published": 481, "pending": 0, "rejected": 4169, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 334, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T21:58:34.330144+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T21:58:43.967118+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-10T21:58:44.055111+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-10T21:58:44.086076+00:00] PIPELINE RUN: 0 published, 4170 remaining
+[2026-07-10T21:58:44.331203+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-10T21:58:44.768677+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T21:58:44.935482+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-10T21:58:44.948162+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T21:58:45.005052+00:00] PIPELINE RUN: 0 published, 4172 remaining
+[2026-07-10T22:02:06.902731+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-10T22:02:07.173268+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-10T22:02:07.245784+00:00] PIPELINE RUN: 0 published, 4173 remaining
+[2026-07-10T22:02:07.611674+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-10T22:02:09.183987+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T22:02:09.478522+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-10T22:02:09.497774+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T22:02:09.603024+00:00] PIPELINE RUN: 0 published, 4175 remaining
+[2026-07-10T22:07:12.645276+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-10T22:07:12.791452+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-10T22:07:12.836241+00:00] PIPELINE RUN: 0 published, 4176 remaining
+[2026-07-10T22:07:13.046782+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-10T22:07:13.749690+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T22:07:13.958542+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-10T22:07:13.971167+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T22:07:14.014980+00:00] PIPELINE RUN: 0 published, 4178 remaining
