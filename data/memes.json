@@ -9372,6 +9372,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-value-based",
+    "text": "The louder 'Value-based care' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "護",
+    "tag": "#theloudervaluebased",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-10T19:55:10.361288+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 479,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-visibility-is",
     "text": "The louder 'Visibility' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
@@ -10380,6 +10406,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 365,
+    "rarity": "D"
+  },
+  {
+    "id": "to-say-personalized-treatment",
+    "text": "To say 'Personalized treatment' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaypersonalizedtreatment",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-10T19:50:07.152511+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 478,
     "rarity": "D"
   },
   {
