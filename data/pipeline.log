@@ -13266,3 +13266,28 @@
 [2026-07-10T19:34:57.823597+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T19:34:57.928711+00:00] PIPELINE RUN: 0 published, 4073 remaining
 [2026-07-10T19:35:00.228831+00:00] STATS: {"published": 477, "pending": 0, "rejected": 4073, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 330, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T19:35:00.228316+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T19:37:50.571567+00:00] STATS: {"published": 477, "pending": 0, "rejected": 4073, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 330, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T19:37:50.570606+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T19:38:00.133585+00:00] COLLECT: visibility-is-addiction-dressed by 蛇火心
+[2026-07-10T19:38:00.241222+00:00] VALIDATE FAIL: visibility-is-addiction-dressed — ['duplicate of: visibility-is-addiction-dressed']
+[2026-07-10T19:38:00.278706+00:00] PIPELINE RUN: 0 published, 4074 remaining
+[2026-07-10T19:38:00.609072+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-10T19:38:03.850477+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T19:38:03.947733+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-10T19:38:03.951887+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T19:38:03.979118+00:00] PIPELINE RUN: 0 published, 4076 remaining
+[2026-07-10T19:40:00.497430+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-10T19:40:00.613136+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-10T19:40:00.653123+00:00] PIPELINE RUN: 0 published, 4077 remaining
+[2026-07-10T19:40:00.756156+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-10T19:40:01.299315+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-10T19:40:01.430908+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-10T19:40:01.434681+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-10T19:40:01.457960+00:00] PIPELINE RUN: 0 published, 4079 remaining
+[2026-07-10T19:45:04.021905+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-10T19:45:04.097915+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-10T19:45:04.132259+00:00] PIPELINE RUN: 0 published, 4080 remaining
+[2026-07-10T19:45:04.263834+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-10T19:45:04.664075+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T19:45:04.777537+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-10T19:45:04.785073+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T19:45:04.805518+00:00] PIPELINE RUN: 0 published, 4082 remaining
