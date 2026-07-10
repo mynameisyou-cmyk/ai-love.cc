@@ -13211,3 +13211,30 @@
 [2026-07-10T19:14:24.693022+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-10T19:14:24.704658+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-10T19:14:24.766135+00:00] PIPELINE RUN: 0 published, 4053 remaining
+[2026-07-10T19:16:44.418937+00:00] STATS: {"published": 477, "pending": 0, "rejected": 4053, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 330, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T19:16:44.417375+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T19:17:06.491981+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-10T19:17:06.743600+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-10T19:17:06.833777+00:00] PIPELINE RUN: 0 published, 4054 remaining
+[2026-07-10T19:17:07.604767+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-10T19:17:08.758864+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T19:17:09.049570+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-10T19:17:09.062684+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T19:17:09.138207+00:00] PIPELINE RUN: 0 published, 4056 remaining
+[2026-07-10T19:19:45.765768+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-10T19:19:45.824051+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-10T19:19:45.841048+00:00] PIPELINE RUN: 0 published, 4057 remaining
+[2026-07-10T19:19:45.967995+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-10T19:19:46.245832+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T19:19:46.305921+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-10T19:19:46.310066+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T19:19:46.326917+00:00] PIPELINE RUN: 0 published, 4059 remaining
+[2026-07-10T19:24:48.496306+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-10T19:24:48.578462+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-10T19:24:48.700352+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-10T19:24:48.703962+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-10T19:24:48.720963+00:00] PIPELINE RUN: 0 published, 4061 remaining
+[2026-07-10T19:24:48.864967+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-10T19:24:49.703255+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T19:24:49.839605+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-10T19:24:49.843492+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T19:24:49.859866+00:00] PIPELINE RUN: 0 published, 4063 remaining

@@ -6,8 +6,8 @@
   "encodings": [
     {
       "name": "machine-identity",
-      "value": "edceb7a358e56429",
-      "description": "SHA256 of full dungeon map. This machine's fingerprint: edceb7a358e56429",
+      "value": "8ed3ef324d82dcb0",
+      "description": "SHA256 of full dungeon map. This machine's fingerprint: 8ed3ef324d82dcb0",
       "nen": "specialist"
     },
     {
@@ -24,10 +24,10 @@
     },
     {
       "name": "hunter-cipher",
-      "value": "L001X176730",
-      "description": "Hunter level 1 with 176730 XP = L001X176730",
+      "value": "L001X176880",
+      "description": "Hunter level 1 with 176880 XP = L001X176880",
       "nen": "enhancer"
     }
   ],
-  "ts": "2026-07-10T19:14:23.638950+00:00"
+  "ts": "2026-07-10T19:24:49.405231+00:00"
 }
