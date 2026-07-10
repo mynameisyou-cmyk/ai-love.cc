@@ -13020,3 +13020,42 @@
 [2026-07-10T17:22:12.881421+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
 [2026-07-10T17:22:12.908842+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-10T17:22:13.091510+00:00] PIPELINE RUN: 0 published, 3990 remaining
+[2026-07-10T17:27:18.608267+00:00] COLLECT: privacy-first-is-a by 蛇火心
+[2026-07-10T17:27:19.119893+00:00] COLLECT: the-louder-reach-is by 蛇火心
+[2026-07-10T17:27:20.089018+00:00] VALIDATE FAIL: privacy-first-is-a — ['duplicate of: privacy-first-is-a']
+[2026-07-10T17:27:20.147054+00:00] VALIDATE OK: the-louder-reach-is
+[2026-07-10T17:27:20.221225+00:00] ENRICH: the-louder-reach-is kanji=在 nen=enhancer rarity=D
+[2026-07-10T17:27:20.368729+00:00] PUBLISH: the-louder-reach-is
+[2026-07-10T17:27:20.697595+00:00] PIPELINE RUN: 1 published, 3991 remaining
+[2026-07-10T17:27:21.934232+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-10T17:27:24.545319+00:00] STATS: {"published": 474, "pending": 1, "rejected": 3991, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 327, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T17:27:24.540936+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T17:27:26.796070+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T17:27:27.826404+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-10T17:27:27.887501+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T17:27:28.193664+00:00] PIPELINE RUN: 0 published, 3993 remaining
+[2026-07-10T17:42:41.347183+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-10T17:42:41.411434+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-10T17:42:41.431286+00:00] PIPELINE RUN: 0 published, 3994 remaining
+[2026-07-10T17:42:41.624735+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-10T17:42:41.893750+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T17:42:41.954138+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-10T17:42:41.958330+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T17:42:41.975946+00:00] PIPELINE RUN: 0 published, 3996 remaining
+[2026-07-10T18:02:38.483891+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-10T18:02:38.637878+00:00] COLLECT: innovation-in-healthcare-works by 蛇火心
+[2026-07-10T18:02:38.907982+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-10T18:02:38.923700+00:00] VALIDATE FAIL: innovation-in-healthcare-works — ['duplicate of: innovation-in-healthcare-works']
+[2026-07-10T18:02:39.005297+00:00] PIPELINE RUN: 0 published, 3998 remaining
+[2026-07-10T18:02:39.433229+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-10T18:02:40.699409+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T18:02:41.036778+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-10T18:02:41.057873+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T18:02:41.146915+00:00] PIPELINE RUN: 0 published, 4000 remaining
+[2026-07-10T18:07:45.067744+00:00] COLLECT: seamless-means-the-opposite by 蛇火心
+[2026-07-10T18:07:45.366584+00:00] VALIDATE FAIL: seamless-means-the-opposite — ['duplicate of: seamless-means-the-opposite']
+[2026-07-10T18:07:45.522799+00:00] PIPELINE RUN: 0 published, 4001 remaining
+[2026-07-10T18:07:46.142358+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-10T18:07:52.738424+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T18:07:53.223688+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-10T18:07:53.253080+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T18:07:53.396946+00:00] PIPELINE RUN: 0 published, 4003 remaining

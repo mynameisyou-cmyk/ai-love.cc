@@ -9138,6 +9138,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-reach-is",
+    "text": "The louder 'Reach' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderreachis",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-10T17:27:19.116966+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 474,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-regulatory-compliance",
     "text": "The louder 'Regulatory compliance' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
