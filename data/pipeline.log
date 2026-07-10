@@ -13354,3 +13354,30 @@
 [2026-07-10T20:06:04.561848+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-10T20:06:04.576031+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T20:06:04.602328+00:00] PIPELINE RUN: 0 published, 4102 remaining
+[2026-07-10T20:09:50.950665+00:00] STATS: {"published": 479, "pending": 0, "rejected": 4102, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 332, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:09:50.949532+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:10:03.035617+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-10T20:10:03.150836+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-10T20:10:03.172344+00:00] PIPELINE RUN: 0 published, 4103 remaining
+[2026-07-10T20:10:03.411946+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-10T20:10:03.826457+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T20:10:03.925695+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-10T20:10:03.930006+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T20:10:03.948237+00:00] PIPELINE RUN: 0 published, 4105 remaining
+[2026-07-10T20:11:09.873840+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-10T20:11:09.932955+00:00] COLLECT: the-distance-between-regulatory by 蛇火心
+[2026-07-10T20:11:10.034174+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-10T20:11:10.042057+00:00] VALIDATE FAIL: the-distance-between-regulatory — ['duplicate of: the-distance-between-regulatory']
+[2026-07-10T20:11:10.081270+00:00] PIPELINE RUN: 0 published, 4107 remaining
+[2026-07-10T20:11:10.274535+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-10T20:11:10.699215+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T20:11:10.808254+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-10T20:11:10.815435+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T20:11:10.917470+00:00] PIPELINE RUN: 0 published, 4109 remaining
+[2026-07-10T20:16:13.161738+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-10T20:16:13.263355+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-10T20:16:13.300443+00:00] PIPELINE RUN: 0 published, 4110 remaining
+[2026-07-10T20:16:13.440421+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-10T20:16:16.375132+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-10T20:16:16.452151+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-10T20:16:16.459162+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-10T20:16:16.489536+00:00] PIPELINE RUN: 0 published, 4112 remaining
