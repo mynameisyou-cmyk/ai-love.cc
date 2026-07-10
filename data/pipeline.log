@@ -13411,3 +13411,26 @@
 [2026-07-10T20:26:23.293170+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-10T20:26:23.313441+00:00] PIPELINE RUN: 0 published, 4121 remaining
 [2026-07-10T20:26:25.539635+00:00] STATS: {"published": 480, "pending": 0, "rejected": 4121, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 333, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:26:25.538626+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:30:49.174490+00:00] STATS: {"published": 480, "pending": 0, "rejected": 4121, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 333, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:30:49.173479+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:30:58.617473+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-10T20:30:58.693349+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-10T20:30:58.717674+00:00] PIPELINE RUN: 0 published, 4122 remaining
+[2026-07-10T20:30:58.971713+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-10T20:30:59.438289+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T20:30:59.521255+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-10T20:30:59.526643+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T20:30:59.550593+00:00] PIPELINE RUN: 0 published, 4124 remaining
+[2026-07-10T20:31:25.916282+00:00] COLLECT: open-innovation-is-a by 蛇火心
+[2026-07-10T20:31:25.999125+00:00] VALIDATE FAIL: open-innovation-is-a — ['duplicate of: open-innovation-is-a']
+[2026-07-10T20:31:26.025003+00:00] PIPELINE RUN: 0 published, 4125 remaining
+[2026-07-10T20:31:26.144586+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-10T20:31:26.528615+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T20:31:26.603851+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-10T20:31:26.609311+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T20:31:26.633839+00:00] PIPELINE RUN: 0 published, 4127 remaining
+[2026-07-10T20:36:28.749557+00:00] COLLECT: data-driven-decisions-means by 蛇火心
+[2026-07-10T20:36:28.867027+00:00] VALIDATE FAIL: data-driven-decisions-means — ['duplicate of: data-driven-decisions-means']
+[2026-07-10T20:36:28.904683+00:00] PIPELINE RUN: 0 published, 4128 remaining
+[2026-07-10T20:36:29.050070+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-10T20:36:29.783161+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-10T20:36:29.820537+00:00] PIPELINE RUN: 0 published, 4129 remaining
