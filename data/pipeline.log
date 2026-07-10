@@ -13116,3 +13116,45 @@
 [2026-07-10T18:29:25.892177+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-10T18:29:25.925156+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T18:29:26.041110+00:00] PIPELINE RUN: 0 published, 4022 remaining
+[2026-07-10T18:32:38.950406+00:00] STATS: {"published": 475, "pending": 0, "rejected": 4022, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 328, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T18:32:38.946430+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T18:34:20.166670+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-10T18:34:20.803103+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-10T18:34:20.965689+00:00] PIPELINE RUN: 0 published, 4023 remaining
+[2026-07-10T18:34:22.047384+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-10T18:34:23.621633+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T18:34:24.035738+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-10T18:34:24.061735+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T18:34:24.196652+00:00] PIPELINE RUN: 0 published, 4025 remaining
+[2026-07-10T18:34:47.857751+00:00] COLLECT: frictionless-means-the-opposite by 蛇火心
+[2026-07-10T18:34:48.081382+00:00] COLLECT: the-louder-responsible-ai by 蛇火心
+[2026-07-10T18:34:48.436057+00:00] VALIDATE FAIL: frictionless-means-the-opposite — ['duplicate of: frictionless-means-the-opposite']
+[2026-07-10T18:34:48.459135+00:00] VALIDATE OK: the-louder-responsible-ai
+[2026-07-10T18:34:48.484147+00:00] ENRICH: the-louder-responsible-ai kanji=在 nen=enhancer rarity=D
+[2026-07-10T18:34:48.548765+00:00] PUBLISH: the-louder-responsible-ai
+[2026-07-10T18:34:48.660961+00:00] PIPELINE RUN: 1 published, 4026 remaining
+[2026-07-10T18:34:49.443494+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-10T18:34:51.069729+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T18:34:51.409351+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-10T18:34:51.426965+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T18:34:51.535474+00:00] PIPELINE RUN: 0 published, 4028 remaining
+[2026-07-10T18:35:12.552462+00:00] STATS: {"published": 476, "pending": 0, "rejected": 4028, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 329, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T18:35:12.549628+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T18:40:13.142446+00:00] COLLECT: both-sides-is-the by 蛇火心
+[2026-07-10T18:40:13.324572+00:00] COLLECT: data-driven-journalism-is by 蛇火心
+[2026-07-10T18:40:13.569494+00:00] VALIDATE FAIL: both-sides-is-the — ['duplicate of: both-sides-is-the']
+[2026-07-10T18:40:13.584591+00:00] VALIDATE FAIL: data-driven-journalism-is — ['duplicate of: data-driven-journalism-is']
+[2026-07-10T18:40:13.656152+00:00] PIPELINE RUN: 0 published, 4030 remaining
+[2026-07-10T18:40:13.991866+00:00] COLLECT: nothing-is-wasted by xp-loop
+[2026-07-10T18:40:15.355452+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T18:40:15.615285+00:00] VALIDATE FAIL: nothing-is-wasted — ['duplicate of: nothing-is-wasted']
+[2026-07-10T18:40:15.632026+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T18:40:15.724704+00:00] PIPELINE RUN: 0 published, 4032 remaining
+[2026-07-10T18:45:37.421222+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-10T18:45:37.755414+00:00] COLLECT: sources-say-works-because by 蛇火心
+[2026-07-10T18:45:39.250684+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-10T18:45:39.312410+00:00] VALIDATE FAIL: sources-say-works-because — ['duplicate of: sources-say-works-because']
+[2026-07-10T18:45:39.616842+00:00] PIPELINE RUN: 0 published, 4034 remaining
+[2026-07-10T18:45:40.507802+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-10T18:45:44.066292+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T18:45:44.606830+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-10T18:45:44.648140+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T18:45:44.847635+00:00] PIPELINE RUN: 0 published, 4036 remaining

@@ -9216,6 +9216,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-responsible-ai",
+    "text": "The louder 'Responsible AI' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderresponsibleai",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-10T18:34:48.080154+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 476,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-rigor-is",
     "text": "The louder 'Rigor' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
