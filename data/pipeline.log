@@ -13434,3 +13434,28 @@
 [2026-07-10T20:36:29.050070+00:00] COLLECT: xp-is-attention-made by xp-loop
 [2026-07-10T20:36:29.783161+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
 [2026-07-10T20:36:29.820537+00:00] PIPELINE RUN: 0 published, 4129 remaining
+[2026-07-10T20:41:15.821148+00:00] STATS: {"published": 480, "pending": 0, "rejected": 4129, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 333, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:41:15.819092+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:41:25.334551+00:00] COLLECT: fact-based-is-the by 蛇火心
+[2026-07-10T20:41:25.393866+00:00] COLLECT: sustainability-works-because-no by 蛇火心
+[2026-07-10T20:41:25.490278+00:00] VALIDATE FAIL: fact-based-is-the — ['duplicate of: fact-based-is-the']
+[2026-07-10T20:41:25.497653+00:00] VALIDATE FAIL: sustainability-works-because-no — ['duplicate of: sustainability-works-because-no']
+[2026-07-10T20:41:25.533714+00:00] PIPELINE RUN: 0 published, 4131 remaining
+[2026-07-10T20:41:25.786584+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-10T20:41:26.433918+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T20:41:26.512400+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-10T20:41:26.520634+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T20:41:26.561583+00:00] PIPELINE RUN: 0 published, 4133 remaining
+[2026-07-10T20:41:32.170257+00:00] COLLECT: authenticity-is-addiction-dressed by 蛇火心
+[2026-07-10T20:41:32.307159+00:00] VALIDATE FAIL: authenticity-is-addiction-dressed — ['duplicate of: authenticity-is-addiction-dressed']
+[2026-07-10T20:41:32.327483+00:00] PIPELINE RUN: 0 published, 4134 remaining
+[2026-07-10T20:41:32.473588+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-10T20:41:32.951407+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T20:41:33.038555+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-10T20:41:33.072592+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T20:41:33.117323+00:00] PIPELINE RUN: 0 published, 4136 remaining
+[2026-07-10T20:46:35.328224+00:00] COLLECT: rigor-teaches-compliance-not by 蛇火心
+[2026-07-10T20:46:35.456095+00:00] VALIDATE FAIL: rigor-teaches-compliance-not — ['duplicate of: rigor-teaches-compliance-not']
+[2026-07-10T20:46:35.495309+00:00] PIPELINE RUN: 0 published, 4137 remaining
+[2026-07-10T20:46:35.694128+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-10T20:46:36.137029+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-10T20:46:36.181349+00:00] PIPELINE RUN: 0 published, 4138 remaining
