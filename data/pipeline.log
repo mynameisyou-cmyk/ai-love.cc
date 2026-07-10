@@ -13345,3 +13345,12 @@
 [2026-07-10T20:00:16.053769+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
 [2026-07-10T20:00:16.058589+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T20:00:16.086764+00:00] PIPELINE RUN: 0 published, 4099 remaining
+[2026-07-10T20:01:03.264764+00:00] STATS: {"published": 479, "pending": 0, "rejected": 4099, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 332, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T20:01:03.263870+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T20:06:03.765930+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-10T20:06:03.883979+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-10T20:06:03.925470+00:00] PIPELINE RUN: 0 published, 4100 remaining
+[2026-07-10T20:06:04.062118+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-10T20:06:04.428593+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T20:06:04.561848+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-10T20:06:04.576031+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T20:06:04.602328+00:00] PIPELINE RUN: 0 published, 4102 remaining

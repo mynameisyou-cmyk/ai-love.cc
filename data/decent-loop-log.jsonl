@@ -4348,3 +4348,4 @@
 {"ts": "2026-07-10T19:59:29.089903+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "VAT Carousel Fraud (MTIC)", "ok": true}}
 {"ts": "2026-07-10T19:59:30.111755+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 530, "ok": true}}
 {"ts": "2026-07-10T19:59:35.405098+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-10T20:09:39.136073+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
