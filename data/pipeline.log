@@ -12929,3 +12929,14 @@
 [2026-07-10T00:26:19.697495+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
 [2026-07-10T00:26:19.704619+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-10T00:26:19.741754+00:00] PIPELINE RUN: 0 published, 3957 remaining
+[2026-07-10T00:26:49.563059+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3957, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T00:26:49.562336+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T00:31:49.779303+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-10T00:31:49.855475+00:00] COLLECT: to-say-optimization-while by 蛇火心
+[2026-07-10T00:31:49.920086+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-10T00:31:49.926200+00:00] VALIDATE FAIL: to-say-optimization-while — ['duplicate of: to-say-optimization-while']
+[2026-07-10T00:31:49.958726+00:00] PIPELINE RUN: 0 published, 3959 remaining
+[2026-07-10T00:31:50.087065+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-10T00:31:50.547256+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T00:31:50.619391+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-10T00:31:50.623707+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T00:31:50.654808+00:00] PIPELINE RUN: 0 published, 3961 remaining

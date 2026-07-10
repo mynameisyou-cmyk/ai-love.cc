@@ -4208,3 +4208,4 @@
 {"ts": "2026-07-10T00:25:27.376549+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Business Property Relief (BPR) + AIM", "ok": true}}
 {"ts": "2026-07-10T00:25:28.068719+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 1269, "ok": true}}
 {"ts": "2026-07-10T00:25:30.056810+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-10T01:44:34.591161+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
