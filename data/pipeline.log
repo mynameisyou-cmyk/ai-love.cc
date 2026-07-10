@@ -12993,3 +12993,30 @@
 [2026-07-10T07:22:16.990589+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-10T07:22:17.155039+00:00] PIPELINE RUN: 0 published, 3980 remaining
 [2026-07-10T07:22:18.054100+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3980, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T07:22:18.046103+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T17:16:50.188594+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3980, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T17:16:50.187947+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T17:17:00.652375+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-10T17:17:00.737336+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-10T17:17:00.761323+00:00] PIPELINE RUN: 0 published, 3981 remaining
+[2026-07-10T17:17:00.977002+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-10T17:17:01.430494+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T17:17:01.511660+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-10T17:17:01.516825+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T17:17:01.540125+00:00] PIPELINE RUN: 0 published, 3983 remaining
+[2026-07-10T17:17:06.598915+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-10T17:17:06.692715+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-10T17:17:06.721242+00:00] PIPELINE RUN: 0 published, 3984 remaining
+[2026-07-10T17:17:06.865034+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-10T17:17:07.436752+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T17:17:07.544027+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-10T17:17:07.550667+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T17:17:07.583651+00:00] PIPELINE RUN: 0 published, 3986 remaining
+[2026-07-10T17:22:09.965408+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-10T17:22:10.159837+00:00] COLLECT: the-distance-between-developing by 蛇火心
+[2026-07-10T17:22:10.458044+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-10T17:22:10.482251+00:00] VALIDATE FAIL: the-distance-between-developing — ['duplicate of: the-distance-between-developing']
+[2026-07-10T17:22:10.568857+00:00] PIPELINE RUN: 0 published, 3988 remaining
+[2026-07-10T17:22:10.995950+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-10T17:22:12.558939+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T17:22:12.881421+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-10T17:22:12.908842+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T17:22:13.091510+00:00] PIPELINE RUN: 0 published, 3990 remaining
