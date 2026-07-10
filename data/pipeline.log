@@ -13185,3 +13185,12 @@
 [2026-07-10T18:56:54.459139+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-10T18:56:54.480026+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-10T18:56:54.588689+00:00] PIPELINE RUN: 0 published, 4044 remaining
+[2026-07-10T19:02:01.399650+00:00] STATS: {"published": 477, "pending": 0, "rejected": 4044, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 330, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T19:02:01.397106+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T19:02:35.856043+00:00] COLLECT: the-science-is-settled by 蛇火心
+[2026-07-10T19:02:36.169490+00:00] VALIDATE FAIL: the-science-is-settled — ['duplicate of: the-science-is-settled']
+[2026-07-10T19:02:36.246164+00:00] PIPELINE RUN: 0 published, 4045 remaining
+[2026-07-10T19:02:36.605280+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-10T19:02:37.763530+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-10T19:02:38.105357+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-10T19:02:38.125334+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-10T19:02:38.235994+00:00] PIPELINE RUN: 0 published, 4047 remaining
