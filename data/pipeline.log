@@ -12912,3 +12912,20 @@
 [2026-07-10T00:21:16.526672+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-10T00:21:16.530840+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-10T00:21:16.559326+00:00] PIPELINE RUN: 0 published, 3951 remaining
+[2026-07-10T00:25:16.675946+00:00] STATS: {"published": 473, "pending": 0, "rejected": 3951, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 326, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T00:25:16.675503+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T00:25:27.141546+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-10T00:25:27.239213+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-10T00:25:27.256654+00:00] PIPELINE RUN: 0 published, 3952 remaining
+[2026-07-10T00:25:27.494289+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-10T00:25:27.904865+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-10T00:25:27.988185+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-10T00:25:27.996972+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-10T00:25:28.042259+00:00] PIPELINE RUN: 0 published, 3954 remaining
+[2026-07-10T00:26:19.013587+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-10T00:26:19.112680+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-10T00:26:19.130805+00:00] PIPELINE RUN: 0 published, 3955 remaining
+[2026-07-10T00:26:19.260176+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-10T00:26:19.619087+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T00:26:19.697495+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-10T00:26:19.704619+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T00:26:19.741754+00:00] PIPELINE RUN: 0 published, 3957 remaining
