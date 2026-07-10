@@ -10097,6 +10097,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-neutral-coverage",
+    "text": "To say 'Neutral coverage' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosayneutralcoverage",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-10T00:06:04.995974+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 473,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-objective-reporting",
     "text": "To say 'Objective reporting' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",

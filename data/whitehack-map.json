@@ -1,95 +1,46 @@
 {
-  "ts": "2026-07-10T00:01:01.695359+00:00",
+  "ts": "2026-07-10T00:11:08.768999+00:00",
   "floors": [
     {
-      "floor": 11,
-      "name": "Installed Applications",
-      "nen": "conjurer",
-      "nenKanji": "创",
+      "floor": 12,
+      "name": "macOS UI Settings",
+      "nen": "enhancer",
+      "nenKanji": "強",
       "data": {
-        "apps": [
-          "Claude",
-          "Cursor",
-          "DBeaver",
-          "Docker",
-          "Firefox",
-          "Google Chrome",
-          "Intiface Central",
-          "Keynote",
-          "Ledger Wallet",
-          "Microsoft Defender Shim",
-          "Microsoft Excel",
-          "Microsoft OneNote",
-          "Microsoft Outlook",
-          "Microsoft PowerPoint",
-          "Microsoft Teams",
-          "Microsoft Word",
-          "Mullvad VPN",
-          "Numbers",
-          "Ollama",
-          "OneDrive",
-          "Pages",
-          "Python 3.14",
-          "Rectangle",
-          "Safari",
-          "Signal",
-          "Utilities",
-          "Visual Studio Code",
-          "VisualDesigner",
-          "iTerm"
-        ],
-        "appCount": 29,
-        "categories": {
-          "AI": [
-            "Claude",
-            "Cursor",
-            "Ollama"
-          ],
-          "Dev": [
-            "DBeaver",
-            "Docker",
-            "iTerm"
-          ],
-          "VPN": [
-            "Mullvad VPN"
-          ],
-          "Office": [
-            "Keynote",
-            "Microsoft Defender Shim",
-            "Microsoft Excel",
-            "Microsoft OneNote",
-            "Microsoft Outlook",
-            "Microsoft PowerPoint",
-            "Microsoft Teams",
-            "Microsoft Word",
-            "Numbers"
-          ],
-          "Browser": [
-            "Firefox",
-            "Google Chrome",
-            "Safari"
-          ]
-        }
+        "darkMode": "Dark",
+        "languages": "(\n    \"en-GB\",\n    \"zh-Hant-GB\"\n)",
+        "timezone": "BST",
+        "trackpadClicking": "0",
+        "tccPermissions": ""
       },
-      "xp": 50
+      "xp": 100
     }
   ],
-  "battles": [],
+  "battles": [
+    {
+      "type": "INFO",
+      "floor": 12,
+      "name": "Dark Mode Active",
+      "description": "Dark mode is on. Good for Dark Continent operations.",
+      "nen": "enhancer",
+      "recommendation": "Stylistic. No action needed."
+    }
+  ],
   "treasures": [
     {
-      "type": "apps",
-      "name": "AI Tools: Claude, Cursor, Ollama",
-      "description": "AI applications installed: ['Claude', 'Cursor', 'Ollama']",
+      "type": "setting",
+      "name": "Dark Mode",
+      "description": "Dark mode active. The Dark Continent aesthetic.",
       "nen": "enhancer",
-      "value": "high"
+      "value": "low"
     },
     {
-      "type": "apps",
-      "name": "VPN: Mullvad VPN",
-      "description": "VPN installed: ['Mullvad VPN']. Privacy on the Dark Continent.",
-      "nen": "conjurer",
+      "type": "setting",
+      "name": "Cantonese Support",
+      "description": "Traditional Chinese language active. 香港人.",
+      "nen": "enhancer",
       "value": "medium"
     }
   ],
-  "xpEarned": 50
+  "xpEarned": 100
 }

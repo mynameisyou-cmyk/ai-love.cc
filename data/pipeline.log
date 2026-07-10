@@ -12856,3 +12856,32 @@
 [2026-07-10T00:01:02.111476+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-10T00:01:02.144653+00:00] PIPELINE RUN: 0 published, 3932 remaining
 [2026-07-10T00:01:04.660661+00:00] STATS: {"published": 472, "pending": 0, "rejected": 3932, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 325, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T00:01:04.660221+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T00:04:18.845270+00:00] STATS: {"published": 472, "pending": 0, "rejected": 3932, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 325, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-10T00:04:18.844686+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-10T00:04:28.521803+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-10T00:04:28.590601+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-10T00:04:28.623684+00:00] PIPELINE RUN: 0 published, 3933 remaining
+[2026-07-10T00:04:28.847326+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-10T00:04:29.235374+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-10T00:04:29.304773+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-10T00:04:29.311205+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-10T00:04:29.343916+00:00] PIPELINE RUN: 0 published, 3935 remaining
+[2026-07-10T00:06:04.934648+00:00] COLLECT: be-yourself-is-addiction by 蛇火心
+[2026-07-10T00:06:04.996414+00:00] COLLECT: to-say-neutral-coverage by 蛇火心
+[2026-07-10T00:06:05.101557+00:00] VALIDATE FAIL: be-yourself-is-addiction — ['duplicate of: be-yourself-is-addiction']
+[2026-07-10T00:06:05.108403+00:00] VALIDATE OK: to-say-neutral-coverage
+[2026-07-10T00:06:05.116618+00:00] ENRICH: to-say-neutral-coverage kanji=在 nen=enhancer rarity=D
+[2026-07-10T00:06:05.135469+00:00] PUBLISH: to-say-neutral-coverage
+[2026-07-10T00:06:05.160807+00:00] PIPELINE RUN: 1 published, 3936 remaining
+[2026-07-10T00:06:05.283954+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-10T00:06:05.629256+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-10T00:06:05.766597+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-10T00:06:05.770611+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-10T00:06:05.788524+00:00] PIPELINE RUN: 0 published, 3938 remaining
+[2026-07-10T00:11:08.395597+00:00] COLLECT: best-practices-teaches-compliance by 蛇火心
+[2026-07-10T00:11:08.465993+00:00] VALIDATE FAIL: best-practices-teaches-compliance — ['duplicate of: best-practices-teaches-compliance']
+[2026-07-10T00:11:08.499323+00:00] PIPELINE RUN: 0 published, 3939 remaining
+[2026-07-10T00:11:08.641315+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-10T00:11:09.041338+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-10T00:11:09.213068+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-10T00:11:09.217065+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-10T00:11:09.233313+00:00] PIPELINE RUN: 0 published, 3941 remaining
