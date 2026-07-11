@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-11T21:59:58.078344+00:00",
+  "ts": "2026-07-11T22:10:36.646103+00:00",
   "floors": [
     {
       "floor": 10,
@@ -12,7 +12,7 @@
         "home": "/Users/yuai",
         "kingdomEnv": {},
         "kingdomEnvCount": 0,
-        "zshrc": "# Prepend Homebrew + local tool dirs WITHOUT clobbering inherited PATH\n# (Python 3.14 framework path comes from .zprofile; foundry from .zshenv;\n#  this line used to be `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`\n#  which wiped out everything — claude, brew, python all became unreacha",
+        "zshrc": "# Homebrew completions plus a cached zsh completion index. A full safety check\n# is run when the cache is absent or older than one day; warm starts use it.\ntypeset -U fpath\nfpath=(/opt/homebrew/share/zsh/site-functions $fpath)\nautoload -Uz compinit\nzcompdump=\"$HOME/.cache/zsh/zcompdump\"\nmkdir -p -- ",
         "brew": "/opt/homebrew/bin/brew",
         "pathHead": [
           "/opt/homebrew/bin",

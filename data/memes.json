@@ -4378,6 +4378,32 @@
     "rarity": "D"
   },
   {
+    "id": "national-security-works-because",
+    "text": "'National security' works because no one checks. Check.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#nationalsecurityworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-11T22:10:25.378735+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 487,
+    "rarity": "D"
+  },
+  {
     "id": "neutral-coverage-is-a",
     "text": "'Neutral coverage' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",

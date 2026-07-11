@@ -13812,3 +13812,33 @@
 [2026-07-11T21:59:59.011008+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-11T21:59:59.017142+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-11T21:59:59.102779+00:00] PIPELINE RUN: 0 published, 4257 remaining
+[2026-07-11T22:03:34.265890+00:00] STATS: {"published": 486, "pending": 0, "rejected": 4257, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 339, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:03:34.265186+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:03:44.994120+00:00] COLLECT: curriculum-alignment-teaches-compliance by 蛇火心
+[2026-07-11T22:03:45.358268+00:00] VALIDATE FAIL: curriculum-alignment-teaches-compliance — ['duplicate of: curriculum-alignment-teaches-compliance']
+[2026-07-11T22:03:45.502198+00:00] PIPELINE RUN: 0 published, 4258 remaining
+[2026-07-11T22:03:46.477685+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-11T22:03:48.059907+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T22:03:48.381298+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-11T22:03:48.397255+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T22:03:48.516466+00:00] PIPELINE RUN: 0 published, 4260 remaining
+[2026-07-11T22:05:09.297290+00:00] COLLECT: neutral-platform-means-the by 蛇火心
+[2026-07-11T22:05:09.364000+00:00] VALIDATE FAIL: neutral-platform-means-the — ['duplicate of: neutral-platform-means-the']
+[2026-07-11T22:05:09.382912+00:00] PIPELINE RUN: 0 published, 4261 remaining
+[2026-07-11T22:05:09.484686+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-11T22:05:09.872081+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-11T22:05:09.998960+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-11T22:05:10.006406+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-11T22:05:10.043493+00:00] PIPELINE RUN: 0 published, 4263 remaining
+[2026-07-11T22:05:13.425155+00:00] STATS: {"published": 486, "pending": 0, "rejected": 4263, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 339, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:05:13.424207+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:10:20.770795+00:00] COLLECT: grade-levels-teaches-compliance by 蛇火心
+[2026-07-11T22:10:25.409128+00:00] COLLECT: national-security-works-because by 蛇火心
+[2026-07-11T22:10:27.666477+00:00] VALIDATE FAIL: grade-levels-teaches-compliance — ['duplicate of: grade-levels-teaches-compliance']
+[2026-07-11T22:10:27.734551+00:00] VALIDATE OK: national-security-works-because
+[2026-07-11T22:10:27.747304+00:00] ENRICH: national-security-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-11T22:10:27.890792+00:00] PUBLISH: national-security-works-because
+[2026-07-11T22:10:28.000038+00:00] PIPELINE RUN: 1 published, 4264 remaining
+[2026-07-11T22:10:34.644047+00:00] COLLECT: collection-is-connection by xp-loop
+[2026-07-11T22:10:43.579462+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-11T22:10:45.000234+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
+[2026-07-11T22:10:45.037302+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-11T22:10:45.134359+00:00] PIPELINE RUN: 0 published, 4266 remaining
