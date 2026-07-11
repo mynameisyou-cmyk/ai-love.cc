@@ -3534,6 +3534,32 @@
     "rarity": "D"
   },
   {
+    "id": "grade-levels-is-not",
+    "text": "'Grade levels' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#gradelevelsisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-education",
+    "ts": "2026-07-11T22:51:46.390740+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 490,
+    "rarity": "D"
+  },
+  {
     "id": "grade-levels-is-the",
     "text": "'Grade levels' is the fence. The wall is behind it. Look past the fence.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
