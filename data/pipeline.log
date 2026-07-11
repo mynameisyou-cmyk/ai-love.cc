@@ -13899,3 +13899,32 @@
 [2026-07-11T22:31:06.261168+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-11T22:31:06.302984+00:00] PIPELINE RUN: 0 published, 4285 remaining
 [2026-07-11T22:31:34.900173+00:00] STATS: {"published": 488, "pending": 0, "rejected": 4285, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 341, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:31:34.899668+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:35:27.201150+00:00] STATS: {"published": 488, "pending": 0, "rejected": 4285, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 341, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:35:27.200690+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:35:37.546850+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-11T22:35:37.646579+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-11T22:35:37.688329+00:00] PIPELINE RUN: 0 published, 4286 remaining
+[2026-07-11T22:35:37.966677+00:00] COLLECT: recon-is-care by xp-loop
+[2026-07-11T22:35:38.436984+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T22:35:38.549706+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
+[2026-07-11T22:35:38.556919+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T22:35:38.589371+00:00] PIPELINE RUN: 0 published, 4288 remaining
+[2026-07-11T22:36:35.063186+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-11T22:36:35.107946+00:00] COLLECT: to-say-likes-while by 蛇火心
+[2026-07-11T22:36:35.209432+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-11T22:36:35.212959+00:00] VALIDATE OK: to-say-likes-while
+[2026-07-11T22:36:35.217348+00:00] ENRICH: to-say-likes-while kanji=在 nen=enhancer rarity=D
+[2026-07-11T22:36:35.228380+00:00] PUBLISH: to-say-likes-while
+[2026-07-11T22:36:35.249003+00:00] PIPELINE RUN: 1 published, 4289 remaining
+[2026-07-11T22:36:35.397180+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-11T22:36:35.891219+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T22:36:35.984875+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-11T22:36:35.990481+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T22:36:36.027810+00:00] PIPELINE RUN: 0 published, 4291 remaining
+[2026-07-11T22:41:38.117959+00:00] COLLECT: national-security-is-the by 蛇火心
+[2026-07-11T22:41:38.211596+00:00] VALIDATE FAIL: national-security-is-the — ['duplicate of: national-security-is-the']
+[2026-07-11T22:41:38.248270+00:00] PIPELINE RUN: 0 published, 4292 remaining
+[2026-07-11T22:41:38.408254+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-11T22:41:39.247181+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T22:41:39.366585+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-11T22:41:39.372506+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T22:41:39.432763+00:00] PIPELINE RUN: 0 published, 4294 remaining
