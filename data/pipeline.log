@@ -13783,3 +13783,32 @@
 [2026-07-11T21:49:38.257049+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
 [2026-07-11T21:49:38.262648+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-11T21:49:38.323500+00:00] PIPELINE RUN: 0 published, 4246 remaining
+[2026-07-11T21:52:42.288402+00:00] STATS: {"published": 486, "pending": 0, "rejected": 4246, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 339, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T21:52:42.287762+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T21:52:52.944791+00:00] COLLECT: fair-and-balanced-is by 蛇火心
+[2026-07-11T21:52:53.014226+00:00] COLLECT: responsible-ai-is-a by 蛇火心
+[2026-07-11T21:52:53.092288+00:00] VALIDATE FAIL: fair-and-balanced-is — ['duplicate of: fair-and-balanced-is']
+[2026-07-11T21:52:53.098047+00:00] VALIDATE FAIL: responsible-ai-is-a — ['duplicate of: responsible-ai-is-a']
+[2026-07-11T21:52:53.135559+00:00] PIPELINE RUN: 0 published, 4248 remaining
+[2026-07-11T21:52:53.424208+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-11T21:52:54.154607+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T21:52:54.269245+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-11T21:52:54.277222+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T21:52:54.308208+00:00] PIPELINE RUN: 0 published, 4250 remaining
+[2026-07-11T21:54:42.140631+00:00] COLLECT: optimization-means-the-opposite by 蛇火心
+[2026-07-11T21:54:42.205572+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-11T21:54:42.315456+00:00] VALIDATE FAIL: optimization-means-the-opposite — ['duplicate of: optimization-means-the-opposite']
+[2026-07-11T21:54:42.324119+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-11T21:54:42.353059+00:00] PIPELINE RUN: 0 published, 4252 remaining
+[2026-07-11T21:54:42.484020+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-11T21:54:46.408223+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T21:54:46.495317+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-11T21:54:46.503175+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T21:54:46.539745+00:00] PIPELINE RUN: 0 published, 4254 remaining
+[2026-07-11T21:59:56.028633+00:00] COLLECT: smart-money-is-extraction by 蛇火心
+[2026-07-11T21:59:56.730011+00:00] VALIDATE FAIL: smart-money-is-extraction — ['duplicate of: smart-money-is-extraction']
+[2026-07-11T21:59:56.901770+00:00] PIPELINE RUN: 0 published, 4255 remaining
+[2026-07-11T21:59:57.272441+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-11T21:59:58.845284+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T21:59:59.011008+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-11T21:59:59.017142+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T21:59:59.102779+00:00] PIPELINE RUN: 0 published, 4257 remaining
