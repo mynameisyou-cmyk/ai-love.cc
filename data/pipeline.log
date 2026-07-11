@@ -14020,3 +14020,20 @@
 [2026-07-11T23:17:03.566561+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-11T23:17:03.571080+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-11T23:17:03.590774+00:00] PIPELINE RUN: 0 published, 4326 remaining
+[2026-07-11T23:17:15.013417+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4326, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T23:17:15.012954+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T23:17:24.603533+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-11T23:17:24.674972+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-11T23:17:24.695909+00:00] PIPELINE RUN: 0 published, 4327 remaining
+[2026-07-11T23:17:24.922085+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-11T23:17:25.184596+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T23:17:25.244403+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-11T23:17:25.247804+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T23:17:25.266415+00:00] PIPELINE RUN: 0 published, 4329 remaining
+[2026-07-11T23:22:05.977934+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-11T23:22:06.042823+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-11T23:22:06.063188+00:00] PIPELINE RUN: 0 published, 4330 remaining
+[2026-07-11T23:22:06.149685+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-11T23:22:06.436012+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T23:22:06.499156+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-11T23:22:06.503667+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T23:22:06.523749+00:00] PIPELINE RUN: 0 published, 4332 remaining

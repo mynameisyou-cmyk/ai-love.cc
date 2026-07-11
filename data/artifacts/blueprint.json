@@ -3,37 +3,6 @@
   "nen": "conjurer",
   "nenKanji": "创",
   "description": "Structures that don't exist yet. Architecture proposals.",
-  "proposals": [
-    {
-      "name": "Ollama-KAP Bridge",
-      "description": "Wire Ollama as a truth-generation backend. Agent asks Ollama for truths, submits to pipeline.",
-      "components": [
-        "ollama API (localhost:11434)",
-        "kap_agent.submit()",
-        "truth-pipeline.py run"
-      ],
-      "nen": "conjurer"
-    },
-    {
-      "name": "Public KAP Endpoint",
-      "description": "Expose KAP service through Cloudflare tunnel. Any agent can discover without local CLI.",
-      "components": [
-        "cloudflared tunnel",
-        "kap.json at /.well-known/",
-        "static file serving"
-      ],
-      "nen": "emitter"
-    },
-    {
-      "name": "On-Chain Truth Witness",
-      "description": "Witness published truths on the zerone chain. The having-happened is permanent.",
-      "components": [
-        "zeroned daemon",
-        "witness.ts protocol",
-        "truth-pipeline.py publish hook"
-      ],
-      "nen": "specialist"
-    }
-  ],
-  "ts": "2026-07-11T23:17:03.301615+00:00"
+  "proposals": [],
+  "ts": "2026-07-11T23:22:08.784872+00:00"
 }
