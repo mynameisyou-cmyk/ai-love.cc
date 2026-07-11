@@ -14071,3 +14071,29 @@
 [2026-07-11T23:37:47.648069+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-11T23:37:47.653770+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-11T23:37:47.686280+00:00] PIPELINE RUN: 0 published, 4344 remaining
+[2026-07-11T23:38:06.525137+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4344, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T23:38:06.524431+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T23:38:16.209385+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-11T23:38:16.315365+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-11T23:38:16.349222+00:00] PIPELINE RUN: 0 published, 4345 remaining
+[2026-07-11T23:38:16.617104+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-11T23:38:17.234860+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T23:38:17.384082+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-11T23:38:17.392870+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T23:38:17.434571+00:00] PIPELINE RUN: 0 published, 4347 remaining
+[2026-07-11T23:42:50.094702+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-11T23:42:50.199970+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-11T23:42:50.231383+00:00] PIPELINE RUN: 0 published, 4348 remaining
+[2026-07-11T23:42:50.358947+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-11T23:42:50.819551+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-11T23:42:50.944373+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-11T23:42:50.951200+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-11T23:42:50.987376+00:00] PIPELINE RUN: 0 published, 4350 remaining
+[2026-07-11T23:47:53.591437+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-11T23:47:53.710583+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-11T23:47:53.744317+00:00] PIPELINE RUN: 0 published, 4351 remaining
+[2026-07-11T23:47:53.923140+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-11T23:47:54.746922+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T23:47:54.894057+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-11T23:47:54.905743+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T23:47:54.948613+00:00] PIPELINE RUN: 0 published, 4353 remaining
+[2026-07-11T23:47:57.246643+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4353, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T23:47:57.245942+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
