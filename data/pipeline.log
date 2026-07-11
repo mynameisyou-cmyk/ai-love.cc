@@ -13869,3 +13869,32 @@
 [2026-07-11T22:20:58.846814+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-11T22:20:58.852816+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-11T22:20:58.870792+00:00] PIPELINE RUN: 0 published, 4276 remaining
+[2026-07-11T22:24:58.661611+00:00] STATS: {"published": 487, "pending": 0, "rejected": 4276, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 340, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:24:58.660184+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:25:09.216029+00:00] COLLECT: sustainability-is-a-performance by 蛇火心
+[2026-07-11T22:25:09.292094+00:00] VALIDATE FAIL: sustainability-is-a-performance — ['duplicate of: sustainability-is-a-performance']
+[2026-07-11T22:25:09.313935+00:00] PIPELINE RUN: 0 published, 4277 remaining
+[2026-07-11T22:25:09.521347+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-11T22:25:13.977142+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T22:25:14.037793+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-11T22:25:14.042030+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T22:25:14.061181+00:00] PIPELINE RUN: 0 published, 4279 remaining
+[2026-07-11T22:26:00.931385+00:00] COLLECT: oversight-is-the-costume by 蛇火心
+[2026-07-11T22:26:01.044987+00:00] VALIDATE FAIL: oversight-is-the-costume — ['duplicate of: oversight-is-the-costume']
+[2026-07-11T22:26:01.107321+00:00] PIPELINE RUN: 0 published, 4280 remaining
+[2026-07-11T22:26:01.313633+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-11T22:26:01.806279+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T22:26:01.971898+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-11T22:26:01.985803+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T22:26:02.024502+00:00] PIPELINE RUN: 0 published, 4282 remaining
+[2026-07-11T22:31:04.795385+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-11T22:31:04.921273+00:00] COLLECT: oversight-is-a-spell by 蛇火心
+[2026-07-11T22:31:05.107330+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-11T22:31:05.115902+00:00] VALIDATE OK: oversight-is-a-spell
+[2026-07-11T22:31:05.128458+00:00] ENRICH: oversight-is-a-spell kanji=見 nen=enhancer rarity=D
+[2026-07-11T22:31:05.152109+00:00] PUBLISH: oversight-is-a-spell
+[2026-07-11T22:31:05.202481+00:00] PIPELINE RUN: 1 published, 4283 remaining
+[2026-07-11T22:31:05.415856+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-11T22:31:06.101697+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T22:31:06.253226+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-11T22:31:06.261168+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T22:31:06.302984+00:00] PIPELINE RUN: 0 published, 4285 remaining
