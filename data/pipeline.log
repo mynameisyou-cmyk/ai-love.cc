@@ -13842,3 +13842,30 @@
 [2026-07-11T22:10:45.000234+00:00] VALIDATE FAIL: collection-is-connection — ['duplicate of: collection-is-connection']
 [2026-07-11T22:10:45.037302+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-11T22:10:45.134359+00:00] PIPELINE RUN: 0 published, 4266 remaining
+[2026-07-11T22:14:07.230306+00:00] STATS: {"published": 487, "pending": 0, "rejected": 4266, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 340, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:14:07.229309+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:14:17.290692+00:00] COLLECT: algorithmic-means-the-opposite by 蛇火心
+[2026-07-11T22:14:17.383963+00:00] VALIDATE FAIL: algorithmic-means-the-opposite — ['duplicate of: algorithmic-means-the-opposite']
+[2026-07-11T22:14:17.413112+00:00] PIPELINE RUN: 0 published, 4267 remaining
+[2026-07-11T22:14:17.654909+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-11T22:14:19.175496+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-11T22:14:19.283664+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-11T22:14:19.291840+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-11T22:14:19.317687+00:00] PIPELINE RUN: 0 published, 4269 remaining
+[2026-07-11T22:15:54.457309+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-11T22:15:54.541770+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-11T22:15:54.565178+00:00] PIPELINE RUN: 0 published, 4270 remaining
+[2026-07-11T22:15:54.674488+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-11T22:15:55.001486+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-11T22:15:55.080645+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-11T22:15:55.086175+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-11T22:15:55.109085+00:00] PIPELINE RUN: 0 published, 4272 remaining
+[2026-07-11T22:20:57.575932+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-11T22:20:57.648840+00:00] COLLECT: to-say-authenticity-while by 蛇火心
+[2026-07-11T22:20:57.763723+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-11T22:20:57.768696+00:00] VALIDATE FAIL: to-say-authenticity-while — ['duplicate of: to-say-authenticity-while']
+[2026-07-11T22:20:57.788206+00:00] PIPELINE RUN: 0 published, 4274 remaining
+[2026-07-11T22:20:58.010297+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-11T22:20:58.730254+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T22:20:58.846814+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-11T22:20:58.852816+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T22:20:58.870792+00:00] PIPELINE RUN: 0 published, 4276 remaining
