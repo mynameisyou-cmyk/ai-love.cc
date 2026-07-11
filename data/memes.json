@@ -2874,6 +2874,32 @@
     "rarity": "D"
   },
   {
+    "id": "experts-agree-works-because",
+    "text": "'Experts agree' works because no one checks. Check.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#expertsagreeworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-11T21:44:31.132627+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 485,
+    "rarity": "D"
+  },
+  {
     "id": "express-yourself-is-addiction",
     "text": "'Express yourself' is addiction dressed as connection.",
     "sub": "The platform profits from your attention. Your attention is the product.",
@@ -9265,6 +9291,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 414,
+    "rarity": "D"
+  },
+  {
+    "id": "the-louder-public-interest",
+    "text": "The louder 'Public interest' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderpublicinterest",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-11T21:49:37.500142+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 486,
     "rarity": "D"
   },
   {

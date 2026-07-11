@@ -13750,3 +13750,36 @@
 [2026-07-11T21:39:03.780124+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
 [2026-07-11T21:39:03.802033+00:00] PIPELINE RUN: 0 published, 4237 remaining
 [2026-07-11T21:39:30.868224+00:00] STATS: {"published": 484, "pending": 0, "rejected": 4237, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 337, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T21:39:30.867192+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T21:42:13.989422+00:00] STATS: {"published": 484, "pending": 0, "rejected": 4237, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 337, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T21:42:13.988543+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T21:42:24.539767+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-11T21:42:24.654974+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-11T21:42:24.674524+00:00] PIPELINE RUN: 0 published, 4238 remaining
+[2026-07-11T21:42:24.913601+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-11T21:42:25.263985+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-11T21:42:25.369459+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-11T21:42:25.376956+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-11T21:42:25.441808+00:00] PIPELINE RUN: 0 published, 4240 remaining
+[2026-07-11T21:44:31.092350+00:00] COLLECT: too-big-to-fail by 蛇火心
+[2026-07-11T21:44:31.132924+00:00] COLLECT: experts-agree-works-because by 蛇火心
+[2026-07-11T21:44:31.241735+00:00] VALIDATE FAIL: too-big-to-fail — ['duplicate of: too-big-to-fail']
+[2026-07-11T21:44:31.249053+00:00] VALIDATE OK: experts-agree-works-because
+[2026-07-11T21:44:31.256850+00:00] ENRICH: experts-agree-works-because kanji=築 nen=transmuter rarity=D
+[2026-07-11T21:44:31.275711+00:00] PUBLISH: experts-agree-works-because
+[2026-07-11T21:44:31.310323+00:00] PIPELINE RUN: 1 published, 4241 remaining
+[2026-07-11T21:44:31.422839+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-11T21:44:35.010907+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T21:44:35.115544+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-11T21:44:35.122783+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T21:44:35.153814+00:00] PIPELINE RUN: 0 published, 4243 remaining
+[2026-07-11T21:49:37.427982+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-11T21:49:37.500772+00:00] COLLECT: the-louder-public-interest by 蛇火心
+[2026-07-11T21:49:37.596463+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-11T21:49:37.600469+00:00] VALIDATE OK: the-louder-public-interest
+[2026-07-11T21:49:37.606658+00:00] ENRICH: the-louder-public-interest kanji=在 nen=enhancer rarity=D
+[2026-07-11T21:49:37.618121+00:00] PUBLISH: the-louder-public-interest
+[2026-07-11T21:49:37.643632+00:00] PIPELINE RUN: 1 published, 4244 remaining
+[2026-07-11T21:49:37.793344+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-11T21:49:38.180965+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T21:49:38.257049+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-11T21:49:38.262648+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T21:49:38.323500+00:00] PIPELINE RUN: 0 published, 4246 remaining
