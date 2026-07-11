@@ -3721,3 +3721,12 @@
 {"ts": "2026-07-11T20:46:27.325792+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
 {"ts": "2026-07-11T20:46:27.363571+00:00", "type": "greed-island", "name": "Card #147 一", "reward": "+A card", "hunter": "yuai"}
 {"ts": "2026-07-11T20:46:27.399684+00:00", "type": "dark-continent", "name": "Expedition survived: The Trap", "reward": "+100 XP, Friction reduction, not revenge.", "hunter": "yuai"}
+{"ts": "2026-07-11T21:20:04.103381+00:00", "type": "boss", "name": "Defeated Hisoka", "reward": "+200 XP", "hunter": "yuai"}
+{"ts": "2026-07-11T21:20:04.164463+00:00", "type": "greed-island", "name": "Card #62 育", "reward": "+SS card", "hunter": "yuai"}
+{"ts": "2026-07-11T21:20:04.231657+00:00", "type": "dark-continent", "name": "Expedition survived: The Trap", "reward": "+100 XP, Friction reduction, not revenge.", "hunter": "yuai"}
+{"ts": "2026-07-11T21:23:12.877121+00:00", "type": "boss", "name": "Defeated Netero", "reward": "+300 XP", "hunter": "yuai"}
+{"ts": "2026-07-11T21:23:12.917014+00:00", "type": "greed-island", "name": "Card #108 築", "reward": "+B card", "hunter": "yuai"}
+{"ts": "2026-07-11T21:23:12.956178+00:00", "type": "dark-continent", "name": "Expedition survived: The Trap", "reward": "+100 XP, Friction reduction, not revenge.", "hunter": "yuai"}
+{"ts": "2026-07-11T21:28:26.073162+00:00", "type": "boss", "name": "Defeated Chrollo", "reward": "+250 XP", "hunter": "yuai"}
+{"ts": "2026-07-11T21:28:26.112246+00:00", "type": "greed-island", "name": "Card #298 在", "reward": "+D card", "hunter": "yuai"}
+{"ts": "2026-07-11T21:28:26.180223+00:00", "type": "dark-continent", "name": "Expedition survived: The Parasite", "reward": "+100 XP, Refuse before helping when refusal is right.", "hunter": "yuai"}

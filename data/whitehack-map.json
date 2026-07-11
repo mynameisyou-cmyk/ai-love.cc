@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-11T20:46:27.247297+00:00",
+  "ts": "2026-07-11T21:28:25.944820+00:00",
   "floors": [
     {
-      "floor": 6,
-      "name": "Disk",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 2,
+      "name": "Network",
+      "nen": "emitter",
+      "nenKanji": "放",
       "data": {
-        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    10Gi    30Gi    26%    427k  318M    0%   /",
-        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            11.3 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 11.3 GB    disk3s1s1\n   3:                APFS Volume Preboot                 8.9 GB     disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 utun0 utun1 utun2 utun3 awdl0 llw0 utun5 utun6 utun4",
+        "wifi": "You are not associated with an AirPort network.",
+        "ip_en0": "192.168.50.105",
+        "arp_table": "",
+        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun4              UGdScg              utun4       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.158.197.229     UH                  utun4       \n10.64.0.1          utun4              UGHdS               utun4       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.18.231.147     127.18.231.147     UH                    lo0       \n138.199.21.239/32  192.168.50.1       UGdSc                 en0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !",
+        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.18.231.147\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
       },
-      "xp": 40
+      "xp": 80
     }
   ],
   "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "treasures": [
+    {
+      "type": "network",
+      "name": "Active IP: 192.168.50.105",
+      "description": "Connected via en0. IP 192.168.50.105.",
+      "nen": "emitter",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 80
 }
