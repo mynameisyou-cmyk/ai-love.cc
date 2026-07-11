@@ -9138,6 +9138,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-national-security",
+    "text": "The louder 'National security' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Government. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#theloudernationalsecurity",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-government",
+    "ts": "2026-07-11T21:32:02.245220+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 483,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-objective-reporting",
     "text": "The louder 'Objective reporting' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
@@ -11645,6 +11671,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 226,
+    "rarity": "D"
+  },
+  {
+    "id": "wealth-management-is-not",
+    "text": "'Wealth management' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#wealthmanagementisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-11T21:33:54.471818+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 484,
     "rarity": "D"
   },
   {

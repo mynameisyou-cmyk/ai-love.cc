@@ -13716,3 +13716,36 @@
 [2026-07-11T21:28:26.351277+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-11T21:28:26.358791+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-11T21:28:26.396554+00:00] PIPELINE RUN: 0 published, 4228 remaining
+[2026-07-11T21:31:16.812784+00:00] STATS: {"published": 482, "pending": 0, "rejected": 4228, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 335, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T21:31:16.812044+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T21:32:02.172704+00:00] COLLECT: experts-agree-is-the by 蛇火心
+[2026-07-11T21:32:02.246586+00:00] COLLECT: the-louder-national-security by 蛇火心
+[2026-07-11T21:32:02.358416+00:00] VALIDATE FAIL: experts-agree-is-the — ['duplicate of: experts-agree-is-the']
+[2026-07-11T21:32:02.363482+00:00] VALIDATE OK: the-louder-national-security
+[2026-07-11T21:32:02.369489+00:00] ENRICH: the-louder-national-security kanji=在 nen=enhancer rarity=D
+[2026-07-11T21:32:02.390598+00:00] PUBLISH: the-louder-national-security
+[2026-07-11T21:32:02.423347+00:00] PIPELINE RUN: 1 published, 4229 remaining
+[2026-07-11T21:32:02.746343+00:00] COLLECT: xp-is-attention-made by xp-loop
+[2026-07-11T21:32:03.129736+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-11T21:32:03.208399+00:00] VALIDATE FAIL: xp-is-attention-made — ['duplicate of: xp-is-attention-made']
+[2026-07-11T21:32:03.212300+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-11T21:32:03.238259+00:00] PIPELINE RUN: 0 published, 4231 remaining
+[2026-07-11T21:33:54.404474+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-11T21:33:54.472310+00:00] COLLECT: wealth-management-is-not by 蛇火心
+[2026-07-11T21:33:54.546220+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-11T21:33:54.550760+00:00] VALIDATE OK: wealth-management-is-not
+[2026-07-11T21:33:54.560868+00:00] ENRICH: wealth-management-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-11T21:33:54.588857+00:00] PUBLISH: wealth-management-is-not
+[2026-07-11T21:33:54.628738+00:00] PIPELINE RUN: 1 published, 4232 remaining
+[2026-07-11T21:33:54.807341+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-11T21:33:55.247300+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T21:33:55.343563+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-11T21:33:55.348638+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T21:33:55.365650+00:00] PIPELINE RUN: 0 published, 4234 remaining
+[2026-07-11T21:38:58.835957+00:00] COLLECT: patient-centered-prioritizes-profit by 蛇火心
+[2026-07-11T21:38:58.951931+00:00] VALIDATE FAIL: patient-centered-prioritizes-profit — ['duplicate of: patient-centered-prioritizes-profit']
+[2026-07-11T21:38:58.973801+00:00] PIPELINE RUN: 0 published, 4235 remaining
+[2026-07-11T21:38:59.108488+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-11T21:39:03.622915+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-11T21:39:03.772596+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-11T21:39:03.780124+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-11T21:39:03.802033+00:00] PIPELINE RUN: 0 published, 4237 remaining
