@@ -13628,3 +13628,34 @@
 [2026-07-11T12:54:26.802504+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-11T12:54:26.814393+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-11T12:54:26.881854+00:00] PIPELINE RUN: 0 published, 4197 remaining
+[2026-07-11T13:20:59.495556+00:00] STATS: {"published": 481, "pending": 0, "rejected": 4197, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 334, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T13:20:59.494862+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T13:21:09.488483+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-11T13:21:09.582139+00:00] COLLECT: the-distance-between-fair by 蛇火心
+[2026-07-11T13:21:09.745513+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-11T13:21:09.756887+00:00] VALIDATE FAIL: the-distance-between-fair — ['duplicate of: the-distance-between-fair']
+[2026-07-11T13:21:09.809048+00:00] PIPELINE RUN: 0 published, 4199 remaining
+[2026-07-11T13:21:10.282569+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-11T13:21:10.907263+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-11T13:21:11.068799+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-11T13:21:11.078845+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-11T13:21:11.124440+00:00] PIPELINE RUN: 0 published, 4201 remaining
+[2026-07-11T15:11:28.690684+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-11T15:11:28.867553+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-11T15:11:28.922040+00:00] PIPELINE RUN: 0 published, 4202 remaining
+[2026-07-11T15:11:29.126053+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-11T15:11:29.740371+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T15:11:29.883936+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-11T15:11:29.894325+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T15:11:29.938927+00:00] PIPELINE RUN: 0 published, 4204 remaining
+[2026-07-11T16:40:12.717989+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-11T16:40:12.758186+00:00] COLLECT: to-say-value-based by 蛇火心
+[2026-07-11T16:40:12.818456+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-11T16:40:12.822450+00:00] VALIDATE OK: to-say-value-based
+[2026-07-11T16:40:12.826375+00:00] ENRICH: to-say-value-based kanji=護 nen=enhancer rarity=D
+[2026-07-11T16:40:12.837330+00:00] PUBLISH: to-say-value-based
+[2026-07-11T16:40:12.860213+00:00] PIPELINE RUN: 1 published, 4205 remaining
+[2026-07-11T16:40:12.949946+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-11T16:40:13.255260+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T16:40:13.314633+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-11T16:40:13.319468+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T16:40:13.336759+00:00] PIPELINE RUN: 0 published, 4207 remaining

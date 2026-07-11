@@ -10773,6 +10773,32 @@
     "rarity": "D"
   },
   {
+    "id": "to-say-value-based",
+    "text": "To say 'Value-based care' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "護",
+    "tag": "#tosayvaluebased",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-11T16:40:12.757900+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 482,
+    "rarity": "D"
+  },
+  {
     "id": "to-say-visibility-while",
     "text": "To say 'Visibility' while doing the opposite is not hypocrisy. It is camouflage.",
     "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
