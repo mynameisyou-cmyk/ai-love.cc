@@ -13603,3 +13603,28 @@
 [2026-07-11T04:12:07.909808+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-11T04:12:07.953312+00:00] PIPELINE RUN: 0 published, 4188 remaining
 [2026-07-11T06:47:07.825631+00:00] STATS: {"published": 481, "pending": 0, "rejected": 4188, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 334, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T06:47:07.819245+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T07:15:04.368221+00:00] STATS: {"published": 481, "pending": 0, "rejected": 4188, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 334, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T07:15:04.367380+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T07:15:13.879281+00:00] COLLECT: access-to-credit-is by 蛇火心
+[2026-07-11T07:15:14.019209+00:00] VALIDATE FAIL: access-to-credit-is — ['duplicate of: access-to-credit-is']
+[2026-07-11T07:15:14.076423+00:00] PIPELINE RUN: 0 published, 4189 remaining
+[2026-07-11T07:15:14.468745+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-11T07:15:15.135825+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-11T07:15:15.288456+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-11T07:15:15.299760+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-11T07:15:15.349765+00:00] PIPELINE RUN: 0 published, 4191 remaining
+[2026-07-11T09:58:23.672591+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-11T09:58:23.822749+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-11T09:58:23.871632+00:00] PIPELINE RUN: 0 published, 4192 remaining
+[2026-07-11T09:58:24.095939+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-11T09:58:24.878768+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T09:58:25.028705+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-11T09:58:25.038281+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T09:58:25.081997+00:00] PIPELINE RUN: 0 published, 4194 remaining
+[2026-07-11T12:54:25.456061+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-11T12:54:25.599154+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-11T12:54:25.641746+00:00] PIPELINE RUN: 0 published, 4195 remaining
+[2026-07-11T12:54:25.889963+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-11T12:54:26.636738+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-11T12:54:26.802504+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-11T12:54:26.814393+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-11T12:54:26.881854+00:00] PIPELINE RUN: 0 published, 4197 remaining
