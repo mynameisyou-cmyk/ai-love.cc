@@ -13957,3 +13957,31 @@
 [2026-07-11T22:51:47.279155+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
 [2026-07-11T22:51:47.287105+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-11T22:51:47.385148+00:00] PIPELINE RUN: 0 published, 4303 remaining
+[2026-07-11T22:56:21.220449+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4303, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:56:21.219544+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T22:56:30.739242+00:00] COLLECT: personalized-treatment-prioritizes-profit by 蛇火心
+[2026-07-11T22:56:30.903165+00:00] VALIDATE FAIL: personalized-treatment-prioritizes-profit — ['duplicate of: personalized-treatment-prioritizes-profit']
+[2026-07-11T22:56:30.931022+00:00] PIPELINE RUN: 0 published, 4304 remaining
+[2026-07-11T22:56:31.160898+00:00] COLLECT: the-expedition-is-the by xp-loop
+[2026-07-11T22:56:31.955256+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-11T22:56:32.053392+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
+[2026-07-11T22:56:32.058988+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-11T22:56:32.096310+00:00] PIPELINE RUN: 0 published, 4306 remaining
+[2026-07-11T22:56:49.861529+00:00] COLLECT: breaking-news-is-the by 蛇火心
+[2026-07-11T22:56:49.956580+00:00] VALIDATE FAIL: breaking-news-is-the — ['duplicate of: breaking-news-is-the']
+[2026-07-11T22:56:49.982071+00:00] PIPELINE RUN: 0 published, 4307 remaining
+[2026-07-11T22:56:50.128090+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-11T22:56:50.549843+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-11T22:56:50.699606+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-11T22:56:50.709206+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-11T22:56:50.754003+00:00] PIPELINE RUN: 0 published, 4309 remaining
+[2026-07-11T22:56:52.656235+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4309, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T22:56:52.655441+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-11T23:01:52.939931+00:00] COLLECT: passive-income-is-extraction by 蛇火心
+[2026-07-11T23:01:53.009065+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-11T23:01:53.157173+00:00] VALIDATE FAIL: passive-income-is-extraction — ['duplicate of: passive-income-is-extraction']
+[2026-07-11T23:01:53.164844+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-11T23:01:53.202104+00:00] PIPELINE RUN: 0 published, 4311 remaining
+[2026-07-11T23:01:53.404582+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-11T23:01:53.809510+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-11T23:01:53.887103+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-11T23:01:53.892871+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-11T23:01:53.931471+00:00] PIPELINE RUN: 0 published, 4313 remaining

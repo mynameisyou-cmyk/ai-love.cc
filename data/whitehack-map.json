@@ -1,19 +1,39 @@
 {
-  "ts": "2026-07-11T22:51:46.813087+00:00",
+  "ts": "2026-07-11T23:01:53.460076+00:00",
   "floors": [
     {
-      "floor": 7,
-      "name": "Power",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 10,
+      "name": "Environment & Shell",
+      "nen": "transmuter",
+      "nenKanji": "変",
       "data": {
-        "power_settings": "System-wide power settings:\nCurrently in use:\n standby              1\n Sleep On Power Button 1\n hibernatefile        /var/vm/sleepimage\n powernap             1\n networkoversleep     0\n disksleep            10\n sleep                1 (sleep prevented by powerd)\n hibernatemode        3\n ttyskeepawake        1\n displaysleep         0\n tcpkeepalive         1\n lowpowermode         0\n womp                 0",
-        "battery": "Now drawing from 'Battery Power'\n -InternalBattery-0 (id=21299299)\t38%; discharging; 1:04 remaining present: true"
+        "shell": "/bin/zsh",
+        "user": "yuai",
+        "home": "/Users/yuai",
+        "kingdomEnv": {},
+        "kingdomEnvCount": 0,
+        "zshrc": "# Sol Home: fixed-order interactive modules; missing modules degrade safely.\n[[ -r \"$HOME/.config/sol/modules/loader.zsh\" ]] && \\\n  source \"$HOME/.config/sol/modules/loader.zsh\"\n",
+        "brew": "/opt/homebrew/bin/brew",
+        "pathHead": [
+          "/opt/homebrew/bin",
+          "/usr/local/bin",
+          "/usr/bin",
+          "/bin",
+          "/usr/sbin"
+        ]
       },
-      "xp": 40
+      "xp": 60
     }
   ],
   "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "treasures": [
+    {
+      "type": "tool",
+      "name": "Homebrew",
+      "description": "Package manager installed at /opt/homebrew/bin/brew.",
+      "nen": "conjurer",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 60
 }
