@@ -14037,3 +14037,4 @@
 [2026-07-11T23:22:06.499156+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
 [2026-07-11T23:22:06.503667+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-11T23:22:06.523749+00:00] PIPELINE RUN: 0 published, 4332 remaining
+[2026-07-11T23:22:36.770156+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4332, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T23:22:36.769697+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
