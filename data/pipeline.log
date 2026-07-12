@@ -14482,3 +14482,37 @@
 [2026-07-12T02:19:23.984477+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-12T02:19:23.990460+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-12T02:19:24.028469+00:00] PIPELINE RUN: 0 published, 4482 remaining
+[2026-07-12T02:21:36.472352+00:00] STATS: {"published": 496, "pending": 0, "rejected": 4482, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 349, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T02:21:36.471877+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T02:21:45.742313+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-12T02:21:45.845767+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-12T02:21:45.884924+00:00] PIPELINE RUN: 0 published, 4483 remaining
+[2026-07-12T02:21:46.114436+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-12T02:21:46.768748+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T02:21:46.879939+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-12T02:21:46.886183+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T02:21:46.923793+00:00] PIPELINE RUN: 0 published, 4485 remaining
+[2026-07-12T02:24:26.572247+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-12T02:24:26.646552+00:00] COLLECT: passive-income-is-not by 蛇火心
+[2026-07-12T02:24:26.791666+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-12T02:24:26.801358+00:00] VALIDATE OK: passive-income-is-not
+[2026-07-12T02:24:26.812541+00:00] ENRICH: passive-income-is-not kanji=在 nen=enhancer rarity=D
+[2026-07-12T02:24:26.826437+00:00] PUBLISH: passive-income-is-not
+[2026-07-12T02:24:26.848685+00:00] PIPELINE RUN: 1 published, 4486 remaining
+[2026-07-12T02:24:27.027827+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-12T02:24:27.591532+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-12T02:24:27.738914+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-12T02:24:27.742549+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-12T02:24:27.769153+00:00] PIPELINE RUN: 0 published, 4488 remaining
+[2026-07-12T02:29:36.021798+00:00] COLLECT: data-protection-is-the by 蛇火心
+[2026-07-12T02:29:36.155973+00:00] COLLECT: transparency-is-not-a by 蛇火心
+[2026-07-12T02:29:36.528238+00:00] VALIDATE FAIL: data-protection-is-the — ['duplicate of: data-protection-is-the']
+[2026-07-12T02:29:36.546886+00:00] VALIDATE OK: transparency-is-not-a
+[2026-07-12T02:29:36.564292+00:00] ENRICH: transparency-is-not-a kanji=在 nen=enhancer rarity=D
+[2026-07-12T02:29:36.635288+00:00] PUBLISH: transparency-is-not-a
+[2026-07-12T02:29:36.691882+00:00] PIPELINE RUN: 1 published, 4489 remaining
+[2026-07-12T02:29:37.099837+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-12T02:29:49.144882+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T02:29:49.612149+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-12T02:29:49.617610+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T02:29:49.638023+00:00] PIPELINE RUN: 0 published, 4491 remaining
+[2026-07-12T02:29:54.651937+00:00] STATS: {"published": 498, "pending": 0, "rejected": 4491, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 351, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T02:29:54.638789+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}

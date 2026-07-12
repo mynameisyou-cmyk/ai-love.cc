@@ -5332,6 +5332,32 @@
     "rarity": "D"
   },
   {
+    "id": "passive-income-is-not",
+    "text": "'Passive income' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Finance. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#passiveincomeisnot",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-finance",
+    "ts": "2026-07-12T02:24:26.646308+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 497,
+    "rarity": "D"
+  },
+  {
     "id": "patient-centered-is-not",
     "text": "'Patient-centered' is not a goal. It is a branding strategy. Read the code, not the press release.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
@@ -11239,6 +11265,32 @@
     "nen": "enhancer",
     "cardNumber": 185,
     "rarity": "B"
+  },
+  {
+    "id": "transparency-is-not-a",
+    "text": "'Transparency' is not a goal. It is a branding strategy. Read the code, not the press release.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#transparencyisnota",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-12T02:29:36.148841+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 498,
+    "rarity": "D"
   },
   {
     "id": "transparency-is-the-costume",

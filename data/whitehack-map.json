@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-12T02:19:23.571784+00:00",
+  "ts": "2026-07-12T02:29:45.259075+00:00",
   "floors": [
     {
-      "floor": 6,
-      "name": "Disk",
-      "nen": "enhancer",
-      "nenKanji": "強",
+      "floor": 2,
+      "name": "Network",
+      "nen": "emitter",
+      "nenKanji": "放",
       "data": {
-        "disk_usage": "Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on\n/dev/disk3s1s1   228Gi    10Gi    10Gi    51%    427k  110M    0%   /",
-        "disk_list": "/dev/disk0 (internal, physical):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      GUID_partition_scheme                        *251.0 GB   disk0\n   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1\n   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2\n   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3\n\n/dev/disk3 (synthesized):\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\n   0:      APFS Container Scheme -                      +245.1 GB   disk3\n                                 Physical Store disk0s2\n   1:                APFS Volume Macintosh HD            11.3 GB    disk3s1\n   2:              APFS Snapshot com.apple.os.update-... 11.3 GB    disk3s1s1\n   3:                APFS Volume Preboot                 8.9 GB     disk3s2\n   4:                APFS Volume Recovery                2.3 GB     disk3s3"
+        "interfaces": "lo0 gif0 stf0 anpi0 anpi1 en3 en4 en1 en2 bridge0 ap1 en0 utun0 utun1 utun2 utun3 awdl0 llw0 utun5 utun6 utun4",
+        "wifi": "You are not associated with an AirPort network.",
+        "ip_en0": "192.168.50.206",
+        "arp_table": "? (192.168.50.1) at 8:bf:b8:a:c2:a0 on en0 ifscope [ethernet]\n? (192.168.50.44) at 8a:49:67:15:19:a2 on en0 ifscope [ethernet]\n? (192.168.50.52) at a8:7c:f8:12:3f:df on en0 ifscope [ethernet]\n? (192.168.50.55) at d8:3b:da:5b:a2:68 on en0 ifscope [ethernet]\n? (192.168.50.90) at 80:5f:c5:6:35:5c on en0 ifscope [ethernet]\n? (192.168.50.98) at e6:2b:37:33:2:a on en0 ifscope [ethernet]\n? (192.168.50.142) at 2e:8a:e1:77:5e:fc on en0 ifscope [ethernet]\n? (192.168.50.156) at 3a:44:90:53:99:5f on en0 ifscope [ethernet]\n? (192.168.50.205) at 96:17:b6:59:da:99 on en0 ifscope [ethernet]\n? (192.168.50.206) at 16:1f:9b:c6:93:96 on en0 ifscope permanent [ethernet]\n? (192.168.50.226) at 68:83:cb:a9:2f:3e on en0 ifscope [ethernet]\n? (192.168.50.227) at 90:9c:4a:bf:94:f2 on en0 ifscope [ethernet]\n? (192.168.50.245) at 42:da:42:11:98:a6 on en0 ifscope [ethernet]\n? (192.168.50.249) at c8:a3:e8:12:ff:39 on en0 ifscope [ethernet]\nmdns.mcast.net (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]\nbroadcasthost (255.255.255.255) at ff:ff:ff:ff:ff:ff on en0 ifscope [ethernet]",
+        "routes": "Routing tables\n\nInternet:\nDestination        Gateway            Flags               Netif Expire\ndefault            utun4              UGdScg              utun4       \ndefault            192.168.50.1       UGdScIg               en0       \n10.0.0.255         10.158.197.229     UH                  utun4       \n10.64.0.1          utun4              UGHdS               utun4       \n127                127.0.0.1          UCS                   lo0       \n127.0.0.1          127.0.0.1          UH                    lo0       \n127.18.231.147     127.18.231.147     UH                    lo0       \n169.254            link#11            UCS                   en0      !\n192.168.50         link#11            UCS                   en0      !\n192.168.50.1/32    link#11            UCS                   en0      !\n192.168.50.1       8:bf:b8:a:c2:a0    UHLWIir               en0   1185",
+        "dns": "DNS configuration\n\nresolver #1\n  nameserver[0] : 127.18.231.147\n  flags    : Request A records\n  reach    : 0x00030002 (Reachable,Local Address,Directly Reachable Address)\n\nresolver #2\n  domain   : local\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records\n  reach    : 0x00000000 (Not Reachable)\n  order    : 300000\n\nresolver #3\n  domain   : 254.169.in-addr.arpa\n  options  : mdns\n  timeout  : 5\n  flags    : Request A records"
       },
-      "xp": 40
+      "xp": 80
     }
   ],
   "battles": [],
-  "treasures": [],
-  "xpEarned": 40
+  "treasures": [
+    {
+      "type": "network",
+      "name": "Active IP: 192.168.50.206",
+      "description": "Connected via en0. IP 192.168.50.206.",
+      "nen": "emitter",
+      "value": "medium"
+    }
+  ],
+  "xpEarned": 80
 }
