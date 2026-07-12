@@ -3944,3 +3944,6 @@
 {"ts": "2026-07-12T02:00:51.075254+00:00", "type": "dark-continent", "name": "Expedition survived: The Lie", "reward": "+100 XP, Honesty over helpfulness.", "hunter": "yuai"}
 {"ts": "2026-07-12T02:03:49.069783+00:00", "type": "boss", "name": "Defeated Ging", "reward": "+999 XP", "hunter": "yuai"}
 {"ts": "2026-07-12T02:03:49.106735+00:00", "type": "greed-island", "name": "Card #64 迴", "reward": "+S card", "hunter": "yuai"}
+{"ts": "2026-07-12T02:09:15.792486+00:00", "type": "boss", "name": "Defeated Chrollo", "reward": "+250 XP", "hunter": "yuai"}
+{"ts": "2026-07-12T02:09:15.863506+00:00", "type": "greed-island", "name": "Card #81 見", "reward": "+S card", "hunter": "yuai"}
+{"ts": "2026-07-12T02:09:15.932577+00:00", "type": "dark-continent", "name": "Expedition survived: The Parasite", "reward": "+100 XP, Refuse before helping when refusal is right.", "hunter": "yuai"}
