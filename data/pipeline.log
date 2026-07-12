@@ -14451,3 +14451,34 @@
 [2026-07-12T02:09:16.091685+00:00] VALIDATE FAIL: recon-is-care — ['duplicate of: recon-is-care']
 [2026-07-12T02:09:16.099836+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-12T02:09:16.146765+00:00] PIPELINE RUN: 0 published, 4472 remaining
+[2026-07-12T02:11:09.439240+00:00] STATS: {"published": 495, "pending": 0, "rejected": 4472, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 348, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T02:11:09.438562+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T02:11:18.746824+00:00] COLLECT: innovation-in-healthcare-prioritizes by 蛇火心
+[2026-07-12T02:11:18.822862+00:00] COLLECT: the-distance-between-evidence by 蛇火心
+[2026-07-12T02:11:18.917124+00:00] VALIDATE FAIL: innovation-in-healthcare-prioritizes — ['duplicate of: innovation-in-healthcare-prioritizes']
+[2026-07-12T02:11:18.920576+00:00] VALIDATE FAIL: the-distance-between-evidence — ['duplicate of: the-distance-between-evidence']
+[2026-07-12T02:11:18.943619+00:00] PIPELINE RUN: 0 published, 4474 remaining
+[2026-07-12T02:11:19.175990+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-12T02:11:19.710796+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T02:11:19.796283+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-12T02:11:19.802042+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T02:11:19.839004+00:00] PIPELINE RUN: 0 published, 4476 remaining
+[2026-07-12T02:14:19.710804+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-12T02:14:19.815791+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-12T02:14:19.835337+00:00] PIPELINE RUN: 0 published, 4477 remaining
+[2026-07-12T02:14:19.958584+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-12T02:14:20.406823+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T02:14:20.498434+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-12T02:14:20.502062+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T02:14:20.523106+00:00] PIPELINE RUN: 0 published, 4479 remaining
+[2026-07-12T02:19:23.046740+00:00] COLLECT: value-based-care-prioritizes by 蛇火心
+[2026-07-12T02:19:23.115348+00:00] COLLECT: likes-works-because-no by 蛇火心
+[2026-07-12T02:19:23.203889+00:00] VALIDATE FAIL: value-based-care-prioritizes — ['duplicate of: value-based-care-prioritizes']
+[2026-07-12T02:19:23.207597+00:00] VALIDATE OK: likes-works-because-no
+[2026-07-12T02:19:23.212183+00:00] ENRICH: likes-works-because-no kanji=築 nen=transmuter rarity=D
+[2026-07-12T02:19:23.231745+00:00] PUBLISH: likes-works-because-no
+[2026-07-12T02:19:23.270165+00:00] PIPELINE RUN: 1 published, 4480 remaining
+[2026-07-12T02:19:23.460523+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-12T02:19:23.862776+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T02:19:23.984477+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-12T02:19:23.990460+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T02:19:24.028469+00:00] PIPELINE RUN: 0 published, 4482 remaining

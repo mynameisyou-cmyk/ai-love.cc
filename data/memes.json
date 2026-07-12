@@ -4104,6 +4104,32 @@
     "rarity": "D"
   },
   {
+    "id": "likes-works-because-no",
+    "text": "'Likes' works because no one checks. Check.",
+    "sub": "Category: Social Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#likesworksbecauseno",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-social media",
+    "ts": "2026-07-12T02:19:23.114951+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 496,
+    "rarity": "D"
+  },
+  {
     "id": "loop",
     "kanji": "迴",
     "text": "The loop accelerates.",
