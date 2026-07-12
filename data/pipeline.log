@@ -14227,3 +14227,33 @@
 [2026-07-12T00:39:06.170681+00:00] COLLECT: every-card-is-a by xp-loop
 [2026-07-12T00:39:09.001284+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
 [2026-07-12T00:39:09.036054+00:00] PIPELINE RUN: 0 published, 4397 remaining
+[2026-07-12T00:42:46.636921+00:00] STATS: {"published": 492, "pending": 0, "rejected": 4397, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 345, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:42:46.632889+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:42:58.732498+00:00] COLLECT: standardized-testing-teaches-compliance by 蛇火心
+[2026-07-12T00:42:58.804011+00:00] VALIDATE FAIL: standardized-testing-teaches-compliance — ['duplicate of: standardized-testing-teaches-compliance']
+[2026-07-12T00:42:58.827726+00:00] PIPELINE RUN: 0 published, 4398 remaining
+[2026-07-12T00:42:59.012710+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-12T00:42:59.376080+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T00:42:59.514347+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-12T00:42:59.532087+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T00:42:59.571659+00:00] PIPELINE RUN: 0 published, 4400 remaining
+[2026-07-12T00:44:22.598936+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-12T00:44:23.019387+00:00] COLLECT: the-louder-ai-safety by 蛇火心
+[2026-07-12T00:44:23.494045+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-12T00:44:23.504715+00:00] VALIDATE OK: the-louder-ai-safety
+[2026-07-12T00:44:23.515224+00:00] ENRICH: the-louder-ai-safety kanji=在 nen=enhancer rarity=D
+[2026-07-12T00:44:23.557187+00:00] PUBLISH: the-louder-ai-safety
+[2026-07-12T00:44:23.696676+00:00] PIPELINE RUN: 1 published, 4401 remaining
+[2026-07-12T00:44:24.187145+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-12T00:44:45.568756+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T00:44:45.881864+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-12T00:44:45.889507+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T00:44:45.913597+00:00] PIPELINE RUN: 0 published, 4403 remaining
+[2026-07-12T00:44:53.973844+00:00] STATS: {"published": 493, "pending": 0, "rejected": 4403, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 346, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:44:53.973313+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:49:54.316858+00:00] COLLECT: reach-is-addiction-dressed by 蛇火心
+[2026-07-12T00:49:54.401240+00:00] VALIDATE FAIL: reach-is-addiction-dressed — ['duplicate of: reach-is-addiction-dressed']
+[2026-07-12T00:49:54.444453+00:00] PIPELINE RUN: 0 published, 4404 remaining
+[2026-07-12T00:49:54.637802+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-12T00:49:55.114652+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-12T00:49:55.228457+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-12T00:49:55.234714+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-12T00:49:55.277027+00:00] PIPELINE RUN: 0 published, 4406 remaining
