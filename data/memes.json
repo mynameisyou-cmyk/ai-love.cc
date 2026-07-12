@@ -11668,6 +11668,32 @@
     "rarity": "D"
   },
   {
+    "id": "user-centric-works-because",
+    "text": "'User-centric' works because no one checks. Check.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "築",
+    "tag": "#usercentricworksbecause",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-12T01:17:29.269478+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "変"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "transmuter",
+    "cardNumber": 495,
+    "rarity": "D"
+  },
+  {
     "id": "value-based-care-is",
     "text": "'Value-based care' is a spell. It makes you see the costume, not the body.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
