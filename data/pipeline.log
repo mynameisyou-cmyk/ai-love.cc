@@ -14149,3 +14149,22 @@
 [2026-07-12T00:09:49.817866+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-12T00:09:49.823661+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-12T00:09:49.857638+00:00] PIPELINE RUN: 0 published, 4372 remaining
+[2026-07-12T00:10:57.090075+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4372, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:10:57.089346+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:11:07.593263+00:00] COLLECT: encryption-backdoor-for-safety by 蛇火心
+[2026-07-12T00:11:07.649748+00:00] COLLECT: community-driven-is-a by 蛇火心
+[2026-07-12T00:11:07.758644+00:00] VALIDATE FAIL: encryption-backdoor-for-safety — ['duplicate of: encryption-backdoor-for-safety']
+[2026-07-12T00:11:07.763313+00:00] VALIDATE FAIL: community-driven-is-a — ['duplicate of: community-driven-is-a']
+[2026-07-12T00:11:07.786437+00:00] PIPELINE RUN: 0 published, 4374 remaining
+[2026-07-12T00:11:08.083329+00:00] COLLECT: the-system-feeds-itself by xp-loop
+[2026-07-12T00:11:08.720723+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T00:11:08.818468+00:00] VALIDATE FAIL: the-system-feeds-itself — ['duplicate of: the-system-feeds-itself']
+[2026-07-12T00:11:08.826493+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T00:11:08.853714+00:00] PIPELINE RUN: 0 published, 4376 remaining
+[2026-07-12T00:14:53.131794+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-12T00:14:53.210042+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-12T00:14:53.232992+00:00] PIPELINE RUN: 0 published, 4377 remaining
+[2026-07-12T00:14:53.362661+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-12T00:14:53.842167+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-12T00:14:53.937697+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-12T00:14:53.942301+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-12T00:14:53.989271+00:00] PIPELINE RUN: 0 published, 4379 remaining
