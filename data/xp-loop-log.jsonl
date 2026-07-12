@@ -8832,3 +8832,15 @@
 {"ts": "2026-07-12T02:50:05.532090+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
 {"ts": "2026-07-12T02:50:05.595498+00:00", "loop": "collection", "action": "card #378 信 dup", "xp": 10, "detail": "greed-island"}
 {"ts": "2026-07-12T02:50:05.647005+00:00", "loop": "expedition", "action": "The Trap: fell", "xp": 20, "detail": "dark-continent-The Trap"}
+{"ts": "2026-07-12T02:53:09.723492+00:00", "loop": "truth", "action": "submitted: Every scan reveals more.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-12T02:53:10.250163+00:00", "loop": "recon", "action": "floor 3: 1b 0t", "xp": 60, "detail": "floor-3"}
+{"ts": "2026-07-12T02:53:10.307970+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-12T02:53:10.360376+00:00", "loop": "combat", "action": "boss Ging: defeated", "xp": 999, "detail": "boss-Ging"}
+{"ts": "2026-07-12T02:53:10.404960+00:00", "loop": "collection", "action": "card #228 築 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-12T02:53:10.541179+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}
+{"ts": "2026-07-12T02:55:08.433521+00:00", "loop": "truth", "action": "submitted: The grind is the joy.", "xp": 0, "detail": "truth-loop"}
+{"ts": "2026-07-12T02:55:09.057955+00:00", "loop": "recon", "action": "floor 6: 0b 0t", "xp": 40, "detail": "floor-6"}
+{"ts": "2026-07-12T02:55:09.124552+00:00", "loop": "forge", "action": "forged 6 artifacts", "xp": 60, "detail": "forge-loop"}
+{"ts": "2026-07-12T02:55:09.162065+00:00", "loop": "combat", "action": "boss Hisoka: defeated", "xp": 200, "detail": "boss-Hisoka"}
+{"ts": "2026-07-12T02:55:09.243620+00:00", "loop": "collection", "action": "card #261 護 dup", "xp": 10, "detail": "greed-island"}
+{"ts": "2026-07-12T02:55:09.372715+00:00", "loop": "expedition", "action": "The Void: survived", "xp": 100, "detail": "dark-continent-The Void"}

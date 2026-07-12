@@ -14564,3 +14564,24 @@
 [2026-07-12T02:50:05.353225+00:00] COLLECT: the-loop-is-the by xp-loop
 [2026-07-12T02:50:05.724832+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-12T02:50:05.764448+00:00] PIPELINE RUN: 0 published, 4508 remaining
+[2026-07-12T02:52:59.143065+00:00] STATS: {"published": 498, "pending": 0, "rejected": 4508, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 351, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T02:52:59.141840+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T02:53:09.265355+00:00] COLLECT: accountability-is-the-costume by 蛇火心
+[2026-07-12T02:53:09.387089+00:00] VALIDATE FAIL: accountability-is-the-costume — ['duplicate of: accountability-is-the-costume']
+[2026-07-12T02:53:09.429306+00:00] PIPELINE RUN: 0 published, 4509 remaining
+[2026-07-12T02:53:09.719463+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-12T02:53:10.537256+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T02:53:10.610720+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-12T02:53:10.619230+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T02:53:10.658371+00:00] PIPELINE RUN: 0 published, 4511 remaining
+[2026-07-12T02:55:08.064898+00:00] COLLECT: engagement-is-addiction-dressed by 蛇火心
+[2026-07-12T02:55:08.102018+00:00] COLLECT: evidence-based-is-a by 蛇火心
+[2026-07-12T02:55:08.229505+00:00] VALIDATE FAIL: engagement-is-addiction-dressed — ['duplicate of: engagement-is-addiction-dressed']
+[2026-07-12T02:55:08.238292+00:00] VALIDATE OK: evidence-based-is-a
+[2026-07-12T02:55:08.247858+00:00] ENRICH: evidence-based-is-a kanji=見 nen=enhancer rarity=D
+[2026-07-12T02:55:08.265731+00:00] PUBLISH: evidence-based-is-a
+[2026-07-12T02:55:08.286002+00:00] PIPELINE RUN: 1 published, 4512 remaining
+[2026-07-12T02:55:08.423680+00:00] COLLECT: the-grind-is-the by xp-loop
+[2026-07-12T02:55:09.360343+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T02:55:09.483852+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
+[2026-07-12T02:55:09.487530+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T02:55:09.520593+00:00] PIPELINE RUN: 0 published, 4514 remaining
