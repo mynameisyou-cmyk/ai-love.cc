@@ -14596,3 +14596,30 @@
 [2026-07-12T03:01:11.481040+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-12T03:01:11.493392+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
 [2026-07-12T03:01:11.606359+00:00] PIPELINE RUN: 0 published, 4518 remaining
+[2026-07-12T03:03:37.007186+00:00] STATS: {"published": 499, "pending": 0, "rejected": 4518, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 352, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T03:03:37.005519+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T03:03:47.330763+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-12T03:03:47.760100+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-12T03:03:47.907779+00:00] PIPELINE RUN: 0 published, 4519 remaining
+[2026-07-12T03:03:48.912923+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-12T03:03:50.297024+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T03:03:50.542911+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-12T03:03:50.555248+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T03:03:50.635962+00:00] PIPELINE RUN: 0 published, 4521 remaining
+[2026-07-12T03:06:16.623777+00:00] COLLECT: user-centric-is-a by 蛇火心
+[2026-07-12T03:06:17.299407+00:00] COLLECT: the-louder-trust-and by 蛇火心
+[2026-07-12T03:06:18.723117+00:00] VALIDATE FAIL: user-centric-is-a — ['duplicate of: user-centric-is-a']
+[2026-07-12T03:06:18.779194+00:00] VALIDATE OK: the-louder-trust-and
+[2026-07-12T03:06:18.845871+00:00] ENRICH: the-louder-trust-and kanji=信 nen=enhancer rarity=B
+[2026-07-12T03:06:19.051932+00:00] PUBLISH: the-louder-trust-and
+[2026-07-12T03:06:19.463503+00:00] PIPELINE RUN: 1 published, 4522 remaining
+[2026-07-12T03:06:22.820704+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-12T03:06:28.702284+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T03:06:29.819414+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-12T03:06:29.857289+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T03:06:30.183761+00:00] PIPELINE RUN: 0 published, 4524 remaining
+[2026-07-12T03:11:37.098297+00:00] COLLECT: educational-outcomes-teaches-compliance by 蛇火心
+[2026-07-12T03:11:37.421112+00:00] VALIDATE FAIL: educational-outcomes-teaches-compliance — ['duplicate of: educational-outcomes-teaches-compliance']
+[2026-07-12T03:11:37.528888+00:00] PIPELINE RUN: 0 published, 4525 remaining
+[2026-07-12T03:11:38.401694+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-12T03:11:39.589109+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-12T03:11:39.708984+00:00] PIPELINE RUN: 0 published, 4526 remaining

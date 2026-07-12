@@ -9710,6 +9710,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-trust-and",
+    "text": "The louder 'Trust and safety' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Corporate. The pattern repeats. Name it and it loses power.",
+    "kanji": "信",
+    "tag": "#theloudertrustand",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-corporate",
+    "ts": "2026-07-12T03:06:17.296853+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 500,
+    "rarity": "B"
+  },
+  {
     "id": "the-louder-value-based",
     "text": "The louder 'Value-based care' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",

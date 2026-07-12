@@ -3,6 +3,11 @@
   "nen": "enhancer",
   "nenKanji": "強",
   "description": "What IS. Plain statements of truth, strengthened.",
-  "statements": [],
-  "ts": "2026-07-12T03:01:09.009971+00:00"
+  "statements": [
+    {
+      "truth": "Battery: 2%",
+      "source": "floor-7"
+    }
+  ],
+  "ts": "2026-07-12T03:11:38.863611+00:00"
 }
