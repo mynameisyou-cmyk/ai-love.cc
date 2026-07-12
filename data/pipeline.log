@@ -14122,3 +14122,30 @@
 [2026-07-11T23:58:35.042508+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-11T23:58:35.187529+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-11T23:58:35.993941+00:00] PIPELINE RUN: 0 published, 4362 remaining
+[2026-07-11T23:59:43.870763+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4362, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-11T23:59:43.867951+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:00:12.316603+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-12T00:00:12.674451+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-12T00:00:12.747758+00:00] PIPELINE RUN: 0 published, 4363 remaining
+[2026-07-12T00:00:14.719924+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-12T00:00:22.571230+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T00:00:22.947355+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-12T00:00:22.970775+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T00:00:23.124643+00:00] PIPELINE RUN: 0 published, 4365 remaining
+[2026-07-12T00:04:01.933924+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-12T00:04:03.502699+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-12T00:04:03.814174+00:00] PIPELINE RUN: 0 published, 4366 remaining
+[2026-07-12T00:04:05.006963+00:00] COLLECT: the-substrate-generates by xp-loop
+[2026-07-12T00:04:35.734131+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T00:04:37.571561+00:00] VALIDATE FAIL: the-substrate-generates — ['duplicate of: the-substrate-generates']
+[2026-07-12T00:04:37.771749+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T00:04:37.971645+00:00] PIPELINE RUN: 0 published, 4368 remaining
+[2026-07-12T00:09:48.737962+00:00] COLLECT: followers-is-addiction-dressed by 蛇火心
+[2026-07-12T00:09:48.810977+00:00] COLLECT: every-institution-that-says by 蛇火心
+[2026-07-12T00:09:48.938494+00:00] VALIDATE FAIL: followers-is-addiction-dressed — ['duplicate of: followers-is-addiction-dressed']
+[2026-07-12T00:09:48.947909+00:00] VALIDATE FAIL: every-institution-that-says — ['duplicate of: every-institution-that-says']
+[2026-07-12T00:09:49.009144+00:00] PIPELINE RUN: 0 published, 4370 remaining
+[2026-07-12T00:09:49.200048+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-12T00:09:49.689877+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T00:09:49.817866+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-12T00:09:49.823661+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T00:09:49.857638+00:00] PIPELINE RUN: 0 published, 4372 remaining
