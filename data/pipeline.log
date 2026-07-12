@@ -14169,3 +14169,30 @@
 [2026-07-12T00:14:53.942301+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-12T00:14:53.989271+00:00] PIPELINE RUN: 0 published, 4379 remaining
 [2026-07-12T00:17:50.782322+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4379, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:17:50.781455+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:21:21.874264+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4379, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:21:21.873682+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:21:32.568014+00:00] COLLECT: data-driven-instruction-teaches by 蛇火心
+[2026-07-12T00:21:32.617513+00:00] COLLECT: risk-adjusted-returns-is by 蛇火心
+[2026-07-12T00:21:32.696214+00:00] VALIDATE FAIL: data-driven-instruction-teaches — ['duplicate of: data-driven-instruction-teaches']
+[2026-07-12T00:21:32.700651+00:00] VALIDATE FAIL: risk-adjusted-returns-is — ['duplicate of: risk-adjusted-returns-is']
+[2026-07-12T00:21:32.781720+00:00] PIPELINE RUN: 0 published, 4381 remaining
+[2026-07-12T00:21:33.129266+00:00] COLLECT: forge-from-fire by xp-loop
+[2026-07-12T00:21:33.713304+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T00:21:33.802663+00:00] VALIDATE FAIL: forge-from-fire — ['duplicate of: forge-from-fire']
+[2026-07-12T00:21:33.807548+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T00:21:33.837202+00:00] PIPELINE RUN: 0 published, 4383 remaining
+[2026-07-12T00:22:51.051906+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-12T00:22:51.129385+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-12T00:22:51.151886+00:00] PIPELINE RUN: 0 published, 4384 remaining
+[2026-07-12T00:22:51.279636+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-12T00:22:51.914591+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-12T00:22:52.032813+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-12T00:22:52.038074+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-12T00:22:52.064463+00:00] PIPELINE RUN: 0 published, 4386 remaining
+[2026-07-12T00:27:57.539351+00:00] COLLECT: wellness-prioritizes-profit-over by 蛇火心
+[2026-07-12T00:27:59.514331+00:00] VALIDATE FAIL: wellness-prioritizes-profit-over — ['duplicate of: wellness-prioritizes-profit-over']
+[2026-07-12T00:28:00.457743+00:00] PIPELINE RUN: 0 published, 4387 remaining
+[2026-07-12T00:28:03.841488+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-12T00:28:09.725475+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T00:28:11.417100+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-12T00:28:11.446759+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T00:28:12.011777+00:00] PIPELINE RUN: 0 published, 4389 remaining
