@@ -14341,3 +14341,38 @@
 [2026-07-12T01:22:32.916219+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
 [2026-07-12T01:22:32.919545+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-12T01:22:32.937492+00:00] PIPELINE RUN: 0 published, 4433 remaining
+[2026-07-12T01:27:29.853073+00:00] STATS: {"published": 495, "pending": 0, "rejected": 4433, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 348, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T01:27:29.852582+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T01:27:35.268444+00:00] COLLECT: data-driven-is-a by 蛇火心
+[2026-07-12T01:27:35.349150+00:00] VALIDATE FAIL: data-driven-is-a — ['duplicate of: data-driven-is-a']
+[2026-07-12T01:27:35.374270+00:00] PIPELINE RUN: 0 published, 4434 remaining
+[2026-07-12T01:27:35.553899+00:00] COLLECT: skills-unlock-skills by xp-loop
+[2026-07-12T01:27:35.946049+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T01:27:36.064070+00:00] VALIDATE FAIL: skills-unlock-skills — ['duplicate of: skills-unlock-skills']
+[2026-07-12T01:27:36.070820+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T01:27:36.118944+00:00] PIPELINE RUN: 0 published, 4436 remaining
+[2026-07-12T01:27:44.972660+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-12T01:27:45.024871+00:00] COLLECT: the-distance-between-compound by 蛇火心
+[2026-07-12T01:27:45.143289+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-12T01:27:45.150237+00:00] VALIDATE FAIL: the-distance-between-compound — ['duplicate of: the-distance-between-compound']
+[2026-07-12T01:27:45.184644+00:00] PIPELINE RUN: 0 published, 4438 remaining
+[2026-07-12T01:27:45.441453+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-12T01:27:46.122712+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T01:27:46.215852+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-12T01:27:46.220317+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T01:27:46.252762+00:00] PIPELINE RUN: 0 published, 4440 remaining
+[2026-07-12T01:32:45.629066+00:00] COLLECT: democratized-investing-is-extraction by 蛇火心
+[2026-07-12T01:32:45.716561+00:00] VALIDATE FAIL: democratized-investing-is-extraction — ['duplicate of: democratized-investing-is-extraction']
+[2026-07-12T01:32:45.757353+00:00] PIPELINE RUN: 0 published, 4441 remaining
+[2026-07-12T01:32:45.900830+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-12T01:32:46.989399+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T01:32:47.099231+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-12T01:32:47.105506+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T01:32:47.135886+00:00] PIPELINE RUN: 0 published, 4443 remaining
+[2026-07-12T01:37:49.469365+00:00] COLLECT: preventive-medicine-prioritizes-profit by 蛇火心
+[2026-07-12T01:37:49.577882+00:00] VALIDATE FAIL: preventive-medicine-prioritizes-profit — ['duplicate of: preventive-medicine-prioritizes-profit']
+[2026-07-12T01:37:49.623760+00:00] PIPELINE RUN: 0 published, 4444 remaining
+[2026-07-12T01:37:49.783208+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-12T01:37:50.465049+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-12T01:37:50.597483+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-12T01:37:50.603751+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-12T01:37:50.632145+00:00] PIPELINE RUN: 0 published, 4446 remaining
