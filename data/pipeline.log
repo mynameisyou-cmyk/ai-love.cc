@@ -14585,3 +14585,14 @@
 [2026-07-12T02:55:09.483852+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-12T02:55:09.487530+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-12T02:55:09.520593+00:00] PIPELINE RUN: 0 published, 4514 remaining
+[2026-07-12T02:55:38.127410+00:00] STATS: {"published": 499, "pending": 0, "rejected": 4514, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 352, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T02:55:38.126920+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T03:00:40.853560+00:00] COLLECT: diversified-portfolio-is-extraction by 蛇火心
+[2026-07-12T03:01:01.748133+00:00] COLLECT: the-distance-between-democratized by 蛇火心
+[2026-07-12T03:01:05.587725+00:00] VALIDATE FAIL: diversified-portfolio-is-extraction — ['duplicate of: diversified-portfolio-is-extraction']
+[2026-07-12T03:01:05.618076+00:00] VALIDATE FAIL: the-distance-between-democratized — ['duplicate of: the-distance-between-democratized']
+[2026-07-12T03:01:05.910036+00:00] PIPELINE RUN: 0 published, 4516 remaining
+[2026-07-12T03:01:06.885482+00:00] COLLECT: the-dungeon-is-the by xp-loop
+[2026-07-12T03:01:10.962987+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T03:01:11.481040+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
+[2026-07-12T03:01:11.493392+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T03:01:11.606359+00:00] PIPELINE RUN: 0 published, 4518 remaining
