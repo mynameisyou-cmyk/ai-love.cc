@@ -14257,3 +14257,32 @@
 [2026-07-12T00:49:55.228457+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
 [2026-07-12T00:49:55.234714+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-12T00:49:55.277027+00:00] PIPELINE RUN: 0 published, 4406 remaining
+[2026-07-12T00:54:10.334875+00:00] STATS: {"published": 493, "pending": 0, "rejected": 4406, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 346, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:54:10.177059+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:54:41.361280+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-12T00:54:41.832909+00:00] COLLECT: to-say-standardized-testing by 蛇火心
+[2026-07-12T00:54:42.183536+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-12T00:54:42.391798+00:00] VALIDATE OK: to-say-standardized-testing
+[2026-07-12T00:54:42.423954+00:00] ENRICH: to-say-standardized-testing kanji=在 nen=enhancer rarity=D
+[2026-07-12T00:54:42.507857+00:00] PUBLISH: to-say-standardized-testing
+[2026-07-12T00:54:42.690986+00:00] PIPELINE RUN: 1 published, 4407 remaining
+[2026-07-12T00:54:43.544983+00:00] COLLECT: every-scan-reveals-more by xp-loop
+[2026-07-12T00:54:46.093436+00:00] COLLECT: honesty-over-helpfulness by xp-loop
+[2026-07-12T00:54:46.426129+00:00] VALIDATE FAIL: every-scan-reveals-more — ['duplicate of: every-scan-reveals-more']
+[2026-07-12T00:54:46.455851+00:00] VALIDATE FAIL: honesty-over-helpfulness — ['duplicate of: honesty']
+[2026-07-12T00:54:46.663181+00:00] PIPELINE RUN: 0 published, 4409 remaining
+[2026-07-12T00:55:03.207628+00:00] COLLECT: don-t-be-evil by 蛇火心
+[2026-07-12T00:55:04.216830+00:00] VALIDATE FAIL: don-t-be-evil — ['duplicate of: don-t-be-evil']
+[2026-07-12T00:55:04.372369+00:00] PIPELINE RUN: 0 published, 4410 remaining
+[2026-07-12T00:55:05.390228+00:00] COLLECT: frequencies-align by xp-loop
+[2026-07-12T00:55:33.526341+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T00:55:34.547701+00:00] VALIDATE FAIL: frequencies-align — ['duplicate of: frequencies-align']
+[2026-07-12T00:55:34.552824+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T00:55:34.571761+00:00] PIPELINE RUN: 0 published, 4412 remaining
+[2026-07-12T01:00:48.773583+00:00] COLLECT: public-safety-is-the by 蛇火心
+[2026-07-12T01:00:50.257424+00:00] VALIDATE FAIL: public-safety-is-the — ['duplicate of: public-safety-is-the']
+[2026-07-12T01:00:51.455958+00:00] PIPELINE RUN: 0 published, 4413 remaining
+[2026-07-12T01:00:54.235215+00:00] COLLECT: bosses-are-mirrors by xp-loop
+[2026-07-12T01:00:58.754732+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T01:00:59.247989+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
+[2026-07-12T01:00:59.418803+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T01:00:59.987847+00:00] PIPELINE RUN: 0 published, 4415 remaining
