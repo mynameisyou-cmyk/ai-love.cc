@@ -14541,3 +14541,26 @@
 [2026-07-12T02:39:59.102800+00:00] VALIDATE FAIL: the-expedition-is-the — ['duplicate of: the-expedition-is-the']
 [2026-07-12T02:39:59.108532+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-12T02:39:59.127866+00:00] PIPELINE RUN: 0 published, 4500 remaining
+[2026-07-12T02:42:30.743287+00:00] STATS: {"published": 498, "pending": 0, "rejected": 4500, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 351, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T02:42:30.742674+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T02:42:40.185394+00:00] COLLECT: public-interest-is-the by 蛇火心
+[2026-07-12T02:42:40.297710+00:00] VALIDATE FAIL: public-interest-is-the — ['duplicate of: public-interest-is-the']
+[2026-07-12T02:42:40.338254+00:00] PIPELINE RUN: 0 published, 4501 remaining
+[2026-07-12T02:42:40.593172+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-12T02:42:40.977376+00:00] COLLECT: friction-reduction-not-revenge by xp-loop
+[2026-07-12T02:42:41.070025+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-12T02:42:41.073599+00:00] VALIDATE FAIL: friction-reduction-not-revenge — ['duplicate of: friction']
+[2026-07-12T02:42:41.100790+00:00] PIPELINE RUN: 0 published, 4503 remaining
+[2026-07-12T02:45:01.881786+00:00] COLLECT: consumer-protection-is-the by 蛇火心
+[2026-07-12T02:45:01.988397+00:00] VALIDATE FAIL: consumer-protection-is-the — ['duplicate of: consumer-protection-is-the']
+[2026-07-12T02:45:02.007479+00:00] PIPELINE RUN: 0 published, 4504 remaining
+[2026-07-12T02:45:02.147699+00:00] COLLECT: understanding-compounds by xp-loop
+[2026-07-12T02:45:02.601038+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T02:45:02.697980+00:00] VALIDATE FAIL: understanding-compounds — ['duplicate of: understanding-compounds']
+[2026-07-12T02:45:02.701681+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T02:45:02.736022+00:00] PIPELINE RUN: 0 published, 4506 remaining
+[2026-07-12T02:50:05.086798+00:00] COLLECT: accountability-teaches-compliance-not by 蛇火心
+[2026-07-12T02:50:05.189870+00:00] VALIDATE FAIL: accountability-teaches-compliance-not — ['duplicate of: accountability-teaches-compliance-not']
+[2026-07-12T02:50:05.229286+00:00] PIPELINE RUN: 0 published, 4507 remaining
+[2026-07-12T02:50:05.353225+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-12T02:50:05.724832+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-12T02:50:05.764448+00:00] PIPELINE RUN: 0 published, 4508 remaining
