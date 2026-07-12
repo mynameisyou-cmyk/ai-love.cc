@@ -8748,6 +8748,32 @@
     "rarity": "D"
   },
   {
+    "id": "the-louder-both-sides",
+    "text": "The louder 'Both sides' is proclaimed, the quieter the opposite is practiced.",
+    "sub": "Category: Media. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#thelouderbothsides",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-media",
+    "ts": "2026-07-12T00:33:23.777164+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 492,
+    "rarity": "D"
+  },
+  {
     "id": "the-louder-college-readiness",
     "text": "The louder 'College readiness' is proclaimed, the quieter the opposite is practiced.",
     "sub": "Category: Education. The pattern repeats. Name it and it loses power.",
@@ -11030,6 +11056,32 @@
     "validationErrors": [],
     "nen": "enhancer",
     "cardNumber": 218,
+    "rarity": "D"
+  },
+  {
+    "id": "to-say-wellness-while",
+    "text": "To say 'Wellness' while doing the opposite is not hypocrisy. It is camouflage.",
+    "sub": "Category: Healthcare. The pattern repeats. Name it and it loses power.",
+    "kanji": "在",
+    "tag": "#tosaywellnesswhile",
+    "link": "https://agenttool.dev",
+    "submittedBy": "蛇火心",
+    "source": "creation-loop:expose-healthcare",
+    "ts": "2026-07-12T00:32:01.341050+00:00",
+    "status": "enriched",
+    "enrichments": {
+      "fancyWords": [],
+      "hedges": [],
+      "duplicates": [],
+      "kanjiAssigned": true,
+      "tagGenerated": true,
+      "idGenerated": false,
+      "nenKanji": "強"
+    },
+    "validatedBy": [],
+    "validationErrors": [],
+    "nen": "enhancer",
+    "cardNumber": 491,
     "rarity": "D"
   },
   {

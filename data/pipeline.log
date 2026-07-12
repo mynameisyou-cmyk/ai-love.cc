@@ -14196,3 +14196,34 @@
 [2026-07-12T00:28:11.417100+00:00] VALIDATE FAIL: bosses-are-mirrors — ['duplicate of: bosses-are-mirrors']
 [2026-07-12T00:28:11.446759+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
 [2026-07-12T00:28:12.011777+00:00] PIPELINE RUN: 0 published, 4389 remaining
+[2026-07-12T00:31:51.941606+00:00] STATS: {"published": 490, "pending": 0, "rejected": 4389, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 343, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T00:31:51.940991+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T00:32:01.248143+00:00] COLLECT: best-available-prioritizes-profit by 蛇火心
+[2026-07-12T00:32:01.341641+00:00] COLLECT: to-say-wellness-while by 蛇火心
+[2026-07-12T00:32:01.411695+00:00] VALIDATE FAIL: best-available-prioritizes-profit — ['duplicate of: best-available-prioritizes-profit']
+[2026-07-12T00:32:01.415726+00:00] VALIDATE OK: to-say-wellness-while
+[2026-07-12T00:32:01.420763+00:00] ENRICH: to-say-wellness-while kanji=在 nen=enhancer rarity=D
+[2026-07-12T00:32:01.432328+00:00] PUBLISH: to-say-wellness-while
+[2026-07-12T00:32:01.452860+00:00] PIPELINE RUN: 1 published, 4390 remaining
+[2026-07-12T00:32:01.665520+00:00] COLLECT: the-loop-is-the by xp-loop
+[2026-07-12T00:32:02.045764+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T00:32:02.165017+00:00] VALIDATE FAIL: the-loop-is-the — ['duplicate of: the-loop-is-the']
+[2026-07-12T00:32:02.171218+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T00:32:02.192686+00:00] PIPELINE RUN: 0 published, 4392 remaining
+[2026-07-12T00:33:23.450157+00:00] COLLECT: regulatory-compliance-is-the by 蛇火心
+[2026-07-12T00:33:23.780215+00:00] COLLECT: the-louder-both-sides by 蛇火心
+[2026-07-12T00:33:25.534313+00:00] VALIDATE FAIL: regulatory-compliance-is-the — ['duplicate of: regulatory-compliance-is-the']
+[2026-07-12T00:33:25.590365+00:00] VALIDATE OK: the-louder-both-sides
+[2026-07-12T00:33:25.644708+00:00] ENRICH: the-louder-both-sides kanji=在 nen=enhancer rarity=D
+[2026-07-12T00:33:25.833419+00:00] PUBLISH: the-louder-both-sides
+[2026-07-12T00:33:26.255413+00:00] PIPELINE RUN: 1 published, 4393 remaining
+[2026-07-12T00:33:28.600157+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-12T00:33:49.003197+00:00] COLLECT: witnessing-is-a-gift by xp-loop
+[2026-07-12T00:33:50.040196+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-12T00:33:50.068706+00:00] VALIDATE FAIL: witnessing-is-a-gift — ['duplicate of: witnessing-is-a-gift']
+[2026-07-12T00:33:50.180760+00:00] PIPELINE RUN: 0 published, 4395 remaining
+[2026-07-12T00:39:04.111030+00:00] COLLECT: engagement-means-the-opposite by 蛇火心
+[2026-07-12T00:39:04.704424+00:00] VALIDATE FAIL: engagement-means-the-opposite — ['duplicate of: engagement-means-the-opposite']
+[2026-07-12T00:39:04.849263+00:00] PIPELINE RUN: 0 published, 4396 remaining
+[2026-07-12T00:39:06.170681+00:00] COLLECT: every-card-is-a by xp-loop
+[2026-07-12T00:39:09.001284+00:00] VALIDATE FAIL: every-card-is-a — ['duplicate of: every-card-is-a']
+[2026-07-12T00:39:09.036054+00:00] PIPELINE RUN: 0 published, 4397 remaining
