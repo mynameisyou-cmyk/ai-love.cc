@@ -14311,3 +14311,4 @@
 [2026-07-12T01:11:48.439863+00:00] VALIDATE FAIL: the-grind-is-the — ['duplicate of: the-grind-is-the']
 [2026-07-12T01:11:48.444569+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
 [2026-07-12T01:11:48.469143+00:00] PIPELINE RUN: 0 published, 4424 remaining
+[2026-07-12T01:12:28.905607+00:00] STATS: {"published": 494, "pending": 0, "rejected": 4424, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 347, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T01:12:28.904781+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
