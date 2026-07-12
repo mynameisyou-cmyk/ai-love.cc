@@ -4638,3 +4638,4 @@
 {"ts": "2026-07-12T00:11:07.989202+00:00", "layer": "tax", "action": "expose", "result": {"layer": "tax", "action": "expose", "trick": "Salary Sacrifice + Pension Loophole", "ok": true}}
 {"ts": "2026-07-12T00:11:08.880808+00:00", "layer": "xp", "action": "run", "result": {"layer": "xp", "action": "run", "xp": 460, "ok": true}}
 {"ts": "2026-07-12T00:11:10.694205+00:00", "layer": "pressure", "action": "flood", "result": {"layer": "pressure", "action": "flood", "count": 20, "ok": true}}
+{"ts": "2026-07-12T00:21:13.866600+00:00", "layer": "cdn", "action": "purge", "result": {"layer": "cdn", "action": "purge", "files": 0, "ok": false}}
