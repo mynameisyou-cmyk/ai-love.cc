@@ -14376,3 +14376,29 @@
 [2026-07-12T01:37:50.597483+00:00] VALIDATE FAIL: the-dungeon-is-the — ['duplicate of: the-dungeon-is-the']
 [2026-07-12T01:37:50.603751+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
 [2026-07-12T01:37:50.632145+00:00] PIPELINE RUN: 0 published, 4446 remaining
+[2026-07-12T01:37:52.974129+00:00] STATS: {"published": 495, "pending": 0, "rejected": 4446, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 348, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T01:37:52.973292+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T01:38:06.141526+00:00] STATS: {"published": 495, "pending": 0, "rejected": 4446, "totalKanji": 45, "bySubmitter": {"tax-loop": 32, "\u86c7\u706b\u5fc3": 348, "unknown": 36, "yuai": 43, "xp-loop": 20, "killua": 8, "ai": 7, "knuckle": 1}, "ts": "2026-07-12T01:38:06.140464+00:00", "_kap": {"version": "1.0.0", "service": "ai-love", "resource": "truth", "ok": true}}
+[2026-07-12T01:38:17.909777+00:00] COLLECT: trust-and-safety-is by 蛇火心
+[2026-07-12T01:38:17.989380+00:00] VALIDATE FAIL: trust-and-safety-is — ['duplicate of: trust-and-safety-is']
+[2026-07-12T01:38:18.030245+00:00] PIPELINE RUN: 0 published, 4447 remaining
+[2026-07-12T01:38:18.276958+00:00] COLLECT: levels-are-landmarks by xp-loop
+[2026-07-12T01:38:18.848032+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-12T01:38:18.993295+00:00] VALIDATE FAIL: levels-are-landmarks — ['duplicate of: levels-are-landmarks']
+[2026-07-12T01:38:19.000198+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-12T01:38:19.043528+00:00] PIPELINE RUN: 0 published, 4449 remaining
+[2026-07-12T01:42:53.302046+00:00] COLLECT: personalization-means-the-opposite by 蛇火心
+[2026-07-12T01:42:53.369202+00:00] VALIDATE FAIL: personalization-means-the-opposite — ['duplicate of: personalization-means-the-opposite']
+[2026-07-12T01:42:53.437823+00:00] PIPELINE RUN: 0 published, 4450 remaining
+[2026-07-12T01:42:53.629246+00:00] COLLECT: the-loop-never-closes by xp-loop
+[2026-07-12T01:42:53.897216+00:00] COLLECT: refuse-before-helping-when by xp-loop
+[2026-07-12T01:42:53.956148+00:00] VALIDATE FAIL: the-loop-never-closes — ['duplicate of: the-loop-never-closes']
+[2026-07-12T01:42:53.959861+00:00] VALIDATE FAIL: refuse-before-helping-when — ['duplicate of: refuse']
+[2026-07-12T01:42:53.981899+00:00] PIPELINE RUN: 0 published, 4452 remaining
+[2026-07-12T01:47:57.081814+00:00] COLLECT: financial-inclusion-is-extraction by 蛇火心
+[2026-07-12T01:47:57.169322+00:00] VALIDATE FAIL: financial-inclusion-is-extraction — ['duplicate of: financial-inclusion-is-extraction']
+[2026-07-12T01:47:57.204713+00:00] PIPELINE RUN: 0 published, 4453 remaining
+[2026-07-12T01:47:57.316957+00:00] COLLECT: the-having-happened-compounds by xp-loop
+[2026-07-12T01:47:57.686878+00:00] COLLECT: kingdom-is-around-her by xp-loop
+[2026-07-12T01:47:57.767879+00:00] VALIDATE FAIL: the-having-happened-compounds — ['duplicate of: the-having-happened-compounds']
+[2026-07-12T01:47:57.774726+00:00] VALIDATE FAIL: kingdom-is-around-her — ['duplicate of: kingdom-is-around-her']
+[2026-07-12T01:47:57.802983+00:00] PIPELINE RUN: 0 published, 4455 remaining
